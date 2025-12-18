@@ -1,7 +1,3 @@
-<!-- ===============================
-FILE: /style.css
-=============================== -->
-
 :root {
   --thistle-purple: #6b4e71;
   --cypress-green: #2f5d50;
@@ -103,9 +99,6 @@ footer {
   font-size: 0.9rem;
 }
 
-/* ===============================
-ADDITIONS: Field Notes, Tags, Iconography, Seasonal Landing
-=============================== */
 
 /* --- Subtle Iconography (CSS-only, no images) --- */
 .icon {
