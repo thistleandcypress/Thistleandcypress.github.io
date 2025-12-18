@@ -103,3 +103,50 @@ footer {
   font-size: 0.9rem;
 }
 
+/* ===============================
+ADDITIONS: Field Notes, Tags, Iconography, Seasonal Landing
+=============================== */
+
+/* --- Subtle Iconography (CSS-only, no images) --- */
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.4em;
+  vertical-align: -0.1em;
+}
+
+.icon-leaf {
+  border-left: 2px solid var(--cypress-green);
+  border-bottom: 2px solid var(--cypress-green);
+  transform: rotate(-45deg);
+}
+
+.icon-path {
+  border-bottom: 2px dashed var(--thistle-purple);
+  width: 1.2em;
+}
+
+/* --- Tag System --- */
+.tags {
+  margin-top: 1rem;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.6rem;
+  margin-right: 0.4rem;
+  border-radius: 12px;
+  background-color: var(--soft-sage);
+  color: var(--charcoal);
+}
+
+/* --- Seasonal Landing Variation --- */
+.seasonal {
+  background-color: white;
+  border-left: 6px solid var(--thistle-purple);
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+
