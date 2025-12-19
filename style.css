@@ -1,65 +1,117 @@
+/* ===============================
+   Root Variables
+   =============================== */
 :root {
-  --thistle-purple: #6b4e71;
-  --cypress-green: #2f5d50;
-  --linen-cream: #f6f2ec;
+  --thistle: #6b4e71;
+  --cypress: #2f5d50;
+  --linen: #f6f2ec;
   --charcoal: #2b2b2b;
-  --soft-sage: #9fb7a6;
+  --sage: #9fb7a6;
 }
 
+/* ===============================
+   Global Styles
+   =============================== */
 * {
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  font-family: "Georgia", "Times New Roman", serif;
-  background-color: var(--linen-cream);
-  color: var(--charcoal);
-  line-height: 1.6;
+html {
+  scroll-behavior: smooth;
 }
 
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background-color: var(--linen);
+  color: var(--charcoal);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Improve image stability (SEO: reduces CLS) */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ===============================
+   Header
+   =============================== */
 header {
-  background: linear-gradient(135deg, var(--thistle-purple), var(--cypress-green));
+  background: linear-gradient(135deg, var(--thistle), var(--cypress));
   color: white;
-  padding: 3rem 1.5rem;
   text-align: center;
+  padding: 3rem 1rem;
 }
 
 header h1 {
   margin: 0;
   font-size: 3rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 1px;
 }
 
+/* ✨ Updated intro paragraph styling */
 header p {
-  font-size: 1.2rem;
-  margin-top: 0.75rem;
+  max-width: 700px;          /* Improvement #1 */
+  margin: 1.5rem auto 0 auto;
+  font-size: 1.1rem;         /* Improvement #2 */
+  line-height: 1.8;          /* Improvement #2 */
+  letter-spacing: 0.2px;     /* Improvement #3 */
+  padding: 1rem 0;           /* Improvement #3 */
 }
 
+/* Mobile readability improvements */
+@media (max-width: 600px) {
+  header p {
+    font-size: 1rem;
+    line-height: 1.7;
+    padding: 0.5rem 0;
+  }
+}
+
+/* ===============================
+   Navigation
+   =============================== */
 nav {
   background-color: white;
   border-bottom: 1px solid #ddd;
-  padding: 0.75rem;
   text-align: center;
+  padding: 0.5rem 0;
 }
 
 nav a {
   margin: 0 1rem;
   text-decoration: none;
-  color: var(--cypress-green);
+  color: var(--cypress);
   font-weight: bold;
 }
 
-nav a:hover {
-  color: var(--thistle-purple);
+/* Hover + focus for accessibility */
+nav a:hover,
+nav a:focus {
+  color: var(--thistle);
 }
 
+a:focus {
+  outline: 2px solid var(--thistle);
+  outline-offset: 3px;
+}
+
+/* ===============================
+   Main Layout
+   =============================== */
 main {
   max-width: 1000px;
-  margin: 3rem auto;
-  padding: 0 1.5rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
 }
 
+/* ===============================
+   Pillar Cards
+   =============================== */
 .pillars {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -67,79 +119,92 @@ main {
 }
 
 .card {
-  background: white;
-  border-radius: 12px;
+  background-color: white;
   padding: 2rem;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   text-align: center;
 }
 
 .card h2 {
-  color: var(--thistle-purple);
+  margin-top: 0;
+  color: var(--cypress);
 }
 
 .card a {
   display: inline-block;
   margin-top: 1rem;
-  text-decoration: none;
+  padding: 0.5rem 1.2rem;
+  background-color: var(--cypress);
   color: white;
-  background-color: var(--cypress-green);
-  padding: 0.5rem 1.25rem;
-  border-radius: 20px;
+  text-decoration: none;
+  border-radius: 4px;
 }
 
-.card a:hover {
-  background-color: var(--thistle-purple);
+.card a:hover,
+.card a:focus {
+  background-color: var(--thistle);
 }
 
-footer {
-  background-color: var(--soft-sage);
-  padding: 2rem;
-  text-align: center;
-  font-size: 0.9rem;
-}
-
-
-/* --- Subtle Iconography (CSS-only, no images) --- */
-.icon {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  margin-right: 0.4em;
-  vertical-align: -0.1em;
-}
-
+/* ===============================
+   Icons & Decorative Elements
+   =============================== */
 .icon-leaf {
-  border-left: 2px solid var(--cypress-green);
-  border-bottom: 2px solid var(--cypress-green);
-  transform: rotate(-45deg);
+  width: 12px;
+  height: 12px;
+  border: 2px solid var(--sage);
+  border-radius: 50% 0;
+  transform: rotate(45deg);
+  display: inline-block;
+  margin-right: 6px;
 }
 
 .icon-path {
-  border-bottom: 2px dashed var(--thistle-purple);
-  width: 1.2em;
+  border-left: 2px dashed var(--sage);
+  height: 40px;
+  margin: 0 auto;
 }
 
-/* --- Tag System --- */
-.tags {
-  margin-top: 1rem;
-}
-
+/* ===============================
+   Tags
+   =============================== */
 .tag {
   display: inline-block;
-  font-size: 0.8rem;
+  background-color: var(--sage);
+  color: white;
   padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
   margin-right: 0.4rem;
-  border-radius: 12px;
-  background-color: var(--soft-sage);
-  color: var(--charcoal);
 }
 
-/* --- Seasonal Landing Variation --- */
+/* ===============================
+   Seasonal Block
+   =============================== */
 .seasonal {
+  border-left: 4px solid var(--thistle);
+  padding-left: 1rem;
+  margin: 2rem 0;
   background-color: white;
-  border-left: 6px solid var(--thistle-purple);
-  padding: 2rem;
-  margin-bottom: 3rem;
+  padding: 1rem;
 }
 
+/* ===============================
+   Reduced Motion (Accessibility)
+   =============================== */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* ===============================
+   Footer
+   =============================== */
+footer {
+  text-align: center;
+  padding: 2rem 0;
+  color: var(--charcoal);
+  font-size: 0.9rem;
+}
