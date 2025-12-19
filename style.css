@@ -47,6 +47,29 @@ p {
    Header + Tagline
 --------------------------------*/
 
+/* Header Watermark */
+.header-watermark {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 500px; /* adjust as needed */
+  height: 500px;
+  background-image: url('og-image.png'); /* your illustration */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.12; /* soft and subtle */
+  pointer-events: none;
+  z-index: 0;
+}
+
+header {
+  position: relative;
+  overflow: hidden;
+}
+
+
 header {
   text-align: center;
   padding: 3rem 1rem 1.5rem;
