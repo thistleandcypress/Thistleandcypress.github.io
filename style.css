@@ -1,210 +1,167 @@
-/* ===============================
-   Root Variables
-   =============================== */
-:root {
-  --thistle: #6b4e71;
-  --cypress: #2f5d50;
-  --linen: #f6f2ec;
-  --charcoal: #2b2b2b;
-  --sage: #9fb7a6;
-}
-
-/* ===============================
+/* ------------------------------
    Global Styles
-   =============================== */
-* {
-  box-sizing: border-box;
-}
-
-html {
-  scroll-behavior: smooth;
-}
+--------------------------------*/
 
 body {
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
-  background-color: var(--linen);
-  color: var(--charcoal);
-  line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: "Georgia", serif;
+  color: #2f2a26; /* warm, earthy charcoal */
+  background-color: #faf8f5; /* soft, warm neutral */
+  line-height: 1.65;
 }
 
-/* Improve image stability (SEO: reduces CLS) */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
+main {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
 }
 
-/* ===============================
-   Header
-   =============================== */
+/* ------------------------------
+   Typography
+--------------------------------*/
+
+h1, h2, h3 {
+  font-family: "Georgia", serif;
+  font-weight: 600;
+  color: #2b2623;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 0.25rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin: 1.2rem 0;
+}
+
+/* ------------------------------
+   Header + Tagline
+--------------------------------*/
+
 header {
-  background: linear-gradient(135deg, var(--thistle), var(--cypress));
-  color: white;
   text-align: center;
-  padding: 3rem 1rem;
+  padding: 3rem 1rem 1.5rem;
+  background-color: #f3efe9; /* warm, soft band */
 }
 
-header h1 {
-  margin: 0;
-  font-size: 3rem;
-  letter-spacing: 1px;
+.tagline {
+  font-size: 1.1rem;
+  color: #6b625c; /* warm muted brown */
+  margin-top: 0.5rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.5;
+  font-style: italic;
 }
 
-/* ✨ Updated intro paragraph styling */
-header p {
-  max-width: 700px;          /* Improvement #1 */
-  margin: 1.5rem auto 0 auto;
-  font-size: 1.1rem;         /* Improvement #2 */
-  line-height: 1.8;          /* Improvement #2 */
-  letter-spacing: 0.2px;     /* Improvement #3 */
-  padding: 1rem 0;           /* Improvement #3 */
+.header-divider {
+  width: 80px;
+  height: 2px;
+  background-color: #c8bfb6; /* soft warm line */
+  margin: 1.5rem auto 0;
+  border-radius: 2px;
 }
 
-/* Mobile readability improvements */
-@media (max-width: 600px) {
-  header p {
-    font-size: 1rem;
-    line-height: 1.7;
-    padding: 0.5rem 0;
-  }
-}
-
-/* ===============================
+/* ------------------------------
    Navigation
-   =============================== */
+--------------------------------*/
+
 nav {
-  background-color: white;
-  border-bottom: 1px solid #ddd;
   text-align: center;
-  padding: 0.5rem 0;
+  padding: 1rem 0 1.5rem;
+  background-color: #faf8f5;
 }
 
 nav a {
-  margin: 0 1rem;
+  margin: 0 0.75rem;
   text-decoration: none;
-  color: var(--cypress);
-  font-weight: bold;
+  color: #4a423d;
+  font-weight: 500;
+  padding-bottom: 0.2rem;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
 }
 
-/* Hover + focus for accessibility */
-nav a:hover,
-nav a:focus {
-  color: var(--thistle);
+nav a:hover {
+  color: #2b2623;
+  border-bottom: 2px solid #c8bfb6;
 }
 
-a:focus {
-  outline: 2px solid var(--thistle);
-  outline-offset: 3px;
+/* ------------------------------
+   Welcome Text
+--------------------------------*/
+
+.welcome-text {
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
 }
 
-/* ===============================
-   Main Layout
-   =============================== */
-main {
-  max-width: 1000px;
-  margin: 2rem auto;
-  padding: 0 1rem;
+.welcome-text p {
+  font-size: 1.2rem;
+  color: #3a332f;
+  line-height: 1.7;
 }
 
-/* ===============================
-   Pillar Cards
-   =============================== */
-.pillars {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 2rem;
+/* ------------------------------
+   Content Sections
+--------------------------------*/
+
+.content-section {
+  margin-top: 2rem;
 }
 
-.card {
-  background-color: white;
-  padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  text-align: center;
+.content-section p {
+  color: #3a332f;
 }
 
-.card h2 {
-  margin-top: 0;
-  color: var(--cypress);
-}
+/* ------------------------------
+   Future Posts Placeholder
+--------------------------------*/
 
-.card a {
-  display: inline-block;
-  margin-top: 1rem;
-  padding: 0.5rem 1.2rem;
-  background-color: var(--cypress);
-  color: white;
-  text-decoration: none;
+.future-posts {
+  margin-top: 2rem;
+  padding: 1.2rem 1rem;
+  background-color: #f3efe9;
+  border-left: 4px solid #c8bfb6;
   border-radius: 4px;
 }
 
-.card a:hover,
-.card a:focus {
-  background-color: var(--thistle);
+.future-posts p {
+  margin: 0;
+  color: #6b625c;
+  font-style: italic;
 }
 
-/* ===============================
-   Icons & Decorative Elements
-   =============================== */
-.icon-leaf {
-  width: 12px;
-  height: 12px;
-  border: 2px solid var(--sage);
-  border-radius: 50% 0;
-  transform: rotate(45deg);
-  display: inline-block;
-  margin-right: 6px;
-}
+/* ------------------------------
+   Soft Bands (Homepage Pillars)
+--------------------------------*/
 
-.icon-path {
-  border-left: 2px dashed var(--sage);
-  height: 40px;
-  margin: 0 auto;
-}
-
-/* ===============================
-   Tags
-   =============================== */
-.tag {
-  display: inline-block;
-  background-color: var(--sage);
-  color: white;
-  padding: 0.2rem 0.6rem;
-  border-radius: 4px;
-  font-size: 0.8rem;
-  margin-right: 0.4rem;
-}
-
-/* ===============================
-   Seasonal Block
-   =============================== */
-.seasonal {
-  border-left: 4px solid var(--thistle);
-  padding-left: 1rem;
+.soft-band {
+  background-color: #f3efe9;
+  padding: 2rem 1.5rem;
+  border-radius: 6px;
   margin: 2rem 0;
-  background-color: white;
-  padding: 1rem;
 }
 
-/* ===============================
-   Reduced Motion (Accessibility)
-   =============================== */
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation: none !important;
-    transition: none !important;
-  }
-}
-
-/* ===============================
+/* ------------------------------
    Footer
-   =============================== */
+--------------------------------*/
+
 footer {
   text-align: center;
-  padding: 2rem 0;
-  color: var(--charcoal);
-  font-size: 0.9rem;
+  padding: 2rem 1rem;
+  background-color: #f3efe9;
+  color: #6b625c;
+  font-size: 0.95rem;
+  margin-top: 3rem;
 }
