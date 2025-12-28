@@ -14,7 +14,7 @@ body {
 main {
   max-width: 750px;
   margin: 0 auto;
-  padding: 2rem 1.5rem 4rem;
+  padding: 1.5rem 1.5rem 3.5rem; /* tightened top padding */
 }
 
 /* ------------------------------
@@ -35,7 +35,7 @@ h1 {
 
 h2 {
   font-size: 1.6rem;
-  margin-top: 2.5rem;
+  margin-top: 2rem; /* slightly reduced */
   margin-bottom: 1rem;
 }
 
@@ -68,7 +68,7 @@ header {
   overflow: hidden;
   min-height: 200px;
   text-align: center;
-  padding: 3rem 1rem 1.5rem;
+  padding: 2rem 1rem 1rem; /* tightened top and bottom padding */
   background-color: #f3efe9;
 }
 
@@ -87,7 +87,7 @@ header {
   width: 80px;
   height: 2px;
   background-color: #c8bfb6;
-  margin: 1.5rem auto 0;
+  margin: 1rem auto 0; /* slightly reduced */
   border-radius: 2px;
 }
 
@@ -97,7 +97,7 @@ header {
 
 nav {
   text-align: center;
-  padding: 1rem 0 1.5rem;
+  padding: 0.75rem 0 1.25rem; /* tightened */
   background-color: #faf8f5;
 }
 
@@ -121,8 +121,8 @@ nav a:hover {
 --------------------------------*/
 
 .welcome-text {
-  margin-top: 2rem;
-  margin-bottom: 2.5rem;
+  margin-top: 1.25rem; /* reduced from 2rem */
+  margin-bottom: 2rem;
 }
 
 .welcome-text p {
@@ -137,9 +137,9 @@ nav a:hover {
 
 .soft-band {
   background-color: #f3efe9;
-  padding: 2rem 1.5rem;
+  padding: 1.75rem 1.5rem; /* slightly reduced */
   border-radius: 6px;
-  margin: 2rem 0;
+  margin: 1.75rem 0; /* reduced */
 }
 
 /* ------------------------------
@@ -150,7 +150,7 @@ nav a:hover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1.25rem;
-  margin-top: 1.5rem;
+  margin-top: 1rem; /* reduced */
 }
 
 .pillar-button {
@@ -158,7 +158,7 @@ nav a:hover {
   background-color: #dfe7d8; /* soft, light mossy green */
   color: #f7f5f0; /* off-white text */
   text-decoration: none;
-  padding: 1.25rem 1.25rem; /* reduced padding */
+  padding: 1.1rem 1.1rem; /* reduced padding */
   border-radius: 10px;
   transition: transform 0.15s ease, background-color 0.2s ease;
   border: 1px solid #c9d2c3; /* subtle organic border */
@@ -173,9 +173,9 @@ nav a:hover {
 .pillar-content h2 {
   font-size: 1.45rem;
   font-weight: 700;
-  margin-top: 0.25rem; /* FIX: removes large blank space above */
+  margin-top: 0.2rem; /* FIX: removes large blank space above */
   margin-bottom: 0.4rem;
-  color: #2f2f2f; /* softened charcoal for readability */
+  color: #2f2f2f; /* softened charcoal */
 }
 
 .pillar-content p {
@@ -192,13 +192,13 @@ nav a:hover {
 .stay-rooted {
   text-align: center;
   max-width: 700px;
-  margin: 5rem auto;
-  padding: 2rem;
+  margin: 2.5rem auto; /* reduced from 5rem */
+  padding: 1.75rem; /* slightly reduced */
 }
 
 .notify-button {
   display: inline-block;
-  margin: 1.5rem 0;
+  margin: 1.25rem 0;
   padding: 0.75rem 1.5rem;
   border: 1px solid #333;
   color: #333;
@@ -220,9 +220,9 @@ nav a:hover {
 
 footer {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1.75rem 1rem; /* reduced */
   background-color: #f3efe9;
   color: #6b625c;
   font-size: 0.95rem;
-  margin-top: 3rem;
+  margin-top: 2.5rem; /* reduced */
 }
