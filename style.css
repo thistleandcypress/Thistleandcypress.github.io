@@ -47,19 +47,18 @@ p {
    Header + Tagline
 --------------------------------*/
 
-/* Header Watermark */
 .header-watermark {
   position: absolute;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 500px; /* adjust as needed */
+  width: 500px;
   height: 500px;
-  background-image: url('og-image.png'); /* your illustration */
+  background-image: url('og-image.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  opacity: 0.12; /* soft and subtle */
+  opacity: 0.12;
   pointer-events: none;
   z-index: 0;
 }
@@ -67,19 +66,15 @@ p {
 header {
   position: relative;
   overflow: hidden;
-   min-height: 200px;
-}
-
-
-header {
+  min-height: 200px;
   text-align: center;
   padding: 3rem 1rem 1.5rem;
-  background-color: #f3efe9; /* warm, soft band */
+  background-color: #f3efe9;
 }
 
 .tagline {
   font-size: 1.1rem;
-  color: #6b625c; /* warm muted brown */
+  color: #6b625c;
   margin-top: 0.5rem;
   max-width: 600px;
   margin-left: auto;
@@ -91,7 +86,7 @@ header {
 .header-divider {
   width: 80px;
   height: 2px;
-  background-color: #c8bfb6; /* soft warm line */
+  background-color: #c8bfb6;
   margin: 1.5rem auto 0;
   border-radius: 2px;
 }
@@ -137,36 +132,6 @@ nav a:hover {
 }
 
 /* ------------------------------
-   Content Sections
---------------------------------*/
-
-.content-section {
-  margin-top: 2rem;
-}
-
-.content-section p {
-  color: #3a332f;
-}
-
-/* ------------------------------
-   Future Posts Placeholder
---------------------------------*/
-
-.future-posts {
-  margin-top: 2rem;
-  padding: 1.2rem 1rem;
-  background-color: #f3efe9;
-  border-left: 4px solid #c8bfb6;
-  border-radius: 4px;
-}
-
-.future-posts p {
-  margin: 0;
-  color: #6b625c;
-  font-style: italic;
-}
-
-/* ------------------------------
    Soft Bands (Homepage Pillars)
 --------------------------------*/
 
@@ -178,56 +143,47 @@ nav a:hover {
 }
 
 /* ------------------------------
-   Footer
+   NEW Four Pillars Button Layout
 --------------------------------*/
 
-footer {
-  text-align: center;
-  padding: 2rem 1rem;
-  background-color: #f3efe9;
-  color: #6b625c;
-  font-size: 0.95rem;
-  margin-top: 3rem;
-}
-/* ---- Four Pillars ---- */
-
 .pillars {
-  text-align: center;
-  margin: 4rem auto;
-  max-width: 1000px;
-}
-
-.pillar-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
   margin-top: 2rem;
 }
 
-.pillar-card {
-  padding: 1.75rem;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-}
-
-.pillar-card h3 {
-  margin-bottom: 0.75rem;
-}
-
-/* ---- Landscape Pause ---- */
-
-.landscape-pause {
-  margin: 4rem auto;
-  max-width: 900px;
-}
-
-.landscape-pause img {
-  width: 100%;
-  height: auto;
+.pillar-button {
   display: block;
+  background-color: #2f3e2f; /* dark mossy green */
+  color: #f7f5f0; /* soft off-white */
+  text-decoration: none;
+  padding: 1.75rem 1.5rem;
+  border-radius: 10px;
+  transition: transform 0.15s ease, background-color 0.2s ease;
 }
 
-/* ---- Stay Rooted ---- */
+.pillar-button:hover,
+.pillar-button:focus {
+  background-color: #3f5240;
+  transform: translateY(-3px);
+}
+
+.pillar-content h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.pillar-content p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* ------------------------------
+   Stay Rooted
+--------------------------------*/
 
 .stay-rooted {
   text-align: center;
@@ -252,4 +208,17 @@ footer {
 .small-note {
   font-size: 0.85rem;
   color: #666;
+}
+
+/* ------------------------------
+   Footer
+--------------------------------*/
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #f3efe9;
+  color: #6b625c;
+  font-size: 0.95rem;
+  margin-top: 3rem;
 }
