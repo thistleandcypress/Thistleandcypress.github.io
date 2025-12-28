@@ -173,6 +173,7 @@ nav a:hover {
 .pillar-content h2 {
   font-size: 1.45rem;
   font-weight: 700;
+  margin-top: 0.25rem; /* FIX: removes large blank space above */
   margin-bottom: 0.4rem;
   color: #2f2f2f; /* softened charcoal for readability */
 }
@@ -181,7 +182,7 @@ nav a:hover {
   margin: 0;
   font-size: 0.95rem;
   line-height: 1.5;
-  color: #3a3a3a; /* gentle contrast */
+  color: #3a3a3a;
 }
 
 /* ------------------------------
