@@ -21,32 +21,65 @@
 <meta name="twitter:description" content="A life rooted in heritage, shaped by land, and carried forward with intention.">
 <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/og-image.png">
 
-  <title>About | Thistle & Cypress</title>
+<title>About | Thistle & Cypress</title>
 <link rel="icon" type="image/png" href="favicon.png">
-  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 
-  <!-- JSON-LD Structured Data -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Thistle & Cypress",
-    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
-    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
-    }
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Thistle & Cypress",
+  "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
+  "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Thistle & Cypress"
   }
-  </script>
+}
+</script>
 </head>
 
 <body>
 
-<header>
-  <div class="header-inner">
+<!-- ========================= -->
+<!-- ABOUT HEADER WITH IMAGE   -->
+<!-- ========================= -->
+
+<header
+  style="
+    position: relative;
+    overflow: hidden;
+  "
+>
+  <!-- Background Image -->
+  <div
+    aria-hidden="true"
+    style="
+      position: absolute;
+      inset: 0;
+      background-image: url('Pillar Background Thistle and Cypress About.PNG');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      opacity: 0.25;
+      pointer-events: none;
+    "
+  ></div>
+
+  <!-- Header Content -->
+  <div
+    class="header-inner"
+    style="
+      position: relative;
+      z-index: 1;
+    "
+  >
     <h1>About</h1>
-    <p class="tagline">A life rooted in heritage, shaped by land, and carried forward with intention.</p>
+    <p class="tagline">
+      A life rooted in heritage, shaped by land, and carried forward with intention.
+    </p>
   </div>
 
   <div class="header-divider"></div>
@@ -54,40 +87,7 @@
 
 <nav role="navigation" aria-label="Primary navigation">
   <a href="index.html">Home</a>
-  <a href="pillar-kitchen.html">Kitchen</a>
-  <a href="pillar-garden.html">Garden</a>
-  <a href="pillar-craft.html">Craft</a>
-  <a href="pillar-rhythm.html">Rhythm</a>
-  <a href="about.html">About</a>
-</nav>
-
-<main role="main">
-
-  <section class="welcome-text">
-    <p>Thistle & Cypress is the shared expression of two partners building a life with intention — one rooted in heritage, shaped by land, and carried forward with care. We split our time between two coasts, but our center of gravity is ten acres of rolling woodland in Western Pennsylvania, where we’re slowly creating the home we’ll one day live in full.</p>
-  </section>
-
-  <section class="content-section">
-    <p>The name reflects the merging of our histories: the rugged resilience of the Scottish thistle and the deep-rooted elegance of the Italian cypress. Together they symbolize who we are — two cultures, two stories, and one life being shaped with purpose.</p>
-
-    <p>At the heart of Thistle & Cypress is love — love for each other, for this land, for cooking and getting our hands dirty, for our chihuahua-minpin Izzy, for travel, for family and friends, and yes, for a good glass of wine. Everything we create here grows out of that love.</p>
-
-    <p>Our journey is both personal and universal: a story of creating home, cultivating land, and building community through openness, craft, and thoughtful living. We value patience, learning, and the quiet beauty of useful things.</p>
-
-    <p>We draw inspiration from the natural world, letting the seasons guide our work. Planting in spring, harvesting in summer, preserving in autumn, resting in winter — each season offers its own rhythm, its own lessons, its own invitation to slow down and pay attention.</p>
-
-    <p>At Thistle & Cypress, we believe that tending to the home — through shared meals, handmade objects, and mindful rituals — is a form of nourishment. It’s a way of honoring the past, grounding ourselves in the present, and shaping the future we’re building on this land.</p>
-
-    <p>Join us as we explore the intersection of tradition and creativity, and celebrate the joy of living with intention. Every project, every meal, every season is an opportunity to notice the details and find meaning in the simple beauty of a life made by hand.</p>
-  </section>
-
-</main>
-
-<footer role="contentinfo">
-  <div class="footer-inner">
-    © Thistle & Cypress
-  </div>
-</footer>
-
-</body>
-</html>
+  <a href="/kitchen/">Kitchen</a>
+  <a href="/garden/">Garden</a>
+  <a href="/craft/">Craft</a>
+  <a href="/rhythm/">
