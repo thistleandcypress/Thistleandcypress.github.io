@@ -269,3 +269,10 @@ footer {
 body.rhythm-page .hero {
   background-image: url('../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG');
 }
+
+/* ------------------------------
+   Garden Page Hero Background
+--------------------------------*/
+body.garden-page .hero {
+  background-image: url('../garden/images/Winter 2026 Landscape 3.jpg');
+}
