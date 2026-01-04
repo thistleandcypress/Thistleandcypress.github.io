@@ -279,3 +279,10 @@ body.rhythm-page .hero {
 body.garden-page .hero {
   background-image: url('../garden/images/Winter 2026 Landscape 3.jpg');
 }
+
+/* ------------------------------
+   Craft Page Hero Background
+--------------------------------*/
+body.craft-page .hero {
+  background-image: url('../craft/images/Pillar Background Thistle and Cypress Craft.PNG');
+}
