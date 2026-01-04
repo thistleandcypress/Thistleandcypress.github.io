@@ -263,3 +263,9 @@ footer {
   font-size: 0.95rem;
   margin-top: 2.5rem;
 }
+/* ------------------------------
+   Rhythm Page Hero Background
+--------------------------------*/
+body.rhythm-page .hero {
+  background-image: url('/rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG');
+}
