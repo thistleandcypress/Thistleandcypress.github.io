@@ -14,7 +14,7 @@ body {
 main {
   max-width: 750px;
   margin: 0 auto;
-  padding: 1.5rem 1.5rem 3.5rem; /* tightened top padding */
+  padding: 1.5rem 1.5rem 3.5rem;
 }
 
 /* ------------------------------
@@ -35,7 +35,7 @@ h1 {
 
 h2 {
   font-size: 1.6rem;
-  margin-top: 2rem; /* slightly reduced */
+  margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -44,33 +44,39 @@ p {
 }
 
 /* ------------------------------
-   Header + Tagline
+   HERO (New Rhythm Header Support)
 --------------------------------*/
 
-.header-watermark {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 500px;
-  height: 500px;
-  background-image: url('og-image.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  opacity: 0.12;
-  pointer-events: none;
-  z-index: 0;
-}
-
-header {
+.hero {
   position: relative;
   overflow: hidden;
-  min-height: 200px;
   text-align: center;
-  padding: 2rem 1rem 1rem; /* tightened top and bottom padding */
+  padding: 2rem 1rem 1rem;
   background-color: #f3efe9;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
+/* subtle white overlay behind text */
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.78);
+  z-index: 1;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 2;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+/* ------------------------------
+   Tagline
+--------------------------------*/
 
 .tagline {
   font-size: 1.1rem;
@@ -87,7 +93,7 @@ header {
   width: 80px;
   height: 2px;
   background-color: #c8bfb6;
-  margin: 1rem auto 0; /* slightly reduced */
+  margin: 1rem auto 0;
   border-radius: 2px;
 }
 
@@ -97,7 +103,7 @@ header {
 
 nav {
   text-align: center;
-  padding: 0.75rem 0 1.25rem; /* tightened */
+  padding: 0.75rem 0 1.25rem;
   background-color: #faf8f5;
 }
 
@@ -121,7 +127,7 @@ nav a:hover {
 --------------------------------*/
 
 .welcome-text {
-  margin-top: 1.25rem; /* reduced from 2rem */
+  margin-top: 1.25rem;
   margin-bottom: 2rem;
 }
 
@@ -132,14 +138,45 @@ nav a:hover {
 }
 
 /* ------------------------------
+   Section Layout (New)
+--------------------------------*/
+
+.section-inner {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 0 0 1rem;
+}
+
+.section-media {
+  text-align: center;
+  margin: 1.5rem auto;
+}
+
+.section-media img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+  height: auto;
+}
+
+/* ------------------------------
+   Responsive Images (New)
+--------------------------------*/
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ------------------------------
    Soft Bands (Homepage Pillars)
 --------------------------------*/
 
 .soft-band {
   background-color: #f3efe9;
-  padding: 1.75rem 1.5rem; /* slightly reduced */
+  padding: 1.75rem 1.5rem;
   border-radius: 6px;
-  margin: 1.75rem 0; /* reduced */
+  margin: 1.75rem 0;
 }
 
 /* ------------------------------
@@ -150,32 +187,32 @@ nav a:hover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1.25rem;
-  margin-top: 1rem; /* reduced */
+  margin-top: 1rem;
 }
 
 .pillar-button {
   display: block;
-  background-color: #dfe7d8; /* soft, light mossy green */
-  color: #f7f5f0; /* off-white text */
+  background-color: #dfe7d8;
+  color: #f7f5f0;
   text-decoration: none;
-  padding: 1.1rem 1.1rem; /* reduced padding */
+  padding: 1.1rem 1.1rem;
   border-radius: 10px;
   transition: transform 0.15s ease, background-color 0.2s ease;
-  border: 1px solid #c9d2c3; /* subtle organic border */
+  border: 1px solid #c9d2c3;
 }
 
 .pillar-button:hover,
 .pillar-button:focus {
-  background-color: #cfd8c4; /* slightly deeper moss */
+  background-color: #cfd8c4;
   transform: translateY(-2px);
 }
 
 .pillar-content h2 {
   font-size: 1.45rem;
   font-weight: 700;
-  margin-top: 0.2rem; /* FIX: removes large blank space above */
+  margin-top: 0.2rem;
   margin-bottom: 0.4rem;
-  color: #2f2f2f; /* softened charcoal */
+  color: #2f2f2f;
 }
 
 .pillar-content p {
@@ -192,8 +229,8 @@ nav a:hover {
 .stay-rooted {
   text-align: center;
   max-width: 700px;
-  margin: 2.5rem auto; /* reduced from 5rem */
-  padding: 1.75rem; /* slightly reduced */
+  margin: 2.5rem auto;
+  padding: 1.75rem;
 }
 
 .notify-button {
@@ -220,9 +257,9 @@ nav a:hover {
 
 footer {
   text-align: center;
-  padding: 1.75rem 1rem; /* reduced */
+  padding: 1.75rem 1rem;
   background-color: #f3efe9;
   color: #6b625c;
   font-size: 0.95rem;
-  margin-top: 2.5rem; /* reduced */
+  margin-top: 2.5rem;
 }
