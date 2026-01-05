@@ -6,8 +6,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Georgia", serif;
-  color: #2f2a26; /* warm, earthy charcoal */
-  background-color: #faf8f5; /* soft, warm neutral */
+  color: #2f2a26;
+  background-color: #faf8f5;
   line-height: 1.65;
 }
 
@@ -87,6 +87,15 @@ p {
   margin-right: auto;
   line-height: 1.5;
   font-style: italic;
+}
+
+/* Bold taglines for ALL pillars */
+body.home-page .tagline,
+body.kitchen-page .tagline,
+body.craft-page .tagline,
+body.rhythm-page .tagline,
+body.garden-page .tagline {
+  font-weight: 600;
 }
 
 .header-divider {
@@ -281,11 +290,11 @@ body.craft-page .hero {
 }
 
 body.kitchen-page .hero {
-  background-image: url('../kitchen/kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
+  background-image: url('../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
 }
 
 body.home-page .hero {
-  background-image: url('../Pillar Background Thistle and Cypress at ends.PNG');
+  background-image: url('Pillar Background Thistle and Cypress at ends.PNG');
 }
 
 /* ------------------------------
@@ -302,22 +311,17 @@ body.garden-page .hero::before {
   background: rgba(255, 255, 255, 0.80);
 }
 
-/* Craft — keep global overlay, but bold tagline */
-body.craft-page .tagline {
-  font-weight: 600;
+/* Craft — keep global overlay */
+body.craft-page .hero::before {
+  background: rgba(255, 255, 255, 0.55);
 }
 
-/* Kitchen — similar to Craft */
-body.kitchen-page .tagline {
-  font-weight: 600;
+/* Kitchen — slightly stronger */
+body.kitchen-page .hero::before {
+  background: rgba(255, 255, 255, 0.60);
 }
 
 /* Home — moderate overlay */
 body.home-page .hero::before {
   background: rgba(255, 255, 255, 0.65);
-}
-
-/* Bold tagline on home */
-body.home-page .tagline {
-  font-weight: 600;
 }
