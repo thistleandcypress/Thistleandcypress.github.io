@@ -290,11 +290,11 @@ body.craft-page .hero {
 }
 
 body.kitchen-page .hero {
-  background-image: url('../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
+  background-image: url('../kitchen/kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
 }
 
 body.home-page .hero {
-  background-image: url('Pillar Background Thistle and Cypress at ends.PNG');
+  background-image: url('../Pillar Background Thistle and Cypress at ends.PNG');
 }
 
 /* ------------------------------
