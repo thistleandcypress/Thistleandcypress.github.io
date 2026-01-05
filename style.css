@@ -44,7 +44,7 @@ p {
 }
 
 /* ------------------------------
-   HERO (New Rhythm Header Support)
+   HERO (Unified Header System)
 --------------------------------*/
 
 .hero {
@@ -58,12 +58,12 @@ p {
   background-repeat: no-repeat;
 }
 
-/* subtle white overlay behind text */
+/* Global overlay */
 .hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(255, 255, 255, 0.55); /* UPDATED OPACITY */
+  background: rgba(255, 255, 255, 0.55);
   z-index: 1;
 }
 
@@ -138,7 +138,7 @@ nav a:hover {
 }
 
 /* ------------------------------
-   Section Layout (New)
+   Section Layout
 --------------------------------*/
 
 .section-inner {
@@ -160,7 +160,7 @@ nav a:hover {
 }
 
 /* ------------------------------
-   Responsive Images (New)
+   Responsive Images
 --------------------------------*/
 
 img {
@@ -265,38 +265,59 @@ footer {
 }
 
 /* ------------------------------
-   Rhythm Page Hero Background
+   HERO BACKGROUNDS (Unified)
 --------------------------------*/
 
 body.rhythm-page .hero {
   background-image: url('../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG');
 }
 
-/* ------------------------------
-   Garden Page Hero Background
---------------------------------*/
-
 body.garden-page .hero {
   background-image: url('../garden/images/Winter 2026 Landscape 3.jpg');
 }
 
-/* ------------------------------
-   Craft Page Hero Background
---------------------------------*/
 body.craft-page .hero {
   background-image: url('../craft/images/Pillar Background Thistle and Cypress Craft.PNG');
 }
 
-/* ------------------------------
-   Kitchen Page Hero Background
---------------------------------*/
 body.kitchen-page .hero {
   background-image: url('../kitchen/kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
 }
 
-/* ------------------------------
-   Home Page Hero Background
---------------------------------*/
 body.home-page .hero {
   background-image: url('../Pillar Background Thistle and Cypress at ends.PNG');
+}
+
+/* ------------------------------
+   PAGE-SPECIFIC OVERLAY TUNING
+--------------------------------*/
+
+/* Rhythm — slightly stronger */
+body.rhythm-page .hero::before {
+  background: rgba(255, 255, 255, 0.70);
+}
+
+/* Garden — strongest (dark photo) */
+body.garden-page .hero::before {
+  background: rgba(255, 255, 255, 0.80);
+}
+
+/* Craft — keep global overlay, but bold tagline */
+body.craft-page .tagline {
+  font-weight: 600;
+}
+
+/* Kitchen — similar to Craft */
+body.kitchen-page .tagline {
+  font-weight: 600;
+}
+
+/* Home — moderate overlay */
+body.home-page .hero::before {
+  background: rgba(255, 255, 255, 0.65);
+}
+
+/* Bold tagline on home */
+body.home-page .tagline {
+  font-weight: 600;
 }
