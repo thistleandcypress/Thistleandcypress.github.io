@@ -293,3 +293,10 @@ body.craft-page .hero {
 body.kitchen-page .hero {
   background-image: url('../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
 }
+
+/* ------------------------------
+   Home Page Hero Background
+--------------------------------*/
+body.home-page .hero {
+  background-image: url('Pillar Background Thistle and Cypress at ends.PNG');
+}
