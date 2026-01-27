@@ -373,7 +373,7 @@ background: rgba(255, 255, 255, 0.65);
 
 /* Garden — strongest (dark photo) */
 body.garden-page .hero::before {
-background: rgba(255, 255, 255, 0.95);
+background: rgba(255, 255, 255, 0.83);
 }
 
 /* ==========================================
