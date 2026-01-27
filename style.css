@@ -322,29 +322,30 @@ footer a:hover {
 color: #2b2623;
 }
 
-/* ——————————
-HERO BACKGROUNDS (Unified)
-––––––––––––––––*/
+/* ------------------------------
+   HERO BACKGROUNDS (Unified)
+--------------------------------*/
 
 body.rhythm-page .hero {
-background-image: url(’/rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG’);
+  background-image: url('../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG');
 }
 
 body.garden-page .hero {
-background-image: url(’../garden/images/Winter 2026 Landscape 3.jpg’);
+  background-image: url('../garden/images/Winter 2026 Landscape 3.jpg');
 }
 
 body.craft-page .hero {
-background-image: url(’../craft/images/Pillar Background Thistle and Cypress Craft.PNG’);
+  background-image: url('../craft/images/Pillar Background Thistle and Cypress Craft.PNG');
 }
 
 body.kitchen-page .hero {
-background-image: url(’../kitchen/kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG’);
+  background-image: url('../kitchen/kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
 }
 
 body.home-page .hero {
-background-image: url(’../Pillar Background Thistle and Cypress at ends.PNG’);
+  background-image: url('../Pillar Background Thistle and Cypress at ends.PNG');
 }
+
 
 /* ——————————
 PAGE-SPECIFIC OVERLAY TUNING
