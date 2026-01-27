@@ -363,7 +363,7 @@ background: rgba(255, 255, 255, 0.60);
 
 /* Kitchen — slightly stronger */
 body.kitchen-page .hero::before {
-background: rgba(255, 255, 255, 0.60);
+background: rgba(255, 255, 255, 0.55);
 }
 
 /* Rhythm — slightly stronger */
@@ -373,7 +373,7 @@ background: rgba(255, 255, 255, 0.65);
 
 /* Garden — strongest (dark photo) */
 body.garden-page .hero::before {
-background: rgba(255, 255, 255, 0.75);
+background: rgba(255, 255, 255, 0.85);
 }
 
 /* ==========================================
