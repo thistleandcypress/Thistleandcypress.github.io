@@ -363,7 +363,7 @@ background: rgba(255, 255, 255, 0.60);
 
 /* Kitchen — slightly stronger */
 body.kitchen-page .hero::before {
-background: rgba(255, 255, 255, 0.63);
+background: rgba(255, 255, 255, 0.70);
 }
 
 /* Rhythm — slightly stronger */
