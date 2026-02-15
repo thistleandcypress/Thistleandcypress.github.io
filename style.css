@@ -80,6 +80,12 @@ nav a:hover {
   border-bottom: 2px solid #c8bfb6;
 }
 
+/* Ensure nav always sits above hero overlays */
+nav {
+  position: relative;
+  z-index: 10;
+}
+
 /* ------------------------------------------
    SUBNAV (Pillar-Specific Navigation)
 ------------------------------------------- */
@@ -112,6 +118,11 @@ nav a:hover {
   font-weight: 600; /* subtle emphasis */
 }
 
+.subnav {
+  position: relative;
+  z-index: 9;
+  margin-top: 0.5rem;
+}
 
 /* ------------------------------------------
    HERO (Unified Height + Safe Gradient Overlay)
