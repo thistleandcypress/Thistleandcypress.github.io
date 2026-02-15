@@ -1,603 +1,380 @@
-hi/* ==========================================
-THISTLE AND CYPRESS - OPTIMIZED STYLESHEET
-========================================== */
+/* ==========================================
+   THISTLE & CYPRESS — FINAL MERGED STYLESHEET
+   ========================================== */
 
-/* Google Font Import - Must be at top */
-@import url(‘https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap’);
+/* Google Font Import — must be at top */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap");
 
-/* ——————————
-Global Styles
-––––––––––––––––*/
+/* ------------------------------------------
+   GLOBAL STYLES
+------------------------------------------- */
 
 body {
-margin: 0;
-padding: 0;
-font-family: “Georgia”, serif;
-color: #2f2a26;
-background-color: #faf8f5;
-line-height: 1.65;
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, serif;
+  color: #2f2a26;
+  background-color: #faf8f5;
+  line-height: 1.65;
 }
 
 main {
-max-width: 750px;
-margin: 0 auto;
-padding: 1.5rem 1.5rem 3.5rem;
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 3.5rem;
 }
 
-/* ——————————
-Typography
-––––––––––––––––*/
+/* ------------------------------------------
+   TYPOGRAPHY
+------------------------------------------- */
 
 h1, h2, h3 {
-font-family: “Playfair Display”, Georgia, serif;
-font-weight: 400;
-color: #2b2623;
-margin-top: 0;
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 400;
+  color: #2b2623;
+  margin-top: 0;
 }
 
 h1 {
-font-size: 3rem;
-margin-bottom: 0.25rem;
+  font-size: 2.4rem; /* merged from Jan 26 */
+  margin-bottom: 0.25rem;
 }
 
 h2 {
-font-size: 2rem;
-margin-top: 2rem;
-margin-bottom: 1rem;
+  font-size: 1.6rem; /* merged from Jan 26 */
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
 h3 {
-font-size: 1.5rem;
-margin-top: 1.5rem;
-margin-bottom: 0.75rem;
+  font-size: 1.35rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 
 p {
-margin: 1.2rem 0;
+  margin: 1.2rem 0;
 }
 
-/* ——————————
-Links (Global)
-––––––––––––––––*/
+/* ------------------------------------------
+   LINKS
+------------------------------------------- */
 
 a {
-color: #6b625c;
-text-decoration: underline;
-transition: color 0.2s ease;
+  color: #6b625c;
+  text-decoration: underline;
+  transition: color 0.2s ease;
 }
 
 a:hover {
-color: #2b2623;
+  color: #2b2623;
 }
 
-/* Focus states for accessibility */
 a:focus,
 button:focus,
 .pillar-button:focus,
 .notify-button:focus {
-outline: 2px solid #2b2623;
-outline-offset: 2px;
+  outline: 2px solid #2b2623;
+  outline-offset: 2px;
 }
 
-/* ——————————
-HERO (Unified Header System)
-––––––––––––––––*/
+/* ------------------------------------------
+   HERO (Unified Header System)
+------------------------------------------- */
 
 .hero {
-position: relative;
-overflow: hidden;
-text-align: center;
-padding: 2rem 1rem 1rem;
-background-color: #f3efe9;
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  padding: 2rem 1rem 1rem;
+  background-color: #f3efe9;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-/* Global overlay */
 .hero::before {
-content: "";
-position: absolute;
-inset: 0;
-background: rgba(255, 255, 255, 0.55);
-z-index: 1;
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.55);
+  z-index: 1;
 }
 
 .hero-inner {
-position: relative;
-z-index: 2;
-max-width: 750px;
-margin: 0 auto;
+  position: relative;
+  z-index: 2;
+  max-width: 750px;
+  margin: 0 auto;
 }
 
-/* ——————————
-Tagline
-––––––––––––––––*/
+/* ------------------------------------------
+   TAGLINE
+------------------------------------------- */
 
 .tagline {
-font-size: 1.125rem;
-color: #6b625c;
-margin-top: 0.5rem;
-max-width: 650px;
-margin-left: auto;
-margin-right: auto;
-line-height: 1.6;
-font-style: italic;
+  font-size: 1.1rem;
+  color: #6b625c;
+  margin-top: 0.5rem;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  font-style: italic;
 }
 
-/* Bold taglines for ALL pillars */
 body.home-page .tagline,
 body.kitchen-page .tagline,
 body.craft-page .tagline,
 body.rhythm-page .tagline,
 body.garden-page .tagline {
-font-weight: 700;
+  font-weight: 700;
 }
 
 .header-divider {
-width: 60px;
-height: 2px;
-background-color: #c8bfb6;
-margin: 1.5rem auto 0;
-border-radius: 2px;
+  width: 80px; /* merged from Jan 26 */
+  height: 2px;
+  background-color: #c8bfb6;
+  margin: 1.5rem auto 0;
+  border-radius: 2px;
 }
 
-/* ——————————
-Navigation
-––––––––––––––––*/
+/* ------------------------------------------
+   NAVIGATION
+------------------------------------------- */
 
 nav {
-text-align: center;
-padding: 1rem 0 2rem;
-background-color: #faf8f5;
+  text-align: center;
+  padding: 0.75rem 0 1.25rem; /* merged from Jan 26 */
+  background-color: #faf8f5;
 }
 
 nav a {
-margin: 0 1rem;
-text-decoration: none;
-color: #4a423d;
-font-weight: 400;
-padding-bottom: 0.3rem;
-border-bottom: 2px solid transparent;
-transition: border-color 0.3s ease;
+  margin: 0 0.75rem; /* merged from Jan 26 */
+  text-decoration: none;
+  color: #4a423d;
+  font-weight: 400;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease;
 }
 
 nav a:hover {
-color: #2b2623;
-border-bottom: 2px solid #c8bfb6;
+  color: #2b2623;
+  border-bottom: 2px solid #c8bfb6;
 }
 
-/* ——————————
-Welcome Text
-––––––––––––––––*/
+/* ------------------------------------------
+   WELCOME TEXT
+------------------------------------------- */
 
 .welcome-text {
-margin-top: 1.5rem;
-margin-bottom: 2.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .welcome-text p {
-font-size: 1.125rem;
-color: #3a332f;
-line-height: 1.7;
+  font-size: 1.125rem;
+  color: #3a332f;
+  line-height: 1.7;
 }
 
-/* ——————————
-Section Layout
-––––––––––––––––*/
+/* ------------------------------------------
+   SECTION LAYOUT
+------------------------------------------- */
 
 .section-inner {
-max-width: 800px;
-margin: 0 auto;
-padding: 0 1.5rem 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1.5rem 2rem;
 }
 
 .section-media {
-text-align: center;
-margin: 2rem auto;
+  text-align: center;
+  margin: 2rem auto;
 }
 
 .section-media img {
-display: block;
-margin: 0 auto;
-border-radius: 6px;
-height: auto;
-max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+  height: auto;
+  max-width: 100%;
 }
 
-/* ——————————
-Responsive Images
-––––––––––––––––*/
+/* ------------------------------------------
+   RESPONSIVE IMAGES
+------------------------------------------- */
 
 img {
-max-width: 100%;
-height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
-/* ——————————
-Soft Bands (Homepage Pillars)
-––––––––––––––––*/
+/* ------------------------------------------
+   ABOUT PAGE PHOTO
+------------------------------------------- */
+
+.about-photo-wrapper {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.about-photo-wrapper img {
+  max-width: 600px;
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* ------------------------------------------
+   SOFT BANDS
+------------------------------------------- */
 
 .soft-band {
-background-color: #f3efe9;
-padding: 2rem 1.5rem;
-border-radius: 8px;
-margin: 2rem 0;
+  background-color: #f3efe9;
+  padding: 1.75rem 1.5rem; /* merged from Jan 26 */
+  border-radius: 8px;
+  margin: 2rem 0;
 }
 
-/* ——————————
-Four Pillars — Soft Mossy Buttons
-––––––––––––––––*/
+/* ------------------------------------------
+   FOUR PILLARS
+------------------------------------------- */
 
 .pillars {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-gap: 1.5rem;
-margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); /* merged from Jan 26 */
+  gap: 1.5rem;
+  margin-top: 1rem;
 }
 
 .pillar-button {
-display: block;
-background-color: #dfe7d8;
-color: #f7f5f0;
-text-decoration: none;
-padding: 1.25rem;
-border-radius: 12px;
-transition: transform 0.15s ease, background-color 0.2s ease;
-border: 1px solid #c9d2c3;
+  display: block;
+  background-color: #dfe7d8;
+  text-decoration: none;
+  padding: 1.25rem;
+  border-radius: 12px;
+  transition: transform 0.15s ease, background-color 0.2s ease;
+  border: 1px solid #c9d2c3;
 }
 
 .pillar-button:hover,
 .pillar-button:focus {
-background-color: #cfd8c4;
-transform: translateY(-2px);
+  background-color: #cfd8c4;
+  transform: translateY(-2px);
 }
 
 .pillar-content h2 {
-font-size: 1.5rem;
-font-weight: 700;
-margin-top: 0.2rem;
-margin-bottom: 0.4rem;
-color: #2f2f2f;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 0.2rem;
+  margin-bottom: 0.4rem;
+  color: #2f2f2f;
 }
 
 .pillar-content p {
-margin: 0;
-font-size: 1rem;
-line-height: 1.6;
-color: #3a3a3a;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #3a3a3a;
 }
 
-/* ——————————
-Stay Rooted
-––––––––––––––––*/
+/* ------------------------------------------
+   STAY ROOTED
+------------------------------------------- */
 
 .stay-rooted {
-text-align: center;
-max-width: 750px;
-margin: 3rem auto;
-padding: 2rem;
+  text-align: center;
+  max-width: 750px;
+  margin: 3rem auto;
+  padding: 1.75rem; /* merged from Jan 26 */
 }
 
 .notify-button {
-display: inline-block;
-margin: 1.5rem 0;
-padding: 0.875rem 1.75rem;
-border: 1px solid #333;
-color: #333;
-text-decoration: none;
-border-radius: 4px;
-transition: background-color 0.2s ease;
+  display: inline-block;
+  margin: 1.5rem 0;
+  padding: 0.875rem 1.75rem;
+  border: 1px solid #333;
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
 }
 
 .notify-button:hover {
-background-color: #f4f4f4;
+  background-color: #f4f4f4;
 }
 
 .small-note {
-font-size: 0.875rem;
-color: #666;
-line-height: 1.5;
+  font-size: 0.875rem;
+  color: #666;
+  line-height: 1.5;
 }
 
-/* ——————————
-Footer
-––––––––––––––––*/
+/* ------------------------------------------
+   FOOTER
+------------------------------------------- */
 
 footer {
-text-align: center;
-padding: 2rem 1rem;
-background-color: #f3efe9;
-color: #6b625c;
-font-size: 0.875rem;
-margin-top: 3rem;
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #f3efe9;
+  color: #6b625c;
+  font-size: 0.875rem;
+  margin-top: 3rem;
 }
 
-footer a {
-color: #6b625c;
-text-decoration: underline;
-}
-
-footer a:hover {
-color: #2b2623;
-}
-
-/* ------------------------------
+/* ------------------------------------------
    HERO BACKGROUNDS (Unified)
---------------------------------*/
+------------------------------------------- */
 
 body.rhythm-page .hero {
-  background-image: url('../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG');
+  background-image: url("../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
 }
 
 body.garden-page .hero {
-  background-image: url('../garden/images/Winter 2026 Landscape 3.jpg');
+  background-image: url("../garden/images/Winter 2026 Landscape 3.jpg");
 }
 
 body.craft-page .hero {
-  background-image: url('../craft/images/Pillar Background Thistle and Cypress Craft.PNG');
+  background-image: url("../craft/images/Pillar Background Thistle and Cypress Craft.PNG");
 }
 
 body.kitchen-page .hero {
-  background-image: url('../kitchen/kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG');
+  background-image: url("../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG");
 }
 
 body.home-page .hero {
-  background-image: url('../Pillar Background Thistle and Cypress at ends.PNG');
+  background-image: url("Pillar Background Thistle and Cypress at ends.PNG");
 }
 
+/* ------------------------------------------
+   HERO OVERLAY TUNING
+------------------------------------------- */
 
-/* ——————————
-PAGE-SPECIFIC OVERLAY TUNING
-––––––––––––––––*/
+body.craft-page .hero::before { background: rgba(255, 255, 255, 0.60); }
+body.home-page .hero::before { background: rgba(255, 255, 255, 0.60); }
+body.kitchen-page .hero::before { background: rgba(255, 255, 255, 0.70); }
+body.rhythm-page .hero::before { background: rgba(255, 255, 255, 0.65); }
+body.garden-page .hero::before { background: rgba(255, 255, 255, 0.83); }
 
-/* Craft — lightest (keep global overlay) */
-body.craft-page .hero::before {
-background: rgba(255, 255, 255, 0.60);
-}
+/* ------------------------------------------
+   RESPONSIVE BREAKPOINTS
+------------------------------------------- */
 
-/* Home — moderate overlay */
-body.home-page .hero::before {
-background: rgba(255, 255, 255, 0.60);
-}
-
-/* Kitchen — slightly stronger */
-body.kitchen-page .hero::before {
-background: rgba(255, 255, 255, 0.70);
-}
-
-/* Rhythm — slightly stronger */
-body.rhythm-page .hero::before {
-background: rgba(255, 255, 255, 0.65);
-}
-
-/* Garden — strongest (dark photo) */
-body.garden-page .hero::before {
-background: rgba(255, 255, 255, 0.83);
-}
-
-/* ==========================================
-BLOG POST STYLES (Future-Proofing)
-========================================== */
-
-/* Blog post container */
-article {
-max-width: 750px;
-margin: 0 auto 3rem;
-padding: 0 1.5rem;
-}
-
-/* Blog post paragraphs */
-article p {
-margin-bottom: 1.25rem;
-line-height: 1.7;
-}
-
-/* Blog post images */
-article img {
-margin: 2rem 0;
-border-radius: 8px;
-}
-
-article figure {
-margin: 2rem 0;
-}
-
-article figcaption {
-font-size: 0.875rem;
-color: #6b625c;
-text-align: center;
-margin-top: 0.5rem;
-font-style: italic;
-}
-
-/* Links within blog content */
-article a {
-color: #6b625c;
-text-decoration: underline;
-transition: color 0.2s ease;
-}
-
-article a:hover {
-color: #2b2623;
-}
-
-/* Blog post metadata (date, author, categories) */
-.post-meta {
-font-size: 0.875rem;
-color: #6b625c;
-margin-bottom: 1.5rem;
-text-align: center;
-}
-
-/* Blog post title styling */
-article h1 {
-margin-bottom: 1rem;
-}
-
-/* ==========================================
-LISTS (Future-Proofing)
-========================================== */
-
-ul, ol {
-line-height: 1.7;
-margin: 1rem 0;
-padding-left: 1.5rem;
-}
-
-li {
-margin-bottom: 0.5rem;
-}
-
-/* Lists within articles */
-article ul,
-article ol {
-margin: 1.5rem 0;
-}
-
-/* ==========================================
-BLOCKQUOTES (Future-Proofing)
-========================================== */
-
-blockquote {
-border-left: 3px solid #c8bfb6;
-padding-left: 1.5rem;
-margin: 2rem 0;
-font-style: italic;
-color: #6b625c;
-font-size: 1.125rem;
-}
-
-/* ==========================================
-RESPONSIVE DESIGN - MOBILE BREAKPOINTS
-========================================== */
-
-/* Tablets and smaller */
 @media (max-width: 768px) {
-h1 {
-font-size: 2rem;
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+
+  main { padding: 1rem 1rem 2rem; }
+  nav a { margin: 0 0.5rem; font-size: 0.9rem; }
+
+  .pillars { grid-template-columns: 1fr; gap: 1rem; }
+  .hero { padding: 1.5rem 1rem 1rem; }
 }
 
-h2 {
-font-size: 1.5rem;
-}
-
-h3 {
-font-size: 1.25rem;
-}
-
-main {
-padding: 1rem 1rem 2rem;
-}
-
-article {
-padding: 0 1rem;
-}
-
-.section-inner {
-padding: 0 1rem 2rem;
-}
-
-nav a {
-margin: 0 0.5rem;
-font-size: 0.9rem;
-}
-
-.pillars {
-grid-template-columns: 1fr;
-gap: 1rem;
-}
-
-.hero {
-padding: 1.5rem 1rem 1rem;
-}
-}
-
-/* Small phones */
 @media (max-width: 480px) {
-h1 {
-font-size: 1.75rem;
-}
-
-h2 {
-font-size: 1.35rem;
-}
-
-.tagline {
-font-size: 1rem;
-}
-
-.welcome-text p {
-font-size: 1rem;
-}
-
-nav a {
-display: block;
-margin: 0.5rem 0;
-}
-}
-
-/* ==========================================
-UTILITY CLASSES (Future-Proofing)
-========================================== */
-
-/* Text alignment */
-.text-center {
-text-align: center;
-}
-
-.text-left {
-text-align: left;
-}
-
-.text-right {
-text-align: right;
-}
-
-/* Spacing utilities */
-.mt-1 { margin-top: 1rem; }
-.mt-2 { margin-top: 2rem; }
-.mt-3 { margin-top: 3rem; }
-
-.mb-1 { margin-bottom: 1rem; }
-.mb-2 { margin-bottom: 2rem; }
-.mb-3 { margin-bottom: 3rem; }
-
-/* Color utilities */
-.text-muted {
-color: #6b625c;
-}
-
-.text-dark {
-color: #2b2623;
-}
-
-/* ==========================================
-PRINT STYLES (Future-Proofing)
-========================================== */
-
-@media print {
-body {
-background-color: white;
-color: black;
-}
-
-.hero::before {
-display: none;
-}
-
-nav,
-.notify-button,
-footer {
-display: none;
-}
-
-a {
-text-decoration: underline;
-color: black;
-}
-
-article {
-max-width: 100%;
-}
-}
+  h1 { font-size: 1.75
