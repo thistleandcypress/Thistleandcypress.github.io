@@ -105,6 +105,13 @@ nav a:hover {
   border-bottom: 2px solid #c8bfb6;
 }
 
+/* Active state for the current section */
+.subnav a.active {
+  color: #2b2623; /* deeper tone */
+  border-bottom: 2px solid #2b2623; /* solid underline */
+  font-weight: 600; /* subtle emphasis */
+}
+
 
 /* ------------------------------------------
    HERO (Unified Height + Safe Gradient Overlay)
