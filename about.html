@@ -39,17 +39,30 @@
     }
   }
   </script>
+
+  <style>
+    /* Inline About-page-specific styling */
+    .about-photo-wrapper {
+      text-align: center;
+      margin: 2rem auto;
+    }
+    .about-photo-wrapper img {
+      max-width: 600px;
+      width: 90%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 
 <body class="about-page">
 
 <!-- ========================= -->
-<!-- ABOUT HEADER (UPDATED)    -->
+<!-- ABOUT HEADER              -->
 <!-- ========================= -->
 
 <header class="hero" role="banner">
-
-  <!-- Background Image -->
   <div
     aria-hidden="true"
     style="
@@ -65,7 +78,6 @@
     "
   ></div>
 
-  <!-- Header Content -->
   <div class="hero-inner">
     <h1>About</h1>
     <p class="tagline">
@@ -76,20 +88,35 @@
   <div class="header-divider"></div>
 </header>
 
+<!-- ========================= -->
+<!-- NAVIGATION                -->
+<!-- ========================= -->
+
 <nav role="navigation" aria-label="Primary navigation">
   <a href="index.html">Home</a>
-  <a href="/kitchen/">Kitchen</a>
-  <a href="/garden/">Garden</a>
-  <a href="/craft/">Craft</a>
-  <a href="/rhythm/">Rhythm</a>
+  <a href="kitchen/">Kitchen</a>
+  <a href="garden/">Garden</a>
+  <a href="craft/">Craft</a>
+  <a href="rhythm/">Rhythm</a>
   <a href="about.html">About</a>
 </nav>
 
-<main role="main">
+<!-- ========================= -->
+<!-- ABOUT PHOTO               -->
+<!-- ========================= -->
 
-  <!-- ========================= -->
-  <!-- INTRO TEXT                -->
-  <!-- ========================= -->
+<section class="about-photo-wrapper">
+  <img 
+    src="about/images/about-photo.PNG" 
+    alt="Jon and Rick together, 2017"
+  >
+</section>
+
+<!-- ========================= -->
+<!-- MAIN CONTENT              -->
+<!-- ========================= -->
+
+<main role="main">
 
   <section class="welcome-text">
     <p>
@@ -98,10 +125,6 @@
       ten acres of rolling woodland in Western Pennsylvania, where we’re slowly creating the home we’ll one day live in full.
     </p>
   </section>
-
-  <!-- ========================= -->
-  <!-- ABOUT CONTENT             -->
-  <!-- ========================= -->
 
   <section class="content-section">
     <p>
