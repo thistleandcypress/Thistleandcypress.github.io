@@ -1,5 +1,5 @@
 /* ==========================================
-   THISTLE & CYPRESS — FINAL HERO-ENHANCED STYLESHEET
+   THISTLE & CYPRESS — OPTIMIZED STYLESHEET
    ========================================== */
 
 /* Google Font Import */
@@ -36,7 +36,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 2.35rem; /* refined hero scale */
+  font-size: 2.35rem;
   margin-bottom: 0.25rem;
 }
 
@@ -57,26 +57,242 @@ p {
 }
 
 /* ------------------------------------------
-   HERO (Unified Height + Gradient Overlay)
+   NAVIGATION
+------------------------------------------- */
+
+nav {
+  text-align: center;
+  padding: 0.75rem 0 1.25rem;
+  background-color: #faf8f5;
+}
+
+nav a {
+  margin: 0 0.75rem;
+  text-decoration: none;
+  color: #2b2623;
+  font-weight: 400;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+nav a:hover {
+  border-bottom: 2px solid #c8bfb6;
+}
+
+/* ------------------------------------------
+   HERO (Unified Height + Safe Gradient Overlay)
 ------------------------------------------- */
 
 .hero {
   position: relative;
   overflow: hidden;
   text-align: center;
-  padding: 4.5rem 1rem 3rem; /* unified hero height */
+  padding: 4.5rem 1rem 3rem;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
-/* Base gradient + overlay */
+/* Safe gradient overlay that does NOT override background-image */
 .hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background:
-    linear-gradient(
-      to bottom,
-      rgba(255, 255, 255, 0.75) 0%,
-      rgba
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.75) 0%,
+    rgba(255, 255, 255, 0.60) 40%,
+    rgba(255, 255, 255, 0.50) 100%
+  );
+  z-index: 1;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 2;
+  max-width: 750px;
+  margin: 0 auto;
+  color: #2b2623;
+}
+
+/* ------------------------------------------
+   TAGLINE
+------------------------------------------- */
+
+.tagline {
+  font-size: 1.1rem;
+  color: #4a423d;
+  margin-top: 0.5rem;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  font-style: italic;
+}
+
+.header-divider {
+  width: 80px;
+  height: 2px;
+  background-color: #b8afa6;
+  margin: 1.5rem auto 0;
+  border-radius: 2px;
+}
+
+/* ------------------------------------------
+   ABOUT PAGE PHOTO
+------------------------------------------- */
+
+.about-photo-wrapper {
+  text-align: center;
+  margin: 1.5rem auto 1.75rem;
+}
+
+.about-photo-wrapper img {
+  max-width: 500px;
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* ------------------------------------------
+   SOFT BANDS
+------------------------------------------- */
+
+.soft-band {
+  background-color: #f3efe9;
+  padding: 1.75rem 1.5rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+/* ------------------------------------------
+   FOUR PILLARS
+------------------------------------------- */
+
+.pillars {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.pillar-button {
+  display: block;
+  background-color: #dfe7d8;
+  color: #2b2623;
+  text-decoration: none;
+  padding: 1.25rem;
+  border-radius: 12px;
+  transition: transform 0.15s ease, background-color 0.2s ease;
+  border: 1px solid #c9d2c3;
+}
+
+.pillar-button:hover,
+.pillar-button:focus {
+  background-color: #cfd8c4;
+  transform: translateY(-2px);
+}
+
+/* ------------------------------------------
+   STAY ROOTED
+------------------------------------------- */
+
+.stay-rooted {
+  text-align: center;
+  max-width: 750px;
+  margin: 3rem auto;
+  padding: 1.75rem;
+}
+
+/* ------------------------------------------
+   FOOTER
+------------------------------------------- */
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #f3efe9;
+  color: #6b625c;
+  font-size: 0.875rem;
+  margin-top: 3rem;
+}
+
+/* ------------------------------------------
+   HERO BACKGROUNDS (Paths)
+------------------------------------------- */
+
+body.rhythm-page .hero {
+  background-image: url("../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
+}
+
+body.garden-page .hero {
+  background-image: url("../garden/images/Winter 2026 Landscape 3.jpg");
+}
+
+body.craft-page .hero {
+  background-image: url("../craft/images/Pillar Background Thistle and Cypress Craft.PNG");
+}
+
+body.kitchen-page .hero {
+  background-image: url("../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG");
+}
+
+body.home-page .hero {
+  background-image: url("Pillar Background Thistle and Cypress at ends.PNG");
+}
+
+/* ------------------------------------------
+   HERO OVERLAY TIERS (Brightness-based)
+------------------------------------------- */
+
+body.craft-page .hero::before,
+body.home-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.70),
+    rgba(255, 255, 255, 0.55)
+  );
+}
+
+body.kitchen-page .hero::before,
+body.rhythm-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.80),
+    rgba(255, 255, 255, 0.65)
+  );
+}
+
+body.garden-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.90),
+    rgba(255, 255, 255, 0.80)
+  );
+}
+
+/* ------------------------------------------
+   RESPONSIVE BREAKPOINTS
+------------------------------------------- */
+
+@media (max-width: 768px) {
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.45rem; }
+
+  .hero {
+    padding: 3.5rem 1rem 2.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.3rem; }
+  .tagline { font-size: 1rem; }
+
+  nav a {
+    display: block;
+    margin: 0.5rem 0;
+  }
+}
