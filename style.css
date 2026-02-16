@@ -331,12 +331,21 @@ body.garden-page .hero::before {
 }
 
 @media (max-width: 480px) {
+
   h1 { font-size: 1.75rem; }
   h2 { font-size: 1.3rem; }
+
   .tagline { font-size: 1rem; }
 
-  nav a {
-    display: block;
-    margin: 0.5rem 0;
+  nav {
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
   }
+
+  nav a {
+    display: inline-block;
+    margin: 0 0.75rem;
+  }
+
 }
