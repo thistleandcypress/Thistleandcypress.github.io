@@ -348,4 +348,14 @@ body.garden-page .hero::before {
     margin: 0 0.75rem;
   }
 
+  .subnav {
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .subnav a {
+    display: inline-block;
+    margin: 0 0.6rem;
+  }
 }
