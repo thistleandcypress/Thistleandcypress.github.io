@@ -1,0 +1,352 @@
+
+/* ==========================================
+   THISTLE & CYPRESS — MASTER STYLESHEET
+   Clean • Editorial • Scalable
+========================================== */
+
+/* ------------------------------------------
+   GOOGLE FONT
+------------------------------------------- */
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap");
+
+/* ------------------------------------------
+   GLOBAL BASE
+------------------------------------------- */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, serif;
+  color: #2f2a26;
+  background-color: #faf8f5;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem 3.5rem;
+}
+
+/* ------------------------------------------
+   TYPOGRAPHY
+------------------------------------------- */
+
+h1, h2, h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 400;
+  color: #2b2623;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.35rem;
+  margin-bottom: 0.25rem;
+}
+
+h2 {
+  font-size: 1.55rem;
+  margin-top: 2.75rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
+p {
+  margin: 1.25rem 0;
+}
+
+/* Editorial enhancement for posts */
+.post-content p {
+  font-size: 1.05rem;
+}
+
+/* ------------------------------------------
+   GLOBAL NAVIGATION
+------------------------------------------- */
+
+nav {
+  text-align: center;
+  padding: 0.75rem 0 1.25rem;
+  background-color: #faf8f5;
+  position: relative;
+  z-index: 10;
+}
+
+nav a {
+  margin: 0 0.75rem;
+  text-decoration: none;
+  color: #2b2623;
+  font-weight: 400;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+nav a:hover {
+  border-bottom: 2px solid #c8bfb6;
+}
+
+/* ------------------------------------------
+   SUBNAV
+------------------------------------------- */
+
+.subnav {
+  text-align: center;
+  padding: 0.35rem 0 1rem;
+  background-color: #faf8f5;
+  border-bottom: 1px solid #e8e2db;
+  position: relative;
+  z-index: 9;
+  margin-top: 0.5rem;
+}
+
+.subnav a {
+  margin: 0 0.55rem;
+  text-decoration: none;
+  color: #4a423d;
+  font-size: 0.92rem;
+  padding-bottom: 0.2rem;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.25s ease;
+}
+
+.subnav a:hover {
+  border-bottom: 2px solid #c8bfb6;
+}
+
+.subnav a.active {
+  color: #2b2623;
+  border-bottom: 2px solid #2b2623;
+  font-weight: 600;
+}
+
+/* ------------------------------------------
+   HERO (PILLAR + SUBPILLAR)
+------------------------------------------- */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  padding: 4.5rem 1rem 3rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255,255,255,0.75),
+    rgba(255,255,255,0.60)
+  );
+  z-index: 1;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 2;
+  max-width: 750px;
+  margin: 0 auto;
+  color: #2b2623;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #4a423d;
+  margin-top: 0.5rem;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  font-style: italic;
+}
+
+.header-divider {
+  width: 80px;
+  height: 2px;
+  background-color: #b8afa6;
+  margin: 1.5rem auto 0;
+  border-radius: 2px;
+}
+
+/* ------------------------------------------
+   POST HERO (No Background Image)
+------------------------------------------- */
+
+.post-hero {
+  text-align: center;
+  padding: 3rem 1rem 2rem;
+  background: none;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #7a6f66;
+  margin-top: 0.4rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+/* ------------------------------------------
+   POST CONTENT
+------------------------------------------- */
+
+.post-content {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3.5rem;
+}
+
+.post-content ul {
+  margin: 1.25rem 0 1.25rem 1.2rem;
+}
+
+.post-content li {
+  margin-bottom: 0.5rem;
+}
+
+.featured-image {
+  width: 100%;
+  height: auto;
+  margin: 1.75rem 0 2.25rem;
+  border-radius: 6px;
+}
+
+/* Back to category link */
+
+.post-back {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e8e2db;
+}
+
+.post-back a {
+  text-decoration: none;
+  color: #4a423d;
+  font-size: 0.95rem;
+}
+
+.post-back a:hover {
+  text-decoration: underline;
+}
+
+/* ------------------------------------------
+   FOUR PILLARS GRID
+------------------------------------------- */
+
+.pillars {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.pillar-button {
+  display: block;
+  background-color: #dfe7d8;
+  color: #2b2623;
+  text-decoration: none;
+  padding: 1.25rem;
+  border-radius: 12px;
+  transition: transform 0.15s ease, background-color 0.2s ease;
+  border: 1px solid #c9d2c3;
+}
+
+.pillar-button:hover,
+.pillar-button:focus {
+  background-color: #cfd8c4;
+  transform: translateY(-2px);
+}
+
+/* ------------------------------------------
+   SOFT BANDS
+------------------------------------------- */
+
+.soft-band {
+  background-color: #f3efe9;
+  padding: 1.75rem 1.5rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+/* ------------------------------------------
+   FOOTER
+------------------------------------------- */
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #f3efe9;
+  color: #6b625c;
+  font-size: 0.875rem;
+  margin-top: 3rem;
+}
+
+/* ------------------------------------------
+   HERO BACKGROUND IMAGES
+------------------------------------------- */
+
+body.rhythm-page .hero {
+  background-image: url("../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
+}
+
+body.garden-page .hero {
+  background-image: url("../garden/images/Winter 2026 Landscape 3.jpg");
+}
+
+body.craft-page .hero {
+  background-image: url("../craft/images/Pillar Background Thistle and Cypress Craft.PNG");
+}
+
+body.kitchen-page .hero {
+  background-image: url("../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG");
+}
+
+body.home-page .hero {
+  background-image: url("Pillar Background Thistle and Cypress at ends.PNG");
+}
+
+/* ------------------------------------------
+   RESPONSIVE
+------------------------------------------- */
+
+@media (max-width: 768px) {
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.45rem; }
+
+  .hero {
+    padding: 3.5rem 1rem 2.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.3rem; }
+
+  .tagline { font-size: 1rem; }
+
+  nav,
+  .subnav {
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  nav a,
+  .subnav a {
+    display: inline-block;
+    margin: 0 0.75rem;
+  }
+}
