@@ -1,23 +1,28 @@
-/* ----------------------------------------------------
-   THISTLE & CYPRESS — GLOBAL STYLE SYSTEM
-   Warm, editorial, heritage-inspired aesthetic
----------------------------------------------------- */
+/* ==========================================
+   THISTLE & CYPRESS — OPTIMIZED STYLESHEET
+   Editorial, warm, single-column Kitchen system
+   ========================================== */
 
-/* ------------------------------
-   GLOBAL RESET
------------------------------- */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* Google Font Import */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap");
+
+/* ------------------------------------------
+   GLOBAL STYLES
+------------------------------------------- */
 
 body {
-  font-family: "Georgia", serif;
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, serif;
+  color: #2f2a26;
   background-color: #faf8f5;
-  color: #2b2623;
-  line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
+  line-height: 1.65;
+}
+
+main {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 3.5rem;
 }
 
 img {
@@ -25,56 +30,76 @@ img {
   display: block;
 }
 
-a {
+/* ------------------------------------------
+   TYPOGRAPHY
+------------------------------------------- */
+
+h1, h2, h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 400;
   color: #2b2623;
-  text-decoration: none;
+  margin-top: 0;
 }
 
-a:hover {
-  opacity: 0.85;
+h1 {
+  font-size: 2.35rem;
+  margin-bottom: 0.25rem;
 }
 
-/* ------------------------------
-   WRAPPER
------------------------------- */
-.wrapper {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 2rem 1.5rem;
+h2 {
+  font-size: 1.55rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
-/* ------------------------------
-   HEADER + NAVIGATION
------------------------------- */
-header.site-header {
-  background-color: #ffffff;
-  padding: 1.5rem 0;
-  border-bottom: 1px solid #e5e2dd;
+h3 {
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 
-nav ul {
-  display: flex;
-  gap: 1.5rem;
-  list-style: none;
+p {
+  margin: 1.2rem 0;
+}
+
+/* ------------------------------------------
+   NAVIGATION
+------------------------------------------- */
+
+nav {
+  text-align: center;
+  padding: 0.75rem 0 1.25rem;
+  background-color: #faf8f5;
 }
 
 nav a {
-  font-weight: 500;
-  letter-spacing: 0.3px;
+  margin: 0 0.75rem;
+  text-decoration: none;
+  color: #2b2623;
+  font-weight: 400;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease;
 }
 
+nav a:hover {
+  border-bottom: 2px solid #c8bfb6;
+}
+
+/* Sub-navigation (Kitchen pillar) */
 .subnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin: 2rem 0;
+  text-align: center;
+  margin: 1.5rem 0 2.5rem;
 }
 
 .subnav a {
-  padding: 0.4rem 0.75rem;
-  border-radius: 6px;
+  margin: 0 0.5rem;
+  padding: 0.35rem 0.75rem;
   background-color: #e8e3dc;
+  border-radius: 6px;
   font-size: 0.95rem;
+  text-decoration: none;
+  color: #2b2623;
 }
 
 .subnav a.active {
@@ -82,167 +107,171 @@ nav a {
   font-weight: bold;
 }
 
-/* ------------------------------
-   HERO BLOCKS
------------------------------- */
+/* ------------------------------------------
+   HERO (Unified Height + Safe Gradient Overlay)
+------------------------------------------- */
+
 .hero {
   position: relative;
-  padding: 6rem 1.5rem;
+  overflow: hidden;
   text-align: center;
-  color: #ffffff;
+  padding: 4.5rem 1rem 3rem;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
-.hero::after {
+.hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0,0,0,0.35);
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.75) 0%,
+    rgba(255, 255, 255, 0.60) 40%,
+    rgba(255, 255, 255, 0.50) 100%
+  );
+  z-index: 1;
 }
 
 .hero-inner {
   position: relative;
   z-index: 2;
-  max-width: 700px;
+  max-width: 750px;
   margin: 0 auto;
-}
-
-.hero h1 {
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 3rem;
-  margin-bottom: 1rem;
-}
-
-.hero p {
-  font-size: 1.2rem;
-  color: #f2f2f2;
-}
-
-/* BODY-CLASS-BASED HERO IMAGES */
-.kitchen-page .hero {
-  background-image: url('/images/hero-kitchen.jpg');
-}
-
-.garden-page .hero {
-  background-image: url('/images/hero-garden.jpg');
-}
-
-.land-page .hero {
-  background-image: url('/images/hero-land.jpg');
-}
-
-.digital-page .hero {
-  background-image: url('/images/hero-digital.jpg');
-}
-
-/* ------------------------------
-   TYPOGRAPHY
------------------------------- */
-h1, h2, h3 {
-  font-family: "Playfair Display", Georgia, serif;
   color: #2b2623;
 }
 
-h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+/* ------------------------------------------
+   TAGLINE
+------------------------------------------- */
+
+.tagline {
+  font-size: 1.1rem;
+  color: #4a423d;
+  margin-top: 0.5rem;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  font-style: italic;
 }
 
-p {
-  margin-bottom: 1.2rem;
+.header-divider {
+  width: 80px;
+  height: 2px;
+  background-color: #b8afa6;
+  margin: 1.5rem auto 0;
+  border-radius: 2px;
 }
 
-/* ------------------------------
-   POST GRID (Sub-Pillars)
------------------------------- */
-.post-list {
+/* ------------------------------------------
+   ABOUT PAGE PHOTO
+------------------------------------------- */
+
+.about-photo-wrapper {
+  text-align: center;
+  margin: 1.5rem auto 1.75rem;
+}
+
+.about-photo-wrapper img {
+  max-width: 500px;
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* ------------------------------------------
+   SOFT BANDS
+------------------------------------------- */
+
+.soft-band {
+  background-color: #f3efe9;
+  padding: 1.75rem 1.5rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+/* ------------------------------------------
+   FOUR PILLARS
+------------------------------------------- */
+
+.pillars {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2.5rem;
-  margin-top: 3rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
 }
 
-.post-card {
+.pillar-button {
+  display: block;
+  background-color: #dfe7d8;
+  color: #2b2623;
+  text-decoration: none;
+  padding: 1.25rem;
+  border-radius: 12px;
+  border: 1px solid #c9d2c3;
+  transition: transform 0.15s ease, background-color 0.2s ease;
+}
+
+.pillar-button:hover {
+  background-color: #cfd8c4;
+  transform: translateY(-2px);
+}
+
+/* ------------------------------------------
+   KITCHEN — UNIFIED SINGLE-COLUMN LAYOUT
+------------------------------------------- */
+
+body.kitchen-page .post-list {
+  max-width: 650px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+body.kitchen-page .post-card {
   background-color: #ffffff;
   border-radius: 10px;
-  overflow: hidden;
+  padding: 1.75rem 1.25rem;
+  margin-bottom: 2.5rem;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-.post-card:hover {
-  transform: translateY(-4px);
+body.kitchen-page .post-card:hover {
+  transform: translateY(-3px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
 
-.post-thumb {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-}
-
-.post-card h2 {
-  font-size: 1.4rem;
-  margin: 1rem;
-}
-
-.post-card .excerpt {
-  margin: 0 1rem 1.5rem;
-  color: #6a6a6a;
-  font-size: 1rem;
-}
-
-/* ------------------------------
-   SINGLE-COLUMN OVERRIDE (Cooking)
------------------------------- */
-.kitchen-page .post-list .post-card .post-thumb {
+body.kitchen-page .post-thumb {
   max-width: 350px;
   height: auto;
   object-fit: cover;
-  margin: 0 auto 1rem;
+  margin: 0 auto 1.25rem;
   border-radius: 8px;
+  display: block;
 }
 
-/* ------------------------------
-   RECIPE POST LAYOUT
------------------------------- */
-.post-content {
-  max-width: 900px;
-  margin: 3rem auto;
-  background-color: #ffffff;
-  padding: 2.5rem;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+body.kitchen-page .post-card h2 {
+  font-size: 1.45rem;
+  margin: 0.5rem 0 0.75rem;
+  text-align: center;
 }
 
-.featured-image {
-  width: 100%;
-  height: 350px;
-  object-fit: cover;
-  border-radius: 10px;
-  margin-bottom: 2rem;
-}
-
-.recipe-card {
-  background-color: #faf8f5;
-  padding: 1.5rem;
-  border-radius: 10px;
-  margin-bottom: 2rem;
-}
-
-.recipe-meta {
-  font-size: 0.95rem;
+body.kitchen-page .excerpt {
   color: #6a6a6a;
-  margin-bottom: 1rem;
+  font-size: 1rem;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 550px;
 }
 
-/* ------------------------------
+/* ------------------------------------------
    COMMON ROOTS IMAGE
------------------------------- */
+------------------------------------------- */
+
 .common-roots-image {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   margin: 1.5rem 0 2.5rem;
 }
 
@@ -250,80 +279,107 @@ p {
   max-width: 90%;
   width: 400px;
   height: auto;
-  display: block;
   border-radius: 4px;
 }
 
-/* ------------------------------
-   STAY ROOTED SECTION
------------------------------- */
+/* ------------------------------------------
+   STAY ROOTED
+------------------------------------------- */
+
 .stay-rooted {
   text-align: center;
-  max-width: 650px;
-  margin: 3rem auto 4rem;
-  padding: 2.5rem 1.5rem;
-  background-color: #f3efe9;
-  border-radius: 10px;
+  max-width: 750px;
+  margin: 3rem auto;
+  padding: 1.75rem;
 }
 
-.stay-rooted h2 {
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 1.75rem;
-  margin-bottom: 1rem;
-  color: #2b2623;
-}
-
-.stay-rooted p {
-  margin: 1rem 0;
-  color: #4a423d;
-  line-height: 1.6;
-}
-
-.notify-button {
-  display: inline-block;
-  background-color: #dfe7d8;
-  border: 1px solid #c9d2c3;
-  color: #2b2623;
-  padding: 0.65rem 1.25rem;
-  border-radius: 6px;
-  text-decoration: none;
-  font-size: 0.95rem;
-  transition: background-color 0.2s ease;
-}
-
-.notify-button:hover {
-  background-color: #cfd8c4;
-}
-
-.small-note {
-  font-size: 0.85rem;
-  color: #7a6f66;
-  margin-top: 1rem;
-}
-
-/* ------------------------------
+/* ------------------------------------------
    FOOTER
------------------------------- */
+------------------------------------------- */
+
 footer {
   text-align: center;
-  padding: 3rem 1rem;
-  color: #6a6a6a;
-  font-size: 0.9rem;
+  padding: 2rem 1rem;
+  background-color: #f3efe9;
+  color: #6b625c;
+  font-size: 0.875rem;
+  margin-top: 3rem;
 }
 
-/* ------------------------------
+/* ------------------------------------------
+   HERO BACKGROUNDS (Paths)
+------------------------------------------- */
+
+body.rhythm-page .hero {
+  background-image: url("../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
+}
+
+body.garden-page .hero {
+  background-image: url("../garden/images/Winter 2026 Landscape 3.jpg");
+}
+
+body.craft-page .hero {
+  background-image: url("../craft/images/Pillar Background Thistle and Cypress Craft.PNG");
+}
+
+body.kitchen-page .hero {
+  background-image: url("../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG");
+}
+
+body.home-page .hero {
+  background-image: url("Pillar Background Thistle and Cypress at ends.PNG");
+}
+
+/* ------------------------------------------
+   HERO OVERLAY TIERS
+------------------------------------------- */
+
+body.craft-page .hero::before,
+body.home-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.70),
+    rgba(255, 255, 255, 0.55)
+  );
+}
+
+body.kitchen-page .hero::before,
+body.rhythm-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.80),
+    rgba(255, 255, 255, 0.65)
+  );
+}
+
+body.garden-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.90),
+    rgba(255, 255, 255, 0.80)
+  );
+}
+
+/* ------------------------------------------
    RESPONSIVE
------------------------------- */
-@media (max-width: 700px) {
+------------------------------------------- */
+
+@media (max-width: 768px) {
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.45rem; }
+
   .hero {
-    padding: 4rem 1rem;
+    padding: 3.5rem 1rem 2.5rem;
   }
+}
 
-  .hero h1 {
-    font-size: 2.4rem;
-  }
+@media (max-width: 480px) {
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.3rem; }
+  .tagline { font-size: 1rem; }
 
-  .post-content {
-    padding: 1.5rem;
+  nav a {
+    display: block;
+    margin: 0.5rem 0;
   }
 }
