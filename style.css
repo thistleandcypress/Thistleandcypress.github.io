@@ -350,3 +350,95 @@ body.home-page .hero {
     margin: 0 0.75rem;
   }
 }
+
+/* ==========================================
+   RECIPE CARD
+========================================== */
+
+.recipe-card {
+  background-color: #f3efe9;
+  padding: 2rem;
+  border-radius: 10px;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.recipe-meta {
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #7a6f66;
+}
+
+.recipe-card ul,
+.recipe-card ol {
+  margin: 1rem 0 1.5rem 1.25rem;
+}
+
+.recipe-card li {
+  margin-bottom: 0.5rem;
+}
+
+.recipe-divider {
+  border: none;
+  border-top: 1px solid #e0d9d2;
+  margin: 2rem 0;
+}
+
+/* ==========================================
+   PRINT BUTTON
+========================================== */
+
+.print-button {
+  background-color: #dfe7d8;
+  border: 1px solid #c9d2c3;
+  color: #2b2623;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: Georgia, serif;
+  font-size: 0.9rem;
+  margin: 0.75rem 0 1.5rem;
+  transition: background-color 0.2s ease;
+}
+
+.print-button:hover {
+  background-color: #cfd8c4;
+}
+
+/* ==========================================
+   PRINT STYLES
+========================================== */
+
+@media print {
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  nav,
+  .subnav,
+  .post-back,
+  .print-button,
+  footer {
+    display: none;
+  }
+
+  .recipe-card {
+    background: white;
+    padding: 0;
+    margin: 0;
+  }
+
+  h1, h2, h3 {
+    color: black;
+  }
+
+  main {
+    max-width: 100%;
+    padding: 0;
+  }
+
+}
+
+
