@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Christmas Eve Pasta Prep – Thistle & Cypress</title>
+  <meta name="description" content="Preparing fresh pasta by machine the day before Christmas Eve. A grounded, process-focused look at the work behind the meal.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+
+<body class="kitchen-page">
+
+  <!-- Global Navigation -->
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="/kitchen/index.html" class="active">Kitchen</a>
+    <a href="/garden/index.html">Garden</a>
+    <a href="/craft/index.html">Craft</a>
+    <a href="/rhythm/index.html">Rhythm</a>
+  </nav>
+
+  <!-- Submenu Navigation -->
+  <nav class="subnav">
+    <a href="../index.html">Kitchen</a>
+    <a href="../baking/index.html">Baking</a>
+    <a href="../cooking/index.html">Cooking</a>
+    <a href="../essential-tools/index.html">Essential Tools</a>
+    <a href="../new-finds/index.html">New Finds</a>
+    <a href="../recipes/index.html">Recipes</a>
+    <a href="../tips-tricks/index.html">Tips & Tricks</a>
+    <a href="../travel/index.html">Travel</a>
+    <a href="../wine/index.html">Wine</a>
+  </nav>
+
+  <!-- Post Hero -->
+  <header class="post-hero">
+    <div class="hero-inner">
+      <h1>Christmas Eve Pasta Prep</h1>
+      <p class="post-meta">Cooking · December 2025</p>
+      <div class="header-divider"></div>
+    </div>
+  </header>
+
+  <main class="post-content">
+
+    <!-- Optional Featured Image -->
+    <img 
+      src="../../images/Holly Drying Christmas Eve Pasta.jpg" 
+      alt="Fresh pasta drying on a rack before Christmas Eve" 
+      class="featured-image"
+    >
+
+    <p>
+      <strong>The day before Christmas Eve carries its own kind of focus.</strong> 
+      This year, that focus centered on preparing fresh pasta by machine—simple ingredients coming together with a steady, deliberate rhythm.
+    </p>
+
+    <h2>Mixing the Dough</h2>
+    <p>
+      The dough followed a straightforward ratio of Italian 00 flour, water, and a small amount of olive oil. 
+      For anyone looking for a similar base formula, this 
+      <a href="https://lovelybellbakes.com/easy-extruded-pasta-dough-with-fresh-milled-flour/" target="_blank" rel="noopener">
+        extruded pasta dough guide from Lovely Bell Bakes
+      </a> 
+      offers a clear, well-tested reference. The mixture came together into a smooth, workable dough that held its shape without resisting the process.
+    </p>
+
+    <h2>Extruding the Pasta</h2>
+    <p>
+      Using the pasta machine changed the pace of the work. 
+      Instead of rolling sheets by hand, the dough moved through the mixer and die, emerging as long, even strands of fettuccine. 
+      There’s a quiet satisfaction in watching the machine do exactly what it was built to do—steady pressure, clean cuts, and a growing pile of pasta ready for drying.
+    </p>
+
+    <figure class="section-media">
+      <img 
+        src="../../images/Holly Drying Christmas Eve Pasta.jpg" 
+        alt="Fresh pasta resting on a drying rack"
+      >
+      <figcaption>Freshly extruded pasta set out to dry.</figcaption>
+    </figure>
+
+    <h2>Drying and Finishing</h2>
+    <p>
+      Once extruded, the pasta was coated in semolina to prevent it from sticking then transferred to racks to rest and firm up. 
+      Then it was transferred to a large ziplock container and put into the refrigerator; ready to boil the following day.
+      By the end, the kitchen felt organized and calm—everything in place for the next day’s cooking. 
+      The work was simple, steady, and intentional, setting the tone for the meal to come.
+    </p>
