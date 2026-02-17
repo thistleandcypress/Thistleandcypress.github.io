@@ -365,6 +365,24 @@ body.home-page .hero {
 }
 
 /* ------------------------------------------
+   COMMON ROOTS IMAGE
+------------------------------------------- */
+
+.common-roots-image {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.common-roots-graphic {
+  max-width: 90%;
+  width: 400px;
+  height: auto;
+  display: block;
+  border-radius: 4px; /* optional, but softens the presentation */
+}
+
+/* ------------------------------------------
    RESPONSIVE
 ------------------------------------------- */
 
