@@ -45,10 +45,11 @@
 
     <!-- Optional Featured Image -->
     <img 
-      src="../../images/Holly Drying Christmas Eve Pasta.jpg" 
-      alt="Fresh pasta drying on a rack before Christmas Eve" 
-      class="featured-image"
+      src="../images/Christmas Eve Pasta Cookies and Flour.jpg" 
+      alt="Flour, fresh pasta, and cookies arranged on the counter" 
+      class="post-thumb"
     >
+
 
     <p>
       <strong>The day before Christmas Eve carries its own kind of focus.</strong> 
