@@ -258,6 +258,24 @@ body.kitchen-page .post-card h2 {
   text-align: center;
 }
 
+/* ------------------------------------------
+   WINE SUB-PILLAR — MULTI-COLUMN GRID
+------------------------------------------- */
+
+body.kitchen-page.wine-page .post-list {
+  max-width: 100%;        /* override the 650px limit */
+  padding: 0 1rem;
+  margin: 3rem auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+body.kitchen-page.wine-page .post-card {
+  margin: 0;              /* remove bottom margin so grid spacing controls layout */
+}
+
+
 body.kitchen-page .excerpt {
   color: #6a6a6a;
   font-size: 1rem;
