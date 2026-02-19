@@ -286,19 +286,22 @@ body.kitchen-page .excerpt {
 }
 
 /* ------------------------------------------
-   COMMON ROOTS IMAGE
+   COMMON ROOTS IMAGE - UPDATED
 ------------------------------------------- */
 
 .common-roots-image {
-  text-align: center;
-  margin: 1.5rem 0 2.5rem;
+  margin: 1.5rem auto 2.5rem; /* Centering the container itself */
+  display: flex;             /* Modern way to ensure centering */
+  justify-content: center;
 }
 
 .common-roots-graphic {
-  max-width: 90%;
-  width: 400px;
-  height: auto;
+  display: block;            /* Ensures margins work correctly */
+  max-width: 100%;           /* Prevents overflow on mobile */
+  width: 500px;              /* Increased size slightly for visual balance */
+  height: auto;              /* Maintains aspect ratio */
   border-radius: 4px;
+  margin: 0 auto;            /* Horizontal centering */
 }
 
 /* ------------------------------------------
