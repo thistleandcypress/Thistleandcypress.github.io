@@ -119,6 +119,7 @@ nav a:hover {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  min-height: 40vh;
 }
 
 .hero::before {
