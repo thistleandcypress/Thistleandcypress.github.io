@@ -276,6 +276,37 @@ body.kitchen-page.wine-page .post-card {
   margin: 0;              /* remove bottom margin so grid spacing controls layout */
 }
 
+/* ------------------------------------------
+   GARDEN — POST CARD LAYOUT
+------------------------------------------- */
+
+body.garden-page .post-list {
+  max-width: 750px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+body.garden-page .post-card {
+  background-color: rgba(255, 255, 255, 0.88);
+  border-radius: 10px;
+  padding: 1.75rem 1.25rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+body.garden-page .post-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+body.garden-page .excerpt {
+  color: #6a6a6a;
+  font-size: 1rem;
+  margin: 0.75rem 0 0;
+}
 
 body.kitchen-page .excerpt {
   color: #6a6a6a;
