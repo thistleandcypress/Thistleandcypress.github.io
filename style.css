@@ -135,6 +135,21 @@ nav a:hover {
   z-index: 1;
 }
 
+/* ========== ABOUT PAGE ADDITION ========== */
+/* Hero background div (for About page) */
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url('Pillar Background Thistle and Cypress About.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.47;
+  pointer-events: none;
+  z-index: 0;
+}
+/* ========================================== */
+
 .hero-inner {
   position: relative;
   z-index: 2;
@@ -181,6 +196,25 @@ nav a:hover {
   height: auto;
   margin: 0 auto;
 }
+
+/* ========== ABOUT PAGE ADDITIONS ========== */
+/* Welcome text styling for About page */
+body.about-page .welcome-text {
+  text-align: center;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #4a423d;
+  margin: 2.5rem auto;
+  max-width: 650px;
+}
+
+/* Ensure paragraphs are centered on About page */
+body.about-page section p {
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* ========================================== */
 
 /* ------------------------------------------
    SOFT BANDS
@@ -334,6 +368,15 @@ body.kitchen-page .excerpt {
   border-radius: 4px;
   margin: 0 auto;            /* Horizontal centering */
 }
+
+/* ========== ABOUT PAGE ADDITION ========== */
+/* Support for .common-roots class used on About page */
+.common-roots {
+  margin: 1.5rem auto 2.5rem;
+  display: flex;
+  justify-content: center;
+}
+/* ========================================== */
 
 /* ------------------------------------------
    STAY ROOTED
