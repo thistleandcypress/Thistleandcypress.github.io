@@ -1,6 +1,6 @@
 /* ==========================================
-   THISTLE & CYPRESS — OPTIMIZED STYLESHEET
-   Editorial, warm, single-column Kitchen system
+   THISTLE & CYPRESS — COMPREHENSIVE STYLESHEET
+   Universal classes supporting Home, About, and all 4 Pillars
    ========================================== */
 
 /* Google Font Import */
@@ -76,7 +76,7 @@ p {
 }
 
 /* ------------------------------------------
-   NAVIGATION
+   NAVIGATION — UNIVERSAL
 ------------------------------------------- */
 
 nav {
@@ -95,11 +95,12 @@ nav a {
   transition: border-color 0.3s ease;
 }
 
-nav a:hover {
+nav a:hover,
+nav a.active {
   border-bottom: 2px solid #c8bfb6;
 }
 
-/* Sub-navigation (Kitchen pillar) */
+/* Sub-navigation (used across all pillars) */
 .subnav {
   text-align: center;
   margin: 1.5rem 0 2.5rem;
@@ -113,15 +114,20 @@ nav a:hover {
   font-size: 0.95rem;
   text-decoration: none;
   color: #2b2623;
+  transition: background-color 0.2s ease;
+}
+
+.subnav a:hover,
+.subnav a.active {
+  background-color: #d6cec4;
 }
 
 .subnav a.active {
-  background-color: #d6cec4;
   font-weight: bold;
 }
 
 /* ------------------------------------------
-   HERO (Unified Height + Safe Gradient Overlay)
+   HERO — UNIVERSAL
 ------------------------------------------- */
 
 .hero {
@@ -148,7 +154,7 @@ nav a:hover {
   z-index: 1;
 }
 
-/* Hero background div (for About page) */
+/* Hero background div (for About page with custom opacity) */
 .hero-bg {
   position: absolute;
   inset: 0;
@@ -170,7 +176,7 @@ nav a:hover {
 }
 
 /* ------------------------------------------
-   TAGLINE
+   TAGLINE & DIVIDERS — UNIVERSAL
 ------------------------------------------- */
 
 .tagline {
@@ -193,22 +199,21 @@ nav a:hover {
 }
 
 /* ------------------------------------------
-   ABOUT PAGE PHOTO
+   WELCOME TEXT — UNIVERSAL (used on all pillar pages)
 ------------------------------------------- */
 
-.about-photo-wrapper {
-  text-align: center;
-  margin: 1.5rem auto 1.75rem;
+.welcome-text {
+  max-width: 750px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  line-height: 1.7;
 }
 
-.about-photo-wrapper img {
-  max-width: 500px;
-  width: 90%;
-  height: auto;
-  margin: 0 auto;
+.welcome-text p {
+  margin: 1.2rem 0;
 }
 
-/* Welcome text styling for About page */
+/* About page specific welcome styling */
 body.about-page .welcome-text {
   text-align: center;
   font-size: 1.2rem;
@@ -218,15 +223,70 @@ body.about-page .welcome-text {
   max-width: 650px;
 }
 
-/* Ensure paragraphs are centered on About page */
-body.about-page section p {
+/* ------------------------------------------
+   CONTENT SECTIONS — UNIVERSAL
+------------------------------------------- */
+
+.content-section {
   max-width: 750px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 2.5rem auto;
+  padding: 0 1rem;
+}
+
+.content-section h2 {
+  font-size: 1.55rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: #2b2623;
+}
+
+.content-section h3 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.content-section p {
+  margin: 1rem 0;
+  line-height: 1.7;
+}
+
+/* Section inner wrapper (for additional control) */
+.section-inner {
+  max-width: 100%;
 }
 
 /* ------------------------------------------
-   SOFT BANDS
+   PILLAR LISTS — UNIVERSAL (Garden, Craft, Rhythm style)
+------------------------------------------- */
+
+.pillar-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.pillar-list li {
+  margin: 1rem 0;
+  line-height: 1.7;
+}
+
+.pillar-list a {
+  text-decoration: none;
+  color: #2b2623;
+  transition: color 0.2s ease;
+}
+
+.pillar-list a:hover {
+  color: #6b625c;
+}
+
+.pillar-list strong {
+  font-weight: 600;
+}
+
+/* ------------------------------------------
+   SOFT BANDS — UNIVERSAL
 ------------------------------------------- */
 
 .soft-band {
@@ -237,8 +297,13 @@ body.about-page section p {
 }
 
 /* ------------------------------------------
-   FOUR PILLARS
+   FOUR PILLARS GRID — HOME PAGE
 ------------------------------------------- */
+
+.pillars-wrapper {
+  max-width: 900px;
+  margin: 2rem auto;
+}
 
 .pillars {
   display: grid;
@@ -263,17 +328,28 @@ body.about-page section p {
   transform: translateY(-2px);
 }
 
+.pillar-content h2 {
+  margin-top: 0;
+  font-size: 1.4rem;
+}
+
+.pillar-content p {
+  margin: 0.75rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
 /* ------------------------------------------
-   KITCHEN — UNIFIED SINGLE-COLUMN LAYOUT
+   POST CARDS — UNIVERSAL (Kitchen & Garden)
 ------------------------------------------- */
 
-body.kitchen-page .post-list {
-  max-width: 650px;
+.post-list {
+  max-width: 750px;
   margin: 3rem auto;
   padding: 0 1rem;
 }
 
-body.kitchen-page .post-card {
+.post-card {
   background-color: #ffffff;
   border-radius: 10px;
   padding: 1.75rem 1.25rem;
@@ -282,13 +358,27 @@ body.kitchen-page .post-card {
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-body.kitchen-page .post-card:hover {
+.post-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
 
-body.kitchen-page .post-thumb {
-  max-width: 350px;
+.post-card h2,
+.post-card h3 {
+  margin: 0.5rem 0 0.75rem;
+}
+
+.post-card a {
+  text-decoration: none;
+  color: #2b2623;
+}
+
+.post-card a:hover {
+  color: #6b625c;
+}
+
+.post-thumb {
+  max-width: 100%;
   height: auto;
   object-fit: cover;
   margin: 0 auto 1.25rem;
@@ -296,37 +386,35 @@ body.kitchen-page .post-thumb {
   display: block;
 }
 
-body.kitchen-page .post-card h2 {
-  font-size: 1.45rem;
-  margin: 0.5rem 0 0.75rem;
+.excerpt {
+  color: #6a6a6a;
+  font-size: 1rem;
+  margin: 0.75rem 0 0;
+  line-height: 1.6;
+}
+
+/* Kitchen-specific: single column with centered content */
+body.kitchen-page .post-list {
+  max-width: 650px;
+}
+
+body.kitchen-page .post-card h2,
+body.kitchen-page .post-card h3 {
   text-align: center;
 }
 
-/* ------------------------------------------
-   WINE SUB-PILLAR — MULTI-COLUMN GRID
-------------------------------------------- */
-
-body.kitchen-page.wine-page .post-list {
-  max-width: 100%;        /* override the 650px limit */
-  padding: 0 1rem;
-  margin: 3rem auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
+body.kitchen-page .post-thumb {
+  max-width: 350px;
 }
 
-body.kitchen-page.wine-page .post-card {
-  margin: 0;              /* remove bottom margin so grid spacing controls layout */
+body.kitchen-page .excerpt {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 550px;
 }
 
-/* ------------------------------------------
-   GARDEN — POST CARD LAYOUT
-------------------------------------------- */
-
+/* Garden-specific: multi-column grid */
 body.garden-page .post-list {
-  max-width: 750px;
-  margin: 3rem auto;
-  padding: 0 1rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 2rem;
@@ -334,59 +422,100 @@ body.garden-page .post-list {
 
 body.garden-page .post-card {
   background-color: rgba(255, 255, 255, 0.88);
-  border-radius: 10px;
-  padding: 1.75rem 1.25rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  margin-bottom: 0;
 }
 
-body.garden-page .post-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+/* Wine sub-pillar: multi-column grid */
+body.kitchen-page.wine-page .post-list {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
 }
 
-body.garden-page .excerpt {
-  color: #6a6a6a;
-  font-size: 1rem;
-  margin: 0.75rem 0 0;
-}
-
-body.kitchen-page .excerpt {
-  color: #6a6a6a;
-  font-size: 1rem;
-  text-align: center;
-  margin: 0 auto;
-  max-width: 550px;
+body.kitchen-page.wine-page .post-card {
+  margin: 0;
 }
 
 /* ------------------------------------------
-   COMMON ROOTS IMAGE - UPDATED
+   FEATURED CONTENT — UNIVERSAL
 ------------------------------------------- */
 
-.common-roots-image {
-  margin: 1.5rem auto 2.5rem; /* Centering the container itself */
-  display: flex;             /* Modern way to ensure centering */
+.featured-content {
+  max-width: 750px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.featured-content article {
+  margin: 2rem 0;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e8e3dc;
+}
+
+.featured-content article:last-child {
+  border-bottom: none;
+}
+
+.featured-content h3 {
+  margin-top: 0;
+}
+
+.featured-content a {
+  text-decoration: none;
+  color: #2b2623;
+  transition: color 0.2s ease;
+}
+
+.featured-content a:hover {
+  color: #6b625c;
+}
+
+/* ------------------------------------------
+   ABOUT PAGE SPECIFIC
+------------------------------------------- */
+
+.about-photo-wrapper {
+  text-align: center;
+  margin: 1.5rem auto 1.75rem;
+}
+
+.about-photo-wrapper img {
+  max-width: 500px;
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+}
+
+body.about-page section p {
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ------------------------------------------
+   COMMON ROOTS / CREST IMAGES — UNIVERSAL
+------------------------------------------- */
+
+.common-roots-image,
+.common-roots {
+  margin: 2.5rem auto;
+  display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 .common-roots-graphic {
-  display: block;            /* Ensures margins work correctly */
-  max-width: 100%;           /* Prevents overflow on mobile */
-  width: 500px;              /* Increased size slightly for visual balance */
-  height: auto;              /* Maintains aspect ratio */
+  display: block;
+  max-width: 100%;
+  width: 500px;
+  height: auto;
   border-radius: 4px;
-  margin: 0 auto;            /* Horizontal centering */
-}
-
-/* Support for .common-roots class used on About page */
-.common-roots {
-  margin: 1.5rem auto 2.5rem;
-  display: flex;
-  justify-content: center;
+  margin: 0 auto;
 }
 
 /* ------------------------------------------
-   STAY ROOTED
+   STAY ROOTED — HOME PAGE
 ------------------------------------------- */
 
 .stay-rooted {
@@ -395,11 +524,6 @@ body.kitchen-page .excerpt {
   margin: 3rem auto;
   padding: 1.75rem;
 }
-
-/* ========== NEW HOMEPAGE ADDITIONS ========== */
-/* ------------------------------------------
-   NOTIFY BUTTON (Stay Rooted Section)
-------------------------------------------- */
 
 .notify-button {
   display: inline-block;
@@ -424,10 +548,9 @@ body.kitchen-page .excerpt {
   font-style: italic;
   margin-top: 1rem;
 }
-/* ========================================== */
 
 /* ------------------------------------------
-   FOOTER
+   FOOTER — UNIVERSAL
 ------------------------------------------- */
 
 footer {
@@ -439,32 +562,37 @@ footer {
   margin-top: 3rem;
 }
 
+.footer-inner {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
 /* ------------------------------------------
-   HERO BACKGROUNDS (Paths)
+   HERO BACKGROUNDS — PAGE SPECIFIC
 ------------------------------------------- */
-
-body.rhythm-page .hero {
-  background-image: url("../rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
-}
-
-body.garden-page .hero {
-  background-image: url("../garden/images/Garden-Hero2.jpg");
-}
-
-body.craft-page .hero {
-  background-image: url("../craft/images/Pillar Background Thistle and Cypress Craft.PNG");
-}
-
-body.kitchen-page .hero {
-  background-image: url("../kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG");
-}
 
 body.home-page .hero {
   background-image: url("Pillar Background Thistle and Cypress at ends.jpg");
 }
 
+body.kitchen-page .hero {
+  background-image: url("kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG");
+}
+
+body.garden-page .hero {
+  background-image: url("garden/images/Garden-Hero2.jpg");
+}
+
+body.craft-page .hero {
+  background-image: url("craft/images/Pillar Background Thistle and Cypress Craft.PNG");
+}
+
+body.rhythm-page .hero {
+  background-image: url("rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
+}
+
 /* ------------------------------------------
-   HERO OVERLAY TIERS
+   HERO OVERLAY VARIATIONS — PAGE SPECIFIC
 ------------------------------------------- */
 
 body.craft-page .hero::before,
@@ -493,26 +621,71 @@ body.garden-page .hero::before {
   );
 }
 
+/* About page has custom background via .hero-bg div */
+body.about-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0.10)
+  );
+}
+
 /* ------------------------------------------
-   RESPONSIVE
+   RESPONSIVE DESIGN
 ------------------------------------------- */
 
 @media (max-width: 768px) {
   h1 { font-size: 2rem; }
   h2 { font-size: 1.45rem; }
+  h3 { font-size: 1.2rem; }
 
   .hero {
     padding: 3.5rem 1rem 2.5rem;
+  }
+
+  .pillars {
+    grid-template-columns: 1fr;
+  }
+
+  .post-list,
+  body.garden-page .post-list,
+  body.kitchen-page.wine-page .post-list {
+    grid-template-columns: 1fr;
+  }
+
+  .common-roots-graphic {
+    width: 400px;
   }
 }
 
 @media (max-width: 480px) {
   h1 { font-size: 1.75rem; }
   h2 { font-size: 1.3rem; }
+  h3 { font-size: 1.1rem; }
+  
   .tagline { font-size: 1rem; }
 
   nav a {
     display: block;
     margin: 0.5rem 0;
+  }
+
+  .subnav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .subnav a {
+    margin: 0.25rem;
+    font-size: 0.9rem;
+  }
+
+  .common-roots-graphic {
+    width: 300px;
+  }
+
+  main {
+    padding: 1rem 1rem 2.5rem;
   }
 }
