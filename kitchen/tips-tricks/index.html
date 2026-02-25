@@ -2,38 +2,98 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Tips & Tricks – Thistle & Cypress</title>
-  <meta name="description" content="Practical techniques and small efficiencies that make daily cooking calmer and more intuitive.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tips & Tricks – Thistle & Cypress | Kitchen Techniques & Cooking Efficiencies</title>
+
+  <meta name="description" content="Practical techniques and small efficiencies that make daily cooking calmer and more intuitive. Elevate everyday meals with time-tested kitchen tips.">
+  <meta name="author" content="Thistle & Cypress">
+  <meta name="keywords" content="cooking tips, kitchen tricks, cooking techniques, kitchen efficiency, cooking hacks, practical cooking, kitchen tips, everyday cooking">
+  <meta name="theme-color" content="#faf8f5">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/tips-tricks/">
+
+  <!-- OpenGraph Metadata -->
+  <meta property="og:title" content="Tips & Tricks – Thistle & Cypress | Kitchen Techniques & Efficiencies">
+  <meta property="og:description" content="Practical techniques and small efficiencies that make daily cooking calmer and more intuitive.">
+  <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/tips-tricks/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Thistle & Cypress">
+
+  <!-- Twitter Metadata -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tips & Tricks – Thistle & Cypress | Kitchen Techniques & Efficiencies">
+  <meta name="twitter:description" content="Practical techniques and small efficiencies that make daily cooking calmer and more intuitive.">
+  <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+
+  <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
+
+  <!-- JSON-LD: Website -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Thistle & Cypress",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
+    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Thistle & Cypress"
+    }
+  }
+  </script>
+
+  <!-- JSON-LD: Breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Kitchen",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Tips & Tricks",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/tips-tricks/"
+      }
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: CollectionPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Tips & Tricks",
+    "description": "Practical techniques and small efficiencies that make daily cooking calmer and more intuitive.",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/tips-tricks/",
+    "isPartOf": {
+      "@type": "WebPage",
+      "name": "Kitchen",
+      "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/"
+    }
+  }
+  </script>
 </head>
 
 <body class="kitchen-page">
 
-  <!-- Global Navigation -->
-  <nav>
-    <a href="../../index.html">Home</a>
-    <a href="../../about.html">About</a>
-    <a href="../../kitchen/index.html" class="active">Kitchen</a>
-    <a href="../../garden/index.html">Garden</a>
-    <a href="../../craft/index.html">Craft</a>
-    <a href="../../rhythm/index.html">Rhythm</a>
-  </nav>
-
-  <!-- Kitchen Sub‑Navigation -->
-  <nav class="subnav">
-    <a href="../index.html">Kitchen</a>
-    <a href="../baking/index.html">Baking</a>
-    <a href="../cooking/index.html">Cooking</a>
-    <a href="../recipes/index.html">Recipes</a>
-    <a href="../essential-tools/index.html">Essential Tools</a>
-    <a href="../tips-tricks/index.html" class="active">Tips & Tricks</a>
-    <a href="../new-finds/index.html">New Finds</a>
-    <a href="../travel/index.html">Travel</a>
-    <a href="../wine/index.html">Wine</a>
-  </nav>
-
   <!-- Hero -->
-  <header class="hero">
+  <header class="hero" role="banner">
     <div class="hero-inner">
       <h1>Tips & Tricks</h1>
       <p class="tagline">Practical techniques and small efficiencies that make daily cooking calmer and more intuitive.</p>
@@ -41,17 +101,46 @@
     </div>
   </header>
 
-  <main>
+  <!-- Global Navigation -->
+  <nav role="navigation" aria-label="Primary navigation">
+    <a href="../../index.html">Home</a>
+    <a href="../../about.html">About</a>
+    <a href="../../kitchen/index.html" class="active" aria-current="page">Kitchen</a>
+    <a href="../../garden/index.html">Garden</a>
+    <a href="../../craft/index.html">Craft</a>
+    <a href="../../rhythm/index.html">Rhythm</a>
+  </nav>
+
+  <!-- Kitchen Sub-Navigation -->
+  <nav class="subnav" role="navigation" aria-label="Kitchen sections">
+    <a href="../index.html">Kitchen</a>
+    <a href="../baking/index.html">Baking</a>
+    <a href="../cooking/index.html">Cooking</a>
+    <a href="../recipes/index.html">Recipes</a>
+    <a href="../essential-tools/index.html">Essential Tools</a>
+    <a href="index.html" class="active" aria-current="page">Tips & Tricks</a>
+    <a href="../new-finds/index.html">New Finds</a>
+    <a href="../travel/index.html">Travel</a>
+    <a href="../wine/index.html">Wine</a>
+  </nav>
+
+  <main role="main">
 
     <div class="post-list">
 
       <!-- Future Tips & Tricks posts will go here -->
       <!-- Example post structure:
-      <article class="post-card">
-        <a href="POST.html">
-          <img src="../images/your-image.jpg" alt="Description" class="post-thumb">
-          <h2>Post Title</h2>
-          <p class="excerpt">Short description of the post...</p>
+      <article class="post-card" itemscope itemtype="https://schema.org/Article">
+        <a href="POST.html" itemprop="url">
+          <img 
+            src="../images/your-image.jpg" 
+            alt="Description" 
+            class="post-thumb"
+            itemprop="image"
+            loading="lazy"
+          >
+          <h2 itemprop="headline">Post Title</h2>
+          <p class="excerpt" itemprop="description">Short description of the post...</p>
         </a>
       </article>
       -->
@@ -65,8 +154,10 @@
 
   </main>
 
-  <footer>
-    <p>© Thistle & Cypress</p>
+  <footer role="contentinfo">
+    <div class="footer-inner">
+      © Thistle & Cypress
+    </div>
   </footer>
 
 </body>
