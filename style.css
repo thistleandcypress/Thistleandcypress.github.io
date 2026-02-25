@@ -62,6 +62,19 @@ p {
   margin: 1.2rem 0;
 }
 
+/* Visually hidden but accessible to screen readers */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* ------------------------------------------
    NAVIGATION
 ------------------------------------------- */
@@ -135,7 +148,6 @@ nav a:hover {
   z-index: 1;
 }
 
-/* ========== ABOUT PAGE ADDITION ========== */
 /* Hero background div (for About page) */
 .hero-bg {
   position: absolute;
@@ -148,7 +160,6 @@ nav a:hover {
   pointer-events: none;
   z-index: 0;
 }
-/* ========================================== */
 
 .hero-inner {
   position: relative;
@@ -197,7 +208,6 @@ nav a:hover {
   margin: 0 auto;
 }
 
-/* ========== ABOUT PAGE ADDITIONS ========== */
 /* Welcome text styling for About page */
 body.about-page .welcome-text {
   text-align: center;
@@ -214,7 +224,6 @@ body.about-page section p {
   margin-left: auto;
   margin-right: auto;
 }
-/* ========================================== */
 
 /* ------------------------------------------
    SOFT BANDS
@@ -369,14 +378,12 @@ body.kitchen-page .excerpt {
   margin: 0 auto;            /* Horizontal centering */
 }
 
-/* ========== ABOUT PAGE ADDITION ========== */
 /* Support for .common-roots class used on About page */
 .common-roots {
   margin: 1.5rem auto 2.5rem;
   display: flex;
   justify-content: center;
 }
-/* ========================================== */
 
 /* ------------------------------------------
    STAY ROOTED
@@ -388,6 +395,36 @@ body.kitchen-page .excerpt {
   margin: 3rem auto;
   padding: 1.75rem;
 }
+
+/* ========== NEW HOMEPAGE ADDITIONS ========== */
+/* ------------------------------------------
+   NOTIFY BUTTON (Stay Rooted Section)
+------------------------------------------- */
+
+.notify-button {
+  display: inline-block;
+  background-color: #d6cec4;
+  color: #2b2623;
+  text-decoration: none;
+  padding: 0.85rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+  margin-top: 0.5rem;
+}
+
+.notify-button:hover {
+  background-color: #c8bfb6;
+  transform: translateY(-2px);
+}
+
+.small-note {
+  font-size: 0.9rem;
+  color: #6b625c;
+  font-style: italic;
+  margin-top: 1rem;
+}
+/* ========================================== */
 
 /* ------------------------------------------
    FOOTER
