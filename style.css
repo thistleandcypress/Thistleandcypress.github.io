@@ -472,6 +472,36 @@ body.kitchen-page.wine-page .post-card {
 }
 
 /* ------------------------------------------
+   POST BACK LINK — UNIVERSAL
+   (Used on individual posts, sub-pillar pages, and About page)
+------------------------------------------- */
+
+.post-back {
+  margin: 2rem auto;
+  padding: 1rem 0;
+  border-top: 1px solid #e8e3dc;
+  max-width: 750px;
+  text-align: left;
+}
+
+.post-back a {
+  text-decoration: none;
+  color: #2b2623;
+  font-size: 1rem;
+  transition: color 0.2s ease;
+  display: inline-block;
+}
+
+.post-back a:hover {
+  color: #6b625c;
+}
+
+.post-back a::before {
+  content: "← ";
+  margin-right: 0.25rem;
+}
+
+/* ------------------------------------------
    ABOUT PAGE SPECIFIC
 ------------------------------------------- */
 
