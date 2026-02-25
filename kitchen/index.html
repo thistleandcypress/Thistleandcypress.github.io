@@ -3,23 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kitchen – Thistle & Cypress</title>
+  <title>Kitchen – Thistle & Cypress | Seasonal Cooking, Baking & Culinary Travel</title>
 
-  <meta name="description" content="A kitchen shaped by the seasons and inspired by the world — cooking, baking, and exploring flavors that connect place, memory, and travel.">
+  <meta name="description" content="Explore seasonal cooking, artisan baking, and culinary travel. From Italian pasta to Scottish markets, discover recipes, techniques, and wine pairings rooted in heritage and intention.">
   <meta name="author" content="Thistle & Cypress">
+  <meta name="keywords" content="seasonal cooking, artisan baking, Italian recipes, Scottish food, farmers market, pasta making, wine pairing, kitchen tools, culinary travel">
   <meta name="theme-color" content="#faf8f5">
 
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/">
+
   <!-- OpenGraph Metadata -->
-  <meta property="og:title" content="Kitchen – Thistle & Cypress">
-  <meta property="og:description" content="A kitchen shaped by the seasons and inspired by the world — cooking, baking, and exploring flavors that connect place, memory, and travel.">
+  <meta property="og:title" content="Kitchen – Thistle & Cypress | Seasonal Cooking & Baking">
+  <meta property="og:description" content="Explore seasonal cooking, artisan baking, and culinary travel. From Italian pasta to Scottish markets, discover recipes, techniques, and wine pairings rooted in heritage and intention.">
   <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Thistle & Cypress">
 
   <!-- Twitter Metadata -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Kitchen – Thistle & Cypress">
-  <meta name="twitter:description" content="A kitchen shaped by the seasons and inspired by the world — cooking, baking, and exploring flavors that connect place, memory, and travel.">
+  <meta name="twitter:title" content="Kitchen – Thistle & Cypress | Seasonal Cooking & Baking">
+  <meta name="twitter:description" content="Explore seasonal cooking, artisan baking, and culinary travel. From Italian pasta to Scottish markets, discover recipes, techniques, and wine pairings.">
   <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
 
   <link rel="icon" type="image/jpeg" href="../Favicon.jpg">
@@ -61,11 +66,77 @@
     ]
   }
   </script>
+
+  <!-- JSON-LD: CollectionPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Kitchen",
+    "description": "A kitchen shaped by the seasons and inspired by the world — cooking, baking, and exploring flavors that connect place, memory, and travel.",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Thistle & Cypress",
+      "url": "https://thistleandcypress.github.io/thistleandcypress.com/"
+    },
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "Seasonal Cooking"
+      },
+      {
+        "@type": "Thing",
+        "name": "Artisan Baking"
+      },
+      {
+        "@type": "Thing",
+        "name": "Wine Pairing"
+      },
+      {
+        "@type": "Thing",
+        "name": "Culinary Travel"
+      }
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: Articles (Featured Content) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "Article",
+        "position": 1,
+        "headline": "Christmas Eve Pasta",
+        "description": "Creating the right pasta recipe to use in the pasta machine for our family Christmas Eve dinner.",
+        "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/cooking/CEPasta.html",
+        "author": {
+          "@type": "Organization",
+          "name": "Thistle & Cypress"
+        }
+      },
+      {
+        "@type": "Article",
+        "position": 2,
+        "headline": "Rick's No Nuts Banana Bread",
+        "description": "A cozy, nut‑free banana bread with big flavor, easy technique, and that unmistakable your life is together aroma.",
+        "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/baking/Rick-B-Bread.html",
+        "author": {
+          "@type": "Organization",
+          "name": "Thistle & Cypress"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 
 <body class="kitchen-page">
 
-  <!-- Hero -->
+  <!-- HERO -->
   <header class="hero" role="banner">
     <div class="hero-inner">
       <h1>Kitchen</h1>
@@ -76,7 +147,7 @@
     </div>
   </header>
 
-  <!-- Global Navigation -->
+  <!-- GLOBAL NAVIGATION -->
   <nav role="navigation" aria-label="Primary navigation">
     <a href="../index.html">Home</a>
     <a href="../about.html">About</a>
@@ -86,7 +157,7 @@
     <a href="../rhythm/index.html">Rhythm</a>
   </nav>
 
-  <!-- Kitchen Sub‑Navigation -->
+  <!-- KITCHEN SUB-NAVIGATION -->
   <nav class="subnav" role="navigation" aria-label="Kitchen sections">
     <a href="index.html" class="active" aria-current="page">Kitchen</a>
     <a href="baking/index.html">Baking</a>
@@ -99,11 +170,11 @@
     <a href="wine/index.html">Wine</a>
   </nav>
 
-  <!-- Main Content -->
+  <!-- MAIN CONTENT -->
   <main role="main">
-    
-    <!-- Philosophy Section -->
-    <section class="philosophy">
+
+    <!-- WELCOME TEXT -->
+    <section class="welcome-text">
       <p>A kitchen shaped by the seasons and inspired by the wider world — where craft, skill, and experience meet at the table.</p>
 
       <p>This is where ingredients are handled with care, techniques are practiced and refined, and discoveries — whether from travel, wine, or new tools — deepen the rhythm of daily cooking.</p>
@@ -111,8 +182,8 @@
       <p>Here, nourishment is not rushed. It is built through repetition, curiosity, and an openness to both tradition and exploration.</p>
     </section>
 
-    <!-- How We Cook -->
-    <section class="how-we-cook">
+    <!-- HOW WE COOK -->
+    <section class="content-section">
       <h2>How We Cook</h2>
 
       <p>Our kitchen is shaped by two different instincts that meet at the same table. Rick cooks the way some people breathe—intuitively, confidently, without ever needing to read a recipe. He can turn whatever is in front of him into something deeply delicious, guided by memory, curiosity, and a kind of quiet alchemy.</p>
@@ -126,71 +197,57 @@
       <p><em>This is the heart of our kitchen: intuitive cooking, mindful sourcing, and the simple pleasure of making food that feels honest and alive.</em></p>
     </section>
 
-    <!-- Sub-Pillar Navigation -->
-    <section class="sub-pillars">
+    <!-- SUB-PILLAR NAVIGATION -->
+    <section class="content-section">
+      
       <h2>Craft</h2>
-
-      <div class="subpillar-group">
-        <h3><a href="baking/index.html">Baking</a></h3>
-        <p>Slow breads, rustic loaves, and simple desserts that reward patience.</p>
-
-        <h3><a href="cooking/index.html">Cooking</a></h3>
-        <p>Seasonal, ingredient-driven meals rooted in simplicity and harvest.</p>
-
-        <h3><a href="recipes/index.html">Recipes</a></h3>
-        <p>A curated collection of complete dishes — organized and ready to make.</p>
-      </div>
+      <ul class="pillar-list">
+        <li><a href="baking/index.html"><strong>Baking</strong></a> — Slow breads, rustic loaves, and simple desserts that reward patience.</li>
+        <li><a href="cooking/index.html"><strong>Cooking</strong></a> — Seasonal, ingredient-driven meals rooted in simplicity and harvest.</li>
+        <li><a href="recipes/index.html"><strong>Recipes</strong></a> — A curated collection of complete dishes — organized and ready to make.</li>
+      </ul>
 
       <h2>Skill</h2>
-
-      <div class="subpillar-group">
-        <h3><a href="essential-tools/index.html">Essential Tools</a></h3>
-        <p>The foundational equipment and kitchen staples that make thoughtful cooking possible.</p>
-
-        <h3><a href="tips-tricks/index.html">Tips & Tricks</a></h3>
-        <p>Practical techniques and efficiencies that elevate everyday meals.</p>
-      </div>
+      <ul class="pillar-list">
+        <li><a href="essential-tools/index.html"><strong>Essential Tools</strong></a> — The foundational equipment and kitchen staples that make thoughtful cooking possible.</li>
+        <li><a href="tips-tricks/index.html"><strong>Tips & Tricks</strong></a> — Practical techniques and efficiencies that elevate everyday meals.</li>
+      </ul>
 
       <h2>Experience</h2>
+      <ul class="pillar-list">
+        <li><a href="travel/index.html"><strong>Travel</strong></a> — Culinary experiences beyond home — regional flavors, markets, and traditions.</li>
+        <li><a href="wine/index.html"><strong>Wine</strong></a> — Approachable wine pairings that complement seasonal cooking.</li>
+        <li><a href="new-finds/index.html"><strong>New Finds</strong></a> — Recent discoveries — ingredients, tools, and inspirations worth sharing.</li>
+      </ul>
 
-      <div class="subpillar-group">
-        <h3><a href="travel/index.html">Travel</a></h3>
-        <p>Culinary experiences beyond home — regional flavors, markets, and traditions.</p>
-
-        <h3><a href="wine/index.html">Wine</a></h3>
-        <p>Approachable wine pairings that complement seasonal cooking.</p>
-
-        <h3><a href="new-finds/index.html">New Finds</a></h3>
-        <p>Recent discoveries — ingredients, tools, and inspirations worth sharing.</p>
-      </div>
     </section>
 
-    <!-- Featured Content -->
+    <!-- FEATURED CONTENT -->
     <section class="featured-content">
       <h2>Highlights from the Kitchen</h2>
       <p>Seasonal cooking, foundational skills, and thoughtful discoveries — selected from across the Kitchen pillar.</p>
 
-      <article>
-        <h3><a href="cooking/CEPasta.html">Christmas Eve Pasta</a></h3>
-        <p>Creating the right pasta recipe to use in the pasta machine for our family Christmas Eve dinner.</p>
+      <article itemscope itemtype="https://schema.org/Article">
+        <h3 itemprop="headline"><a href="cooking/CEPasta.html" itemprop="url">Christmas Eve Pasta</a></h3>
+        <p itemprop="description">Creating the right pasta recipe to use in the pasta machine for our family Christmas Eve dinner.</p>
       </article>
 
-      <article>
-        <h3><a href="baking/Rick-B-Bread.html">Rick's "No Nuts" Banana Bread</a></h3>
-        <p>A cozy, nut‑free banana bread with big flavor, easy technique, and that unmistakable "your life is together" aroma.</p>
+      <article itemscope itemtype="https://schema.org/Article">
+        <h3 itemprop="headline"><a href="baking/Rick-B-Bread.html" itemprop="url">Rick's "No Nuts" Banana Bread</a></h3>
+        <p itemprop="description">A cozy, nut‑free banana bread with big flavor, easy technique, and that unmistakable "your life is together" aroma.</p>
       </article>
 
       <!--
       Future Content:
       
-      <article>
-        <h3><a href="wine/your-post.html">Wine Post Title</a></h3>
-        <p>Brief description mentioning pairing or seasonal inspiration.</p>
+      <article itemscope itemtype="https://schema.org/Article">
+        <h3 itemprop="headline"><a href="wine/your-post.html" itemprop="url">Wine Post Title</a></h3>
+        <p itemprop="description">Brief description mentioning pairing or seasonal inspiration.</p>
       </article>
 
-      <article>
-        <h3><a href="essential-tools/your-post.html">Tools or Tips Post Title</a></h3>
-        <p>Short description reinforcing skill-building or kitchen efficiency.</p>
+      <article itemscope itemtype="https://schema.org/Article">
+        <h3 itemprop="headline"><a href="essential-tools/your-post.html" itemprop="url">Tools or Tips Post Title</a></h3>
+        <p itemprop="description">Short description reinforcing skill-building or kitchen efficiency.</p>
       </article>
       -->
     </section>
