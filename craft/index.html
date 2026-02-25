@@ -1,30 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Basic Metadata -->
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A life rooted in heritage, shaped by land, and carried forward with intention.">
+  <title>Craft – Thistle & Cypress | Handmade Wreaths, Florals, Painting & Creative Home Projects</title>
+
+  <meta name="description" content="The work of making a home through seasonal wreaths, foraged florals, painting, upcycling, and handmade details. Discover creative tools, guides, and stories of intentional craft.">
   <meta name="author" content="Thistle & Cypress">
+  <meta name="keywords" content="handmade wreaths, seasonal florals, painting projects, upcycling, creative home decor, DIY crafts, foraged materials, interior styling, home projects, creative tools">
   <meta name="theme-color" content="#faf8f5">
 
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/craft/">
+
   <!-- OpenGraph Metadata -->
-  <meta property="og:title" content="Thistle & Cypress">
-  <meta property="og:description" content="A life rooted in heritage, shaped by land, and carried forward with intention. Explore our four pillars—Kitchen, Garden, Craft, and Rhythm—as we cultivate a more grounded, intentional way of being.">
+  <meta property="og:title" content="Craft – Thistle & Cypress | Handmade Wreaths, Florals & Creative Projects">
+  <meta property="og:description" content="The work of making a home through seasonal wreaths, foraged florals, painting, upcycling, and handmade details. Discover creative tools, guides, and stories of intentional craft.">
   <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/craft/">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Thistle & Cypress">
 
   <!-- Twitter Metadata -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Thistle & Cypress">
-  <meta name="twitter:description" content="A life rooted in heritage, shaped by land, and carried forward with intention. Explore our four pillars—Kitchen, Garden, Craft, and Rhythm—as we cultivate a more grounded, intentional way of being.">
+  <meta name="twitter:title" content="Craft – Thistle & Cypress | Handmade Wreaths & Creative Home Projects">
+  <meta name="twitter:description" content="The work of making a home through seasonal wreaths, foraged florals, painting, upcycling, and handmade details. Creative tools, guides, and stories.">
   <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
 
-  <title>Craft | Thistle & Cypress</title>
   <link rel="icon" type="image/jpeg" href="../Favicon.jpg">
   <link rel="stylesheet" href="../style.css">
 
-  <!-- JSON-LD Structured Data -->
+  <!-- JSON-LD: Website -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -39,6 +45,7 @@
   }
   </script>
 
+  <!-- JSON-LD: Breadcrumbs -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -55,6 +62,44 @@
         "position": 2,
         "name": "Craft",
         "item": "https://thistleandcypress.github.io/thistleandcypress.com/craft/"
+      }
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: CollectionPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Craft",
+    "description": "Hands that build, mend, preserve, and create—carrying forward what our grandmothers knew.",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/craft/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Thistle & Cypress",
+      "url": "https://thistleandcypress.github.io/thistleandcypress.com/"
+    },
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "Handmade Wreaths"
+      },
+      {
+        "@type": "Thing",
+        "name": "Seasonal Florals"
+      },
+      {
+        "@type": "Thing",
+        "name": "Painting Projects"
+      },
+      {
+        "@type": "Thing",
+        "name": "Upcycling"
+      },
+      {
+        "@type": "Thing",
+        "name": "Creative Home Projects"
       }
     ]
   }
@@ -77,16 +122,16 @@
   <!-- GLOBAL NAVIGATION -->
   <nav role="navigation" aria-label="Primary navigation">
     <a href="../index.html">Home</a>
+    <a href="../about.html">About</a>
     <a href="../kitchen/index.html">Kitchen</a>
     <a href="../garden/index.html">Garden</a>
-    <a href="../craft/index.html" class="active">Craft</a>
+    <a href="index.html" class="active" aria-current="page">Craft</a>
     <a href="../rhythm/index.html">Rhythm</a>
-    <a href="../about.html">About</a>
   </nav>
 
-  <!-- SUBNAV -->
-  <nav class="subnav">
-    <a href="index.html" class="active">Craft</a>
+  <!-- CRAFT SUB-NAVIGATION -->
+  <nav class="subnav" role="navigation" aria-label="Craft sections">
+    <a href="index.html" class="active" aria-current="page">Craft</a>
     <a href="creative-tools/index.html">Creative Tools</a>
     <a href="florals-wreaths/index.html">Florals & Wreaths</a>
     <a href="guides/index.html">Guides</a>
@@ -99,16 +144,17 @@
   <!-- MAIN CONTENT -->
   <main role="main">
 
+    <!-- WELCOME TEXT -->
     <section class="welcome-text">
       <p>
-        Craft is how we shape the spaces we live in. It’s interior projects, reimagined found objects,
+        Craft is how we shape the spaces we live in. It's interior projects, reimagined found objects,
         handmade wreaths, and the small details that make a home feel lived‑in and loved. This is where
         we experiment, make, mend, and create — not for perfection, but for the pleasure of bringing
         something thoughtful into the world.
       </p>
     </section>
 
-    <!-- GROUPED SUB-PILLARS (Kitchen/Garden-style layout) -->
+    <!-- GROUPED SUB-PILLARS -->
     <section class="content-section">
 
       <h2>Creative Making</h2>
@@ -146,4 +192,3 @@
 
 </body>
 </html>
-
