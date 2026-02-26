@@ -413,6 +413,32 @@ body.about-page .welcome-text {
 }
 
 /* ------------------------------------------
+   COMING SOON MESSAGE
+   (For sub-pillar pages without content yet)
+------------------------------------------- */
+
+.coming-soon {
+  max-width: 650px;
+  margin: 4rem auto 3rem;
+  padding: 2.5rem 2rem;
+  background-color: #f3efe9;
+  border-radius: 8px;
+  text-align: center;
+  border-top: 3px solid #c9d2c3;
+}
+
+.coming-soon p {
+  color: #4a423d;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin: 1rem 0;
+}
+
+.coming-soon p:first-child {
+  font-style: italic;
+}
+
+/* ------------------------------------------
    POST CARDS — UNIVERSAL (Kitchen & Garden)
 ------------------------------------------- */
 
