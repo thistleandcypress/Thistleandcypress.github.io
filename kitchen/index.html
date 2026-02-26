@@ -128,6 +128,17 @@
           "@type": "Organization",
           "name": "Thistle & Cypress"
         }
+      },
+      {
+        "@type": "Article",
+        "position": 3,
+        "headline": "Sequoia Grove Winery: A Napa Valley Benchmark",
+        "description": "Our longtime wine club membership and a benchmark for structured, expressive Napa Cabernet — the winery, the experience, and why we keep coming back.",
+        "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/Sequioa.html",
+        "author": {
+          "@type": "Organization",
+          "name": "Thistle & Cypress"
+        }
       }
     ]
   }
@@ -222,34 +233,29 @@
 
     </section>
 
-    <!-- FEATURED CONTENT -->
-    <section class="featured-content">
+    <!-- FEATURED CONTENT (Card Style) -->
+    <section class="highlights-wrapper">
       <h2>Highlights from the Kitchen</h2>
-      <p>Seasonal cooking, foundational skills, and thoughtful discoveries — selected from across the Kitchen pillar.</p>
+      <p class="highlights-intro">Seasonal cooking, foundational skills, and thoughtful discoveries — selected from across the Kitchen pillar.</p>
 
-      <article itemscope itemtype="https://schema.org/Article">
-        <h3 itemprop="headline"><a href="cooking/CEPasta.html" itemprop="url">Christmas Eve Pasta</a></h3>
-        <p itemprop="description">Creating the right pasta recipe to use in the pasta machine for our family Christmas Eve dinner.</p>
-      </article>
+      <div class="highlights-grid">
 
-      <article itemscope itemtype="https://schema.org/Article">
-        <h3 itemprop="headline"><a href="baking/Rick-B-Bread.html" itemprop="url">Rick's "No Nuts" Banana Bread</a></h3>
-        <p itemprop="description">A cozy, nut‑free banana bread with big flavor, easy technique, and that unmistakable "your life is together" aroma.</p>
-      </article>
+        <a href="cooking/CEPasta.html" class="highlight-card" itemscope itemtype="https://schema.org/Article">
+          <h3 itemprop="headline">Christmas Eve Pasta</h3>
+          <p itemprop="description">Creating the right pasta recipe to use in the pasta machine for our family Christmas Eve dinner.</p>
+        </a>
 
-      <!--
-      Future Content:
-      
-      <article itemscope itemtype="https://schema.org/Article">
-        <h3 itemprop="headline"><a href="wine/your-post.html" itemprop="url">Wine Post Title</a></h3>
-        <p itemprop="description">Brief description mentioning pairing or seasonal inspiration.</p>
-      </article>
+        <a href="baking/Rick-B-Bread.html" class="highlight-card" itemscope itemtype="https://schema.org/Article">
+          <h3 itemprop="headline">Rick's "No Nuts" Banana Bread</h3>
+          <p itemprop="description">A cozy, nut‑free banana bread with big flavor, easy technique, and that unmistakable "your life is together" aroma.</p>
+        </a>
 
-      <article itemscope itemtype="https://schema.org/Article">
-        <h3 itemprop="headline"><a href="essential-tools/your-post.html" itemprop="url">Tools or Tips Post Title</a></h3>
-        <p itemprop="description">Short description reinforcing skill-building or kitchen efficiency.</p>
-      </article>
-      -->
+        <a href="wine/Sequioa.html" class="highlight-card" itemscope itemtype="https://schema.org/Article">
+          <h3 itemprop="headline">Sequoia Grove Winery: A Napa Valley Benchmark</h3>
+          <p itemprop="description">Our longtime wine club membership and a benchmark for structured, expressive Napa Cabernet — the winery, the experience, and why we keep coming back.</p>
+        </a>
+
+      </div>
     </section>
 
   </main>
