@@ -351,6 +351,68 @@ body.about-page .welcome-text {
 }
 
 /* ------------------------------------------
+   HIGHLIGHTS SECTION — KITCHEN PILLAR
+   (Card-style featured content)
+------------------------------------------- */
+
+.highlights-wrapper {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 1.75rem 1.5rem;
+  background-color: #f3efe9;
+  border-radius: 8px;
+}
+
+.highlights-wrapper h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.highlights-intro {
+  text-align: center;
+  color: #4a423d;
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+
+.highlights-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.highlight-card {
+  display: block;
+  background-color: #dfe7d8;
+  color: #2b2623;
+  text-decoration: none;
+  padding: 1.25rem;
+  border-radius: 12px;
+  border: 1px solid #c9d2c3;
+  transition: transform 0.15s ease, background-color 0.2s ease;
+}
+
+.highlight-card:hover {
+  background-color: #cfd8c4;
+  transform: translateY(-2px);
+}
+
+.highlight-card h3 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: #2b2623;
+}
+
+.highlight-card p {
+  margin: 0.75rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #2b2623;
+}
+
+/* ------------------------------------------
    POST CARDS — UNIVERSAL (Kitchen & Garden)
 ------------------------------------------- */
 
@@ -685,6 +747,10 @@ body.about-page .hero::before {
   }
 
   .pillars {
+    grid-template-columns: 1fr;
+  }
+
+  .highlights-grid {
     grid-template-columns: 1fr;
   }
 
