@@ -15,6 +15,49 @@
       line-height: 1.7;
     }
     
+    /* Quick navigation box */
+    .resource-nav {
+      background-color: #e8f0e3;
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin: 2rem 0 3rem;
+      border-left: 4px solid #7a9d7e;
+    }
+    
+    .resource-nav h3 {
+      margin-top: 0;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #4a5d4e;
+    }
+    
+    .resource-nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0.75rem 0 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0.5rem;
+    }
+    
+    .resource-nav li {
+      margin: 0;
+    }
+    
+    .resource-nav a {
+      color: #365c4a;
+      text-decoration: none;
+      font-size: 0.95rem;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+    
+    .resource-nav a:hover {
+      border-bottom-color: #365c4a;
+    }
+    
+    /* Section styling */
     .resource-section {
       margin: 3rem 0;
       padding-top: 2rem;
@@ -26,24 +69,46 @@
       padding-top: 0;
     }
     
+    /* Alternate background colors for visual rhythm */
+    .resource-section:nth-child(even) {
+      background-color: #f9f7f3;
+      padding: 2rem 1.5rem;
+      margin-left: -1.5rem;
+      margin-right: -1.5rem;
+      border-radius: 8px;
+    }
+    
+    .resource-section h2 {
+      color: #2b2623;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #c9d2c3;
+    }
+    
+    /* Resource group styling */
     .resource-group {
       margin: 2rem 0;
+      padding-left: 1rem;
+      border-left: 3px solid #dfe7d8;
     }
     
     .resource-group h3 {
       font-size: 1.15rem;
       margin-bottom: 0.5rem;
+      color: #365c4a;
+      font-weight: 500;
     }
     
     .resource-group a {
       color: #365c4a;
       text-decoration: none;
       border-bottom: 1px solid rgba(54, 92, 74, 0.25);
-      transition: border-color 0.2s ease;
+      transition: border-color 0.2s ease, color 0.2s ease;
+      font-weight: 500;
     }
     
     .resource-group a:hover {
       border-bottom-color: rgba(54, 92, 74, 0.6);
+      color: #2d4d3d;
     }
     
     .resource-note {
@@ -60,6 +125,19 @@
     
     .resource-group ul li {
       margin: 0.5rem 0;
+    }
+    
+    /* Mobile adjustments */
+    @media (max-width: 768px) {
+      .resource-section:nth-child(even) {
+        margin-left: -1rem;
+        margin-right: -1rem;
+        padding: 1.5rem 1rem;
+      }
+      
+      .resource-nav ul {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
@@ -108,8 +186,20 @@
       just a single, evergreen shelf of resources you can return to whenever you need a steady reference.
     </p>
 
+    <!-- Quick Navigation -->
+    <nav class="resource-nav">
+      <h3>Quick Navigation</h3>
+      <ul>
+        <li><a href="#national-tools">National Tools & Foundations</a></li>
+        <li><a href="#soil">Soil & Site Understanding</a></li>
+        <li><a href="#seeds-inputs">Seeds, Plants & Organic Inputs</a></li>
+        <li><a href="#garden-centers">Local & Regional Garden Centers</a></li>
+        <li><a href="#hardscape-landscape">Hardscape, Water & Landscape Services</a></li>
+      </ul>
+    </nav>
+
     <!-- National Tools & Foundations -->
-    <section class="resource-section">
+    <section class="resource-section" id="national-tools">
       <h2>National Tools & Foundations</h2>
       <p>
         Start here when you're learning your place: the coldest nights, the length of your season,
@@ -159,7 +249,7 @@
     </section>
 
     <!-- Soil & Site Understanding -->
-    <section class="resource-section">
+    <section class="resource-section" id="soil">
       <h2>Soil & Site Understanding</h2>
       <p>
         Before plants, there is soil. Clay, shale, sand, loam—each asks for something different.
@@ -210,7 +300,7 @@
     </section>
 
     <!-- Seeds, Plants & Organic Inputs -->
-    <section class="resource-section">
+    <section class="resource-section" id="seeds-inputs">
       <h2>Seeds, Plants & Organic Inputs</h2>
       <p>
         Where the living material comes from: seeds, starts, and the amendments that support them.
@@ -282,7 +372,7 @@
     </section>
 
     <!-- Local & Regional Garden Centers -->
-    <section class="resource-section">
+    <section class="resource-section" id="garden-centers">
       <h2>Local & Regional Garden Centers</h2>
       <p>
         For those gardening in Northwest Pennsylvania and the surrounding region, these are the places that
@@ -323,7 +413,7 @@
     </section>
 
     <!-- Hardscape, Water & Landscape Services -->
-    <section class="resource-section">
+    <section class="resource-section" id="hardscape-landscape">
       <h2>Hardscape, Water & Landscape Services</h2>
       <p>
         Gardens are planted, but they are also built—paths, walls, water, and the long bones that hold everything
