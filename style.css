@@ -339,6 +339,17 @@ body.about-page .welcome-text {
   line-height: 1.6;
 }
 
+/* Pillar navigation (sub-pillar links inside pillar buttons) */
+.pillar-nav {
+  font-size: 0.85rem;
+  margin-top: 1rem !important;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(75, 66, 61, 0.15);
+  color: #4a423d;
+  font-style: normal;
+  line-height: 1.5;
+}
+
 /* ------------------------------------------
    POST CARDS — UNIVERSAL (Kitchen & Garden)
 ------------------------------------------- */
@@ -717,5 +728,9 @@ body.about-page .hero::before {
 
   main {
     padding: 1rem 1rem 2.5rem;
+  }
+
+  .pillar-nav {
+    font-size: 0.8rem;
   }
 }
