@@ -694,6 +694,16 @@ body.rhythm-page .hero {
   background-image: url("rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
 }
 
+/* Kitchen sub-pillar hero backgrounds (specific overrides) */
+
+body.kitchen-page.wine-page .hero {
+  background-image: url("kitchen/images/Wine-Hero.jpg");
+}
+
+body.kitchen-page.travel-page .hero {
+  background-image: url("kitchen/images/Travel-Hero.jpg");
+}
+
 /* ------------------------------------------
    HERO OVERLAY VARIATIONS — PAGE SPECIFIC
 ------------------------------------------- */
