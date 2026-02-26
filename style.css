@@ -134,11 +134,11 @@ nav a.active {
   position: relative;
   overflow: hidden;
   text-align: center;
-  padding: 4.5rem 1rem 3rem;
+  padding: 3rem 1rem 2rem;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 32vh;
+  min-height: 50vh;
 }
 
 .hero::before {
@@ -834,5 +834,9 @@ body.about-page .hero::before {
 
   .pillar-nav {
     font-size: 0.8rem;
+  }
+  .hero {
+     min-height: 30vh;
+     padding: 2rem 1rem 1.5rem;
   }
 }
