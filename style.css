@@ -623,44 +623,29 @@ body.about-page section p {
 }
 
 /* ------------------------------------------
-   COMMON ROOTS / CREST IMAGES — UNIVERSAL
-------------------------------------------- */
-
-.common-roots-image,
-.common-roots {
-  margin: 2.5rem auto;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
-
-.common-roots-graphic {
-  display: block;
-  max-width: 100%;
-  width: 500px;
-  height: auto;
-  border-radius: 4px;
-  margin: 0 auto;
-}
-
-/* ------------------------------------------
-   COMMON ROOTS IMAGE
+   COMMON ROOTS IMAGE — WITH BONUS ENHANCEMENT
 ------------------------------------------- */
 
 .common-roots-image {
   text-align: center;
-  padding: 2rem 0;  /* Reduced from what's likely more vertical space */
+  padding: 2rem 0;
   margin: 2rem auto;
 }
 
 .common-roots-graphic {
-  max-width: 450px;      /* Controls overall size */
-  max-height: 300px;     /* Caps the height */
+  max-width: 450px;
+  max-height: 300px;
   width: auto;
   height: auto;
   display: block;
   margin: 0 auto;
-  object-fit: contain;   /* Ensures proportions stay correct */
+  object-fit: contain;
+  opacity: 0.92;  /* Slightly softens it */
+  transition: opacity 0.3s ease;
+}
+
+.common-roots-graphic:hover {
+  opacity: 1;  /* Full color on hover */
 }
 
 /* Responsive adjustment for mobile */
@@ -669,6 +654,49 @@ body.about-page section p {
     max-width: 90%;
     max-height: 250px;
   }
+}
+
+/* Legacy class for compatibility (if used elsewhere) */
+.common-roots {
+  margin: 2.5rem auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* ------------------------------------------
+   STAY ROOTED — HOME PAGE
+------------------------------------------- */
+
+.stay-rooted {
+  text-align: center;
+  max-width: 750px;
+  margin: 3rem auto;
+  padding: 1.75rem;
+}
+
+.notify-button {
+  display: inline-block;
+  background-color: #d6cec4;
+  color: #2b2623;
+  text-decoration: none;
+  padding: 0.85rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+  margin-top: 0.5rem;
+}
+
+.notify-button:hover {
+  background-color: #c8bfb6;
+  transform: translateY(-2px);
+}
+
+.small-note {
+  font-size: 0.9rem;
+  color: #6b625c;
+  font-style: italic;
+  margin-top: 1rem;
 }
 
 /* ------------------------------------------
@@ -789,10 +817,6 @@ body.about-page .hero::before {
   body.kitchen-page.wine-page .post-list {
     grid-template-columns: 1fr;
   }
-
-  .common-roots-graphic {
-    width: 400px;
-  }
 }
 
 @media (max-width: 480px) {
@@ -816,10 +840,6 @@ body.about-page .hero::before {
   .subnav a {
     margin: 0.25rem;
     font-size: 0.9rem;
-  }
-
-  .common-roots-graphic {
-    width: 300px;
   }
 
   main {
