@@ -1,0 +1,481 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guides – Thistle & Cypress</title>
+  <link rel="stylesheet" href="../../style.css">
+  <style>
+    /* Additional styles specific to this resource page */
+    .resource-intro {
+      max-width: 650px;
+      margin: 2rem auto;
+      font-style: italic;
+      color: #4a423d;
+      line-height: 1.7;
+    }
+    
+    /* Quick navigation box */
+    .resource-nav {
+      background-color: #e8f0e3;
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin: 2rem 0 3rem;
+      border-left: 4px solid #7a9d7e;
+    }
+    
+    .resource-nav h3 {
+      margin-top: 0;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #4a5d4e;
+    }
+    
+    .resource-nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0.75rem 0 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0.5rem;
+    }
+    
+    .resource-nav li {
+      margin: 0;
+    }
+    
+    .resource-nav a {
+      color: #365c4a;
+      text-decoration: none;
+      font-size: 0.95rem;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+    
+    .resource-nav a:hover {
+      border-bottom-color: #365c4a;
+    }
+    
+    /* Section styling */
+    .resource-section {
+      margin: 3rem 0;
+      padding-top: 2rem;
+      border-top: 1px solid #e8e3dc;
+    }
+    
+    .resource-section:first-of-type {
+      border-top: none;
+      padding-top: 0;
+    }
+    
+    /* Alternate background colors for visual rhythm */
+    .resource-section:nth-child(even) {
+      background-color: #f9f7f3;
+      padding: 2rem 1.5rem;
+      margin-left: -1.5rem;
+      margin-right: -1.5rem;
+      border-radius: 8px;
+    }
+    
+    .resource-section h2 {
+      color: #2b2623;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #c9d2c3;
+    }
+    
+    /* Resource group styling */
+    .resource-group {
+      margin: 2rem 0;
+      padding-left: 1rem;
+      border-left: 3px solid #dfe7d8;
+    }
+    
+    .resource-group h3 {
+      font-size: 1.15rem;
+      margin-bottom: 0.5rem;
+      color: #365c4a;
+      font-weight: 500;
+    }
+    
+    .resource-group a {
+      color: #365c4a;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(54, 92, 74, 0.25);
+      transition: border-color 0.2s ease, color 0.2s ease;
+      font-weight: 500;
+    }
+    
+    .resource-group a:hover {
+      border-bottom-color: rgba(54, 92, 74, 0.6);
+      color: #2d4d3d;
+    }
+    
+    .resource-note {
+      font-size: 0.9rem;
+      color: #6b625c;
+      margin-top: 0.75rem;
+      font-style: italic;
+    }
+    
+    .resource-group ul {
+      margin: 0.75rem 0;
+      padding-left: 1.5rem;
+    }
+    
+    .resource-group ul li {
+      margin: 0.5rem 0;
+    }
+    
+    /* Mobile adjustments */
+    @media (max-width: 768px) {
+      .resource-section:nth-child(even) {
+        margin-left: -1rem;
+        margin-right: -1rem;
+        padding: 1.5rem 1rem;
+      }
+      
+      .resource-nav ul {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body class="garden-page">
+
+  <!-- Global Navigation -->
+  <nav>
+    <a href="../../index.html">Home</a>
+    <a href="../../about.html">About</a>
+    <a href="../../kitchen/index.html">Kitchen</a>
+    <a href="../index.html" class="active">Garden</a>
+    <a href="../../craft/index.html">Craft</a>
+    <a href="../../rhythm/index.html">Rhythm</a>
+  </nav>
+
+  <!-- Submenu Navigation -->
+  <nav class="subnav">
+    <a href="../index.html">Garden</a>
+    <a href="../trees-shrubs/index.html">Trees & Shrubs</a>
+    <a href="../perennials/index.html">Perennials</a>
+    <a href="../annuals-biennials/index.html">Annuals & Biennials</a>
+    <a href="../bulbs-tubers/index.html">Bulbs & Tubers</a>
+    <a href="../herbs/index.html">Herbs</a>
+    <a href="../groundcovers/index.html">Groundcovers</a>
+    <a href="../landscape-design/index.html">Landscape Design</a>
+    <a href="../landscape-maintenance/index.html">Landscape Maintenance</a>
+    <a href="index.html" class="active">Guides</a>
+    <a href="../stories/index.html">Stories</a>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>Guides</h1>
+      <p class="tagline">Practical knowledge for growing with confidence</p>
+      <div class="header-divider"></div>
+    </div>
+  </header>
+
+  <main>
+    
+    <p class="resource-intro">
+      A garden is always local—shaped by climate, soil, and the quiet decisions we make season after season.
+      This page gathers the tools, guides, and places that keep the work grounded. It's not a blog, not a feed,
+      just a single, evergreen shelf of resources you can return to whenever you need a steady reference.
+    </p>
+
+    <!-- Quick Navigation -->
+    <nav class="resource-nav">
+      <h3>Quick Navigation</h3>
+      <ul>
+        <li><a href="#national-tools">National Tools & Foundations</a></li>
+        <li><a href="#soil">Soil & Site Understanding</a></li>
+        <li><a href="#seeds-inputs">Seeds, Plants & Organic Inputs</a></li>
+        <li><a href="#garden-centers">Local & Regional Garden Centers</a></li>
+        <li><a href="#hardscape-landscape">Hardscape, Water & Landscape Services</a></li>
+      </ul>
+    </nav>
+
+    <!-- National Tools & Foundations -->
+    <section class="resource-section" id="national-tools">
+      <h2>National Tools & Foundations</h2>
+      <p>
+        Start here when you're learning your place: the coldest nights, the length of your season,
+        and the patterns that quietly decide what will thrive.
+      </p>
+
+      <div class="resource-group">
+        <h3>USDA Plant Hardiness Zone Map</h3>
+        <p>
+          The standard reference for understanding which perennials are likely to survive your winters.
+          Enter your ZIP code to find your zone.
+        </p>
+        <p>
+          <a href="https://planthardiness.ars.usda.gov/" target="_blank" rel="noopener">
+            USDA Plant Hardiness Zone Map
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Penn State Extension</h3>
+        <p>
+          Research-based guidance on soils, pests, diseases, and practical horticulture. Rooted in Pennsylvania,
+          but useful anywhere for its clear, science-forward approach.
+        </p>
+        <p>
+          <a href="https://extension.psu.edu/gardening" target="_blank" rel="noopener">
+            Penn State Extension – Gardening
+          </a><br>
+          <a href="https://extension.psu.edu/soils" target="_blank" rel="noopener">
+            Penn State Extension – Soils
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Frost & Season Planning</h3>
+        <p>
+          Knowing your first and last frost dates helps you time sowing, transplanting, and season extension.
+        </p>
+        <p>
+          <a href="https://www.almanac.com/gardening/frostdates" target="_blank" rel="noopener">
+            Old Farmer's Almanac – Frost Dates by ZIP Code
+          </a>
+        </p>
+      </div>
+    </section>
+
+    <!-- Soil & Site Understanding -->
+    <section class="resource-section" id="soil">
+      <h2>Soil & Site Understanding</h2>
+      <p>
+        Before plants, there is soil. Clay, shale, sand, loam—each asks for something different.
+        These tools help you understand what you're working with.
+      </p>
+
+      <div class="resource-group">
+        <h3>USDA Web Soil Survey</h3>
+        <p>
+          Parcel-level soil maps and descriptions for nearly every county in the United States.
+          Draw your area of interest and explore soil types, drainage, and limitations.
+        </p>
+        <p>
+          <a href="https://websoilsurvey.nrcs.usda.gov/" target="_blank" rel="noopener">
+            USDA Web Soil Survey
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>NRCS Soil & Pennsylvania Soils</h3>
+        <p>
+          A broader doorway into soil science, with links to state-specific information, including Pennsylvania.
+        </p>
+        <p>
+          <a href="https://www.nrcs.usda.gov/resources/data-and-reports/soil-surveys" target="_blank" rel="noopener">
+            NRCS – Soil Surveys & Data
+          </a><br>
+          <a href="https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils/pennsylvania-soils"
+             target="_blank" rel="noopener">
+            NRCS – Pennsylvania Soils
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Soil Health & Composting</h3>
+        <p>
+          For building living soil over time—compost, cover crops, and practices that improve structure and resilience.
+        </p>
+        <p>
+          <a href="https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils/soil-health"
+             target="_blank" rel="noopener">
+            NRCS – Soil Health
+          </a>
+        </p>
+      </div>
+    </section>
+
+    <!-- Seeds, Plants & Organic Inputs -->
+    <section class="resource-section" id="seeds-inputs">
+      <h2>Seeds, Plants & Organic Inputs</h2>
+      <p>
+        Where the living material comes from: seeds, starts, and the amendments that support them.
+        These sources prioritize organic practices, resilience, and good stewardship.
+      </p>
+
+      <div class="resource-group">
+        <h3>Organic & Heirloom Seed Companies</h3>
+        <p>
+          National suppliers that ship across the U.S., with strong commitments to organic and non-GMO seed.
+        </p>
+        <p>
+          <a href="https://www.johnnyseeds.com/" target="_blank" rel="noopener">
+            Johnny's Selected Seeds
+          </a><br>
+          <a href="https://www.highmowingseeds.com/" target="_blank" rel="noopener">
+            High Mowing Organic Seeds
+          </a><br>
+          <a href="https://www.livingseedcompany.com/" target="_blank" rel="noopener">
+            The Living Seed Company
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Organic Fertilizers & Soil Amendments</h3>
+        <p>
+          For feeding soil rather than forcing growth—slow-release, biologically active, and compatible with organic systems.
+        </p>
+        <p>
+          <a href="https://www.sustane.com/" target="_blank" rel="noopener">
+            Suståne Natural & Organic Fertilizer
+          </a><br>
+          <a href="https://www.fertrell.com/" target="_blank" rel="noopener">
+            The Fertrell Company
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Pollinator-Safe & Bee-Friendly Gardening</h3>
+        <p>
+          Guidance for creating gardens that nourish bees, butterflies, and other pollinators—without harmful chemicals.
+        </p>
+        <p>
+          <a href="https://www.pollinator.org/bfg" target="_blank" rel="noopener">
+            Pollinator.org – Bee Friendly Gardening
+          </a><br>
+          <a href="https://www.pollinator.org/gardens" target="_blank" rel="noopener">
+            Pollinator.org – Gardens & Pollinator Resources
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Plant Databases & Native Plant References</h3>
+        <p>
+          For researching trees, shrubs, perennials, and natives suited to your climate and site.
+        </p>
+        <p>
+          <a href="https://plants.usda.gov/home" target="_blank" rel="noopener">
+            USDA PLANTS Database
+          </a><br>
+          <a href="https://www.plantatlas.org/" target="_blank" rel="noopener">
+            PlantAtlas
+          </a>
+        </p>
+      </div>
+    </section>
+
+    <!-- Local & Regional Garden Centers -->
+    <section class="resource-section" id="garden-centers">
+      <h2>Local & Regional Garden Centers</h2>
+      <p>
+        For those gardening in Northwest Pennsylvania and the surrounding region, these are the places that
+        quietly mark the seasons—where you walk the aisles, choose what comes home, and ask the small questions
+        that don't fit in a search bar.
+      </p>
+
+      <div class="resource-group">
+        <h3>Regional Destinations</h3>
+        <p>
+          Larger centers within an easy drive that offer depth of selection and year-round inspiration.
+        </p>
+        <p>
+          <a href="https://www.petittigardencenter.com/locations/" target="_blank" rel="noopener">
+            Petitti Garden Centers (Youngstown / Northeast Ohio)
+          </a><br>
+          <a href="https://www.kraynaks.com/" target="_blank" rel="noopener">
+            Kraynak's Lawn & Garden Center – Hermitage, PA
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Northwest Pennsylvania Favorites</h3>
+        <p>
+          Smaller, locally rooted places that feel woven into the rhythm of spring planting and fall cleanup.
+          (Listed here without links, as many operate primarily via local presence and seasonal updates.)
+        </p>
+        <p>
+          Second Time Around Gardens – Greenville, PA<br>
+          Nelson's Heirloom Gardens – Mercer, PA<br>
+          Cottage Gardens – Hermitage, PA
+        </p>
+        <p class="resource-note">
+          For current hours and seasonal offerings, a quick map search by name usually reflects the latest information.
+        </p>
+      </div>
+    </section>
+
+    <!-- Hardscape, Water & Landscape Services -->
+    <section class="resource-section" id="hardscape-landscape">
+      <h2>Hardscape, Water & Landscape Services</h2>
+      <p>
+        Gardens are planted, but they are also built—paths, walls, water, and the long bones that hold everything
+        through winter. These resources are a starting point for finding or thinking about that work.
+      </p>
+
+      <div class="resource-group">
+        <h3>Landscape Design & Inspiration</h3>
+        <p>
+          For ideas about structure, four-season interest, and the way outdoor spaces can be shaped with intention.
+        </p>
+        <p>
+          <a href="https://www.asla.org/residentialinfo.aspx" target="_blank" rel="noopener">
+            American Society of Landscape Architects – Residential Design
+          </a>
+        </p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Local Hardscape & Water Feature Specialists</h3>
+        <p>
+          Stonework, patios, retaining walls, and fountains are highly local trades. In Northwest Pennsylvania,
+          the best matches are often found by:
+        </p>
+        <ul>
+          <li>Asking nearby garden centers which installers they trust.</li>
+          <li>Searching for "landscape design" or "hardscape contractor" near your ZIP code.</li>
+          <li>Looking for portfolios that show four-season, cold-climate work.</li>
+        </ul>
+        <p class="resource-note">
+          When possible, choose professionals who understand drainage, freeze–thaw cycles, and long-term maintenance
+          in Zone 5–6 climates.
+        </p>
+      </div>
+    </section>
+
+    <!-- Closing -->
+    <section class="resource-section">
+      <h2>Using This Page</h2>
+      <p>
+        This resources page is meant to stay simple: one place to return to when you need a map, a soil survey,
+        a seed source, or a nursery to wander on a gray spring afternoon. As your garden changes—and as the land
+        teaches you more—you can add, remove, or refine links without changing the structure.
+      </p>
+      <p>
+        Let it be a quiet companion to the rest of the Garden pillar: practical, grounded, and always rooted
+        in the particularities of place.
+      </p>
+    </section>
+
+    <div class="post-back">
+      <a href="../index.html">← Back to Garden</a>
+    </div>
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>© Thistle & Cypress</p>
+    </div>
+  </footer>
+
+</body>
+</html>
