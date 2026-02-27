@@ -763,6 +763,23 @@ footer {
   margin: 0 auto;
 }
 
+footer a {
+  color: #6b625c;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+footer a:hover {
+  color: #2b2623;
+}
+
+.footer-tagline {
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #8a7f78;
+  font-size: 0.85rem;
+}
+
 /* ------------------------------------------
    HERO BACKGROUNDS — PAGE SPECIFIC
 ------------------------------------------- */
@@ -846,7 +863,7 @@ body.about-page .hero::before {
   h3 { font-size: 1.2rem; }
 
   .hero {
-    min-height: 13vh;  /* Proportional middle step */
+    min-height: 13vh;
     padding: 1.75rem 1rem 1.25rem;
   }
 
@@ -862,6 +879,15 @@ body.about-page .hero::before {
   body.garden-page .post-list,
   body.kitchen-page.wine-page .post-list {
     grid-template-columns: 1fr;
+  }
+
+  .about-photo {
+    max-width: 300px;
+  }
+  
+  .about-crest-graphic {
+    max-width: 240px;
+    max-height: 180px;
   }
 }
 
@@ -897,7 +923,16 @@ body.about-page .hero::before {
   }
   
   .hero {
-    min-height: 11vh;  /* 2/3 reduction from 32vh */
+    min-height: 11vh;
     padding: 1.5rem 1rem 1rem;
+  }
+
+  .about-photo {
+    max-width: 260px;
+  }
+  
+  .about-crest-graphic {
+    max-width: 200px;
+    max-height: 150px;
   }
 }
