@@ -644,38 +644,31 @@ body.about-page section p {
 }
 
 /* ------------------------------------------
-   STAY ROOTED — HOME PAGE
+   COMMON ROOTS IMAGE
 ------------------------------------------- */
 
-.stay-rooted {
+.common-roots-image {
   text-align: center;
-  max-width: 750px;
-  margin: 3rem auto;
-  padding: 1.75rem;
+  padding: 2rem 0;  /* Reduced from what's likely more vertical space */
+  margin: 2rem auto;
 }
 
-.notify-button {
-  display: inline-block;
-  background-color: #d6cec4;
-  color: #2b2623;
-  text-decoration: none;
-  padding: 0.85rem 1.5rem;
-  border-radius: 8px;
-  font-weight: 600;
-  transition: background-color 0.2s ease, transform 0.15s ease;
-  margin-top: 0.5rem;
+.common-roots-graphic {
+  max-width: 450px;      /* Controls overall size */
+  max-height: 300px;     /* Caps the height */
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;   /* Ensures proportions stay correct */
 }
 
-.notify-button:hover {
-  background-color: #c8bfb6;
-  transform: translateY(-2px);
-}
-
-.small-note {
-  font-size: 0.9rem;
-  color: #6b625c;
-  font-style: italic;
-  margin-top: 1rem;
+/* Responsive adjustment for mobile */
+@media (max-width: 768px) {
+  .common-roots-graphic {
+    max-width: 90%;
+    max-height: 250px;
+  }
 }
 
 /* ------------------------------------------
