@@ -1,97 +1,402 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Craft Guides | Thistle & Cypress</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../../styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guides – Craft – Thistle & Cypress</title>
+  <link rel="stylesheet" href="../../style.css">
+
+  <style>
+    /* Additional styles specific to this resource page */
+    .resource-intro {
+      max-width: 650px;
+      margin: 2rem auto;
+      font-style: italic;
+      color: #4a423d;
+      line-height: 1.7;
+    }
+
+    .resource-nav {
+      background-color: #e8f0e3;
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin: 2rem 0 3rem;
+      border-left: 4px solid #7a9d7e;
+    }
+
+    .resource-nav h3 {
+      margin-top: 0;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #4a5d4e;
+    }
+
+    .resource-nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0.75rem 0 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0.5rem;
+    }
+
+    .resource-nav a {
+      color: #365c4a;
+      text-decoration: none;
+      font-size: 0.95rem;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+
+    .resource-nav a:hover {
+      border-bottom-color: #365c4a;
+    }
+
+    .resource-section {
+      margin: 3rem 0;
+      padding-top: 2rem;
+      border-top: 1px solid #e8e3dc;
+    }
+
+    .resource-section:first-of-type {
+      border-top: none;
+      padding-top: 0;
+    }
+
+    .resource-section:nth-child(even) {
+      background-color: #f9f7f3;
+      padding: 2rem 1.5rem;
+      margin-left: -1.5rem;
+      margin-right: -1.5rem;
+      border-radius: 8px;
+    }
+
+    .resource-section h2 {
+      color: #2b2623;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #c9d2c3;
+    }
+
+    .resource-group {
+      margin: 2rem 0;
+      padding-left: 1rem;
+      border-left: 3px solid #dfe7d8;
+    }
+
+    .resource-group h3 {
+      font-size: 1.15rem;
+      margin-bottom: 0.5rem;
+      color: #365c4a;
+      font-weight: 500;
+    }
+
+    .resource-group a {
+      color: #365c4a;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(54, 92, 74, 0.25);
+      transition: border-color 0.2s ease, color 0.2s ease;
+      font-weight: 500;
+    }
+
+    .resource-group a:hover {
+      border-bottom-color: rgba(54, 92, 74, 0.6);
+      color: #2d4d3d;
+    }
+
+    .resource-note {
+      font-size: 0.9rem;
+      color: #6b625c;
+      margin-top: 0.75rem;
+      font-style: italic;
+    }
+
+    .resource-group ul {
+      margin: 0.75rem 0;
+      padding-left: 1.5rem;
+    }
+
+    .resource-group ul li {
+      margin: 0.5rem 0;
+    }
+
+    @media (max-width: 768px) {
+      .resource-section:nth-child(even) {
+        margin-left: -1rem;
+        margin-right: -1rem;
+        padding: 1.5rem 1rem;
+      }
+
+      .resource-nav ul {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 
-<body>
+<body class="craft-page">
 
-<nav>
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/kitchen/">Kitchen</a></li>
-    <li><a href="/garden/">Garden</a></li>
-    <li><a href="/craft/">Craft</a></li>
-    <li><a href="/about/">About</a></li>
-  </ul>
-</nav>
+  <!-- Global Navigation -->
+  <nav>
+    <a href="../../index.html">Home</a>
+    <a href="../../about.html">About</a>
+    <a href="../../kitchen/index.html">Kitchen</a>
+    <a href="../../garden/index.html">Garden</a>
+    <a href="../index.html" class="active">Craft</a>
+    <a href="../../rhythm/index.html">Rhythm</a>
+  </nav>
 
-<main>
+  <!-- Submenu Navigation -->
+  <nav class="subnav">
+    <a href="../index.html">Craft</a>
+    <a href="../painting/index.html">Painting</a>
+    <a href="../upcycling/index.html">Upcycling</a>
+    <a href="../florals-wreaths/index.html">Florals & Wreaths</a>
+    <a href="../tips-tricks/index.html">Tips & Tricks</a>
+    <a href="../creative-tools/index.html">Creative Tools</a>
+    <a href="index.html" class="active">Guides</a>
+    <a href="../stories/index.html">Stories</a>
+  </nav>
 
-# Guides
+  <!-- Hero -->
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>Guides</h1>
+      <p class="tagline">Practical knowledge for creating with confidence</p>
+      <div class="header-divider"></div>
+    </div>
+  </header>
 
-Practical how-tos for crafting, styling, and making with intention.  
-This page gathers tools, techniques, and timeless guidance that keep hands steady and projects grounded, whether you’re repainting a chair or upcycling a thrift find.
+  <main>
 
-### Quick Navigation
+    <p class="resource-intro">
+      Craft is how we shape the spaces we live in. This page gathers the practical side of that work:
+      painting, upcycling, florals, styling, small fixes, and the creative tools that support it all.
+      It’s a single, evergreen shelf of resources you can return to whenever you’re ready to make,
+      mend, or quietly transform something at home.
+    </p>
 
-* [Painting Basics](#painting-basics)
-* [Color & Finish](#color-and-finish)
-* [Upcycling Techniques](#upcycling-techniques)
-* [Home Styling Guides](#home-styling-guides)
-* [Tools & Materials](#tools-and-materials)
+    <!-- Quick Navigation -->
+    <nav class="resource-nav">
+      <h3>Quick Navigation</h3>
+      <ul>
+        <li><a href="#painting">Painting Techniques</a></li>
+        <li><a href="#upcycling">Upcycling Projects</a></li>
+        <li><a href="#florals">Florals & Wreaths</a></li>
+        <li><a href="#tips">Tips & Tricks</a></li>
+        <li><a href="#creative-tools">Creative Tools</a></li>
+      </ul>
+    </nav>
 
-## <a id="painting-basics"></a>Painting Basics
+    <!-- Painting -->
+    <section class="resource-section" id="painting">
+      <h2>Painting Techniques</h2>
+      <p>
+        Painting here is about surfaces—walls, trim, cabinetry, and furniture—more than fine art.
+        These guides blend technique, color science, and light so color feels intentional, not accidental.
+      </p>
 
-### Surface Preparation & Application
+      <div class="resource-group">
+        <h3>Technique & Application</h3>
+        <p>
+          Clean, confident application is the foundation of any painted surface.
+        </p>
+        <p>
+          <a href="https://www.benjaminmoore.com/en-us/paint-and-stain-tips/how-to-prepare-walls-for-painting" target="_blank">How to prepare walls for painting — Benjamin Moore</a><br>
+          <a href="https://www.thisoldhouse.com/painting/21015116/how-to-cut-in-paint" target="_blank">How to cut in paint like a pro — This Old House</a><br>
+          <a href="https://www.sherwin-williams.com/en-us/paint-and-color/painting-how-to/interior/choosing-the-right-paint-finish" target="_blank">Choosing the right paint finish — Sherwin-Williams</a><br>
+          <a href="https://www.anniesloan.com/techniques/how-to-paint-furniture/" target="_blank">How to paint furniture without brush marks — Annie Sloan</a><br>
+          <a href="https://www.housebeautiful.com/home-decorating/diy-projects/a1946/lacquer-furniture/" target="_blank">Creating a high-end lacquer look — House Beautiful</a>
+        </p>
+      </div>
 
-These resources help you build confidence with roller, brush, and surface prep.
+      <div class="resource-group">
+        <h3>Color Trends & Forecasts</h3>
+        <p>
+          For when you want your choices to feel current but still grounded in warmth and longevity.
+        </p>
+        <p>
+          <a href="https://www.benjaminmoore.com/en-us/color-overview/color-collections/color-of-the-year-2024" target="_blank">Color of the Year & trend palettes — Benjamin Moore</a><br>
+          <a href="https://www.sherwin-williams.com/en-us/color-of-the-year" target="_blank">Color of the Year & forecast — Sherwin-Williams</a><br>
+          <a href="https://www.farrow-ball.com/colour-trends" target="_blank">Colour trends & curated palettes — Farrow & Ball</a>
+        </p>
+      </div>
 
-* [Painting basics — Benjamin Moore](https://www.benjaminmoore.com/en-us/interior-exterior-paints-stains/how-to-advice/painting-101/)  
-* [Painting tips & technique — This Old House](https://www.thisoldhouse.com/painting)  
-* [How to paint furniture — Annie Sloan](https://www.anniesloan.com/paint/how-to-paint-furniture/)  
-* [Choosing paint finish — Sherwin-Williams](https://www.sherwin-williams.com/homeowners/how-to/paint/interior-paint-finishes)
+      <div class="resource-group">
+        <h3>Light Reflectance Value (LRV)</h3>
+        <p>
+          LRV measures how much light a color reflects, which quietly decides whether a room feels bright,
+          moody, or flat. Understanding it makes choosing whites and neutrals far less mysterious.
+        </p>
+        <p>
+          <a href="https://thelandofcolor.com/lrv-light-reflectance-value/" target="_blank">LRV explained — The Land of Color</a><br>
+          <a href="https://jennakateathome.com/lrv-paint-colors/" target="_blank">LRV & natural light — Jenna Kate at Home</a><br>
+          <a href="https://www.homesandgardens.com/interior-design/what-is-lrv" target="_blank">What is LRV — Homes & Gardens</a>
+        </p>
+      </div>
 
-## <a id="color-and-finish"></a>Color & Finish
+      <div class="resource-group">
+        <h3>Choosing Colors for Your Light</h3>
+        <p>
+          Exposure—north, south, east, west—changes everything. These guides help you work with the light you have.
+        </p>
+        <p>
+          <a href="https://www.sherwin-williams.com/en-us/project-center/paint/how-to-choose-paint-colors-based-on-room-direction" target="_blank">Choosing colors by room direction — Sherwin-Williams</a><br>
+          <a href="https://www.kylieminteriors.ca/how-natural-light-affects-paint-colors/" target="_blank">How natural light affects color — Kylie M Interiors</a>
+        </p>
+      </div>
+    </section>
 
-### Understanding Color
+    <!-- Upcycling -->
+    <section class="resource-section" id="upcycling">
+      <h2>Upcycling Projects</h2>
+      <p>
+        Upcycling is where imagination meets restraint: taking something ordinary and giving it a new,
+        quietly luxurious life.
+      </p>
 
-Color isn’t just pretty — it’s light, mood, and rhythm. These guides help you understand it.
+      <div class="resource-group">
+        <h3>Elevating Inexpensive Decor</h3>
+        <p>
+          Texture, finish, and scale are the levers that make inexpensive pieces feel intentional.
+        </p>
+        <p>
+          <a href="https://www.amaco.com/rub-n-buff" target="_blank">Using Rub ’n Buff — AMACO</a><br>
+          <a href="https://www.apartmenttherapy.com/upcycling-ideas-367013" target="_blank">Upcycling ideas — Apartment Therapy</a><br>
+          <a href="https://www.marthastewart.com/1542073/faux-ceramic-paint-technique" target="_blank">Faux ceramic finishes — Martha Stewart</a>
+        </p>
+      </div>
 
-* [Color trends & palettes — Benjamin Moore](https://www.benjaminmoore.com/en-us/color-overview)  
-* [Sherwin-Williams color forecast](https://www.sherwin-williams.com/color)  
-* [LRV (Light Reflectance Value) explained](https://www.thelandofcolor.com/light-reflectance-value)
+      <div class="resource-group">
+        <h3>Plaster, Stone & Sculptural Finishes</h3>
+        <p>
+          Turning smooth, forgettable surfaces into something with weight and presence.
+        </p>
+        <p>
+          <a href="https://www.homedepot.com/c/ah/how-to-use-joint-compound/9ba683603be9fa5395fab901c8c3a3a" target="_blank">Working with joint compound — Home Depot</a><br>
+          <a href="https://www.younghouselove.com/diy-faux-stone-vase/" target="_blank">DIY faux stone vases — Young House Love</a>
+        </p>
+      </div>
+    </section>
 
-## <a id="upcycling-techniques"></a>Upcycling Techniques
+    <!-- Florals -->
+    <section class="resource-section" id="florals">
+      <h2>Florals & Wreaths</h2>
+      <p>
+        Seasonal arrangements and wreaths are a gentle way to mark time—branches, greens, and foraged
+        materials that bring the outside in.
+      </p>
 
-Upcycling turns “ordinary” into “intentional” — here’s where to begin.
+      <div class="resource-group">
+        <h3>Foraged Arrangements</h3>
+        <p>
+          Loose, sculptural arrangements that feel more like landscape than bouquet.
+        </p>
+        <p>
+          <a href="https://www.gardenista.com/posts/how-to-make-foraged-flower-arrangement/" target="_blank">Foraged arrangements — Gardenista</a>
+        </p>
+      </div>
 
-* [Rub ’n Buff gilded finish tutorial](https://julieblanner.com/diy-gilded-frames/)  
-* [Upcycling ideas — Apartment Therapy](https://www.apartmenttherapy.com/upcycling-ideas)  
-* [Faux ceramic finishes — Martha Stewart](https://www.marthastewart.com/274585/how-to-make-faux-ceramic)
+      <div class="resource-group">
+        <h3>Wreath Making</h3>
+        <p>
+          Bases and structures you can adapt to any season.
+        </p>
+        <p>
+          <a href="https://www.marthastewart.com/1542071/how-to-make-grapevine-wreath" target="_blank">Grapevine wreath — Martha Stewart</a><br>
+          <a href="https://www.housebeautiful.com/entertaining/holidays-celebrations/a2965/asymmetrical-wreath/" target="_blank">Asymmetrical wreaths — House Beautiful</a>
+        </p>
+      </div>
+    </section>
 
-## <a id="home-styling-guides"></a>Home Styling Guides
+    <!-- Tips & Tricks -->
+    <section class="resource-section" id="tips">
+      <h2>Tips & Tricks</h2>
+      <p>
+        Small, clever techniques that make projects smoother, finishes better, and everyday objects feel more intentional.
+      </p>
 
-Styling, proportion, and everyday design tips that read like gentle wisdom.
+      <div class="resource-group">
+        <h3>Materials & Quick Fixes</h3>
+        <p>
+          Knowing which product to reach for often matters more than the product itself.
+        </p>
+        <p>
+          <a href="https://www.familyhandyman.com/list/choosing-the-right-adhesive/" target="_blank">Choosing the right adhesive — Family Handyman</a><br>
+          <a href="https://www.homedepot.com/c/ah/how-to-patch-holes-in-drywall/9ba683603be9fa5395fab901c8c3a3a" target="_blank">Patching small holes — Home Depot</a>
+        </p>
+      </div>
 
-* [How high to hang art — Apartment Therapy](https://www.apartmenttherapy.com/how-high-to-hang-art-369242)  
-* [Gallery wall how-to — West Elm](https://blog.westelm.com/how-to-create-a-gallery-wall)  
-* [Golden ratio design ideas — The Spruce](https://www.thespruce.com/golden-ratio-design-ideas-4869330)  
-* [Shelf styling tips — Studio McGee](https://www.studiomcgee.com/how-to-style-shelves/)
+      <div class="resource-group">
+        <h3>Making Things Look More Expensive</h3>
+        <p>
+          Texture, repetition, and restraint are often all it takes.
+        </p>
+        <p>
+          <a href="https://www.apartmenttherapy.com/make-cheap-things-look-expensive-367013" target="_blank">Make inexpensive pieces look high-end — Apartment Therapy</a><br>
+          <a href="https://www.studiomcgee.com/styling-101-shelf-styling/" target="_blank">Shelf styling 101 — Studio McGee</a>
+        </p>
+      </div>
+    </section>
 
-## <a id="tools-and-materials"></a>Tools & Materials
+    <!-- Creative Tools -->
+    <section class="resource-section" id="creative-tools">
+      <h2>Creative Tools</h2>
+      <p>
+        Behind every tactile project is a quiet layer of planning, imagining, and documenting. These tools—many of them digital—
+        support that invisible part of the craft.
+      </p>
 
-Whether brush, adhesive, or finish — quality tools make elegant work easier.
+      <div class="resource-group">
+        <h3>AI & Digital Helpers</h3>
+        <p>
+          Use these to brainstorm, visualize, and test ideas before you commit materials or time.
+        </p>
+        <p>
+          <a href="https://coolors.co/" target="_blank">Coolors — palette generator</a><br>
+          <a href="https://planner5d.com/" target="_blank">Planner 5D — room visualization</a><br>
+          <a href="https://www.canva.com/ai-image-generator/" target="_blank">Canva AI — concept sketches</a>
+        </p>
+      </div>
 
-* [Right paint brushes & rollers — Sherwin-Williams](https://www.sherwin-williams.com/homeowners/how-to/paint/tools-materials/paint-brushes-rolls)  
-* [Adhesives explained — Family Handyman](https://www.familyhandyman.com/list/adhesives-explained/)  
-* [Drywall patching — Home Depot](https://www.homedepot.com/c/how_to_patch_drywall_and_plaster/9ba683603be9fa5395fab901e22f3f3)  
-* [VOCs & indoor air quality — EPA](https://www.epa.gov/indoor-air-quality-iaq/volatile-organic-compounds-impact-indoor-air-quality)
+      <div class="resource-group">
+        <h3>Photography & Workflow</h3>
+        <p>
+          Documenting your work helps you see your own progress and patterns.
+        </p>
+        <p>
+          <a href="https://www.nytimes.com/wirecutter/guides/how-to-take-better-photos/" target="_blank">Natural light photography — Wirecutter</a><br>
+          <a href="https://www.notion.so/templates/creative-hub" target="_blank">Notion creative hub — project organization</a>
+        </p>
+      </div>
+    </section>
 
----
+    <!-- Closing -->
+    <section class="resource-section">
+      <h2>Using This Page</h2>
+      <p>
+        This resources page is meant to stay simple: one place to return to when you need a technique,
+        a proportion rule, a color reference, or a small nudge to try something new. As your projects
+        evolve, you can add or refine links without changing the structure.
+      </p>
+      <p>
+        Let it be a quiet companion to the rest of the Craft pillar: practical, grounded
+        in the rhythm of making, and always ready when you need a steady reference.
+      </p>
+    </section>
 
-#### Using This Page
+    <div class="post-back">
+      <a href="../index.html">← Back to Craft</a>
+    </div>
 
-This resources page is meant to stay simple: one place to return to when you need a map, a soil survey, a seed source, or a nursery to wander on a gray spring afternoon. As your craft evolves—and as each project teaches you more—you can add or refine links without changing the structure.
+  </main>
 
-[← Back to Craft](/craft/)
-
-© Thistle & Cypress
-
-</main>
+  <footer>
+    <div class="footer-inner">
+      <p>© Thistle & Cypress</p>
+    </div>
+  </footer>
 
 </body>
 </html>
