@@ -672,7 +672,19 @@ body.about-page section p {
   text-align: center;
   max-width: 750px;
   margin: 3rem auto;
-  padding: 1.75rem;
+  padding: 2.5rem 1.75rem;
+  background-color: #f3efe9;
+  border-radius: 8px;
+}
+
+.stay-rooted h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.stay-rooted p {
+  margin: 1rem auto;
+  max-width: 650px;
 }
 
 .notify-button {
