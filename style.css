@@ -609,17 +609,51 @@ body.kitchen-page.wine-page .post-card {
   margin: 1.5rem auto 1.75rem;
 }
 
-.about-photo-wrapper img {
-  max-width: 500px;
-  width: 90%;
+.about-photo {
+  max-width: 350px;  /* Reduced from 500px */
+  width: 85%;
   height: auto;
   margin: 0 auto;
+  border-radius: 8px;  /* Optional: softens the edges */
+}
+
+/* About page crest (smaller than homepage common roots) */
+.about-crest {
+  text-align: center;
+  margin: 2.5rem auto;
+  padding: 1.5rem 0;
+}
+
+.about-crest-graphic {
+  max-width: 280px;  /* Much smaller than homepage version */
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+  opacity: 0.88;  /* Slightly more subtle than homepage */
+  transition: opacity 0.3s ease;
+}
+
+.about-crest-graphic:hover {
+  opacity: 1;
 }
 
 body.about-page section p {
   max-width: 750px;
   margin-left: auto;
   margin-right: auto;
+}
+
+/* About page specific welcome styling */
+body.about-page .welcome-text {
+  text-align: center;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #4a423d;
+  margin: 2.5rem auto;
+  max-width: 650px;
 }
 
 /* ------------------------------------------
