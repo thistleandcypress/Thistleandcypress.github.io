@@ -7,142 +7,135 @@
 <link rel="stylesheet" href="../../style.css">
 
 <style>
-
 /* Additional styles specific to this resource page */
-
 .resource-intro {
-max-width:650px;
-margin:2rem auto;
-font-style:italic;
-color:#4a423d;
-line-height:1.7;
+    max-width:650px;
+    margin:2rem auto;
+    font-style:italic;
+    color:#4a423d;
+    line-height:1.7;
 }
 
 .resource-nav {
-background-color:#e8f0e3;
-padding:1.5rem;
-border-radius:8px;
-margin:2rem 0 3rem;
-border-left:4px solid #7a9d7e;
+    background-color:#e8f0e3;
+    padding:1.5rem;
+    border-radius:8px;
+    margin:2rem 0 3rem;
+    border-left:4px solid #7a9d7e;
 }
 
 .resource-nav h3 {
-margin-top:0;
-font-size:1rem;
-text-transform:uppercase;
-letter-spacing:.05em;
-color:#4a5d4e;
+    margin-top:0;
+    font-size:1rem;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:#4a5d4e;
 }
 
 .resource-nav ul {
-list-style:none;
-padding:0;
-margin:.75rem 0 0;
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
-gap:.5rem;
+    list-style:none;
+    padding:0;
+    margin:.75rem 0 0;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+    gap:.5rem;
 }
 
 .resource-nav a {
-color:#365c4a;
-text-decoration:none;
-font-size:.95rem;
-border-bottom:1px solid transparent;
-transition:border-color .2s ease;
+    color:#365c4a;
+    text-decoration:none;
+    font-size:.95rem;
+    border-bottom:1px solid transparent;
+    transition:border-color .2s ease;
 }
 
 .resource-nav a:hover {
-border-bottom-color:#365c4a;
+    border-bottom-color:#365c4a;
 }
 
 .resource-section {
-margin:3rem 0;
-padding-top:2rem;
-border-top:1px solid #e8e3dc;
+    margin:3rem 0;
+    padding-top:2rem;
+    border-top:1px solid #e8e3dc;
 }
 
 .resource-section:first-of-type {
-border-top:none;
-padding-top:0;
+    border-top:none;
+    padding-top:0;
 }
 
 .resource-section:nth-child(even) {
-background-color:#f9f7f3;
-padding:2rem 1.5rem;
-margin-left:-1.5rem;
-margin-right:-1.5rem;
-border-radius:8px;
+    background-color:#f9f7f3;
+    padding:2rem 1.5rem;
+    margin-left:-1.5rem;
+    margin-right:-1.5rem;
+    border-radius:8px;
 }
 
 .resource-section h2 {
-color:#2b2623;
-padding-bottom:.5rem;
-border-bottom:2px solid #c9d2c3;
+    color:#2b2623;
+    padding-bottom:.5rem;
+    border-bottom:2px solid #c9d2c3;
 }
 
 .resource-group {
-margin:2rem 0;
-padding-left:1rem;
-border-left:3px solid #dfe7d8;
+    margin:2rem 0;
+    padding-left:1rem;
+    border-left:3px solid #dfe7d8;
 }
 
 .resource-group h3 {
-font-size:1.15rem;
-margin-bottom:.5rem;
-color:#365c4a;
-font-weight:500;
+    font-size:1.15rem;
+    margin-bottom:.5rem;
+    color:#365c4a;
+    font-weight:500;
 }
 
 .resource-group a {
-color:#365c4a;
-text-decoration:none;
-border-bottom:1px solid rgba(54,92,74,.25);
-transition:border-color .2s ease,color .2s ease;
-font-weight:500;
+    color:#365c4a;
+    text-decoration:none;
+    border-bottom:1px solid rgba(54,92,74,.25);
+    transition:border-color .2s ease,color .2s ease;
+    font-weight:500;
 }
 
 .resource-group a:hover {
-border-bottom-color:rgba(54,92,74,.6);
-color:#2d4d3d;
+    border-bottom-color:rgba(54,92,74,.6);
+    color:#2d4d3d;
 }
 
 .resource-note {
-font-size:.9rem;
-color:#6b625c;
-margin-top:.75rem;
-font-style:italic;
+    font-size:.9rem;
+    color:#6b625c;
+    margin-top:.75rem;
+    font-style:italic;
 }
 
 .resource-group ul {
-margin:.75rem 0;
-padding-left:1.5rem;
+    margin:.75rem 0;
+    padding-left:1.5rem;
 }
 
 .resource-group ul li {
-margin:.5rem 0;
+    margin:.5rem 0;
 }
 
 @media (max-width:768px){
-
-.resource-section:nth-child(even){
-margin-left:-1rem;
-margin-right:-1rem;
-padding:1.5rem 1rem;
+    .resource-section:nth-child(even){
+        margin-left:-1rem;
+        margin-right:-1rem;
+        padding:1.5rem 1rem;
+    }
+    .resource-nav ul{
+        grid-template-columns:1fr;
+    }
 }
-
-.resource-nav ul{
-grid-template-columns:1fr;
-}
-
-}
-
 </style>
 </head>
 
 <body class="craft-page">
 
 <!-- Global Navigation -->
-
 <nav>
 <a href="../../index.html">Home</a>
 <a href="../../about.html">About</a>
@@ -153,20 +146,17 @@ grid-template-columns:1fr;
 </nav>
 
 <!-- Submenu Navigation -->
-
 <nav class="subnav">
 <a href="../index.html">Craft</a>
 <a href="../painting/index.html">Painting</a>
 <a href="../upcycling/index.html">Upcycling</a>
 <a href="../florals-wreaths/index.html">Florals & Wreaths</a>
-<a href="../tips-tricks/index.html">Tips & Tricks</a>
 <a href="../creative-tools/index.html">Creative Tools</a>
 <a href="index.html" class="active">Guides</a>
 <a href="../stories/index.html">Stories</a>
 </nav>
 
 <!-- Hero -->
-
 <header class="hero">
 <div class="hero-inner">
 <h1>Guides</h1>
@@ -178,314 +168,171 @@ grid-template-columns:1fr;
 <main>
 
 <p class="resource-intro">
-
 Craft is how we shape the spaces we live in. This page gathers the practical side of that work:
-painting, upcycling, florals, styling, small fixes, and the creative tools that support it all.
-It’s a single, evergreen shelf of resources you can return to whenever you’re ready to make,
-mend, or quietly transform something at home.
-
+painting, upcycling, florals, and the creative tools that support it all. It’s a single, evergreen
+shelf of resources you can return to whenever you’re ready to make, mend, or quietly transform
+something at home.
 </p>
 
 <!-- Quick Navigation -->
-
 <nav class="resource-nav">
-
 <h3>Quick Navigation</h3>
-
 <ul>
-
 <li><a href="#painting">Painting Techniques</a></li>
 <li><a href="#upcycling">Upcycling Projects</a></li>
 <li><a href="#florals">Florals & Wreaths</a></li>
-<li><a href="#tips">Tips & Tricks</a></li>
 <li><a href="#creative-tools">Creative Tools</a></li>
-
 </ul>
-
 </nav>
 
 <!-- Painting -->
-
 <section class="resource-section" id="painting">
-
 <h2>Painting Techniques</h2>
-
 <p>
-
-Painting here is about surfaces—walls, trim, cabinetry, and furniture—more than fine art.
-These guides blend technique, color science, and light so color feels intentional, not accidental.
-
+Painting here is about surfaces—walls, trim, cabinetry, floors, and furniture. These guides blend
+technique, color science, and light so color feels intentional, not accidental.
 </p>
 
 <div class="resource-group">
-
 <h3>Technique & Application</h3>
-
 <p>
-
-<a href="https://www.benjaminmoore.com/en-us/interior-exterior-paints-stains/how-to-advice/painting-101/preparing-walls-painting" target="_blank" rel="noopener noreferrer">How to prepare walls for painting — Benjamin Moore</a><br>
-
-<a href="https://www.thisoldhouse.com/painting/21015116/how-to-cut-in-paint" target="_blank" rel="noopener noreferrer">How to cut in paint like a pro — This Old House</a><br>
-
-<a href="https://www.sherwin-williams.com/en-us/paint-and-color/painting-how-to/interior/choosing-the-right-paint-finish" target="_blank" rel="noopener noreferrer">Choosing the right paint finish — Sherwin-Williams</a><br>
-
-<a href="https://www.anniesloan.com/techniques/how-to-paint-furniture/" target="_blank" rel="noopener noreferrer">How to paint furniture without brush marks — Annie Sloan</a><br>
-
-<a href="https://www.housebeautiful.com/home-decorating/diy-projects/a1946/lacquer-furniture/" target="_blank" rel="noopener noreferrer">Creating a high-end lacquer look — House Beautiful</a>
-
+<a href="https://www.benjaminmoore.com/en-us/interior-exterior-paints-stains/how-to-advice" target="_blank" rel="noopener noreferrer">
+Benjamin Moore — Painting How‑To Guides
+</a><br>
+<a href="https://www.sherwin-williams.com/en-us/paint-and-color/painting-how-to/interior" target="_blank" rel="noopener noreferrer">
+Sherwin‑Williams — Interior Painting How‑To
+</a><br>
+<a href="https://www.anniesloan.com/techniques/" target="_blank" rel="noopener noreferrer">
+Annie Sloan — Furniture Painting Techniques
+</a>
 </p>
-
 </div>
 
 <div class="resource-group">
-
-<h3>Color Trends & Forecasts</h3>
-
+<h3>Color & Light</h3>
 <p>
-
-<a href="https://www.benjaminmoore.com/en-us/color-overview/color-collections/color-of-the-year-2024" target="_blank" rel="noopener noreferrer">Color of the Year & trend palettes — Benjamin Moore</a><br>
-
-<a href="https://www.sherwin-williams.com/en-us/color-of-the-year" target="_blank" rel="noopener noreferrer">Color of the Year & forecast — Sherwin-Williams</a><br>
-
-<a href="https://www.farrow-ball.com/colour-trends" target="_blank" rel="noopener noreferrer">Colour trends & curated palettes — Farrow & Ball</a>
-
+<a href="https://www.benjaminmoore.com/en-us/color-overview/color-collections/color-of-the-year-2024" target="_blank" rel="noopener noreferrer">
+Benjamin Moore — Color Trends & Palettes
+</a><br>
+<a href="https://www.sherwin-williams.com/en-us/color-of-the-year" target="_blank" rel="noopener noreferrer">
+Sherwin‑Williams — Color Forecast
+</a><br>
+<a href="https://www.farrow-ball.com/colour-trends" target="_blank" rel="noopener noreferrer">
+Farrow & Ball — Colour Trends
+</a>
 </p>
-
-</div>
-
-<div class="resource-group">
-
-<h3>Light Reflectance Value (LRV)</h3>
-
-<p>
-
-<a href="https://thelandofcolor.com/lrv-light-reflectance-value/" target="_blank" rel="noopener noreferrer">LRV explained — The Land of Color</a><br>
-
-<a href="https://jennakateathome.com/lrv-paint-colors/" target="_blank" rel="noopener noreferrer">LRV & natural light — Jenna Kate at Home</a><br>
-
-<a href="https://www.homesandgardens.com/interior-design/what-is-lrv" target="_blank" rel="noopener noreferrer">What is LRV — Homes & Gardens</a>
-
-</p>
-
-</div>
-
-<div class="resource-group">
-
-<h3>Choosing Colors for Your Light</h3>
-
-<p>
-
-<a href="https://www.sherwin-williams.com/en-us/project-center/paint/how-to-choose-paint-colors-based-on-room-direction" target="_blank" rel="noopener noreferrer">Choosing colors by room direction — Sherwin-Williams</a><br>
-
-<a href="https://www.kylieminteriors.ca/how-natural-light-affects-paint-colors/" target="_blank" rel="noopener noreferrer">How natural light affects color — Kylie M Interiors</a>
-
-</p>
-
 </div>
 
 </section>
 
 <!-- Upcycling -->
-
 <section class="resource-section" id="upcycling">
-
 <h2>Upcycling Projects</h2>
-
 <p>
-
 Upcycling is where imagination meets restraint: taking something ordinary and giving it a new,
 quietly luxurious life.
-
 </p>
 
 <div class="resource-group">
-
-<h3>Elevating Inexpensive Decor</h3>
-
+<h3>Elevating Everyday Objects</h3>
 <p>
-
-<a href="https://www.amaco.com/rub-n-buff" target="_blank" rel="noopener noreferrer">Using Rub ’n Buff — AMACO</a><br>
-
-<a href="https://www.apartmenttherapy.com/upcycling-ideas" target="_blank" rel="noopener noreferrer">Upcycling ideas — Apartment Therapy</a><br>
-
-<a href="https://www.marthastewart.com/1542073/faux-ceramic-paint-technique" target="_blank" rel="noopener noreferrer">Faux ceramic finishes — Martha Stewart</a>
-
+<a href="https://www.marthastewart.com/1542073/faux-ceramic-paint-technique" target="_blank" rel="noopener noreferrer">
+Martha Stewart — Faux Ceramic & Stone Finishes
+</a><br>
+<a href="https://www.apartmenttherapy.com/collection/upcycling" target="_blank" rel="noopener noreferrer">
+Apartment Therapy — Upcycling Ideas (Evergreen Hub)
+</a><br>
+<a href="https://www.younghouselove.com/diy-faux-stone-vase/" target="_blank" rel="noopener noreferrer">
+Young House Love — DIY Faux Stone Vase
+</a>
 </p>
-
-</div>
-
-<div class="resource-group">
-
-<h3>Plaster, Stone & Sculptural Finishes</h3>
-
-<p>
-
-<a href="https://www.homedepot.com/c/ah/how-to-use-joint-compound/9ba683603be9fa5395fab901c8c3a3a" target="_blank" rel="noopener noreferrer">Working with joint compound — Home Depot</a><br>
-
-<a href="https://www.younghouselove.com/diy-faux-stone-vase/" target="_blank" rel="noopener noreferrer">DIY faux stone vases — Young House Love</a>
-
-</p>
-
 </div>
 
 </section>
 
 <!-- Florals -->
-
 <section class="resource-section" id="florals">
-
 <h2>Florals & Wreaths</h2>
-
 <p>
-
 Seasonal arrangements and wreaths are a gentle way to mark time—branches, greens, and foraged
 materials that bring the outside in.
-
 </p>
 
 <div class="resource-group">
-
-<h3>Foraged Arrangements</h3>
-
+<h3>Foraged & Seasonal Arrangements</h3>
 <p>
-
-<a href="https://www.gardenista.com/posts/how-to-make-foraged-flower-arrangement/" target="_blank" rel="noopener noreferrer">Foraged arrangements — Gardenista</a>
-
+<a href="https://www.gardenista.com/posts/how-to-make-foraged-flower-arrangement/" target="_blank" rel="noopener noreferrer">
+Gardenista — Foraged Arrangements
+</a><br>
+<a href="https://www.marthastewart.com/1542071/how-to-make-grapevine-wreath" target="_blank" rel="noopener noreferrer">
+Martha Stewart — Grapevine Wreath
+</a><br>
+<a href="https://www.housebeautiful.com/entertaining/holidays-celebrations/a2965/asymmetrical-wreath/" target="_blank" rel="noopener noreferrer">
+House Beautiful — Asymmetrical Wreaths
+</a>
 </p>
-
-</div>
-
-<div class="resource-group">
-
-<h3>Wreath Making</h3>
-
-<p>
-
-<a href="https://www.marthastewart.com/1542071/how-to-make-grapevine-wreath" target="_blank" rel="noopener noreferrer">Grapevine wreath — Martha Stewart</a><br>
-
-<a href="https://www.housebeautiful.com/entertaining/holidays-celebrations/a2965/asymmetrical-wreath/" target="_blank" rel="noopener noreferrer">Asymmetrical wreaths — House Beautiful</a>
-
-</p>
-
-</div>
-
-</section>
-
-<!-- Tips -->
-
-<section class="resource-section" id="tips">
-
-<h2>Tips & Tricks</h2>
-
-<p>
-
-Small, clever techniques that make projects smoother, finishes better, and everyday objects feel more intentional.
-
-</p>
-
-<div class="resource-group">
-
-<h3>Materials & Quick Fixes</h3>
-
-<p>
-
-<a href="https://www.familyhandyman.com/list/choosing-the-right-adhesive/" target="_blank" rel="noopener noreferrer">Choosing the right adhesive — Family Handyman</a><br>
-
-<a href="https://www.homedepot.com/c/ah/how-to-patch-holes-in-drywall/9ba683603be9fa5395fab901c8c3a3a" target="_blank" rel="noopener noreferrer">Patching small holes — Home Depot</a>
-
-</p>
-
-</div>
-
-<div class="resource-group">
-
-<h3>Making Things Look More Expensive</h3>
-
-<p>
-
-<a href="https://www.apartmenttherapy.com/make-cheap-things-look-expensive" target="_blank" rel="noopener noreferrer">Make inexpensive pieces look high-end — Apartment Therapy</a><br>
-
-<a href="https://www.studiomcgee.com/styling-101-shelf-styling/" target="_blank" rel="noopener noreferrer">Shelf styling 101 — Studio McGee</a>
-
-</p>
-
 </div>
 
 </section>
 
 <!-- Creative Tools -->
-
 <section class="resource-section" id="creative-tools">
-
 <h2>Creative Tools</h2>
-
 <p>
-
-Behind every tactile project is a quiet layer of planning, imagining, and documenting.
-
+Behind every tactile project is a quiet layer of planning, imagining, and documenting. These tools
+help shape ideas before they become physical.
 </p>
 
 <div class="resource-group">
-
 <h3>AI & Digital Helpers</h3>
-
 <p>
-
-<a href="https://coolors.co/" target="_blank" rel="noopener noreferrer">Coolors — palette generator</a><br>
-
-<a href="https://planner5d.com/" target="_blank" rel="noopener noreferrer">Planner 5D — room visualization</a><br>
-
-<a href="https://www.canva.com/ai-image-generator/" target="_blank" rel="noopener noreferrer">Canva AI — concept sketches</a>
-
+<a href="https://learn.microsoft.com/en-us/copilot/basics/prompting" target="_blank" rel="noopener noreferrer">
+Copilot — Prompting Guide
+</a><br>
+<a href="https://help.openai.com/en/articles/6654000-best-practices-for-prompting" target="_blank" rel="noopener noreferrer">
+ChatGPT — Prompting Best Practices
+</a><br>
+<a href="https://www.anthropic.com/index/prompting" target="_blank" rel="noopener noreferrer">
+Claude — Prompting Guide
+</a>
 </p>
-
 </div>
 
 <div class="resource-group">
-
-<h3>Photography & Workflow</h3>
-
+<h3>Visualization & Planning</h3>
 <p>
-
-<a href="https://www.nytimes.com/wirecutter/guides/how-to-take-better-photos/" target="_blank" rel="noopener noreferrer">Natural light photography — Wirecutter</a><br>
-
-<a href="https://www.notion.so/templates/creative-hub" target="_blank" rel="noopener noreferrer">Notion creative hub — project organization</a>
-
+<a href="https://coolors.co/" target="_blank" rel="noopener noreferrer">
+Coolors — Palette Generator
+</a><br>
+<a href="https://planner5d.com/" target="_blank" rel="noopener noreferrer">
+Planner 5D — Room Visualization
+</a><br>
+<a href="https://www.canva.com/ai-image-generator/" target="_blank" rel="noopener noreferrer">
+Canva — AI Concept Sketches
+</a>
 </p>
-
 </div>
 
 </section>
 
 <section class="resource-section">
-
 <h2>Using This Page</h2>
-
 <p>
-
 This resources page is meant to stay simple: one place to return to when you need a technique,
 a proportion rule, a color reference, or a small nudge to try something new.
-
 </p>
-
 </section>
 
 <div class="post-back">
-
 <a href="../index.html">← Back to Craft</a>
-
 </div>
 
 </main>
 
 <footer>
-
 <div class="footer-inner">
-
 <p>© Thistle & Cypress</p>
-
 </div>
-
 </footer>
 
 </body>
