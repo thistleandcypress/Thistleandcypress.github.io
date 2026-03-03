@@ -610,7 +610,7 @@ body.kitchen-page.wine-page .post-card {
 }
 
 .about-photo {
-  max-width: 350px;  /* Reduced from 500px */
+  max-width: 225px;  /* Adjusts photo size */
   width: 85%;
   height: auto;
   margin: 0 auto;
