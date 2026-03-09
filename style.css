@@ -565,6 +565,36 @@ body.kitchen-page.wine-page .post-card {
 }
 
 /* ------------------------------------------
+   PRINT BUTTON — RECIPE PAGES
+------------------------------------------- */
+
+.print-button {
+    display: inline-block;
+    background-color: #d6cec4;
+    color: #2b2623;
+    text-decoration: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: Georgia, serif;
+    font-size: 1rem;
+    transition: background-color 0.2s ease, transform 0.15s ease;
+    margin: 1rem 0;
+}
+
+.print-button:hover {
+    background-color: #c8bfb6;
+    transform: translateY(-2px);
+}
+
+/* Print button within recipe meta box */
+.recipe-meta .print-button {
+    margin-top: 0.5rem;
+}
+
+/* ------------------------------------------
    FEATURED CONTENT — UNIVERSAL
 ------------------------------------------- */
 
