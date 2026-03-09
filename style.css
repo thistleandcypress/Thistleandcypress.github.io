@@ -479,8 +479,8 @@ body.about-page .welcome-text {
 .post-card {
   background-color: #ffffff;
   border-radius: 10px;
-  padding: 1.75rem 1.25rem;
-  margin-bottom: 2.5rem;
+  padding: 1.25rem 1rem;
+  margin-bottom: 2rem;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
@@ -508,7 +508,7 @@ body.about-page .welcome-text {
   max-width: 100%;
   height: auto;
   object-fit: cover;
-  margin: 0 auto 1.25rem;
+  margin: 0 auto 1rem;
   border-radius: 8px;
   display: block;
 }
@@ -531,7 +531,7 @@ body.kitchen-page .post-card h3 {
 }
 
 body.kitchen-page .post-thumb {
-  max-width: 350px;
+  max-width: 280px;
 }
 
 body.kitchen-page .excerpt {
