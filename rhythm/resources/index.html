@@ -1,162 +1,323 @@
 ---
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rhythm Resources – Thistle & Cypress</title>
+<link rel="stylesheet" href="../../style.css">
 
-  <title>{{ page.title }} | {{ site.title }}</title>
+<style>
+/* Additional styles specific to this resource page */
+.resource-intro {
+    max-width: 650px;
+    margin: 2rem auto;
+    font-style: italic;
+    color: #4a423d;
+    line-height: 1.7;
+}
 
-  <meta name="description" content="{{ page.description | escape }}">
+/* Quick navigation box */
+.resource-nav {
+    background-color: #e8f0e3;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin: 2rem 0 3rem;
+    border-left: 4px solid #7a9d7e;
+}
 
-  <link rel="canonical" href="{{ site.url }}{{ page.permalink }}">
+.resource-nav h3 {
+    margin-top: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #4a5d4e;
+}
 
-  <!-- OpenGraph -->
-  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
-  <meta property="og:description" content="{{ page.description | escape }}">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ site.url }}{{ page.permalink }}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="{{ site.url }}{{ page.hero_image }}">
+.resource-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.75rem 0 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.5rem;
+}
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
-  <meta name="twitter:description" content="{{ page.description | escape }}">
-  <meta name="twitter:image" content="{{ site.url }}{{ page.hero_image }}">
+.resource-nav a {
+    color: #365c4a;
+    text-decoration: none;
+    font-size: 0.95rem;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+}
 
-  <!-- Publisher -->
-  <meta name="author" content="{{ site.title }}">
-  <meta name="publisher" content="{{ site.title }}">
+.resource-nav a:hover {
+    border-bottom-color: #365c4a;
+}
 
-  <!-- JSON-LD: WebPage -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "{{ page.title | escape }}",
-    "url": "{{ site.url }}{{ page.permalink }}",
-    "description": "{{ page.description | escape }}",
-    "publisher": {
-      "@type": "Organization",
-      "name": "{{ site.title | escape }}",
-      "url": "{{ site.url }}",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{ site.url }}/assets/images/logo.png"
-      }
+/* Section styling */
+.resource-section {
+    margin: 3rem 0;
+    padding-top: 2rem;
+    border-top: 1px solid #e8e3dc;
+}
+
+.resource-section:first-of-type {
+    border-top: none;
+    padding-top: 0;
+}
+
+.resource-section:nth-child(even) {
+    background-color: #f9f7f3;
+    padding: 2rem 1.5rem;
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    border-radius: 8px;
+}
+
+.resource-section h2 {
+    color: #2b2623;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #c9d2c3;
+}
+
+/* Resource group styling */
+.resource-group {
+    margin: 2rem 0;
+    padding-left: 1rem;
+    border-left: 3px solid #dfe7d8;
+}
+
+.resource-group h3 {
+    font-size: 1.15rem;
+    margin-bottom: 0.5rem;
+    color: #365c4a;
+    font-weight: 500;
+}
+
+.resource-group a {
+    color: #365c4a;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(54, 92, 74, 0.25);
+    transition: border-color 0.2s ease, color 0.2s ease;
+    font-weight: 500;
+}
+
+.resource-group a:hover {
+    border-bottom-color: rgba(54, 92, 74, 0.6);
+    color: #2d4d3d;
+}
+
+.resource-note {
+    font-size: 0.9rem;
+    color: #6b625c;
+    margin-top: 0.75rem;
+    font-style: italic;
+}
+
+.resource-group ul {
+    margin: 0.75rem 0;
+    padding-left: 1.5rem;
+}
+
+.resource-group ul li {
+    margin: 0.5rem 0;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .resource-section:nth-child(even) {
+        margin-left: -1rem;
+        margin-right: -1rem;
+        padding: 1.5rem 1rem;
     }
-  }
-  </script>
-
-  <!-- JSON-LD: Breadcrumbs -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Rhythm",
-        "item": "{{ site.url }}/rhythm/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Resources",
-        "item": "{{ site.url }}{{ page.permalink }}"
-      }
-    ]
-  }
-  </script>
-
-  <link rel="stylesheet" href="{{ '/assets/css/root.css' | relative_url }}">
+    .resource-nav ul {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
 </head>
 
-<body>
+<body class="rhythm-page">
 
-<header class="site-header">
-  <nav class="site-nav" aria-label="Main navigation">
-    <a href="{{ '/' | relative_url }}" class="nav-logo">{{ site.title }}</a>
-    <ul class="nav-links">
-      <li><a href="{{ '/rhythm/' | relative_url }}">Rhythm</a></li>
-      <li><a href="{{ '/kitchen/' | relative_url }}">Kitchen</a></li>
-      <li><a href="{{ '/craft/' | relative_url }}">Craft</a></li>
-      <li><a href="{{ '/travel/' | relative_url }}">Travel</a></li>
-      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-    </ul>
-  </nav>
+<!-- Global Navigation -->
+<nav>
+<a href="../../index.html">Home</a>
+<a href="../../about.html">About</a>
+<a href="../../kitchen/index.html">Kitchen</a>
+<a href="../../garden/index.html">Garden</a>
+<a href="../../craft/index.html">Craft</a>
+<a href="../index.html" class="active">Rhythm</a>
+</nav>
+
+<!-- Submenu Navigation -->
+<nav class="subnav">
+<a href="../index.html">Rhythm</a>
+<a href="../daily-rituals/index.html">Daily Rituals</a>
+<a href="../mindful-moments/index.html">Mindful Moments</a>
+<a href="../seasonal-living/index.html">Seasonal Living</a>
+<a href="../enrichment/index.html">Enrichment</a>
+<a href="../travel/index.html">Travel</a>
+<a href="index.html" class="active">Resources</a>
+</nav>
+
+<!-- Hero -->
+<header class="hero">
+<div class="hero-inner">
+<h1>Rhythm Resources</h1>
+<p class="tagline">A curated foundation for understanding rhythm across biology, mathematics, symbolism, and environment.</p>
+<div class="header-divider"></div>
+</div>
 </header>
 
 <main>
 
-  <section class="hero">
-    <div class="hero-content">
-      <h1>{{ page.title }}</h1>
-      <p>{{ page.description }}</p>
-    </div>
-  </section>
+<p class="resource-intro">
+Rhythm lives in the body, in the structures and patterns around us, in the symbols we use to make meaning,
+and in the ecological cycles that shape our days and seasons. This page gathers the foundational references
+that help us understand those layers — scientific, symbolic, mathematical, and environmental — in one quiet,
+evergreen place.
+</p>
 
-  <section class="content-section">
-    <h2>Biological Rhythms</h2>
-    <p>How the body keeps time and why daily and seasonal rituals matter.</p>
-    <ul>
-      <li><a href="https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx" target="_blank" rel="noopener">Circadian Rhythms — NIGMS (NIH)</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Ultradian_rhythm" target="_blank" rel="noopener">Ultradian Rhythms — Wikipedia</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Infradian_rhythm" target="_blank" rel="noopener">Infradian Rhythms — Wikipedia</a></li>
-      <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8062295/" target="_blank" rel="noopener">Seasonality &amp; Symptoms of Depression — NIH (PMC8062295)</a></li>
-      <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11066747/" target="_blank" rel="noopener">Biobehavioral Rhythms &amp; Productivity — NIH (PMC11066747)</a></li>
-    </ul>
-  </section>
+<!-- Quick Navigation -->
+<nav class="resource-nav">
+<h3>Quick Navigation</h3>
+<ul>
+<li><a href="#biological">Biological Rhythms</a></li>
+<li><a href="#mathematical">Mathematical & Structural Patterns</a></li>
+<li><a href="#symbolic">Symbolic & Interpretive Frameworks</a></li>
+<li><a href="#environmental">Environmental & Ecological Rhythms</a></li>
+<li><a href="#enrichment">Enrichment & Learning</a></li>
+</ul>
+</nav>
 
-  <section class="content-section">
-    <h2>Mathematical &amp; Structural Patterns</h2>
-    <p>The geometry and structure of rhythm—how patterns repeat across scales.</p>
-    <ul>
-      <li><a href="https://en.wikipedia.org/wiki/Fibonacci_sequence" target="_blank" rel="noopener">Fibonacci Sequence — Wikipedia</a></li>
-      <li><a href="https://www.artelunagallery.com/sacred-geometry-of-art" target="_blank" rel="noopener">Sacred Geometry of Art — Arteluna Gallery</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Projective_geometry" target="_blank" rel="noopener">Projective Geometry — Wikipedia</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Fractal" target="_blank" rel="noopener">Fractals — Wikipedia</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Topology" target="_blank" rel="noopener">Topology — Wikipedia</a></li>
-    </ul>
-  </section>
+<!-- Biological Rhythms -->
+<section class="resource-section" id="biological">
+<h2>Biological Rhythms</h2>
+<p>
+How the body keeps time and why daily and seasonal rituals matter.
+</p>
 
-  <section class="content-section">
-    <h2>Symbolic &amp; Interpretive Frameworks</h2>
-    <p>How humans make meaning from patterns, symbols, and narrative.</p>
-    <ul>
-      <li><a href="https://en.wikipedia.org/wiki/Semiotics" target="_blank" rel="noopener">Semiotics — Wikipedia</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Kabbalah" target="_blank" rel="noopener">Kabbalah — Wikipedia</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Jungian_archetypes" target="_blank" rel="noopener">Jungian Archetypes — Wikipedia</a></li>
-      <li><a href="https://www.mindful.org/take-a-mindful-moment-five-simple-practices-for-daily-life/" target="_blank" rel="noopener">Mindful Moments: Five Simple Practices — Mindful.org</a></li>
-    </ul>
-  </section>
+<div class="resource-group">
+<h3>Circadian, Ultradian & Infradian Rhythms</h3>
+<ul>
+<li><a href="https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx" target="_blank" rel="noopener">Circadian Rhythms — NIGMS (NIH)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ultradian_rhythm" target="_blank" rel="noopener">Ultradian Rhythms — Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Infradian_rhythm" target="_blank" rel="noopener">Infradian Rhythms — Wikipedia</a></li>
+</ul>
+</div>
 
-  <section class="content-section">
-    <h2>Environmental &amp; Ecological Rhythms</h2>
-    <p>How the world keeps time—seasonal cycles, place, and ecological timing.</p>
-    <ul>
-      <li><a href="https://www.climate.gov/maps-data" target="_blank" rel="noopener">NOAA Climate Maps &amp; Data</a></li>
-      <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10786989/" target="_blank" rel="noopener">Sense of Place in Sociological Systems — NIH (PMC10786989)</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Phenology" target="_blank" rel="noopener">Phenology — Wikipedia</a></li>
-    </ul>
-  </section>
+<div class="resource-group">
+<h3>Seasonal & Behavioral Rhythms</h3>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8062295/" target="_blank" rel="noopener">Seasonality & Symptoms of Depression — NIH (PMC8062295)</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11066747/" target="_blank" rel="noopener">Biobehavioral Rhythms & Productivity — NIH (PMC11066747)</a></li>
+</ul>
+</div>
 
-  <section class="content-section">
-    <h2>Enrichment &amp; Learning</h2>
-    <p>High‑quality, research‑grounded resources for deeper exploration.</p>
-    <ul>
-      <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11066747/" target="_blank" rel="noopener">Identifying Links Between Productivity &amp; Biobehavioral Rhythms — NIH (PMC11066747)</a></li>
-      <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10786989/" target="_blank" rel="noopener">Curated Essays Replacement — NIH (PMC10786989)</a></li>
-    </ul>
-  </section>
+</section>
+
+<!-- Mathematical & Structural Patterns -->
+<section class="resource-section" id="mathematical">
+<h2>Mathematical & Structural Patterns</h2>
+<p>
+The geometry and structure of rhythm — how patterns repeat across scales.
+</p>
+
+<div class="resource-group">
+<h3>Patterns & Proportion</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Fibonacci_sequence" target="_blank" rel="noopener">Fibonacci Sequence — Wikipedia</a></li>
+<li><a href="https://www.artelunagallery.com/sacred-geometry-of-art" target="_blank" rel="noopener">Sacred Geometry of Art — Arteluna Gallery</a></li>
+</ul>
+</div>
+
+<div class="resource-group">
+<h3>Geometric & Structural Frameworks</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Projective_geometry" target="_blank" rel="noopener">Projective Geometry — Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fractal" target="_blank" rel="noopener">Fractals — Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Topology" target="_blank" rel="noopener">Topology — Wikipedia</a></li>
+</ul>
+</div>
+
+</section>
+
+<!-- Symbolic & Interpretive Frameworks -->
+<section class="resource-section" id="symbolic">
+<h2>Symbolic & Interpretive Frameworks</h2>
+<p>
+How humans make meaning from patterns, symbols, and narrative.
+</p>
+
+<div class="resource-group">
+<h3>Symbolic Systems</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Semiotics" target="_blank" rel="noopener">Semiotics — Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kabbalah" target="_blank" rel="noopener">Kabbalah — Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jungian_archetypes" target="_blank" rel="noopener">Jungian Archetypes — Wikipedia</a></li>
+</ul>
+</div>
+
+<div class="resource-group">
+<h3>Mindfulness & Presence</h3>
+<ul>
+<li><a href="https://www.mindful.org/take-a-mindful-moment-five-simple-practices-for-daily-life/" target="_blank" rel="noopener">Mindful Moments: Five Simple Practices — Mindful.org</a></li>
+</ul>
+</div>
+
+</section>
+
+<!-- Environmental & Ecological Rhythms -->
+<section class="resource-section" id="environmental">
+<h2>Environmental & Ecological Rhythms</h2>
+<p>
+How the world keeps time — seasonal cycles, place, and ecological timing.
+</p>
+
+<div class="resource-group">
+<h3>Climate & Seasonal Patterns</h3>
+<ul>
+<li><a href="https://www.climate.gov/maps-data" target="_blank" rel="noopener">NOAA Climate Maps & Data</a></li>
+</ul>
+</div>
+
+<div class="resource-group">
+<h3>Place, Ecology & Movement</h3>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10786989/" target="_blank" rel="noopener">Sense of Place in Sociological Systems — NIH (PMC10786989)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Phenology" target="_blank" rel="noopener">Phenology — Wikipedia</a></li>
+</ul>
+</div>
+
+</section>
+
+<!-- Enrichment & Learning -->
+<section class="resource-section" id="enrichment">
+<h2>Enrichment & Learning</h2>
+<p>
+High‑quality, research‑grounded resources for deeper exploration.
+</p>
+
+<div class="resource-group">
+<h3>Research & Further Reading</h3>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11066747/" target="_blank" rel="noopener">Identifying Links Between Productivity & Biobehavioral Rhythms — NIH (PMC11066747)</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10786989/" target="_blank" rel="noopener">Curated Essays Replacement — NIH (PMC10786989)</a></li>
+</ul>
+</div>
+
+</section>
+
+<div class="post-back">
+<a href="../index.html">← Back to Rhythm</a>
+</div>
 
 </main>
 
-  {% include footer.html %}
+<!-- Footer Include -->
+{% include footer.html %}
 
 </body>
 </html>
