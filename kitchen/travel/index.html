@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Travel – Thistle & Cypress | Culinary Travel, Food Markets & Regional Traditions</title>
 
-  <meta name="description" content="Notes from the road: flavors, traditions, and kitchen lessons gathered from the places that shape us. Culinary experiences beyond home — regional flavors, markets, and traditions.">
+  <meta name="description" content="Notes from the road — flavors, traditions, and kitchen lessons gathered from the places that shape us. Culinary experiences beyond home, from regional markets to food traditions.">
   <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="culinary travel, food travel, farmers markets, regional cuisine, Italy travel, Scotland travel, food traditions, travel cooking, market visits">
+  <meta name="keywords" content="culinary travel, regional cuisine, food markets, travel cooking, Italy food travel, Scotland food travel, regional traditions">
   <meta name="theme-color" content="#faf8f5">
 
   <!-- Canonical URL -->
@@ -17,16 +17,16 @@
 
   <!-- OpenGraph Metadata -->
   <meta property="og:title" content="Travel – Thistle & Cypress | Culinary Travel & Regional Traditions">
-  <meta property="og:description" content="Notes from the road: flavors, traditions, and kitchen lessons gathered from the places that shape us.">
+  <meta property="og:description" content="Notes from the road — flavors, traditions, and kitchen lessons gathered from the places that shape us.">
   <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/travel/">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
   <meta property="og:site_name" content="Thistle & Cypress">
 
   <!-- Twitter Metadata -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Travel – Thistle & Cypress | Culinary Travel & Regional Traditions">
-  <meta name="twitter:description" content="Notes from the road: flavors, traditions, and kitchen lessons gathered from the places that shape us.">
+  <meta name="twitter:description" content="Notes from the road — flavors, traditions, and kitchen lessons gathered from the places that shape us.">
   <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
 
   <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
@@ -81,20 +81,26 @@
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "Travel",
-    "description": "Notes from the road: flavors, traditions, and kitchen lessons gathered from the places that shape us.",
+    "description": "A collection of culinary experiences beyond home — regional flavors, markets, and traditions that shape how we cook and gather.",
     "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/travel/",
     "isPartOf": {
-      "@type": "WebPage",
+      "@type": "WebSite",
       "name": "Kitchen",
       "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/"
-    }
+    },
+    "about": [
+      { "@type": "Thing", "name": "Culinary Travel" },
+      { "@type": "Thing", "name": "Regional Food Traditions" },
+      { "@type": "Thing", "name": "Market Exploration" }
+    ]
   }
   </script>
+
 </head>
 
 <body class="kitchen-page travel-page">
 
-  <!-- Hero -->
+  <!-- Hero (preserved exactly) -->
   <header class="hero" role="banner">
     <div class="hero-inner">
       <h1>Travel</h1>
@@ -145,8 +151,8 @@
 
   </main>
 
-<!-- Footer Include -->
-{% include footer.html %}
+  <!-- Footer Include -->
+  {% include footer.html %}
 
 </body>
 </html>
