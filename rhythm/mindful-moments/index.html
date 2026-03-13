@@ -4,9 +4,97 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Mindful Moments – Thistle & Cypress</title>
-  <meta name="description" content="Quiet reflections and the small pauses that bring us back to ourselves.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mindful Moments – Thistle & Cypress | Quiet Pauses & Sensory Reflection</title>
+
+  <meta name="description" content="Quiet reflections, sensory details, and the small pauses that bring us back to ourselves — moments of presence woven into the rhythm of daily life.">
+  <meta name="author" content="Thistle & Cypress">
+  <meta name="keywords" content="mindful moments, mindfulness, reflection, sensory awareness, intentional living, slow living, presence, rhythm">
+  <meta name="theme-color" content="#faf8f5">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/rhythm/mindful-moments/">
+
+  <!-- OpenGraph Metadata -->
+  <meta property="og:title" content="Mindful Moments – Thistle & Cypress | Quiet Pauses & Sensory Reflection">
+  <meta property="og:description" content="A space for quiet reflections and sensory details — the small pauses that help us soften, slow down, and reconnect with the present.">
+  <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/rhythm/mindful-moments/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Thistle & Cypress">
+
+  <!-- Twitter Metadata -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Mindful Moments – Thistle & Cypress">
+  <meta name="twitter:description" content="Quiet reflections and the small pauses that bring us back to ourselves.">
+  <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+
+  <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
+
+  <!-- JSON-LD: Website -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Thistle & Cypress",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
+    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Thistle & Cypress"
+    }
+  }
+  </script>
+
+  <!-- JSON-LD: Breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Rhythm",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Mindful Moments",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/mindful-moments/"
+      }
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: CollectionPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Mindful Moments",
+    "description": "A collection of quiet reflections and sensory observations that invite presence and gentle awareness.",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/mindful-moments/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Thistle & Cypress",
+      "url": "https://thistleandcypress.github.io/thistleandcypress.com/"
+    },
+    "about": [
+      { "@type": "Thing", "name": "Mindful Moments" },
+      { "@type": "Thing", "name": "Mindfulness" },
+      { "@type": "Thing", "name": "Sensory Awareness" }
+    ]
+  }
+  </script>
 </head>
 
 <body class="rhythm-page mindful-moments-page">
@@ -15,10 +103,10 @@
   <nav>
     <a href="/">Home</a>
     <a href="/about.html">About</a>
-    <a href="/kitchen/index.html">Kitchen</a>
-    <a href="/garden/index.html">Garden</a>
-    <a href="/craft/index.html">Craft</a>
-    <a href="/rhythm/index.html" class="active">Rhythm</a>
+    <a href="/kitchen/">Kitchen</a>
+    <a href="/garden/">Garden</a>
+    <a href="/craft/">Craft</a>
+    <a href="/rhythm/" class="active">Rhythm</a>
   </nav>
 
   <!-- Submenu Navigation -->
@@ -27,8 +115,8 @@
     <a href="../daily-rituals/index.html">Daily Rituals</a>
     <a href="../mindful-moments/index.html" class="active">Mindful Moments</a>
     <a href="../seasonal-living/index.html">Seasonal Living</a>
-    <a href="../enrichment/index.html">Enrichment</a>
     <a href="../travel/index.html">Travel</a>
+    <a href="../enrichment/index.html">Enrichment</a>
     <a href="../resources/index.html">Resources</a>
   </nav>
 
@@ -73,8 +161,8 @@
 
   </main>
 
-<!-- Footer Include -->
-{% include footer.html %}
+  <!-- Footer Include -->
+  {% include footer.html %}
 
 </body>
 </html>
