@@ -564,6 +564,12 @@ body.kitchen-page.wine-page .post-card {
   margin: 0;
 }
 
+body.kitchen-page.wine-page .post-card a {
+  background-color: #f7f4f1; /* subtle warm white */
+  border: 1px solid rgba(122, 59, 63, 0.18); /* muted wine outline */
+  border-radius: 8px;
+}
+
 /* ------------------------------------------
    POST LIST — ULTRA COMPACT INDEX STYLE
 ------------------------------------------- */
