@@ -9,7 +9,7 @@
 
   <meta name="description" content="Thoughtful discoveries — ingredients, makers, and objects that bring ease and inspiration to the kitchen. Recent finds worth sharing from our culinary explorations.">
   <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="kitchen discoveries, new ingredients, artisan makers, kitchen finds, culinary discoveries, food discoveries, kitchen inspiration, new tools">
+  <meta name="keywords" content="kitchen discoveries, new ingredients, artisan makers, kitchen inspiration, culinary finds, new kitchen tools">
   <meta name="theme-color" content="#faf8f5">
 
   <!-- Canonical URL -->
@@ -20,7 +20,7 @@
   <meta property="og:description" content="Thoughtful discoveries — ingredients, makers, and objects that bring ease and inspiration to the kitchen.">
   <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/new-finds/">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
   <meta property="og:site_name" content="Thistle & Cypress">
 
   <!-- Twitter Metadata -->
@@ -81,15 +81,21 @@
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "New Finds",
-    "description": "Thoughtful discoveries — ingredients, makers, and objects that bring ease and inspiration to the kitchen.",
+    "description": "A collection of thoughtful discoveries — ingredients, tools, and artisan makers that bring ease and inspiration to the kitchen.",
     "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/new-finds/",
     "isPartOf": {
-      "@type": "WebPage",
+      "@type": "WebSite",
       "name": "Kitchen",
       "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/"
-    }
+    },
+    "about": [
+      { "@type": "Thing", "name": "Kitchen Discoveries" },
+      { "@type": "Thing", "name": "Artisan Makers" },
+      { "@type": "Thing", "name": "New Ingredients & Tools" }
+    ]
   }
   </script>
+
 </head>
 
 <body class="kitchen-page">
@@ -145,8 +151,8 @@
 
   </main>
 
-<!-- Footer Include -->
-{% include footer.html %}
+  <!-- Footer Include -->
+  {% include footer.html %}
 
 </body>
 </html>
