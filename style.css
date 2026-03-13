@@ -564,10 +564,13 @@ body.kitchen-page.wine-page .post-card {
   margin: 0;
 }
 
+/* Wine sub-pillar: button warmth + wine outline */
 body.kitchen-page.wine-page .post-card a {
-  background-color: #f7f4f1; /* subtle warm white */
-  border: 1px solid rgba(122, 59, 63, 0.18); /* muted wine outline */
+  display: block;
+  background-color: #f7f4f1;
+  border: 1px solid #7a3b3f;
   border-radius: 8px;
+  padding: 1rem;
 }
 
 /* ------------------------------------------
