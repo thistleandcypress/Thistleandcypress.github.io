@@ -6,23 +6,69 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sequoia Grove Winery | Rutherford Cabernet & Wine Club Experience | Thistle & Cypress</title>
-  <meta name="description" content="A visit to Sequoia Grove Winery in Rutherford, Napa Valley. Structured Cabernet Sauvignon, standout Cabernet Franc, food pairings, and wine club insights from longtime members.">
+
+  <meta name="description" content="A visit to Sequoia Grove Winery in Rutherford, Napa Valley — structured Cabernet Sauvignon, standout Cabernet Franc, thoughtful pairings, and wine club insights from longtime members.">
   <meta name="author" content="Thistle & Cypress">
   <meta name="theme-color" content="#faf8f5">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/Sequoia.html">
 
   <!-- OpenGraph -->
   <meta property="og:title" content="Sequoia Grove Winery | Rutherford Cabernet & Wine Club Experience">
   <meta property="og:description" content="Structured, expressive Cabernet Sauvignon, exceptional Cabernet Franc, and one of Napa Valley’s most grounded tasting experiences.">
+  <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/Sequoia.html">
   <meta property="og:type" content="article">
-  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/sequoia-grove-winery.html">
+  <meta property="og:site_name" content="Thistle & Cypress">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Sequoia Grove Winery | Rutherford Cabernet & Wine Club Experience">
   <meta name="twitter:description" content="A trusted Napa home for structured Cabernets, thoughtful pairings, and warm hospitality.">
+  <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
 
   <link rel="stylesheet" href="../../style.css">
   <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
+
+  <!-- JSON-LD: Website -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Thistle & Cypress",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
+    "publisher": { "@type": "Organization", "name": "Thistle & Cypress" }
+  }
+  </script>
+
+  <!-- JSON-LD: Breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thistleandcypress.github.io/thistleandcypress.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Kitchen", "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/" },
+      { "@type": "ListItem", "position": 3, "name": "Wine", "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/" },
+      { "@type": "ListItem", "position": 4, "name": "Sequoia Grove Winery", "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/Sequoia.html" }
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: Article -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Sequoia Grove Winery",
+    "description": "A visit to Sequoia Grove Winery in Rutherford, Napa Valley — structured Cabernet Sauvignon, standout Cabernet Franc, thoughtful pairings, and wine club insights from longtime members.",
+    "author": { "@type": "Organization", "name": "Thistle & Cypress" },
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/Sequoia.html",
+    "mainEntityOfPage": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/Sequoia.html"
+  }
+  </script>
+
 </head>
 
 <body>
@@ -38,11 +84,18 @@
 
   <main class="content">
 
-    <article>
-      <header>
+    <!-- FIXED HERO (layout preserved, hero classes added) -->
+    <header class="hero" role="banner">
+      <div class="hero-inner">
         <h1>Sequoia Grove Winery</h1>
-        <p class="post-subtitle">Rutherford Cabernet, Cabernet Franc, and a Napa Valley Tasting Experience We Return to Year After Year</p>
-      </header>
+        <p class="post-subtitle">
+          Rutherford Cabernet, Cabernet Franc, and a Napa Valley Tasting Experience We Return to Year After Year
+        </p>
+        <div class="header-divider"></div>
+      </div>
+    </header>
+
+    <article>
 
       <p>Set beneath its iconic stand of towering sequoias, <a href="https://sequoiagrove.com/" target="_blank" rel="noopener">Sequoia Grove Winery</a> has become one of our most trusted Napa homes — where vineyard-driven winemaking meets warm, grounded hospitality. Located in the heart of Rutherford, the estate is especially known for crafting structured, expressive Cabernet Sauvignon that reflects the character and depth of Napa Valley’s most celebrated vineyards.</p>
 
@@ -73,15 +126,14 @@
       <p><em>Disclosure:</em> We are longtime wine club members of Sequoia Grove Winery. This post reflects our personal experience.</p>
 
     </article>
-    
-<div class="back-link">
-  <a href="index.html" class="button">← Back to Wine</a>
-</div>
+
+    <div class="back-link">
+      <a href="index.html" class="button">← Back to Wine</a>
+    </div>
 
   </main>
 
-<!-- Footer Include -->
-{% include footer.html %}
+  {% include footer.html %}
 
 </body>
 </html>
