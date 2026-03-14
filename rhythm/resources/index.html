@@ -7,109 +7,141 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Resources – Thistle & Cypress | Tools, Guides & Practical Reference</title>
 
-  <meta name="description" content="A curated collection of tools, guides, references, and practical resources to support a grounded, intentional rhythm of living.">
+  <meta name="description" content="A curated collection of tools, guides, and references to support a grounded, intentional rhythm of living—from sacred geometry to mindfulness.">
   <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="resources, guides, tools, references, intentional living, rhythm, practical support, slow living">
   <meta name="theme-color" content="#faf8f5">
 
-  <!-- Canonical URL -->
   <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/rhythm/resources/">
-
-  <!-- OpenGraph Metadata -->
-  <meta property="og:title" content="Resources – Thistle & Cypress | Tools & Practical Reference">
-  <meta property="og:description" content="A curated collection of tools, guides, and references to support a well‑lived rhythm.">
-  <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
-  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/rhythm/resources/">
-  <meta property="og:type" content="article">
-  <meta property="og:site_name" content="Thistle & Cypress">
-
-  <!-- Twitter Metadata -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Resources – Thistle & Cypress">
-  <meta name="twitter:description" content="Tools, guides, and references to support a grounded, intentional rhythm.">
-  <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
 
   <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
 
-  <!-- JSON-LD: Website -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Thistle & Cypress",
-    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
-    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
+  <style>
+    /* Resource-specific styling for visual consistency across pillars */
+    .resource-intro {
+        max-width: 650px;
+        margin: 2rem auto;
+        font-style: italic;
+        color: #4a423d;
+        line-height: 1.7;
     }
-  }
-  </script>
 
-  <!-- JSON-LD: Breadcrumbs -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Rhythm",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Resources",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/resources/"
-      }
-    ]
-  }
-  </script>
+    .resource-nav {
+        background-color: #f3f5f8; /* Rhythm's cooler blue-grey palette */
+        padding: 1.5rem;
+        border-radius: 8px;
+        margin: 2rem 0 3rem;
+        border-left: 4px solid #7a8fa9;
+    }
 
-  <!-- JSON-LD: CollectionPage -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Resources",
-    "description": "A curated collection of tools, guides, and references to support intentional living and a grounded daily rhythm.",
-    "url": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/resources/",
-    "isPartOf": {
-      "@type": "WebSite",
-      "name": "Thistle & Cypress",
-      "url": "https://thistleandcypress.github.io/thistleandcypress.com/"
-    },
-    "about": [
-      { "@type": "Thing", "name": "Resources" },
-      { "@type": "Thing", "name": "Guides" },
-      { "@type": "Thing", "name": "Tools & Reference" }
-    ]
-  }
-  </script>
+    .resource-nav h3 {
+        margin-top: 0;
+        font-size: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #4a545d;
+    }
+
+    .resource-nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0.75rem 0 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 0.5rem;
+    }
+
+    .resource-nav a {
+        color: #364a5c;
+        text-decoration: none;
+        font-size: 0.95rem;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s ease;
+    }
+
+    .resource-nav a:hover {
+        border-bottom-color: #364a5c;
+    }
+
+    .resource-section {
+        margin: 3rem 0;
+        padding-top: 2rem;
+        border-top: 1px solid #e8e3dc;
+    }
+
+    .resource-section:first-of-type {
+        border-top: none;
+        padding-top: 0;
+    }
+
+    .resource-section:nth-child(even) {
+        background-color: #f9f7f3;
+        padding: 2rem 1.5rem;
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+        border-radius: 8px;
+    }
+
+    .resource-section h2 {
+        color: #2b2623;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid #cbd0d2;
+    }
+
+    .resource-group {
+        margin: 2rem 0;
+        padding-left: 1rem;
+        border-left: 3px solid #d8dee7;
+    }
+
+    .resource-group h3 {
+        font-size: 1.15rem;
+        margin-bottom: 0.5rem;
+        color: #364a5c;
+        font-weight: 500;
+    }
+
+    .resource-group a {
+        color: #364a5c;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(54, 74, 92, 0.25);
+        transition: border-color 0.2s ease, color 0.2s ease;
+        font-weight: 500;
+    }
+
+    .resource-group a:hover {
+        border-bottom-color: rgba(54, 74, 92, 0.6);
+        color: #2d3d4d;
+    }
+
+    .resource-note {
+        font-size: 0.9rem;
+        color: #6b625c;
+        margin-top: 0.75rem;
+        font-style: italic;
+    }
+
+    @media (max-width: 768px) {
+        .resource-section:nth-child(even) {
+            margin-left: -1rem;
+            margin-right: -1rem;
+            padding: 1.5rem 1rem;
+        }
+    }
+  </style>
 </head>
 
 <body class="rhythm-page resources-page">
 
-  <!-- Global Navigation -->
   <nav>
     <a href="/">Home</a>
     <a href="/about.html">About</a>
-    <a href="/kitchen/">Kitchen</a>
-    <a href="/garden/">Garden</a>
-    <a href="/craft/">Craft</a>
-    <a href="/rhythm/" class="active">Rhythm</a>
+    <a href="/kitchen/index.html">Kitchen</a>
+    <a href="/garden/index.html">Garden</a>
+    <a href="/craft/index.html">Craft</a>
+    <a href="/rhythm/index.html" class="active">Rhythm</a>
   </nav>
 
-  <!-- Submenu Navigation -->
   <nav class="subnav">
     <a href="../index.html">Rhythm</a>
     <a href="../daily-rituals/index.html">Daily Rituals</a>
@@ -117,10 +149,9 @@
     <a href="../seasonal-living/index.html">Seasonal Living</a>
     <a href="../travel/index.html">Travel</a>
     <a href="../enrichment/index.html">Enrichment</a>
-    <a href="../resources/index.html" class="active">Resources</a>
+    <a href="../resources/index.html" class="active" aria-current="page">Resources</a>
   </nav>
 
-  <!-- Hero -->
   <header class="hero">
     <div class="hero-inner">
       <h1>Resources</h1>
@@ -131,25 +162,93 @@
 
   <main>
 
-    <p>
-      Resources are the practical companions to a mindful, intentional life — the tools, guides, and references
-      that help us stay grounded, organized, and connected to what matters. This space gathers the supportive
-      materials that make daily rhythms feel steadier and more spacious.
+    <p class="resource-intro">
+      Resources are the practical companions to an intentional life—the tools and references
+      that help us stay grounded and connected. This space gathers materials that explore the hidden architecture of our world and the rhythms that sustain us.
     </p>
 
-    <!-- Standardized Grid Layout -->
-    <div class="post-list">
-      <!-- Future resource cards will go here -->
-    </div>
+    <nav class="resource-nav">
+      <h3>Quick Navigation</h3>
+      <ul>
+        <li><a href="#universal-patterns">Universal Patterns & Geometry</a></li>
+        <li><a href="#language-meaning">Language & Meaning</a></li>
+        <li><a href="#mindful-rhythms">Mindful Rhythms & Sound</a></li>
+        <li><a href="#nature-culture">Nature & Cultural Rhythms</a></li>
+        <li><a href="#spirit-contemplation">Spirit & Contemplation</a></li>
+      </ul>
+    </nav>
 
-    <!-- Back Link -->
+    <section class="resource-section" id="universal-patterns">
+      <h2>Universal Patterns & Geometry</h2>
+      <p>Mathematical structures that define the natural and created world.</p>
+
+      <div class="resource-group">
+        <h3>Sacred Geometry & The Golden Ratio</h3>
+        <p>Exploring the "Divine Proportion" and how $\phi$ (1.618) shapes our reality.</p>
+        <p><a href="https://www.sacredartofgeometry.com/golden-ratio" target="_blank" rel="noopener">Sacred Art of Geometry: The Golden Mean</a></p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Pi (&pi;) & Projective Geometry</h3>
+        <p>A look at the constants of the universe and the geometry of perspective.</p>
+        <p><a href="https://www.britannica.com/science/projective-geometry" target="_blank" rel="noopener">Britannica: Principles of Projective Geometry</a></p>
+      </div>
+    </section>
+
+    <section class="resource-section" id="language-meaning">
+      <h2>Language & Hidden Meaning</h2>
+      <div class="resource-group">
+        <h3>Literal Qabalah: Gematria, Notariqon, & Temurah</h3>
+        <p>Classical techniques for uncovering hidden layers of meaning within text through numerical and alphabetical permutation.</p>
+        <p><a href="https://northernway.org/school/electives/qabalah/temnot.html" target="_blank" rel="noopener">Literal Cabala: Techniques of Permutation</a></p>
+      </div>
+    </section>
+
+    <section class="resource-section" id="mindful-rhythms">
+      <h2>Mindful Rhythms & Well-being</h2>
+      <div class="resource-group">
+        <h3>Sound Baths & Healing Frequencies</h3>
+        <p>Understanding the science behind binaural beats, sound interventions, and stress reduction.</p>
+        <p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11976171/" target="_blank" rel="noopener">NIH: Effects of Sound Interventions on Stress</a></p>
+        <p><a href="https://lonestarneurology.net/others/the-role-of-binaural-beats-in-enhancing-cognitive-function-and-relaxation/" target="_blank" rel="noopener">Binaural Beats: Enhancing Relaxation</a></p>
+      </div>
+      <div class="resource-group">
+        <h3>Authentic Living</h3>
+        <p>Practical guides for moving from impulse toward intentionality.</p>
+        <p><a href="https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/exercise-and-stress/art-20044469" target="_blank" rel="noopener">Mayo Clinic: Rhythms of Stress Relief</a></p>
+      </div>
+    </section>
+
+    <section class="resource-section" id="nature-culture">
+      <h2>Nature & Cultural Rhythms</h2>
+      <div class="resource-group">
+        <h3>Shinrin-Yoku (Forest Bathing)</h3>
+        <p>The Japanese practice of sensory immersion in nature to improve physiological health.</p>
+        <p><a href="https://www.ana.co.jp/en/jp/japan-travel-planner/experiences/shinrin-yoku/" target="_blank" rel="noopener">Shinrin-Yoku: A Guide to Forest Bathing</a></p>
+      </div>
+      <div class="resource-group">
+        <h3>Hygge, Lagom, & Friluftsliv</h3>
+        <p>Northern European concepts for finding balance, comfort, and a life lived in the open air.</p>
+        <p><a href="https://pageflutter.com/simple-ways-add-hygge-winter-routine/" target="_blank" rel="noopener">Hygge: Building a Mindful Winter Routine</a></p>
+      </div>
+    </section>
+
+    <section class="resource-section" id="spirit-contemplation">
+      <h2>Spirit & Contemplation</h2>
+      <div class="resource-group">
+        <h3>Seasonal Living & Prayer</h3>
+        <p>Resources for prayer, meditation, and aligning your internal life with the changing seasons.</p>
+        <p><a href="https://www.simplybeecounseling.net/blog/seasonalselfcare" target="_blank" rel="noopener">Seasonal Self-Care Guide</a></p>
+        <p><a href="https://cac.org/practice-with-us/" target="_blank" rel="noopener">Center for Action and Contemplation: Practices</a></p>
+      </div>
+    </section>
+
     <div class="post-back">
       <a href="../index.html">← Back to Rhythm</a>
     </div>
 
   </main>
 
-  <!-- Footer Include -->
   {% include footer.html %}
 
 </body>
