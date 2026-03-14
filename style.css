@@ -138,7 +138,7 @@ nav a.active {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 16vh;  /* 50% of original 32vh */
+  min-height: 16vh;
 }
 
 .hero::before {
@@ -152,19 +152,6 @@ nav a.active {
     rgba(255, 255, 255, 0.50) 100%
   );
   z-index: 1;
-}
-
-/* Hero background div (for About page with custom opacity) */
-.hero-bg {
-  position: absolute;
-  inset: 0;
-  background-image: url('Pillar Background Thistle and Cypress About.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  opacity: 0.47;
-  pointer-events: none;
-  z-index: 0;
 }
 
 .hero-inner {
@@ -199,7 +186,7 @@ nav a.active {
 }
 
 /* ------------------------------------------
-   WELCOME TEXT — UNIVERSAL (used on all pillar pages)
+   WELCOME TEXT — UNIVERSAL
 ------------------------------------------- */
 
 .welcome-text {
@@ -211,16 +198,6 @@ nav a.active {
 
 .welcome-text p {
   margin: 1.2rem 0;
-}
-
-/* About page specific welcome styling */
-body.about-page .welcome-text {
-  text-align: center;
-  font-size: 1.2rem;
-  font-style: italic;
-  color: #4a423d;
-  margin: 2.5rem auto;
-  max-width: 650px;
 }
 
 /* ------------------------------------------
@@ -251,13 +228,8 @@ body.about-page .welcome-text {
   line-height: 1.7;
 }
 
-/* Section inner wrapper (for additional control) */
-.section-inner {
-  max-width: 100%;
-}
-
 /* ------------------------------------------
-   PILLAR LISTS — UNIVERSAL (Garden, Craft, Rhythm style)
+   PILLAR LISTS — UNIVERSAL
 ------------------------------------------- */
 
 .pillar-list {
@@ -281,193 +253,8 @@ body.about-page .welcome-text {
   color: #6b625c;
 }
 
-.pillar-list strong {
-  font-weight: 600;
-}
-
 /* ------------------------------------------
-   SOFT BANDS — UNIVERSAL
-------------------------------------------- */
-
-.soft-band {
-  background-color: #f3efe9;
-  padding: 1.75rem 1.5rem;
-  border-radius: 8px;
-  margin: 2rem 0;
-}
-
-/* ------------------------------------------
-   FOUR PILLARS GRID — HOME PAGE
-------------------------------------------- */
-
-.pillars-wrapper {
-  max-width: 900px;
-  margin: 2rem auto;
-}
-
-.pillars {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1rem;
-}
-
-/* PHOTO-BASED PILLAR BUTTONS — HOME PAGE */
-
-.pillar-button {
-  position: relative;
-  display: block;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border-radius: 12px;
-  overflow: hidden;
-  padding: 0;
-  min-height: 260px;
-  color: #ffffff;
-  text-decoration: none;
-  transition: transform 0.2s ease;
-}
-
-/* Soft overlay for readability */
-.pillar-button::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.28);
-  transition: background 0.25s ease;
-  z-index: 1;
-}
-
-/* Ensure pillar text sits above overlay */
-.pillar-content {
-  position: relative;
-  z-index: 2;
-  padding: 1.5rem;
-  color: #f8f8f8;
-}
-
-/* Hover effect */
-.pillar-button:hover {
-  transform: translateY(-3px);
-}
-
-.pillar-button:hover::before {
-  background: rgba(0, 0, 0, 0.18);
-}
-
-.pillar-content h2 {
-  margin-top: 0;
-  font-size: 1.4rem;
-}
-
-.pillar-content p {
-  margin: 0.75rem 0 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-}
-
-/* Pillar navigation (sub-pillar links inside pillar buttons) */
-.pillar-nav {
-  font-size: 0.85rem;
-  margin-top: 1rem !important;
-  padding-top: 1rem;
-  border-top: 1px solid rgba(75, 66, 61, 0.15);
-  color: #4a423d;
-  font-style: normal;
-  line-height: 1.5;
-}
-
-/* ------------------------------------------
-   HIGHLIGHTS SECTION — KITCHEN PILLAR
-   (Card-style featured content)
-------------------------------------------- */
-
-.highlights-wrapper {
-  max-width: 900px;
-  margin: 3rem auto;
-  padding: 1.75rem 1.5rem;
-  background-color: #f3efe9;
-  border-radius: 8px;
-}
-
-.highlights-wrapper h2 {
-  text-align: center;
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-.highlights-intro {
-  text-align: center;
-  color: #4a423d;
-  font-size: 0.95rem;
-  margin-bottom: 2rem;
-}
-
-.highlights-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
-
-.highlight-card {
-  display: block;
-  background-color: #dfe7d8;
-  color: #2b2623;
-  text-decoration: none;
-  padding: 1.25rem;
-  border-radius: 12px;
-  border: 1px solid #c9d2c3;
-  transition: transform 0.15s ease, background-color 0.2s ease;
-}
-
-.highlight-card:hover {
-  background-color: #cfd8c4;
-  transform: translateY(-2px);
-}
-
-.highlight-card h3 {
-  margin-top: 0;
-  font-size: 1.25rem;
-  color: #2b2623;
-}
-
-.highlight-card p {
-  margin: 0.75rem 0 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: #2b2623;
-}
-
-/* ------------------------------------------
-   COMING SOON MESSAGE
-   (For sub-pillar pages without content yet)
-------------------------------------------- */
-
-.coming-soon {
-  max-width: 650px;
-  margin: 4rem auto 3rem;
-  padding: 2.5rem 2rem;
-  background-color: #f3efe9;
-  border-radius: 8px;
-  text-align: center;
-  border-top: 3px solid #c9d2c3;
-}
-
-.coming-soon p {
-  color: #4a423d;
-  font-size: 1.05rem;
-  line-height: 1.7;
-  margin: 1rem 0;
-}
-
-.coming-soon p:first-child {
-  font-style: italic;
-}
-
-/* ------------------------------------------
-   POST CARDS — UNIVERSAL (Kitchen & Garden)
+   POST CARDS — UNIVERSAL
 ------------------------------------------- */
 
 .post-list {
@@ -490,11 +277,6 @@ body.about-page .welcome-text {
   box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
 
-.post-card h2,
-.post-card h3 {
-  margin: 0.5rem 0 0.75rem;
-}
-
 .post-card a {
   text-decoration: none;
   color: #2b2623;
@@ -504,23 +286,10 @@ body.about-page .welcome-text {
   color: #6b625c;
 }
 
-.post-thumb {
-  max-width: 100%;
-  height: auto;
-  object-fit: cover;
-  margin: 0 auto 1rem;
-  border-radius: 8px;
-  display: block;
-}
+/* ------------------------------------------
+   KITCHEN POST LIST
+------------------------------------------- */
 
-.excerpt {
-  color: #6a6a6a;
-  font-size: 1rem;
-  margin: 0.75rem 0 0;
-  line-height: 1.6;
-}
-
-/* Kitchen-specific: single column with centered content */
 body.kitchen-page .post-list {
   max-width: 650px;
 }
@@ -530,29 +299,11 @@ body.kitchen-page .post-card h3 {
   text-align: center;
 }
 
-body.kitchen-page .post-thumb {
-  max-width: 280px;
-}
+/* ------------------------------------------
+   WINE SUB-PILLAR — FIXED
+------------------------------------------- */
 
-body.kitchen-page .excerpt {
-  text-align: center;
-  margin: 0 auto;
-  max-width: 550px;
-}
-
-/* Garden-specific: multi-column grid */
-body.garden-page .post-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-}
-
-body.garden-page .post-card {
-  background-color: rgba(255, 255, 255, 0.88);
-  margin-bottom: 0;
-}
-
-/* Wine sub-pillar: multi-column grid */
+/* Wine index: two-column grid */
 body.kitchen-page.wine-page .post-list {
   max-width: 100%;
   display: grid;
@@ -560,329 +311,33 @@ body.kitchen-page.wine-page .post-list {
   gap: 2rem;
 }
 
+/* Wine index: clean outlined card */
 body.kitchen-page.wine-page .post-card {
-  margin: 0;
-}
-
-/* Wine sub-pillar: button warmth + wine outline */
-body.kitchen-page.wine-page .post-card a {
-  display: block;
-  background-color: #f7f4f1;
   border: 1px solid #7a3b3f;
-  border-radius: 8px;
-  padding: 1rem;
+  background-color: #f7f4f1;
+  padding: 1.25rem 1rem;
+  border-radius: 10px;
 }
 
-/* ------------------------------------------
-   POST LIST — ULTRA COMPACT INDEX STYLE
-------------------------------------------- */
-
-.post-list .post-card {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 0.75rem;
-  padding: 0.5rem 0.75rem;
-  margin-bottom: 1rem;
-  border-radius: 8px;
+/* Remove nested box effect */
+body.kitchen-page.wine-page .post-card a {
+  background: none;
+  border: none;
+  padding: 0;
 }
 
-.post-list .post-thumb {
-  width: 90px;
-  height: 90px;
-  object-fit: cover;
-  border-radius: 6px;
-  margin: 0;
-  flex-shrink: 0;
+/* Wine post hero fix */
+body.kitchen-page.wine-page .hero {
+  min-height: 32vh;
+  padding: 3rem 1rem 2rem;
 }
 
-.post-list .post-card h2,
-.post-list .post-card h3 {
-  font-size: 0.95rem;
-  line-height: 1.3;
-  margin: 0;
-}
-
-.post-list .excerpt {
-  display: none; /* optional — keeps it ultra compact */
-}
-
-
-
-
-
-/* ------------------------------------------
-   PRINT BUTTON — RECIPE PAGES
-------------------------------------------- */
-
-.print-button {
-    display: inline-block;
-    background-color: #d6cec4;
-    color: #2b2623;
-    text-decoration: none;
-    padding: 0.75rem 1.25rem;
-    border-radius: 8px;
-    font-weight: 600;
-    border: none;
-    cursor: pointer;
-    font-family: Georgia, serif;
-    font-size: 1rem;
-    transition: background-color 0.2s ease, transform 0.15s ease;
-    margin: 1rem 0;
-}
-
-.print-button:hover {
-    background-color: #c8bfb6;
-    transform: translateY(-2px);
-}
-
-/* Print button within recipe meta box */
-.recipe-meta .print-button {
-    margin-top: 0.5rem;
-}
-
-/* ------------------------------------------
-   FEATURED CONTENT — UNIVERSAL
-------------------------------------------- */
-
-.featured-content {
-  max-width: 750px;
-  margin: 3rem auto;
-  padding: 0 1rem;
-}
-
-.featured-content article {
-  margin: 2rem 0;
-  padding: 1.5rem 0;
-  border-bottom: 1px solid #e8e3dc;
-}
-
-.featured-content article:last-child {
-  border-bottom: none;
-}
-
-.featured-content h3 {
-  margin-top: 0;
-}
-
-.featured-content a {
-  text-decoration: none;
-  color: #2b2623;
-  transition: color 0.2s ease;
-}
-
-.featured-content a:hover {
-  color: #6b625c;
-}
-
-/* ------------------------------------------
-   POST BACK LINK — UNIVERSAL
-   (Used on individual posts, sub-pillar pages, and About page)
-------------------------------------------- */
-
-.post-back {
-  margin: 2rem auto;
-  padding: 1rem 0;
-  border-top: 1px solid #e8e3dc;
-  max-width: 750px;
-  text-align: left;
-}
-
-.post-back a {
-  text-decoration: none;
-  color: #2b2623;
-  font-size: 1rem;
-  transition: color 0.2s ease;
-  display: inline-block;
-}
-
-.post-back a:hover {
-  color: #6b625c;
-}
-
-.post-back a::before {
-  content: "← ";
-  margin-right: 0.25rem;
-}
-
-/* ------------------------------------------
-   ABOUT PAGE SPECIFIC
-------------------------------------------- */
-
-.about-photo-wrapper {
-  text-align: center;
-  margin: 1.5rem auto 1.75rem;
-}
-
-.about-photo {
-  max-width: 225px;  /* Adjusts photo size */
-  width: 85%;
-  height: auto;
-  margin: 0 auto;
-  border-radius: 8px;  /* Optional: softens the edges */
-}
-
-/* About page crest (smaller than homepage common roots) */
-.about-crest {
-  text-align: center;
-  margin: 2.5rem auto;
-  padding: 1.5rem 0;
-}
-
-.about-crest-graphic {
-  max-width: 280px;  /* Much smaller than homepage version */
-  max-height: 200px;
-  width: auto;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  object-fit: contain;
-  opacity: 0.88;  /* Slightly more subtle than homepage */
-  transition: opacity 0.3s ease;
-}
-
-.about-crest-graphic:hover {
-  opacity: 1;
-}
-
-body.about-page section p {
-  max-width: 750px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* About page specific welcome styling */
-body.about-page .welcome-text {
-  text-align: center;
-  font-size: 1.2rem;
-  font-style: italic;
-  color: #4a423d;
-  margin: 2.5rem auto;
-  max-width: 650px;
-}
-
-/* ------------------------------------------
-   COMMON ROOTS IMAGE — WITH BONUS ENHANCEMENT
-------------------------------------------- */
-
-.common-roots-image {
-  text-align: center;
-  padding: 2rem 0;
-  margin: 2rem auto;
-}
-
-.common-roots-graphic {
-  max-width: 450px;
-  max-height: 300px;
-  width: auto;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  object-fit: contain;
-  opacity: 0.92;  /* Slightly softens it */
-  transition: opacity 0.3s ease;
-}
-
-.common-roots-graphic:hover {
-  opacity: 1;  /* Full color on hover */
-}
-
-/* Responsive adjustment for mobile */
-@media (max-width: 768px) {
-  .common-roots-graphic {
-    max-width: 90%;
-    max-height: 250px;
-  }
-}
-
-/* Legacy class for compatibility (if used elsewhere) */
-.common-roots {
-  margin: 2.5rem auto;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
-
-/* ------------------------------------------
-   STAY ROOTED — HOME PAGE
-------------------------------------------- */
-
-.stay-rooted {
-  text-align: center;
-  max-width: 750px;
-  margin: 3rem auto;
-  padding: 2.5rem 1.75rem;
-  background-color: #f3efe9;
-  border-radius: 8px;
-}
-
-.stay-rooted h2 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-.stay-rooted p {
-  margin: 1rem auto;
-  max-width: 650px;
-}
-
-.notify-button {
-  display: inline-block;
-  background-color: #d6cec4;
-  color: #2b2623;
-  text-decoration: none;
-  padding: 0.85rem 1.5rem;
-  border-radius: 8px;
-  font-weight: 600;
-  transition: background-color 0.2s ease, transform 0.15s ease;
-  margin-top: 0.5rem;
-}
-
-.notify-button:hover {
-  background-color: #c8bfb6;
-  transform: translateY(-2px);
-}
-
-.small-note {
-  font-size: 0.9rem;
-  color: #6b625c;
-  font-style: italic;
-  margin-top: 1rem;
-}
-
-/* ------------------------------------------
-   FOOTER — UNIVERSAL
-------------------------------------------- */
-
-footer {
-  text-align: center;
-  padding: 2rem 1rem;
-  background-color: #f3efe9;
-  color: #6b625c;
-  font-size: 0.875rem;
-  margin-top: 3rem;
-}
-
-.footer-inner {
-  max-width: 750px;
-  margin: 0 auto;
-}
-
-footer a {
-  color: #6b625c;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-footer a:hover {
-  color: #2b2623;
-}
-
-.footer-tagline {
-  margin-top: 0.5rem;
-  font-style: italic;
-  color: #8a7f78;
-  font-size: 0.85rem;
+body.kitchen-page.wine-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.80),
+    rgba(255, 255, 255, 0.65)
+  );
 }
 
 /* ------------------------------------------
@@ -897,6 +352,14 @@ body.kitchen-page .hero {
   background-image: url("kitchen/images/Pillar Background Thistle and Cypress Cooking.PNG");
 }
 
+body.kitchen-page.wine-page .hero {
+  background-image: url("kitchen/images/Wine-Hero.jpg");
+}
+
+body.kitchen-page.travel-page .hero {
+  background-image: url("kitchen/images/Travel-Hero.jpg");
+}
+
 body.garden-page .hero {
   background-image: url("garden/images/garden-hero3.jpg");
 }
@@ -909,28 +372,9 @@ body.rhythm-page .hero {
   background-image: url("rhythm/images/Pillar Background Thistle and Cypress Rhythm.PNG");
 }
 
-/* Kitchen sub-pillar hero backgrounds (specific overrides) */
-
-body.kitchen-page.wine-page .hero {
-  background-image: url("kitchen/images/Wine-Hero.jpg");
-}
-
-body.kitchen-page.travel-page .hero {
-  background-image: url("kitchen/images/Travel-Hero.jpg");
-}
-
 /* ------------------------------------------
-   HERO OVERLAY VARIATIONS — PAGE SPECIFIC
+   HERO OVERLAY VARIATIONS
 ------------------------------------------- */
-
-body.craft-page .hero::before,
-body.home-page .hero::before {
-  background-image: linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, 0.70),
-    rgba(255, 255, 255, 0.55)
-  );
-}
 
 body.kitchen-page .hero::before,
 body.rhythm-page .hero::before {
@@ -938,6 +382,15 @@ body.rhythm-page .hero::before {
     to bottom,
     rgba(255, 255, 255, 0.80),
     rgba(255, 255, 255, 0.65)
+  );
+}
+
+body.craft-page .hero::before,
+body.home-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.70),
+    rgba(255, 255, 255, 0.55)
   );
 }
 
@@ -949,95 +402,34 @@ body.garden-page .hero::before {
   );
 }
 
-/* About page has custom background via .hero-bg div */
-body.about-page .hero::before {
-  background-image: linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, 0.15),
-    rgba(255, 255, 255, 0.10)
-  );
-}
-
 /* ------------------------------------------
    RESPONSIVE DESIGN
 ------------------------------------------- */
 
 @media (max-width: 768px) {
-  h1 { font-size: 2rem; }
-  h2 { font-size: 1.45rem; }
-  h3 { font-size: 1.2rem; }
-
   .hero {
     min-height: 13vh;
     padding: 1.75rem 1rem 1.25rem;
   }
 
-  .pillars {
-    grid-template-columns: 1fr;
+  body.kitchen-page.wine-page .hero {
+    min-height: 22vh;
+    padding: 2.5rem 1rem 1.75rem;
   }
 
-  .highlights-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .post-list,
-  body.garden-page .post-list,
   body.kitchen-page.wine-page .post-list {
     grid-template-columns: 1fr;
-  }
-
-  .about-photo {
-    max-width: 300px;
-  }
-  
-  .about-crest-graphic {
-    max-width: 240px;
-    max-height: 180px;
   }
 }
 
 @media (max-width: 480px) {
-  h1 { font-size: 1.75rem; }
-  h2 { font-size: 1.3rem; }
-  h3 { font-size: 1.1rem; }
-  
-  .tagline { font-size: 1rem; }
-
-  nav a {
-    display: block;
-    margin: 0.5rem 0;
-  }
-
-  .subnav {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .subnav a {
-    margin: 0.25rem;
-    font-size: 0.9rem;
-  }
-
-  main {
-    padding: 1rem 1rem 2.5rem;
-  }
-
-  .pillar-nav {
-    font-size: 0.8rem;
-  }
-  
   .hero {
     min-height: 11vh;
     padding: 1.5rem 1rem 1rem;
   }
 
-  .about-photo {
-    max-width: 260px;
-  }
-  
-  .about-crest-graphic {
-    max-width: 200px;
-    max-height: 150px;
+  body.kitchen-page.wine-page .hero {
+    min-height: 18vh;
+    padding: 2rem 1rem 1.25rem;
   }
 }
