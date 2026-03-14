@@ -46,7 +46,7 @@
 <body class="about-page">
 
   <a id="top"></a>
-  
+
   <!-- Hero -->
   <header class="hero" role="banner">
     <div class="hero-bg" aria-hidden="true"></div>
@@ -69,44 +69,46 @@
     <a href="rhythm/">Rhythm</a>
   </nav>
 
-  <!-- About Photo -->
-  <section class="about-photo-wrapper">
-    <img 
-      src="about/images/About3.jpg"
-      alt="Jon and Rick together, 2017"
-      class="about-photo"
-      loading="lazy"
-    >
-  </section>
-
   <!-- Main Content -->
   <main role="main">
+
+    <!-- About Photo (now correctly inside <main>) -->
+    <section class="about-photo-wrapper">
+      <img 
+        src="about/images/About3.jpg"
+        alt="Jon and Rick together, 2017"
+        class="about-photo"
+        loading="lazy"
+      >
+    </section>
+
+    <!-- Welcome Text -->
     <section class="welcome-text">
       <p>We’re Rick and Jon, and we’re building the life we want to retire into — but we’re not waiting to start.</p>
     </section>
-    
-      <!-- NEW FOUNDERS' NOTE LINK (no new classes) -->
-      <section class="coming-soon">
+
+    <!-- Founders' Note Link -->
+    <section class="coming-soon">
       <p>
         <small><a href="founders-note.html">Read our Founders’ Note to understand the genesis of this website and the brand →</a></small>
       </p>
-      </section>
+    </section>
 
+    <!-- Section Heading -->
     <section>
-      <!-- NEW SECTION HEADING (no new classes) -->
       <h2>Who We Are</h2>
     </section>
 
+    <!-- Main About Narrative -->
     <section>
-    
       <p>We’re Rick and Jon — building the life we want to step into fully, without waiting for retirement.</p>
-      
-      <p>Our weeks divide between San Francisco (careers, friends, bustling markets, favorite tables) and ten wooded acres in northwest Pennsylvania, inherited through Jon’s family. When the land came to us, we knew: this isn’t preparation. This is the <i>beginning</i>. The back-and-forth isn’t always easy, but each return deepens our connection. Each project pulls the future closer.</p> 
-        
-      <p>We met in Washington, D.C. over thirty years ago and have navigated career changes, cross-country moves, and the gradual understanding that a meaningful life is built deliberately. This land became our clear "yes" to that truth. </p>
-      
-      <p>Thistle & Cypress honors our roots. The thistle represents Jon’s Scottish heritage (resilient, resourceful, enduring). The cypress represents Rick’s Italian lineage (warm, generous, deeply tied to place). Together, they shape a life that’s rugged yet refined, practical yet beautiful. We’re practitioners, not experts. Rick cooks intuitively; Jon leans into the precision of baking. What we share — always — is a love of good wine. We plant, build, preserve, make garden mistakes, and learn from them. Travel to other parts of the world is inspiration—showing what happens when culture, craft, and land align. </p>
-      
+
+      <p>Our weeks divide between San Francisco (careers, friends, bustling markets, favorite tables) and ten wooded acres in northwest Pennsylvania, inherited through Jon’s family. When the land came to us, we knew: this isn’t preparation. This is the <i>beginning</i>. The back-and-forth isn’t always easy, but each return deepens our connection. Each project pulls the future closer.</p>
+
+      <p>We met in Washington, D.C. over thirty years ago and have navigated career changes, cross-country moves, and the gradual understanding that a meaningful life is built deliberately. This land became our clear "yes" to that truth.</p>
+
+      <p>Thistle & Cypress honors our roots. The thistle represents Jon’s Scottish heritage (resilient, resourceful, enduring). The cypress represents Rick’s Italian lineage (warm, generous, deeply tied to place). Together, they shape a life that’s rugged yet refined, practical yet beautiful. We’re practitioners, not experts. Rick cooks intuitively; Jon leans into the precision of baking. What we share — always — is a love of good wine. We plant, build, preserve, make garden mistakes, and learn from them. Travel to other parts of the world is inspiration—showing what happens when culture, craft, and land align.</p>
+
       <p>At the heart are four pillars we live every day:</p>
 
       <ul>
@@ -117,12 +119,11 @@
       </ul>
 
       <p>If you’re quietly shaping a slower, values-driven life—experimenting, savoring, learning—we’re on a parallel path. Not as authorities, but as companions sharing what we’ve found so far.</p>
-      
+
       <p><b>We’re glad you’re here. <i>Pull up a chair</i>.</b></p>
-    
     </section>
 
-    <!-- Crest -->
+    <!-- Crest (now correctly aligned) -->
     <section class="about-crest" aria-hidden="true">
       <img
         src="about/images/Crest.jpg"
@@ -133,14 +134,13 @@
     </section>
 
     <!-- Back Link -->
-    </div>
     <div class="post-back">
       <a href="index.html">Back to Home</a>
     </div>
-    
+
   </main>
 
- {% include footer.html %} 
+  {% include footer.html %}
 
 </body>
 </html>
