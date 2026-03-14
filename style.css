@@ -411,16 +411,38 @@ body.kitchen-page.wine-page .post-card {
    ABOUT PAGE
 ------------------------------------------- */
 
-.about-photo-wrapper { text-align: center; margin: 1.5rem auto; }
-.about-photo { max-width: 225px; border-radius: 8px; }
+.about-photo-wrapper { 
+  display: flex;          /* Added to enable centering */
+  justify-content: center; /* Centers horizontally */
+  margin: 1.5rem auto; 
+  width: 100%;
+}
 
-.about-crest { text-align: center; margin: 2.5rem auto; }
+.about-photo { 
+  width: 225px;           /* Changed from max-width to width for consistency */
+  height: auto;
+  border-radius: 8px; 
+  display: block;         /* Prevents stray bottom margins */
+}
+
+.about-crest { 
+  display: flex;          /* Added to enable centering */
+  justify-content: center; /* Centers horizontally */
+  margin: 2.5rem auto; 
+  width: 100%;
+}
+
 .about-crest-graphic {
-  max-width: 280px;
+  width: 280px;           /* Set a fixed width for the crest */
+  height: auto;
   opacity: 0.88;
   transition: opacity 0.3s ease;
+  display: block;
 }
-.about-crest-graphic:hover { opacity: 1; }
+
+.about-crest-graphic:hover { 
+  opacity: 1; 
+}
 
 /* ------------------------------------------
    COMMON ROOTS
