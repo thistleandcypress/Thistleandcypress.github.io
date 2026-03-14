@@ -585,7 +585,11 @@ body.about-page main {
 
   .subnav a { margin: 0.25rem; font-size: 0.9rem; }
 
-  main { padding: 1rem 1rem 2.5rem; }
+  main {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 1rem 1rem 2.5rem;
+}
 
   .hero {
     min-height: 11vh;
