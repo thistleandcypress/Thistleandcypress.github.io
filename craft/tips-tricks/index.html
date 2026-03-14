@@ -4,14 +4,91 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Tips & Tricks – Thistle & Cypress</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tips & Tricks – Thistle & Cypress | Small Ideas for an Intentional Home</title>
+
+  <meta name="description" content="Quick fixes, styling ideas, and clever shortcuts to help your home feel more thoughtful and lived-in. Practical wisdom for every corner of the house.">
+  <meta name="author" content="Thistle & Cypress">
+  <meta name="keywords" content="home styling tips, decor hacks, interior design shortcuts, home organization, styling objects, intentional living, home improvement tips">
+  <meta name="theme-color" content="#faf8f5">
+
+  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/craft/tips-tricks/">
+
+  <meta property="og:title" content="Tips & Tricks – Thistle & Cypress">
+  <meta property="og:description" content="Small ideas that make a home feel intentional and lived‑in. Quick fixes and styling wisdom.">
+  <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/craft/tips-tricks/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Thistle & Cypress">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tips & Tricks – Thistle & Cypress">
+  <meta name="twitter:description" content="Clever shortcuts and everyday improvements for a well-lived home.">
+  <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+
+  <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Thistle & Cypress",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
+    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Thistle & Cypress"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Craft",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/craft/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Tips & Tricks",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/craft/tips-tricks/"
+      }
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Home Tips & Tricks",
+    "description": "A collection of practical home styling tips, quick fixes, and clever design shortcuts.",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/craft/tips-tricks/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Thistle & Cypress",
+      "url": "https://thistleandcypress.github.io/thistleandcypress.com/"
+    }
+  }
+  </script>
 </head>
 
 <body class="craft-page">
 
-  <!-- Global Navigation -->
-  <nav>
+  <nav role="navigation" aria-label="Primary navigation">
     <a href="/">Home</a>
     <a href="/kitchen/index.html">Kitchen</a>
     <a href="/garden/index.html">Garden</a>
@@ -20,20 +97,18 @@
     <a href="/about.html">About</a>
   </nav>
 
-  <!-- Submenu Navigation -->
-  <nav class="subnav">
+  <nav class="subnav" role="navigation" aria-label="Craft sections">
     <a href="../index.html">Craft</a>
     <a href="../creative-tools/index.html">Creative Tools</a>
     <a href="../florals-wreaths/index.html">Florals & Wreaths</a>
     <a href="../guides/index.html">Guides</a>
     <a href="../stories/index.html">Stories</a>
     <a href="../painting/index.html">Painting</a>
-    <a href="../tips-tricks/index.html" class="active">Tips & Tricks</a>
+    <a href="index.html" class="active" aria-current="page">Tips & Tricks</a>
     <a href="../upcycling/index.html">Upcycling</a>
   </nav>
 
-  <!-- Hero -->
-  <header class="hero">
+  <header class="hero" role="banner">
     <div class="hero-inner">
       <h1>Tips & Tricks</h1>
       <p class="tagline">Small ideas that make a home feel intentional and lived‑in.</p>
@@ -41,32 +116,27 @@
     </div>
   </header>
 
-  <main>
+  <main role="main">
     <p>
       These are the little things — the quick fixes, styling ideas, clever shortcuts, and everyday improvements
       that make a home feel more thoughtful. From arranging objects to choosing art, refreshing a corner, or
       making a space work better, Tips & Tricks gathers the practical wisdom that supports a well‑lived home.
     </p>
 
-       <!-- Coming Soon Message -->
     <section class="coming-soon">
-      <p>We're out there getting creative and finding.</p>
+      <p>We're mending, mulling over, and mucking about.</p>
       <p>This corner is taking shape. Check back soon.</p>
     </section>
 
-    
     <div class="post-list">
-      <!-- Post cards will go here -->
-    </div>
+      </div>
 
-    <!-- Back Link -->
-    <p class="back-link">
+    <div class="post-back">
       <a href="../index.html">← Back to Craft</a>
-    </p>
+    </div>
   </main>
 
-<!-- Footer Include -->
-{% include footer.html %}
+  {% include footer.html %}
 
 </body>
 </html>
