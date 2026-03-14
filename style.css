@@ -540,6 +540,14 @@ body.garden-page .hero::before {
   );
 }
 
+/* Force About page elements to align with the main content column */
+.about-photo-wrapper,
+.about-crest {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 /* ------------------------------------------
    RESPONSIVE DESIGN
 ------------------------------------------- */
