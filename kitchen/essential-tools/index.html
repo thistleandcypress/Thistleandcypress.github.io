@@ -30,54 +30,73 @@
   <link rel="stylesheet" href="../../style.css">
 
   <style>
-    /* Resource-specific styling for visual consistency */
+    /* Resource Navigation Grid - Exact Rhythm Match */
     .resource-nav {
-        background-color: #f3efe9; /* Matching your beige palette */
+        background-color: #f3efe9; 
         padding: 1.5rem;
         border-radius: 8px;
         margin: 2rem 0 3rem;
-        border-left: 4px solid #b8afa6;
+        border-left: 4px solid #b8afa6; /* The vertical accent bar from your screenshot */
     }
     .resource-nav h3 {
         margin-top: 0;
-        font-size: 1rem;
+        text-align: center;
+        font-size: 0.9rem;
         text-transform: uppercase;
-        letter-spacing: 0.05em;
+        letter-spacing: 0.1em;
         color: #4a423d;
+        margin-bottom: 1rem;
     }
     .resource-nav ul {
         list-style: none;
         padding: 0;
-        margin: 0.75rem 0 0;
+        margin: 0;
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 0.5rem;
+        gap: 1rem;
+        text-align: center;
     }
     .resource-nav a {
         color: #2b2623;
         text-decoration: none;
         font-size: 0.95rem;
-        border-bottom: 1px solid transparent;
-        transition: border-color 0.2s ease;
+        transition: border-bottom 0.2s ease;
     }
     .resource-nav a:hover {
-        border-bottom-color: #2b2623;
+        border-bottom: 1px solid #2b2623;
     }
+
+    /* Section & Group Borders */
     .resource-section {
         margin: 3rem 0;
-        padding: 2rem 1.5rem;
-        border-radius: 8px;
+        padding: 1rem 0; /* Padding inside the section wrapper */
     }
-    /* This creates the alternating beige background you wanted */
+    .resource-section h2 {
+        font-size: 1.8rem;
+        border-bottom: 1px solid #dcd7d0;
+        padding-bottom: 0.75rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    /* The blue/beige left-border groups from your screenshot */
+    .resource-group {
+        margin: 2rem 0;
+        padding-left: 1.5rem;
+        border-left: 3px solid #e8e3dc; /* The subtle left border for each item */
+    }
+    .resource-group h3 {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+        color: #2b2623;
+    }
+
+    /* Alternating Section Highlights */
     .resource-section:nth-child(even) {
         background-color: #f3efe9;
         margin-left: -1.5rem;
         margin-right: -1.5rem;
-    }
-    .resource-section h2 {
-        border-bottom: 2px solid #b8afa6;
-        padding-bottom: 0.5rem;
-        margin-top: 0;
+        padding: 2rem 1.5rem;
+        border-radius: 8px;
     }
 </style>
   
@@ -141,16 +160,16 @@
   <header class="hero">
     <div class="hero-inner">
       <h1>Essential Tools</h1>
-      <p class="tagline">The Master List: A definitive guide to the intentional kitchen.</p>
+      <p class="tagline">The Master List: Definitive equipment for the intentional home kitchen.</p>
       <div class="header-divider"></div>
     </div>
   </header>
 
   <main>
-    <div class="welcome-text">
-      <p style="font-style: italic; text-align: center;">"You have to touch the food to understand the food." — Jacques Pépin</p>
-      <p>Before the tool, there is the hand. In an intentional kitchen, every object should earn its place through durability, utility, and craft. This list is our comprehensive architecture for a kitchen built to last a lifetime.</p>
-    </div>
+    <p class="welcome-text" style="text-align: center; font-style: italic; max-width: 650px; margin: 2rem auto;">
+      "You have to touch the food to understand the food." — Jacques Pépin. <br>
+      Beyond the hands, we curate only what is necessary, durable, and process-driven. This is the exhaustive architecture of a functional kitchen.
+    </p>
 
     <nav class="resource-nav">
       <h3>Quick Navigation</h3>
@@ -160,98 +179,146 @@
         <li><a href="#utensils">Gadgets & Utensils</a></li>
         <li><a href="#bakeware">Bakeware & Prep</a></li>
         <li><a href="#appliances">Appliances</a></li>
-        <li><a href="#organization">Organization & Basics</a></li>
+        <li><a href="#organization">Storage & Basics</a></li>
+        <li><a href="#organized-cook">The Organized Cook</a></li>
       </ul>
     </nav>
 
-    <section class="content-section" id="cutlery">
+    <section class="resource-section" id="cutlery">
       <h2>I. Cutlery & Cutting Tools</h2>
-      <p>The foundation of all kitchen work begins with the edge. We favor high-retention steel and precision Japanese ceramics.</p>
+      <p>The foundation of all kitchen work begins with the edge.</p>
       
-      <div class="soft-band">
+      <div class="resource-group">
         <h3>The Santoku Knife</h3>
-        <p>The Japanese "three virtues" knife—slicing, dicing, and mincing. Its flatter edge and sheep’s foot tip facilitate a clean vertical chop, offering a different rhythm than the rocking motion of a Western chef’s knife.</p>
+        <p>The Japanese "three virtues" knife designed for slicing, dicing, and mincing. Its flatter edge and sheep’s foot tip facilitate a clean vertical chop, offering a different rhythm than the rocking motion of a Western chef’s knife.</p>
       </div>
 
-      <ul class="pillar-list">
-        <li><strong>Japanese Ceramic Knives:</strong> Forged from zirconium oxide, these blades are incredibly sharp and non-reactive, ensuring fruits and greens never brown from oxidation.</li>
-        <li><strong>Paring Knife:</strong> For intricate, off-the-board tasks like peeling shallots or segmenting citrus.</li>
-        <li><strong>Serrated Bread Knife:</strong> A long blade with sharp teeth, essential for slicing crusty sourdough without crushing the crumb.</li>
-        <li><strong>Heavy Wooden Cutting Board:</strong> An end-grain Maple or Walnut board acts as a shock absorber. Avoid glass or marble; they destroy edges instantly.</li>
-      </ul>
+      <div class="resource-group">
+        <h3>Japanese Ceramic Knives</h3>
+        <p>Forged from zirconium oxide, these blades represent the pinnacle of precision. They hold an edge significantly longer than steel and are completely non-reactive, ensuring that delicate greens and fruits never brown during prep.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Paring & Serrated Knives</h3>
+        <p>A paring knife for intricate, off-the-board tasks and a long serrated bread knife for the hard, developed crust of heirloom sourdough.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Heavy Wooden Cutting Board</h3>
+        <p>A thick end-grain Maple or Walnut board provides a natural "give" that protects your blade's edge. Avoid glass, marble, or stone.</p>
+      </div>
     </section>
 
-    <section class="content-section" id="cookware">
+    <section class="resource-section" id="cookware">
       <h2>II. Cookware & Heat</h2>
-      <p>Mastering heat requires vessels that respond to the flame with intention. We focus on the "Trinity" of materials: Stainless, Ceramic, and Cast Iron.</p>
+      <p>Mastering heat requires vessels that respond to the flame with intention.</p>
 
-      <div class="soft-band">
+      <div class="resource-group">
         <h3>The Skillet Trinity</h3>
-        <p><strong>Stainless Steel:</strong> The high-heat workhorse for searing and creating pan sauces.<br>
-        <strong>Ceramic Non-Stick:</strong> A non-toxic, eco-friendly alternative to Teflon for delicate eggs and fish.<br>
-        <strong>Cast Iron Skillet/Griddle:</strong> The heritage piece for unmatched heat retention and wood-fired results.</p>
+        <p><strong>Stainless Steel:</strong> The professional workhorse for searing and pan sauces.<br>
+        <strong>Ceramic Non-Stick:</strong> A non-toxic, eco-friendly choice for delicate eggs and fish.<br>
+        <strong>Cast Iron:</strong> A heritage investment for unmatched heat retention and wood-fired results.</p>
       </div>
 
-      <ul class="pillar-list">
-        <li><strong>Sauté Pan:</strong> A wide, straight-sided pan for braising and shallow frying.</li>
-        <li><strong>Enameled Dutch Oven:</strong> The cornerstone for slow stews and baking artisan boules.</li>
-        <li><strong>Saucepan:</strong> A 3-quart vessel for grains, reductions, and daily staples.</li>
-        <li><strong>Stockpot:</strong> A large pot for extracting essence from garden scraps and bone broths.</li>
-      </ul>
+      <div class="resource-group">
+        <h3>Enameled Dutch Oven</h3>
+        <p>The cornerstone for slow-simmered winter stews and baking artisan sourdough boules.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Saucepan, Sauté & Stockpot</h3>
+        <p>A 3-quart saucepan for daily staples, a straight-sided sauté pan for braising, and a large stockpot for building foundations from garden scraps.</p>
+      </div>
     </section>
 
-    <section class="content-section" id="utensils">
+    <section class="resource-section" id="utensils">
       <h2>III. Gadgets & Utensils</h2>
-      <div class="soft-band">
-        <h3>The Extensions of the Hand</h3>
-        <p><strong>Microplane:</strong> For zesting citrus or pureeing garlic into a fine paste.<br>
-        <strong>Locking Tongs:</strong> Stainless steel extensions of your fingers for precision gripping.<br>
-        <strong>Y-Peeler:</strong> A sharp, ergonomic tool for efficiency and safety.</p>
+      <p>The specialized tools that bring efficiency to the daily rhythm of prep.</p>
+
+      <div class="resource-group">
+        <h3>The Primary Utensils</h3>
+        <p>Flexible metal fish spatulas, high-heat silicone scrapers, locking stainless tongs, and both balloon and roux whisks.</p>
       </div>
 
-      <ul class="pillar-list">
-        <li><strong>Spatulas:</strong> Flexible metal fish spatulas and high-heat silicone scrapers.</li>
-        <li><strong>Whisks:</strong> A balloon whisk for aeration and a flat roux whisk for smooth sauces.</li>
-        <li><strong>Box Grater & Mandoline:</strong> For uniform textures in seasonal harvests.</li>
-        <li><strong>Kitchen Shears:</strong> A robust pair for snipping herbs or spatchcocking poultry.</li>
-        <li><strong>Colander & Salad Spinner:</strong> Vital for cleaning garden-fresh greens.</li>
-      </ul>
-    </section>
-
-    <section class="content-section" id="appliances">
-      <h2>IV. Appliances</h2>
-      <ul class="pillar-list">
-        <li><strong>High-Power Blender:</strong> For emulsifying sauces and making nut butters.</li>
-        <li><strong>Food Processor:</strong> For rapid processing of large seasonal harvests.</li>
-        <li><strong>Instant-Read Thermometer:</strong> Precision is the difference between a good meal and a professional one.</li>
-        <li><strong>Stand Mixer:</strong> For heavy doughs and the "Rhythm" of baking.</li>
-      </ul>
-    </section>
-
-    <section class="content-section" id="bakeware">
-      <h2>V. Bakeware & Prep</h2>
-      <div class="soft-band">
-        <h3>Precision Tools</h3>
-        <p><strong>Kitchen Scale:</strong> Essential for consistent hydration in sourdough and pastry.<br>
-        <strong>Mixing Bowls:</strong> Indestructible nesting stainless steel sets.<br>
-        <strong>Half-Sheet Pans:</strong> The professional industry standard for roasting and baking.</p>
+      <div class="resource-group">
+        <h3>Technical Gadgets</h3>
+        <p>Microplanes for zesting, Y-peelers for efficiency, and kitchen shears for everything from herbs to spatchcocking.</p>
       </div>
 
-      <ul class="pillar-list">
-        <li><strong>Measuring Set:</strong> Stainless dry cups and glass liquid beakers.</li>
-        <li><strong>Cooling Rack:</strong> To ensure airflow and prevent moisture buildup.</li>
-        <li><strong>Baking Vessels:</strong> Loaf pans, round cake pans, and ceramic pie dishes.</li>
-      </ul>
+      <div class="resource-group">
+        <h3>The Harvest Prep</h3>
+        <p>A large colander and a salad spinner to ensure garden harvests are perfectly clean and dry for dressings.</p>
+      </div>
     </section>
 
-    <section class="content-section" id="organization">
-      <h2>VI. Organization & Basics</h2>
-      <ul class="pillar-list">
-        <li><strong>Glass Storage:</strong> For visibility and purity in the pantry.</li>
-        <li><strong>Label Maker:</strong> To track the dates of ferments and preserves.</li>
-        <li><strong>Opaque Oil Bottles:</strong> To protect oils and vinegars from light degradation.</li>
-        <li><strong>Heritage Basics:</strong> Salt/pepper mills, tea kettles, and heavy-duty oven mitts.</li>
-      </ul>
+    <section class="resource-section" id="bakeware">
+      <h2>IV. Bakeware & Prep</h2>
+      <p>Precision is the hallmark of the successful baker.</p>
+
+      <div class="resource-group">
+        <h3>Nesting Mixing Bowls</h3>
+        <p>Stainless steel is lightweight, indestructible, and non-reactive. They double as a double-boiler when placed over a saucepan.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Sheet Pans & Cooling Racks</h3>
+        <p>Heavy-gauge aluminum "half-sheets" are the industry standard. Use with wire racks to ensure airflow and prevent moisture buildup.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>The Baking Vessels</h3>
+        <p>Loaf pans, round cake pans, ceramic pie dishes, and deep casserole dishes for communal meals.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Measuring Precision</h3>
+        <p>Stainless dry cups, glass liquid beakers, and a digital scale for consistent hydration.</p>
+      </div>
+    </section>
+
+    <section class="resource-section" id="appliances">
+      <h2>V. Appliances</h2>
+      <p>Mechanical support for high-volume processing and precision.</p>
+
+      <div class="resource-group">
+        <h3>Blender & Food Processor</h3>
+        <p>High-power tools for emulsifying sauces and the rapid processing of seasonal harvests into preserves.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Instant-Read Thermometer</h3>
+        <p>Stop guessing at "doneness" and rely on the technical truth of temperature.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Stand Mixer</h3>
+        <p>The essential support for heavy doughs and consistent baking rhythms.</p>
+      </div>
+    </section>
+
+    <section class="resource-section" id="organization">
+      <h2>VI. Storage & Basics</h2>
+      <p>The quiet foundations that keep a kitchen functional.</p>
+
+      <div class="resource-group">
+        <h3>Storage & Cleaning</h3>
+        <p>Glass food storage, high-quality lint-free towels, and heavy-duty oven mitts.</p>
+      </div>
+
+      <div class="resource-group">
+        <h3>Countertop Foundations</h3>
+        <p>Burr-style salt/pepper mills, opaque oil bottles, and a stainless tea kettle for the morning ritual.</p>
+      </div>
+    </section>
+
+    <section class="resource-section" id="organized-cook">
+      <h2>VII. For The Organized Cook</h2>
+      <p>Systems that turn a kitchen into a workshop of intention.</p>
+
+      <div class="resource-group">
+        <h3>Documentation & Order</h3>
+        <p>A Label Maker for tracking ferments and garden preserves, and a Cookbook Stand to keep your workspace clear of clutter.</p>
+      </div>
     </section>
 
     <div class="post-back">
