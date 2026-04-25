@@ -29,6 +29,58 @@
   <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
 
+  <style>
+    /* Resource-specific styling for visual consistency */
+    .resource-nav {
+        background-color: #f3efe9; /* Matching your beige palette */
+        padding: 1.5rem;
+        border-radius: 8px;
+        margin: 2rem 0 3rem;
+        border-left: 4px solid #b8afa6;
+    }
+    .resource-nav h3 {
+        margin-top: 0;
+        font-size: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #4a423d;
+    }
+    .resource-nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0.75rem 0 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 0.5rem;
+    }
+    .resource-nav a {
+        color: #2b2623;
+        text-decoration: none;
+        font-size: 0.95rem;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s ease;
+    }
+    .resource-nav a:hover {
+        border-bottom-color: #2b2623;
+    }
+    .resource-section {
+        margin: 3rem 0;
+        padding: 2rem 1.5rem;
+        border-radius: 8px;
+    }
+    /* This creates the alternating beige background you wanted */
+    .resource-section:nth-child(even) {
+        background-color: #f3efe9;
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+    }
+    .resource-section h2 {
+        border-bottom: 2px solid #b8afa6;
+        padding-bottom: 0.5rem;
+        margin-top: 0;
+    }
+</style>
+  
   <script type="application/ld+json">
   [
     {
