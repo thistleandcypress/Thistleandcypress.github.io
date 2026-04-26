@@ -1,0 +1,193 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fattoria Maionchi: A Lucchese Discovery – Thistle & Cypress</title>
+
+  <meta name="description" content="Notes from a 30th anniversary discovery in Lucca. Exploring the ancient 17th-century cellars and winemaking heritage of Fattoria Maionchi.">
+  <meta name="author" content="Thistle & Cypress">
+  <meta name="theme-color" content="#faf8f5">
+
+  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/travel/FM.html">
+
+  <meta property="og:title" content="Fattoria Maionchi: A Lucchese Discovery – Thistle & Cypress">
+  <meta property="og:description" content="An anniversary journey to an ancient winery in the hills of Lucca. Heritage, tradition, and the soul of the land.">
+  <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/travel/FM.html">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Thistle & Cypress">
+
+  <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
+  <link rel="stylesheet" href="../../style.css">
+
+  <style>
+    /* Integrating the Resource-style layout for historical facts */
+    .resource-section {
+        margin: 3rem 0;
+        padding: 1rem 0;
+    }
+    .resource-section h2 {
+        font-size: 1.8rem;
+        border-bottom: 1px solid #dcd7d0;
+        padding-bottom: 0.75rem;
+        margin-bottom: 1.5rem;
+    }
+    .resource-group {
+        margin: 2rem 0;
+        padding-left: 1.5rem;
+        border-left: 3px solid #e8e3dc;
+    }
+    .resource-group h3 {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+        color: #2b2623;
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Kitchen",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Travel",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/travel/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Fattoria Maionchi",
+        "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/travel/FM.html"
+      }
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Fattoria Maionchi: A Lucchese Discovery",
+    "description": "Celebrating 30 years with a discovery at an ancient winery in the hills of Lucca, Italy.",
+    "author": {
+      "@type": "Organization",
+      "name": "Thistle & Cypress"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Thistle & Cypress"
+    },
+    "datePublished": "2024-10-25",
+    "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/travel/FM.html"
+  }
+  </script>
+</head>
+
+<body class="kitchen-page travel-page">
+
+  <nav role="navigation" aria-label="Primary navigation">
+    <a href="../../index.html">Home</a>
+    <a href="../../about.html">About</a>
+    <a href="../../kitchen/index.html" class="active" aria-current="page">Kitchen</a>
+    <a href="../../garden/index.html">Garden</a>
+    <a href="../../craft/index.html">Craft</a>
+    <a href="../../rhythm/index.html">Rhythm</a>
+  </nav>
+
+  <nav class="subnav" role="navigation" aria-label="Kitchen sections">
+    <a href="../index.html">Kitchen</a>
+    <a href="../baking/index.html">Baking</a>
+    <a href="../cooking/index.html">Cooking</a>
+    <a href="../recipe/index.html">Recipes</a>
+    <a href="../essential-tools/index.html">Essential Tools</a>
+    <a href="../tips-tricks/index.html">Tips & Tricks</a>
+    <a href="../new-finds/index.html">New Finds</a>
+    <a href="index.html" class="active" aria-current="page">Travel</a>
+    <a href="../wine/index.html">Wine</a>
+  </nav>
+
+  <header class="hero" role="banner">
+    <div class="hero-inner">
+      <h1>Fattoria Maionchi</h1>
+      <p class="tagline">An anniversary discovery among the ancient stones of Lucca.</p>
+      <div class="header-divider"></div>
+    </div>
+  </header>
+
+  <main role="main">
+    <article class="content-section">
+      
+      <p class="welcome-text" style="text-align: center; font-style: italic; max-width: 650px; margin: 0 auto 2.5rem;">
+        "There are experiences that stay with you, not just for the flavor of the wine, but for the soul of the place."
+      </p>
+
+      <p>In October 2024, we found ourselves in Lucca to celebrate our 30th anniversary. It was a trip defined by gratitude and the search for places that still hum with the rhythm of the past. By chance, we discovered <strong>Fattoria Maionchi</strong>—a <em>fattoria</em> (farm) that feels as if time has stood still within its ancient walls.</p>
+
+      <p>When we visited, the event spaces and guest rooms were still in the quiet stages of transition—unfinished, yet pulsing with potential. We felt the weight of history there, and it has been a profound joy to follow their journey since, watching from across the ocean as their vision has matured and materialized into a beautiful destination.</p>
+
+      <div class="soft-band">
+        <p>To mark our three decades together, we bought a bottle of their wine right there on the farm to celebrate. It remains an experience we still talk about today—a discovery of land and legacy that we found purely by chance.</p>
+      </div>
+
+      <section class="resource-section">
+        <h2>Heritage & Vocation</h2>
+        <p>Located in the Tofori hills of Lucca, Fattoria Maionchi is an estate where the production of wine and oil is an ancient vocation.</p>
+
+        <div class="resource-group">
+          <h3>17th Century Cellars</h3>
+          <p>The farm’s soul is found in its original 17th-century cellars. These underground spaces have remained virtually unaltered for hundreds of years, providing a natural environment where time stops and gives life to their unique wines.</p>
+        </div>
+
+        <div class="resource-group">
+          <h3>The Tradition of Vin Santo</h3>
+          <p>A true hallmark of the estate is their <em>Vin Santo</em>. Following ancient Lucchese traditions, the grapes are dried on bamboo mats in a dedicated 17th-century room (the <em>vinsantaia</em>) before undergoing a long, slow aging process in small wooden barrels.</p>
+        </div>
+
+        <div class="resource-group">
+          <h3>DOC Winemaking & Olive Oil</h3>
+          <p>The estate produces <em>Colline Lucchesi DOC</em> wines and extra virgin olive oil, rooted in the specific terroir of the Lucca hills. Every product is a reflection of a philosophy that prizes making things "as they once were."</p>
+        </div>
+
+        <div class="resource-group">
+          <h3>Authentic Hospitality</h3>
+          <p>Beyond the vines, the Fattoria has evolved into a center for <em>Agriturismo</em>, offering tastings and event spaces that allow visitors to experience the quaintness and antique atmosphere of a working historic farm.</p>
+        </div>
+      </section>
+
+      <p style="text-align: center; margin-top: 3rem; font-style: italic; color: #4a423d;">
+        We look forward to letting the Maionchi family know that their ancient stones and intentional work have found a place in our story here in the US.
+      </p>
+
+      <div class="post-back">
+        <a href="index.html">← Back to Travel</a>
+      </div>
+    </article>
+  </main>
+
+  <footer role="contentinfo">
+    <div class="footer-inner">
+      <p>© 2026 Thistle & Cypress, LLC · <a href="/">Home</a> · <a href="/about.html">About</a> · <a href="mailto:thistleandcypress@gmail.com">Contact</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · <a href="/accessibility.html">Accessibility</a> · <a href="#top">Return to top</a></p>
+      <p><small>For informational purposes only. Not medical, nutritional, or professional advice. Some posts may contain affiliate links</small></p>
+      <p class="footer-tagline"><b>Scottish resilience. Italian abundance. Ten wooded acres.</b></p>
+    </div>
+  </footer>
+
+</body>
+</html>  
