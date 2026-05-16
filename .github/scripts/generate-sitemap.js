@@ -13,7 +13,7 @@ const INCLUDED_FOLDERS = [
 const ROOT_PAGES = ["index.html", "about.html"];
 
 // Base URL for your site
-const BASE_URL = "https://thistleandcypress.github.io/thistleandcypress.com";
+const BASE_URL = "https://thistleandcypress.com";
 
 // Utility: convert file path to clean URL
 function toUrl(path) {
