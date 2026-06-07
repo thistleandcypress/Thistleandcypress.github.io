@@ -211,7 +211,7 @@
 
   {% include footer.html %}
 
-  <script>
+<script>
   // 1. Manage Step Navigation
   function goToStep(step) {
     document.querySelectorAll('.wizard-step').forEach(el => el.classList.remove('active-step'));
@@ -221,8 +221,10 @@
   // 2. Main Logic: Fetch, Filter, and Render
   document.getElementById('generateReportBtn').addEventListener('click', async () => {
     try {
-      // Fetch your converted JSON file
+      // Fetch the data from the data subfolder
       const response = await fetch('data/garden-data.json');
+      if (!response.ok) throw new Error("Could not find garden-data.json");
+      
       const data = await response.json();
 
       const zipCode = document.getElementById("zipCodeInput").value.trim();
@@ -235,31 +237,44 @@
 
       // Filter plants matching the user's zone
       const suitablePlants = data.plants.filter(plant => {
+        // Use parseInt to ensure we are comparing numbers, not text
         const min = parseInt(plant["Min Zone"]);
         const max = parseInt(plant["Max Zone"]);
-        return userZone >= min && userZone <= max;
+        
+        // Safety check: if data is missing, treat as invalid
+        if (isNaN(min) || isNaN(max)) return false;
+        
+        return parseInt(userZone) >= min && parseInt(userZone) <= max;
       });
 
       // Render the results
       const grid = document.getElementById("spatialLayersGrid");
-      grid.innerHTML = '';
-      suitablePlants.forEach(plant => {
-        grid.innerHTML += `
-          <div class="plant-card">
-            <h3>${plant["Common Name"]}</h3>
-            <p><em>${plant["Scientific Name"]}</em></p>
-            <p><strong>Category:</strong> ${plant["Category Tag"]}</p>
-          </div>
-        `;
-      });
+      grid.innerHTML = ''; // Clear previous results
+
+      if (suitablePlants.length === 0) {
+        grid.innerHTML = '<p>No plants found for your specific zone. Try another criteria or check back later.</p>';
+      } else {
+        suitablePlants.forEach(plant => {
+          grid.innerHTML += `
+            <div class="plant-card">
+              <h3>${plant["Common Name"] || 'Unknown Plant'}</h3>
+              <p><em>${plant["Scientific Name"] || ''}</em></p>
+              <p><strong>Category:</strong> ${plant["Category Tag"] || 'N/A'}</p>
+            </div>
+          `;
+        });
+      }
 
       // Show the results area
       document.getElementById("gardenResultsWrapper").classList.remove("hidden-element");
       document.getElementById("locationMetaDisplay").innerText = `Results for Zone ${userZone} (ZIP: ${zipCode})`;
       
+      // Scroll to results automatically
+      document.getElementById("gardenResultsWrapper").scrollIntoView({ behavior: 'smooth' });
+      
     } catch (error) {
       console.error("Data load error:", error);
-      alert("Error loading garden data. Please ensure garden-data.json is uploaded.");
+      alert("Error loading garden data. Please verify the file exists in the /data folder.");
     }
   });
 
