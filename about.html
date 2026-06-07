@@ -6,7 +6,7 @@
   <!-- Basic Metadata -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>About – Thistle & Cypress</title>
+  <title>Who We Are – Thistle & Cypress</title>
   <meta name="description" content="The story behind Thistle & Cypress — who we are and the life we're creating.">
   <meta name="author" content="Thistle & Cypress">
   <meta name="theme-color" content="#faf8f5">
@@ -15,7 +15,7 @@
   <meta property="og:title" content="Thistle & Cypress">
   <meta property="og:description" content="The story behind Thistle & Cypress — who we are and the life we're creating.">
   <meta property="og:image" content="https://thistleandcypress.com/OG-image-F.jpg">
-  <meta property="og:url" content="https://thistleandcypress.com/">
+  <meta property="og:url" content="https://thistleandcypress.com/about.html">
   <meta property="og:type" content="website">
 
   <!-- Twitter Metadata -->
@@ -24,8 +24,9 @@
   <meta name="twitter:description" content="The story behind Thistle & Cypress — who we are and the life we're creating.">
   <meta name="twitter:image" content="https://thistleandcypress.com/OG-image-F.jpg">
 
-  <link rel="icon" type="image/jpeg" href="Favicon.jpg">
-  <link rel="stylesheet" href="style.css">
+  <!-- Absolute root-relative asset paths -->
+  <link rel="icon" type="image/jpeg" href="/Favicon.jpg">
+  <link rel="stylesheet" href="/style.css">
 
   <!-- JSON-LD: Website -->
   <script type="application/ld+json">
@@ -61,37 +62,25 @@
 
   <!-- Global Navigation -->
   <nav role="navigation" aria-label="Primary navigation">
-    <a href="index.html">Home</a>
-    <a href="about.html" class="active" aria-current="page">About</a>
-    <a href="kitchen/">Kitchen</a>
-    <a href="garden/">Garden</a>
-    <a href="craft/">Craft</a>
-    <a href="rhythm/">Rhythm</a>
+    <a href="/">Home</a>
+    <a href="/about.html" class="active" aria-current="page">About</a>
+    <a href="/kitchen/">Kitchen</a>
+    <a href="/garden/">Garden</a>
+    <a href="/craft/">Craft</a>
+    <a href="/rhythm/">Rhythm</a>
   </nav>
 
   <!-- Main Content -->
   <main role="main">
 
-    <!-- About Photo (now correctly inside <main>) -->
+    <!-- About Photo (Text removed below per your layout updates) -->
     <section class="about-photo-wrapper">
       <img 
-        src="about/images/About3.jpg"
-        alt="Jon and Rick together, 2017"
+        src="/about/images/About3.jpg"
+        alt="Jon and Rick together"
         class="about-photo"
         loading="lazy"
       >
-    </section>
-
-    <!-- Welcome Text -->
-    <section class="welcome-text">
-      <p>We’re Rick and Jon, and we’re building the next chapter of our life - by living authentically and with intention.</p>
-    </section>
-
-    <!-- Founders' Note Link -->
-    <section class="coming-soon">
-      <p>
-        <small><a href="founders-note.html">Read our Founders’ Note to understand the genesis of this website and the brand →</a></small>
-      </p>
     </section>
 
     <!-- Section Heading -->
@@ -100,18 +89,14 @@
     </section>
 
     <!-- Main About Narrative -->
-    <section>
-      <p>We’re Rick and Jon — building the life we want to step into fully.</p>
+    <section class="about-narrative">
+      <p>We’re Rick and Jon — Welcome to Thistle & Cypress.</p>
 
-      <p>Our weeks divide between San Francisco (careers, friends, bustling markets, favorite tables) and ten wooded acres in northwest Pennsylvania, inherited through Jon’s family. When the land came to us, we knew: this isn’t preparation. This is the <i>beginning</i>. The back-and-forth isn’t always easy, but each return deepens our connection. Each project pulls the future closer.</p>
-
-      <p>We met in Washington, D.C. over thirty years ago and have navigated career changes, cross-country moves, and the gradual understanding that a meaningful life is built deliberately. This land became our clear "yes" to that truth.</p>
-
-      <p>Thistle & Cypress honors our roots. The thistle represents Jon’s Scottish heritage (resilient, resourceful, enduring). The cypress represents Rick’s Italian lineage (warm, generous, deeply tied to place). Together, they shape a life that’s rugged yet refined, practical yet beautiful. We’re practitioners, not experts. Rick cooks intuitively; Jon leans into the precision of baking. What we share — always — is a love of good wine. We plant, build, preserve, make garden mistakes, and learn from them. Travel to other parts of the world is inspiration—showing what happens when culture, craft, and land align.</p>
+      <p>This brand honors our roots. The thistle represents Jon’s Scottish heritage (resilient, resourceful, enduring). The cypress represents Rick’s Italian lineage (warm, generous, deeply tied to place). Together, they shape a life that’s rugged yet refined, practical yet beautiful. We’re practitioners, not experts. What we share — always — is a love of good food, wine, a joy from seeing the land thrive, traveling and enjoyment of new experiences, cultures, and approaches to life. We plant, build, preserve, make garden mistakes, and learn from them. Travel to other parts of the world is inspiration—showing what happens when culture, craft, and land align.</p>
 
       <p>At the heart are four pillars we live every day:</p>
 
-      <ul>
+      <ul class="pillar-list">
         <li><strong>Kitchen</strong> — seasonal cooking, shared meals, and thoughtful wine</li>
         <li><strong>Garden</strong> — patient tending of land and growth</li>
         <li><strong>Craft</strong> — creativity, handmade objects, and spaces with meaning</li>
@@ -123,10 +108,17 @@
       <p><b>We’re glad you’re here. <i>Pull up a chair</i>.</b></p>
     </section>
 
-    <!-- Crest (now correctly aligned) -->
+    <!-- Founders' Note Link (Moved to the bottom) -->
+    <section class="coming-soon" style="margin-top: 40px;">
+      <p>
+        <small><a href="/founders-note.html">Read our Founders’ Note to understand the genesis of this website and the brand →</a></small>
+      </p>
+    </section>
+
+    <!-- Crest -->
     <section class="about-crest" aria-hidden="true">
       <img
-        src="about/images/Crest.jpg"
+        src="/about/images/Crest.jpg"
         alt=""
         class="about-crest-graphic"
         loading="lazy"
@@ -135,7 +127,7 @@
 
     <!-- Back Link -->
     <div class="post-back">
-      <a href="index.html">Back to Home</a>
+      <a href="/">Back to Home</a>
     </div>
 
   </main>
