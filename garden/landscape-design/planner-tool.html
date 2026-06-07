@@ -211,5 +211,65 @@
 
   {% include footer.html %}
 
+  <script>
+  // 1. Manage Step Navigation
+  function goToStep(step) {
+    document.querySelectorAll('.wizard-step').forEach(el => el.classList.remove('active-step'));
+    document.getElementById('step-' + (step === 1 ? 'geography' : 'style')).classList.add('active-step');
+  }
+
+  // 2. Main Logic: Fetch, Filter, and Render
+  document.getElementById('generateReportBtn').addEventListener('click', async () => {
+    try {
+      // Fetch your converted JSON file
+      const response = await fetch('garden-data.json');
+      const data = await response.json();
+
+      const zipCode = document.getElementById("zipCodeInput").value.trim();
+      const userZone = data.zones[zipCode];
+
+      if (!userZone) {
+        alert("We couldn't find a zone for that ZIP code. Please check your entry.");
+        return;
+      }
+
+      // Filter plants matching the user's zone
+      const suitablePlants = data.plants.filter(plant => {
+        const min = parseInt(plant["Min Zone"]);
+        const max = parseInt(plant["Max Zone"]);
+        return userZone >= min && userZone <= max;
+      });
+
+      // Render the results
+      const grid = document.getElementById("spatialLayersGrid");
+      grid.innerHTML = '';
+      suitablePlants.forEach(plant => {
+        grid.innerHTML += `
+          <div class="plant-card">
+            <h3>${plant["Common Name"]}</h3>
+            <p><em>${plant["Scientific Name"]}</em></p>
+            <p><strong>Category:</strong> ${plant["Category Tag"]}</p>
+          </div>
+        `;
+      });
+
+      // Show the results area
+      document.getElementById("gardenResultsWrapper").classList.remove("hidden-element");
+      document.getElementById("locationMetaDisplay").innerText = `Results for Zone ${userZone} (ZIP: ${zipCode})`;
+      
+    } catch (error) {
+      console.error("Data load error:", error);
+      alert("Error loading garden data. Please ensure garden-data.json is uploaded.");
+    }
+  });
+
+  // 3. Reset Function
+  function resetWizard() {
+    document.getElementById('gardenWizardForm').reset();
+    document.getElementById('gardenResultsWrapper').classList.add('hidden-element');
+    goToStep(1);
+  }
+</script>
+  
 </body>
 </html>
