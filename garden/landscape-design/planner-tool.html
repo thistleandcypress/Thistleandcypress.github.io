@@ -222,7 +222,7 @@
   document.getElementById('generateReportBtn').addEventListener('click', async () => {
     try {
       // Fetch your converted JSON file
-      const response = await fetch('garden-data.json');
+      const response = await fetch('data/garden-data.json');
       const data = await response.json();
 
       const zipCode = document.getElementById("zipCodeInput").value.trim();
