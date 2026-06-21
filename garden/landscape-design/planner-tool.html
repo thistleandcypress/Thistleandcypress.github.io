@@ -218,8 +218,7 @@
     document.getElementById('step-' + (step === 1 ? 'geography' : 'style')).classList.add('active-step');
   }
 
-  // 2. Main Logic: Fetch, Filter, and Render
-  // 2. Main Logic: Fetch, Filter, and Render
+  // 2. Main Logic: Fetch, Filter, and Render Repository
   document.getElementById('generateReportBtn').addEventListener('click', async () => {
     try {
       const response = await fetch('data/garden-data.json');
@@ -228,55 +227,66 @@
       const data = await response.json();
       const zipCode = document.getElementById("zipCodeInput").value.trim();
       
-      // THIS IS THE DIFFERENCE:
-      // We must access the 'zones' object first.
+      // Access the zones object in your JSON
       const userZone = data.zones[zipCode]; 
 
       if (!userZone) {
         alert("We couldn't find a zone for that ZIP code. Please check your entry.");
         return;
       }
-      
-     // Filter plants using the new nested path: plant.hardiness.min
+
+      // Filter plants by the user's hardiness zone
       const suitablePlants = data.plants.filter(plant => {
         if (!plant.hardiness) return false;
-        
         const min = parseInt(plant.hardiness.min);
         const max = parseInt(plant.hardiness.max);
         const targetZone = parseInt(userZone);
-        
         return targetZone >= min && targetZone <= max;
       });
 
       // Render the results
       const grid = document.getElementById("spatialLayersGrid");
-      grid.innerHTML = '';
+      grid.innerHTML = ''; // Clear previous results
 
       if (suitablePlants.length === 0) {
         grid.innerHTML = '<p>No plants found for Zone ' + userZone + '. Try another area!</p>';
       } else {
-        suitablePlants.forEach(plant => {
-          grid.innerHTML += `
-            <div class="plant-card">
-              <h3>${plant.common_name || 'Unknown Plant'}</h3>
-              <p><em>${plant.scientific_name ? plant.scientific_name[0] : ''}</em></p>
-              <p><strong>Watering:</strong> ${plant.watering || 'N/A'}</p>
-              <p><strong>Sunlight:</strong> ${plant.sunlight ? plant.sunlight.join(', ') : 'N/A'}</p>
-            </div>
-          `;
-        });
+        // Group plants by 'type' for a clean repository view
+        const grouped = suitablePlants.reduce((acc, plant) => {
+          const cat = plant.type || "Other";
+          if (!acc[cat]) acc[cat] = [];
+          acc[cat].push(plant);
+          return acc;
+        }, {});
+
+        // Render groups
+        for (const [category, plants] of Object.entries(grouped)) {
+          grid.innerHTML += `<h3 class="category-header">${category.charAt(0).toUpperCase() + category.slice(1)}s</h3>`;
+          plants.forEach(plant => {
+            grid.innerHTML += `
+              <div class="plant-card">
+                <h4>${plant.common_name}</h4>
+                <p><em>${plant.scientific_name ? plant.scientific_name[0] : 'No scientific name'}</em></p>
+                <p><strong>Watering:</strong> ${plant.watering || 'N/A'}</p>
+                <p><strong>Sunlight:</strong> ${plant.sunlight ? plant.sunlight.join(', ') : 'N/A'}</p>
+              </div>
+            `;
+          });
+        }
       }
 
+      // Show the results area and scroll
       document.getElementById("gardenResultsWrapper").classList.remove("hidden-element");
-      document.getElementById("locationMetaDisplay").innerText = `Results for Zone ${userZone} (ZIP: ${zipCode})`;
+      document.getElementById("locationMetaDisplay").innerText = `Repository for Zone ${userZone} (ZIP: ${zipCode})`;
       document.getElementById("gardenResultsWrapper").scrollIntoView({ behavior: 'smooth' });
       
     } catch (error) {
       console.error("Data load error:", error);
-      alert("Error loading garden data. Check the browser console for details.");
+      alert("Error loading garden data. Check the console for details.");
     }
   });
 
+  // 3. Reset Function
   function resetWizard() {
     document.getElementById('gardenWizardForm').reset();
     document.getElementById('gardenResultsWrapper').classList.add('hidden-element');
