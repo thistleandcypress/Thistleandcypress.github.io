@@ -221,64 +221,60 @@
   // 2. Main Logic: Fetch, Filter, and Render
   document.getElementById('generateReportBtn').addEventListener('click', async () => {
     try {
-      // Fetch the data from the data subfolder
       const response = await fetch('data/garden-data.json');
       if (!response.ok) throw new Error("Could not find garden-data.json");
       
       const data = await response.json();
-
       const zipCode = document.getElementById("zipCodeInput").value.trim();
-      const userZone = data.zones[zipCode];
+      
+      // Access your new zip/zone dictionary
+      const userZone = data[zipCode]; 
 
       if (!userZone) {
         alert("We couldn't find a zone for that ZIP code. Please check your entry.");
         return;
       }
 
-      // Filter plants matching the user's zone
+      // Filter plants using the new nested path: plant.hardiness.min
       const suitablePlants = data.plants.filter(plant => {
-        // Use parseInt to ensure we are comparing numbers, not text
-        const min = parseInt(plant["Min Zone"]);
-        const max = parseInt(plant["Max Zone"]);
+        if (!plant.hardiness) return false;
         
-        // Safety check: if data is missing, treat as invalid
-        if (isNaN(min) || isNaN(max)) return false;
+        const min = parseInt(plant.hardiness.min);
+        const max = parseInt(plant.hardiness.max);
+        const targetZone = parseInt(userZone);
         
-        return parseInt(userZone) >= min && parseInt(userZone) <= max;
+        return targetZone >= min && targetZone <= max;
       });
 
       // Render the results
       const grid = document.getElementById("spatialLayersGrid");
-      grid.innerHTML = ''; // Clear previous results
+      grid.innerHTML = '';
 
       if (suitablePlants.length === 0) {
-        grid.innerHTML = '<p>No plants found for your specific zone. Try another criteria or check back later.</p>';
+        grid.innerHTML = '<p>No plants found for Zone ' + userZone + '. Try another area!</p>';
       } else {
         suitablePlants.forEach(plant => {
           grid.innerHTML += `
             <div class="plant-card">
-              <h3>${plant["Common Name"] || 'Unknown Plant'}</h3>
-              <p><em>${plant["Scientific Name"] || ''}</em></p>
-              <p><strong>Category:</strong> ${plant["Category Tag"] || 'N/A'}</p>
+              <h3>${plant.common_name || 'Unknown Plant'}</h3>
+              <p><em>${plant.scientific_name ? plant.scientific_name[0] : ''}</em></p>
+              <p><strong>Watering:</strong> ${plant.watering || 'N/A'}</p>
+              <p><strong>Sunlight:</strong> ${plant.sunlight ? plant.sunlight.join(', ') : 'N/A'}</p>
             </div>
           `;
         });
       }
 
-      // Show the results area
       document.getElementById("gardenResultsWrapper").classList.remove("hidden-element");
       document.getElementById("locationMetaDisplay").innerText = `Results for Zone ${userZone} (ZIP: ${zipCode})`;
-      
-      // Scroll to results automatically
       document.getElementById("gardenResultsWrapper").scrollIntoView({ behavior: 'smooth' });
       
     } catch (error) {
       console.error("Data load error:", error);
-      alert("Error loading garden data. Please verify the file exists in the /data folder.");
+      alert("Error loading garden data. Check the browser console for details.");
     }
   });
 
-  // 3. Reset Function
   function resetWizard() {
     document.getElementById('gardenWizardForm').reset();
     document.getElementById('gardenResultsWrapper').classList.add('hidden-element');
