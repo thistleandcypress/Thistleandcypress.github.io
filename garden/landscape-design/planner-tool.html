@@ -1,83 +1,105 @@
+---
+layout: default
+title: The Rhythmic Repository
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Interactive Garden Layout & Plant Finder – Thistle & Cypress</title>
+  <title>The Rhythmic Repository | Thistle & Cypress</title>
+
+  <meta name="description" content="A curated inventory of perennial layers and signature species optimized for your local climate hardiness zone.">
+  <link rel="icon" type="image/jpeg" href="/Favicon.png">
   <link rel="stylesheet" href="/style.css">
   <link rel="stylesheet" href="design-tool.css">
+
   <style>
     .hidden-element { display: none !important; }
-    .wizard-step { display: none; }
-    .wizard-step.active-step { display: block; }
     .layers-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; margin-top: 20px; }
-    .plant-card { border: 1px solid #ddd; padding: 15px; border-radius: 8px; }
+    .plant-card { border: 1px solid #e0ddd5; padding: 15px; border-radius: 8px; background: #faf8f5; }
+    .category-header { margin-top: 40px; border-bottom: 2px solid #333; padding-bottom: 5px; text-transform: uppercase; letter-spacing: 1px; }
+    .wizard-container { padding: 40px 0; }
   </style>
 </head>
 
-<body class="garden-page landscape-design-page">
+<body class="garden-page">
+
+  <nav role="navigation" aria-label="Primary navigation">
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="/kitchen/index.html">Kitchen</a>
+    <a href="/garden/index.html" class="active">Garden</a>
+    <a href="/craft/index.html">Craft</a>
+    <a href="/rhythm/index.html">Rhythm</a>
+  </nav>
+
+  <header class="post-hero" role="banner">
+    <div class="hero-inner">
+      <h1>The Rhythmic Repository</h1>
+      <p class="post-meta">Landscape Design · Interactive Inventory</p>
+      <div class="header-divider"></div>
+    </div>
+  </header>
 
   <main class="post-content" role="main">
-    <div class="wizard-container soft-band">
+    
+    <div class="wizard-container">
       <form id="gardenWizardForm" novalidate>
-        
-        <fieldset id="step-geography" class="wizard-step active-step">
+        <fieldset>
           <h3>1. Define Your Regional Climate</h3>
+          <p>Enter your five-digit ZIP code to generate a categorized inventory of plants suitable for your area.</p>
+          
           <div class="input-group">
-            <input type="text" id="zipCodeInput" placeholder="Enter ZIP Code" maxlength="5" required>
-            <button type="button" class="wizard-btn" onclick="goToStep(2)">Next →</button>
+            <input type="text" id="zipCodeInput" placeholder="e.g., 15401" maxlength="5" required>
+            <button type="button" id="generateReportBtn" class="primary-btn">Generate Inventory ✨</button>
           </div>
-        </fieldset>
-
-        <fieldset id="step-style" class="wizard-step">
-          <h3>2. Select Your Design Energy</h3>
-          <div class="style-grid">
-            <label><input type="radio" name="aestheticProfile" value="italian" checked> Italian Abundance</label>
-            <label><input type="radio" name="aestheticProfile" value="scottish"> Scottish Resilience</label>
-            <label><input type="radio" name="aestheticProfile" value="slowliving"> Sensory Slow Living</label>
-          </div>
-          <button type="button" class="wizard-btn" onclick="goToStep(1)">← Back</button>
-          <button type="button" id="generateReportBtn" class="wizard-btn">Generate Repository ✨</button>
         </fieldset>
       </form>
     </div>
 
-    <section id="gardenResultsWrapper" class="results-container hidden-element">
-      <h2 id="locationMetaDisplay"></h2>
+    <section id="gardenResultsWrapper" class="results-container hidden-element" aria-live="polite">
+      <div class="results-header">
+        <h2 id="locationMetaDisplay"></h2>
+      </div>
       <div id="spatialLayersGrid" class="layers-grid"></div>
-      <button onclick="resetWizard()">Search Another ZIP</button>
+      <div class="results-actions" style="margin-top: 40px;">
+        <button type="button" onclick="resetWizard()">Search Another ZIP</button>
+      </div>
     </section>
+
   </main>
 
-  <script>
-    function goToStep(step) {
-      document.querySelectorAll('.wizard-step').forEach(el => el.classList.remove('active-step'));
-      document.getElementById('step-' + (step === 1 ? 'geography' : 'style')).classList.add('active-step');
-    }
+  {% include footer.html %}
 
+  <script>
     document.getElementById('generateReportBtn').addEventListener('click', async () => {
       try {
         const response = await fetch('data/garden-data.json');
+        if (!response.ok) throw new Error("Could not find garden-data.json");
+        
         const data = await response.json();
         const zipCode = document.getElementById("zipCodeInput").value.trim();
         const userZone = data.zones[zipCode]; 
 
         if (!userZone) {
-          alert("We couldn't find a zone for that ZIP code.");
+          alert("We couldn't find a zone for ZIP: " + zipCode + ". Please check your entry.");
           return;
         }
 
         const suitablePlants = data.plants.filter(plant => {
           if (!plant.hardiness) return false;
-          return parseInt(userZone) >= parseInt(plant.hardiness.min) && 
-                 parseInt(userZone) <= parseInt(plant.hardiness.max);
+          const min = parseInt(plant.hardiness.min);
+          const max = parseInt(plant.hardiness.max);
+          const targetZone = parseInt(userZone);
+          return targetZone >= min && targetZone <= max;
         });
 
         const grid = document.getElementById("spatialLayersGrid");
         grid.innerHTML = '';
 
         if (suitablePlants.length === 0) {
-          grid.innerHTML = '<p>No plants found for Zone ' + userZone + '.</p>';
+          grid.innerHTML = '<p>No plants found for Zone ' + userZone + '. Try another area!</p>';
         } else {
           const grouped = suitablePlants.reduce((acc, plant) => {
             const cat = plant.type || "Other";
@@ -87,30 +109,34 @@
           }, {});
 
           for (const [category, plants] of Object.entries(grouped)) {
-            grid.innerHTML += `<h3>${category.charAt(0).toUpperCase() + category.slice(1)}s</h3>`;
+            grid.innerHTML += `<h3 class="category-header">${category.charAt(0).toUpperCase() + category.slice(1)}s</h3>`;
             plants.forEach(plant => {
               grid.innerHTML += `
                 <div class="plant-card">
                   <h4>${plant.common_name}</h4>
-                  <p><em>${plant.scientific_name ? plant.scientific_name[0] : ''}</em></p>
+                  <p><em>${plant.scientific_name ? plant.scientific_name[0] : 'No scientific name'}</em></p>
                   <p><strong>Watering:</strong> ${plant.watering || 'N/A'}</p>
                 </div>
               `;
             });
           }
         }
+
         document.getElementById("gardenResultsWrapper").classList.remove("hidden-element");
-        document.getElementById("locationMetaDisplay").innerText = `Repository for Zone ${userZone}`;
+        document.getElementById("locationMetaDisplay").innerText = `Plant Repository: Zone ${userZone} (ZIP: ${zipCode})`;
+        document.getElementById("gardenResultsWrapper").scrollIntoView({ behavior: 'smooth' });
+        
       } catch (error) {
         console.error("Data load error:", error);
+        alert("Error loading garden data. Ensure garden-data.json is in the correct folder.");
       }
     });
 
     function resetWizard() {
       document.getElementById('gardenWizardForm').reset();
       document.getElementById('gardenResultsWrapper').classList.add('hidden-element');
-      goToStep(1);
     }
   </script>
+
 </body>
 </html>
