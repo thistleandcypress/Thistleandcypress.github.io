@@ -219,6 +219,7 @@
   }
 
   // 2. Main Logic: Fetch, Filter, and Render
+  // 2. Main Logic: Fetch, Filter, and Render
   document.getElementById('generateReportBtn').addEventListener('click', async () => {
     try {
       const response = await fetch('data/garden-data.json');
@@ -227,15 +228,16 @@
       const data = await response.json();
       const zipCode = document.getElementById("zipCodeInput").value.trim();
       
-      // Access your new zip/zone dictionary
-      const userZone = data[zipCode]; 
+      // THIS IS THE DIFFERENCE:
+      // We must access the 'zones' object first.
+      const userZone = data.zones[zipCode]; 
 
       if (!userZone) {
         alert("We couldn't find a zone for that ZIP code. Please check your entry.");
         return;
       }
-
-      // Filter plants using the new nested path: plant.hardiness.min
+      
+     // Filter plants using the new nested path: plant.hardiness.min
       const suitablePlants = data.plants.filter(plant => {
         if (!plant.hardiness) return false;
         
