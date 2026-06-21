@@ -1,298 +1,116 @@
----
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Interactive Garden Layout & Plant Finder – Thistle & Cypress</title>
-
-  <meta name="description" content="Discover curated architectural perennial layers and signature species optimized directly for your local climate hardiness zone.">
-  <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="landscape design, plant matrix, perennial layers, climate hardiness, garden planning">
-  <meta name="theme-color" content="#faf8f5">
-
-  <link rel="canonical" href="https://thistleandcypress.com/garden/landscape-design/planner-tool.html">
-
-  <meta property="og:title" content="Interactive Garden Layout & Plant Finder – Thistle & Cypress">
-  <meta property="og:description" content="Map local climate boundaries against spatial architecture to restore your plot of earth.">
-  <meta property="og:image" content="https://thistleandcypress.com/garden/images/garden-hero3.jpg">
-  <meta property="og:url" content="https://thistleandcypress.com/garden/landscape-design/planner-tool.html">
-  <meta property="og:type" content="article">
-  <meta property="og:site_name" content="Thistle & Cypress">
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Interactive Garden Layout & Plant Finder – Thistle & Cypress">
-  <meta name="twitter:description" content="From climate data to physical structure: design your perennial layers.">
-  <meta name="twitter:image" content="https://thistleandcypress.com/garden/images/garden-hero3.jpg">
-
-  <link rel="icon" type="image/jpeg" href="/Favicon.png">
   <link rel="stylesheet" href="/style.css">
   <link rel="stylesheet" href="design-tool.css">
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Thistle & Cypress",
-    "url": "https://thistleandcypress.com/",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
-    }
-  }
-  </script>
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://thistleandcypress.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Garden",
-        "item": "https://thistleandcypress.com/garden/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Landscape Design",
-        "item": "https://thistleandcypress.com/garden/landscape-design/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Landscape Planner Tool",
-        "item": "https://thistleandcypress.com/garden/landscape-design/planner-tool.html"
-      }
-    ]
-  }
-  </script>
+  <style>
+    .hidden-element { display: none !important; }
+    .wizard-step { display: none; }
+    .wizard-step.active-step { display: block; }
+    .layers-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; margin-top: 20px; }
+    .plant-card { border: 1px solid #ddd; padding: 15px; border-radius: 8px; }
+  </style>
 </head>
 
 <body class="garden-page landscape-design-page">
 
-  <nav role="navigation" aria-label="Primary navigation">
-    <a href="/">Home</a>
-    <a href="/about.html">About</a>
-    <a href="/kitchen/index.html">Kitchen</a>
-    <a href="/garden/index.html" class="active">Garden</a>
-    <a href="/craft/index.html">Craft</a>
-    <a href="/rhythm/index.html">Rhythm</a>
-  </nav>
-
-  <nav class="subnav" role="navigation" aria-label="Garden sections">
-    <a href="../index.html">Garden</a>
-    <a href="../trees-shrubs/index.html">Trees & Shrubs</a>
-    <a href="../perennials/index.html">Perennials</a>
-    <a href="../annuals-biennials/index.html">Annuals & Biennials</a>
-    <a href="../bulbs-tubers/index.html">Bulbs & Tubers</a>
-    <a href="../herbs/index.html">Herbs</a>
-    <a href="../groundcovers/index.html">Groundcovers</a>
-    <a href="index.html" class="active" aria-current="page">Landscape Design</a>
-    <a href="../landscape-maintenance/index.html">Landscape Maintenance</a>
-    <a href="../guides/index.html">Guides</a>
-    <a href="../stories/index.html">Stories</a>
-  </nav>
-
-  <header class="post-hero" role="banner">
-    <div class="hero-inner">
-      <h1>The Rhythmic Garden Engine</h1>
-      <p class="post-meta">Landscape Design · Interactive Tool</p>
-      <div class="header-divider"></div>
-    </div>
-  </header>
-
   <main class="post-content" role="main">
-    
-    <section class="welcome-text">
-      <p>
-        A garden is not a random assortment of plants, but a structured tapestry arranged in intentional layers. By anchoring your design in your regional climate reality, this tool pairs official climate hardiness data with the four primary spatial dimensions of a cohesive landscape framework.
-      </p>
-    </section>
-
     <div class="wizard-container soft-band">
       <form id="gardenWizardForm" novalidate>
         
         <fieldset id="step-geography" class="wizard-step active-step">
-          <legend class="visually-hidden">Step 1: Regional Climate</legend>
           <h3>1. Define Your Regional Climate</h3>
-          <p class="step-instruction">Enter your five-digit US postal code. The engine will query the local dataset to extract your true USDA hardiness boundary offline.</p>
-          
           <div class="input-group">
-            <label for="zipCodeInput">📬 Postal ZIP Code</label>
-            <input 
-              type="text" 
-              id="zipCodeInput" 
-              inputmode="numeric" 
-              pattern="[0-9]{5}" 
-              maxlength="5" 
-              placeholder="e.g., 15401" 
-              required
-            >
-            <span class="error-message" id="zipError" aria-live="polite"></span>
-          </div>
-
-          <div class="wizard-actions">
-            <button type="button" class="wizard-btn primary-btn" onclick="goToStep(2)">Next: Select Aesthetic Profile →</button>
+            <input type="text" id="zipCodeInput" placeholder="Enter ZIP Code" maxlength="5" required>
+            <button type="button" class="wizard-btn" onclick="goToStep(2)">Next →</button>
           </div>
         </fieldset>
 
         <fieldset id="step-style" class="wizard-step">
-          <legend class="visually-hidden">Step 2: Aesthetic Intention</legend>
           <h3>2. Select Your Design Energy</h3>
-          <p class="step-instruction">Choose a sensory profile to guide the contextual copy engine and focus your spatial layout suggestions.</p>
-          
           <div class="style-grid">
-            <label class="style-card-option">
-              <input type="radio" name="aestheticProfile" value="italian" checked>
-              <div class="card-content">
-                <h4>Italian Abundance</h4>
-                <p>Warm stone, structural symmetry, rich sensory herb nodes, and deep, sun-drenched permanence.</p>
-              </div>
-            </label>
-
-            <label class="style-card-option">
-              <input type="radio" name="aestheticProfile" value="scottish">
-              <div class="card-content">
-                <h4>Scottish Resilience</h4>
-                <p>Textured, weather-tested perennial drifts, structured borders, and quiet, persistent moss and evergreen bone structure.</p>
-              </div>
-            </label>
-
-            <label class="style-card-option">
-              <input type="radio" name="aestheticProfile" value="slowliving">
-              <div class="card-content">
-                <h4>Sensory Slow Living</h4>
-                <p>Soft textures, layered seasonal rhythms, places for intentional pauses, and heavy emphasis on wildlife forage layers.</p>
-              </div>
-            </label>
+            <label><input type="radio" name="aestheticProfile" value="italian" checked> Italian Abundance</label>
+            <label><input type="radio" name="aestheticProfile" value="scottish"> Scottish Resilience</label>
+            <label><input type="radio" name="aestheticProfile" value="slowliving"> Sensory Slow Living</label>
           </div>
-
-          <div class="wizard-actions">
-            <button type="button" class="wizard-btn secondary-btn" onclick="goToStep(1)">← Back</button>
-            <button type="button" id="generateReportBtn" class="wizard-btn primary-btn">Generate Matrix Layout ✨</button>
-          </div>
+          <button type="button" class="wizard-btn" onclick="goToStep(1)">← Back</button>
+          <button type="button" id="generateReportBtn" class="wizard-btn">Generate Repository ✨</button>
         </fieldset>
-
       </form>
     </div>
 
-    <section id="gardenResultsWrapper" class="results-container hidden-element" aria-live="polite">
-      
-      <div class="results-header">
-        <h2>Your Custom Structural Matrix</h2>
-        <p id="locationMetaDisplay" class="location-meta-text"></p>
-        <p id="narrativeIntroDisplay" class="narrative-block-text"></p>
-      </div>
-
-      <div id="spatialLayersGrid" class="layers-grid">
-        </div>
-
-      <div class="results-actions">
-        <button type="button" class="print-button" onclick="window.print()">🖨️ Print Custom Layout Guide</button>
-        <button type="button" class="notify-button" onclick="resetWizard()">Reset Design Form</button>
-      </div>
-
+    <section id="gardenResultsWrapper" class="results-container hidden-element">
+      <h2 id="locationMetaDisplay"></h2>
+      <div id="spatialLayersGrid" class="layers-grid"></div>
+      <button onclick="resetWizard()">Search Another ZIP</button>
     </section>
-
-    <div class="post-back">
-      <a href="index.html">← Back to Landscape Design</a>
-    </div>
-
   </main>
 
-  {% include footer.html %}
-
-<script>
-  // 1. Manage Step Navigation
-  function goToStep(step) {
-    document.querySelectorAll('.wizard-step').forEach(el => el.classList.remove('active-step'));
-    document.getElementById('step-' + (step === 1 ? 'geography' : 'style')).classList.add('active-step');
-  }
-
-  // 2. Main Logic: Fetch, Filter, and Render Repository
-  document.getElementById('generateReportBtn').addEventListener('click', async () => {
-    try {
-      const response = await fetch('data/garden-data.json');
-      if (!response.ok) throw new Error("Could not find garden-data.json");
-      
-      const data = await response.json();
-      const zipCode = document.getElementById("zipCodeInput").value.trim();
-      
-      // Access the zones object in your JSON
-      const userZone = data.zones[zipCode]; 
-
-      if (!userZone) {
-        alert("We couldn't find a zone for that ZIP code. Please check your entry.");
-        return;
-      }
-
-      // Filter plants by the user's hardiness zone
-      const suitablePlants = data.plants.filter(plant => {
-        if (!plant.hardiness) return false;
-        const min = parseInt(plant.hardiness.min);
-        const max = parseInt(plant.hardiness.max);
-        const targetZone = parseInt(userZone);
-        return targetZone >= min && targetZone <= max;
-      });
-
-      // Render the results
-      const grid = document.getElementById("spatialLayersGrid");
-      grid.innerHTML = ''; // Clear previous results
-
-      if (suitablePlants.length === 0) {
-        grid.innerHTML = '<p>No plants found for Zone ' + userZone + '. Try another area!</p>';
-      } else {
-        // Group plants by 'type' for a clean repository view
-        const grouped = suitablePlants.reduce((acc, plant) => {
-          const cat = plant.type || "Other";
-          if (!acc[cat]) acc[cat] = [];
-          acc[cat].push(plant);
-          return acc;
-        }, {});
-
-        // Render groups
-        for (const [category, plants] of Object.entries(grouped)) {
-          grid.innerHTML += `<h3 class="category-header">${category.charAt(0).toUpperCase() + category.slice(1)}s</h3>`;
-          plants.forEach(plant => {
-            grid.innerHTML += `
-              <div class="plant-card">
-                <h4>${plant.common_name}</h4>
-                <p><em>${plant.scientific_name ? plant.scientific_name[0] : 'No scientific name'}</em></p>
-                <p><strong>Watering:</strong> ${plant.watering || 'N/A'}</p>
-                <p><strong>Sunlight:</strong> ${plant.sunlight ? plant.sunlight.join(', ') : 'N/A'}</p>
-              </div>
-            `;
-          });
-        }
-      }
-
-      // Show the results area and scroll
-      document.getElementById("gardenResultsWrapper").classList.remove("hidden-element");
-      document.getElementById("locationMetaDisplay").innerText = `Repository for Zone ${userZone} (ZIP: ${zipCode})`;
-      document.getElementById("gardenResultsWrapper").scrollIntoView({ behavior: 'smooth' });
-      
-    } catch (error) {
-      console.error("Data load error:", error);
-      alert("Error loading garden data. Check the console for details.");
+  <script>
+    function goToStep(step) {
+      document.querySelectorAll('.wizard-step').forEach(el => el.classList.remove('active-step'));
+      document.getElementById('step-' + (step === 1 ? 'geography' : 'style')).classList.add('active-step');
     }
-  });
 
-  // 3. Reset Function
-  function resetWizard() {
-    document.getElementById('gardenWizardForm').reset();
-    document.getElementById('gardenResultsWrapper').classList.add('hidden-element');
-    goToStep(1);
-  }
-</script>
-  
+    document.getElementById('generateReportBtn').addEventListener('click', async () => {
+      try {
+        const response = await fetch('data/garden-data.json');
+        const data = await response.json();
+        const zipCode = document.getElementById("zipCodeInput").value.trim();
+        const userZone = data.zones[zipCode]; 
+
+        if (!userZone) {
+          alert("We couldn't find a zone for that ZIP code.");
+          return;
+        }
+
+        const suitablePlants = data.plants.filter(plant => {
+          if (!plant.hardiness) return false;
+          return parseInt(userZone) >= parseInt(plant.hardiness.min) && 
+                 parseInt(userZone) <= parseInt(plant.hardiness.max);
+        });
+
+        const grid = document.getElementById("spatialLayersGrid");
+        grid.innerHTML = '';
+
+        if (suitablePlants.length === 0) {
+          grid.innerHTML = '<p>No plants found for Zone ' + userZone + '.</p>';
+        } else {
+          const grouped = suitablePlants.reduce((acc, plant) => {
+            const cat = plant.type || "Other";
+            if (!acc[cat]) acc[cat] = [];
+            acc[cat].push(plant);
+            return acc;
+          }, {});
+
+          for (const [category, plants] of Object.entries(grouped)) {
+            grid.innerHTML += `<h3>${category.charAt(0).toUpperCase() + category.slice(1)}s</h3>`;
+            plants.forEach(plant => {
+              grid.innerHTML += `
+                <div class="plant-card">
+                  <h4>${plant.common_name}</h4>
+                  <p><em>${plant.scientific_name ? plant.scientific_name[0] : ''}</em></p>
+                  <p><strong>Watering:</strong> ${plant.watering || 'N/A'}</p>
+                </div>
+              `;
+            });
+          }
+        }
+        document.getElementById("gardenResultsWrapper").classList.remove("hidden-element");
+        document.getElementById("locationMetaDisplay").innerText = `Repository for Zone ${userZone}`;
+      } catch (error) {
+        console.error("Data load error:", error);
+      }
+    });
+
+    function resetWizard() {
+      document.getElementById('gardenWizardForm').reset();
+      document.getElementById('gardenResultsWrapper').classList.add('hidden-element');
+      goToStep(1);
+    }
+  </script>
 </body>
 </html>
