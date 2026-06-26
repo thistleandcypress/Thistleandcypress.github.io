@@ -54326,6 +54326,3347 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 122,
+      "common_name": "Shinobuga Oka Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Shinobuga Oka'"
+      ],
+      "other_name": [
+        "Shinobu Ga Oka",
+        "Shino Buga Oka Japanese Maple"
+      ],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Shinobuga Oka",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 12,
+          "max_value": 12,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=122&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=122&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=122&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Shinobuga Oka Japanese Maple is an amazing deciduous tree to add to any garden. Its beautiful and unique foliage has deeper shades of green compared to most species, along with light-pink and maroon overtones, especially when exposed to direct sunlight. In the autumn, its leaves turn an impressive array of yellow, orange, and red. This tree is easy to care for, versatile, and requires little maintenance, making it a perfect choice for gardeners of all levels. It can even be grown in containers, providing a stunning splash of color wherever it is placed. Shinobuga Oka Japanese Maple is sure to be a focal point in any garden that has it.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 123,
+      "common_name": "Lions Head Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Shishigashira'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Shishigashira",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 20,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=123&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=123&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "twigs",
+          "color": [
+            "red-yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=123&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Lions Head Japanese Maple (Acer palmatum 'Shishigashira') is an amazing plant species with striking features. This particularly hardy deciduous makes an eye-catching statement in the garden with its dense foliage, spiraling branches and upright habit. Its highly ornamental foliage morphs from a golden hue to pink and crimson leaves in the fall. It's an ideal choice for small spaces. The multi-season interest and easy maintenance of this reliable species ensures year-round beauty in a garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/123_acer_palmatum_shishigashira/og/4847315016_26a7119afa_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7c6e1630018f92be10b98686f32fd92d594818eb46bb2c7db60a31b5ac241115",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/123_acer_palmatum_shishigashira/regular/4847315016_26a7119afa_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b5874777b14ad5dc26adb44d64c8404c98375b6a5f56c3dc6e69a4e2d364f347",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/123_acer_palmatum_shishigashira/medium/4847315016_26a7119afa_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=36526cc8047d5eb2d852cc80c2fe05c805919d422a559d217b6c23b0a38c759a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/123_acer_palmatum_shishigashira/small/4847315016_26a7119afa_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6e875e8ca36c88a9a13d9d61fec20f75dc5872eef263c86ed06ca18ad364da81",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/123_acer_palmatum_shishigashira/thumbnail/4847315016_26a7119afa_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4c5b8008c5004bb755c5332bfe58f352c77b31316bf4f276d339db7aa0d93373"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 124,
+      "common_name": "Shishio Hime Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Shishio Hime'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Shishio Hime",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 3,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=124&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=124&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=124&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "High",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Shishio Hime Japanese Maple is an amazing ornamental tree species. Its deeply divided, pale green to dark green leaves turn brilliant shades of yellow, orange, and red in autumn, making a dazzling display. Its small, gently mounded form is ideal for small gardens and can be pruned annually to shape as desired. Its branches are delicately twigged and the distinctive bark is mottled and gray-green with age. Furthermore, this species is extremely hardy and prefers full sun to partially shaded conditions. The Shishio Hime Japanese Maple is an inspirational plant to add to any landscape and will be sure to be its focal point.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/124_acer_palmatum_shishio_hime/og/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=14895503cd575429cc2acc1840fd749dbd65199d044c6acff547b24688cd6a6f",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/124_acer_palmatum_shishio_hime/regular/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ad3161306bc712ce0730a23c2831b2674959465377f920aa4fa994d6513c3ffc",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/124_acer_palmatum_shishio_hime/medium/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d9dfd3ab0f6fa31340fa3cfbae81dd07f44e3b2d9679e1647984aee12219b9c7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/124_acer_palmatum_shishio_hime/small/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e4318b7c15fede86c478d79eab7db1968c43cd7e17bb4c5cbcb4dc1c91cdfdfb",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/124_acer_palmatum_shishio_hime/thumbnail/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=62b84a99023ce30bb1490013525bd66e65c982f29017014f8b05e98f9039781f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 125,
+      "common_name": "Spring Delight Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Spring Delight'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Spring Delight",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 4,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=125&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=125&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=125&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Spring Delight Japanese Maple is an amazing species of tree for many reasons. Its leaves have a unique colour combination of yellow and pink, with brilliant greens during summertime. The bark is attractive and attractive, with a subtle hint of orange. This species stands out from other Japanese Maples due to its relatively fast growth rate which means you can enjoy its beauty in a shorter amount of time. It is also quite resistant to disease and pests, making it an easy to maintain tree. Its small size makes it ideal for planting in city gardens and other small spaces, allowing you to bring a bit of peaceful nature blossoming in your space.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/125_acer_palmatum_spring_delight/og/Acer_palmatum_Eddisbury_-_Flickr_-_peganum_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d189a89a8fa7f7993cb3c823e272a08747c9f51aaebfd5afe781f5a968a7d496",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/125_acer_palmatum_spring_delight/regular/Acer_palmatum_Eddisbury_-_Flickr_-_peganum_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f3abda8d06ac17494a7f27966b19617a8c371cb90df6f5e277812926d69dfc38",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/125_acer_palmatum_spring_delight/medium/Acer_palmatum_Eddisbury_-_Flickr_-_peganum_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4998f5fe80692065e1a29a8b420bb9ffc87413ac2a262868f0db2d80f934a840",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/125_acer_palmatum_spring_delight/small/Acer_palmatum_Eddisbury_-_Flickr_-_peganum_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bf4d614eefc7644bdd897448a69da315485449dddbb5906ea8fac2f8ce0d4e30",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/125_acer_palmatum_spring_delight/thumbnail/Acer_palmatum_Eddisbury_-_Flickr_-_peganum_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cb2561735577587a86f9b05aca22c2b74f62d128abd2d6c4a2510210756245a2"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 126,
+      "common_name": "Suminagashi Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Suminagashi'"
+      ],
+      "other_name": [
+        "Sumi Nagashi"
+      ],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Suminagashi",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 15,
+          "max_value": 15,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=126&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=126&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=126&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Suminagashi Japanese Maple (Acer palmatum 'Suminagashi') is an amazing plant that has a unique and exquisite beauty unlike any other plant. Its striking purple, white and yellow-green foliage has a wonderful color pattern that stands out from the crowd. With interesting cloud-like limbs and leaf formation, this maple has a whimsical and graceful focal point for any garden or landscape. It's low-maintenance, drought-tolerant and very hardy, making it ideal for any sized yard. This majestic tree will become an instant conversation piece, adding both color and texture to your garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/126_acer_palmatum_suminagashi/og/japanese-maple-fall-color-leaves-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=459b3d4f9def4d9c8a955bde2f7c4f4873d954a5417d91bd08bb320edb29e153",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/126_acer_palmatum_suminagashi/regular/japanese-maple-fall-color-leaves-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=74c2ae3267c0e9f51a7fd8417588e5241d1e6085fba2fd90697fd91a38bbba09",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/126_acer_palmatum_suminagashi/medium/japanese-maple-fall-color-leaves-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=21fbd745af45c09d969be0429d6816f646159dff2541387e32a4b6da8c93be15",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/126_acer_palmatum_suminagashi/small/japanese-maple-fall-color-leaves-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a3ef6a713ef94899f3465a33490373a79ab1d36b216a5536ebb18efba1a082e2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/126_acer_palmatum_suminagashi/thumbnail/japanese-maple-fall-color-leaves-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021214Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ee79d371eac38c91261b64a8877111ac2106180bb247f1fb7ccdcf6078bc2651"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 127,
+      "common_name": "Tama Hime Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tama Hime'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tama Hime",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 5,
+          "max_value": 5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=127&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=127&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=127&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tama Hime Japanese Maple (Acer palmatum 'Tama Hime') is a stunning and eye-catching addition to any garden or landscape. Known for its vibrant foliage, this maple is prized for its intense deep warm orange and yellow colors in spring and summer turning to shades of brilliant red and orange in the fall. Compact in size yet wide in its beauty, this maple is easily manageable with a slow growth rate and low maintenance. Boasting an upright pyramidal shape and cascading branches, this slow-growing tree adds drama, style and color to any location and looks great year round. Tama Hime Japanese Maple is an excellent choice for those wanting to make a statement in their garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/127_acer_palmatum_tama_hime/og/3467420590_a48a005ba1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3aef0e298cf157f13b24d6da315323ef601a26a4d784ade320ec1efc4bfe581b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/127_acer_palmatum_tama_hime/regular/3467420590_a48a005ba1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a8b0a8f16a155210a478cf335c51b8abbbb22df5179303db9385161d2025827",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/127_acer_palmatum_tama_hime/medium/3467420590_a48a005ba1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ee4811a2bfce3aac68e694f83455e383d5f03671acbaa36f8571df1369e6ab6a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/127_acer_palmatum_tama_hime/small/3467420590_a48a005ba1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=04fb04125bb1c96bb500ece452c651eb5766529c576fe8b83d213d3cb1bcdecf",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/127_acer_palmatum_tama_hime/thumbnail/3467420590_a48a005ba1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=da356ddc159870e79deab4ac5bbbd6f065ec84f6c8e3d8819604baa27ff76ab6"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 128,
+      "common_name": "Tamukeyama Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tamukeyama'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tamukeyama",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 7,
+          "max_value": 7,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=128&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=128&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=128&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tamukeyama Japanese Maple is an amazing plant species. Featuring dramatic red and purple foliage, the Tamukeyama is one of the most attractive maples around. It produces gorgeous foliage in the late spring and keeps its color throughout the summer months. In the autumn, the leaves turn a striking orange-yellow. Tamukeyama is also known for its full, dense canopy and compact form, making it an ideal choice for smaller gardens, courtyards, and containers. With minimal maintenance, this low-maintenance, moderate-growing maple can lend beauty and interest to the landscape for years to come.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/128_acer_palmatum_tamukeyama/og/Acer_palmatum_27Tamukeyama27_at_Coker_Arboretum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=df5281191a5d40a5e44da4dec71f469b9a9d749f63bb11fa957266a3932a45e0",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/128_acer_palmatum_tamukeyama/regular/Acer_palmatum_27Tamukeyama27_at_Coker_Arboretum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=300f6b6c179b5663465f6e6691afffa2b452b6d3bcb191372484dabcb9ba0629",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/128_acer_palmatum_tamukeyama/medium/Acer_palmatum_27Tamukeyama27_at_Coker_Arboretum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fcdc7b0da25151ca91dafe5bab257b22951e21615d0b37cc9d5690042578c240",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/128_acer_palmatum_tamukeyama/small/Acer_palmatum_27Tamukeyama27_at_Coker_Arboretum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=eb57a1378fc4aace85479f029eaf15b7d2ef6fe6a09fc6b2bf8b3ee7abad5c00",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/128_acer_palmatum_tamukeyama/thumbnail/Acer_palmatum_27Tamukeyama27_at_Coker_Arboretum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f090eab818f0a3012758c37a1203c8d1d2a38a8d89445133c8637b611daff5bc"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 129,
+      "common_name": "Tana Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Tana'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tana",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 20,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=129&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=129&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=129&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Tana Japanese Maple (Acer palmatum 'Tana') is an amazing choice for any garden. This small shrubby tree is known to be extremely disease-resistant and low-maintenance, making it a great choice for hassle-free gardening. Not only that, its signature green foliage with yellow variegation makes it a stunning addition to any kind of planting bed or landscape. The addition of brilliant red hues during autumn adds a splash of color to foliage season. Its dense, upright habit makes it perfect for pruning, adding to its aesthetic, and its ability to thrive in various sunny and shaded climates makes it perfect for any garden location.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/129_acer_palmatum_tana/og/Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d1ccc3f15eeba8e36f07004e2896ce3e3f0cf24adb1c07f18c25a390df4b3d73",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/129_acer_palmatum_tana/regular/Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=75e1dce892f92351b0815ace0ef693b700ec52fdcedd87e5b00b173e78d83023",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/129_acer_palmatum_tana/medium/Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=79b7544b462a7036593216fc32e9021c58e7b62e861a172448791708e2854bd7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/129_acer_palmatum_tana/small/Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2278734246e8d53ef49a588878b9045ca9f201ea812d840696b33e2936c2077d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/129_acer_palmatum_tana/thumbnail/Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f1146667de5a7392cc7cb8e49056c896f3649a5c8cb5efeef8db5aeaf6444a83"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 130,
+      "common_name": "Tobiosho Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tobiosho'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tobiosho",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 20,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=130&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=130&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=130&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tobiosho Japanese Maple (Acer palmatum 'Tobiosho') is an amazing species of maple tree that stands out thanks to its beautiful foliage. Throughout the year, its foliage ranges from a vibrant emerald green in summer, to a stunning orange-red in autumn. On top of this, it also has an impressive cascading habit, making it a great choice for any garden. Its unique foliage doesn't just look beautiful, but also provides an expansive canopy for gardens and a perfect wind break for smaller areas. This makes it a great addition to any garden, especially if you’re looking for a tree with lush, vibrant foliage and a cascading habit.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/130_acer_palmatum_tobiosho/og/Acer_palmatum_27Elegans27_JPG1L.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=26595dc9387ef2f62100ac38341afabe36b7f2fcaa2331283bb34d57010f3715",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/130_acer_palmatum_tobiosho/regular/Acer_palmatum_27Elegans27_JPG1L.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=99dba295ae43fb279a86a11f3eab5a9c00b61de3cfa05c044d72c1c297b567b6",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/130_acer_palmatum_tobiosho/medium/Acer_palmatum_27Elegans27_JPG1L.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a7d31aff0ba6a28acd7886c83647a152b4a9efcdc8f6e3b951c0311009af706e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/130_acer_palmatum_tobiosho/small/Acer_palmatum_27Elegans27_JPG1L.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=535cb613b8de47d6a8978813651b079a5cd6067dc63abd1164ed9bb8482ef56b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/130_acer_palmatum_tobiosho/thumbnail/Acer_palmatum_27Elegans27_JPG1L.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021216Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=783b806b90aa0afbf71283f678cdfb930886f133116267f2df4ebafad151a807"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 131,
+      "common_name": "Trompenburg Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Trompenburg'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Trompenburg",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 25,
+          "max_value": 25,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=131&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=131&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=131&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Acer palmatum 'Trompenburg' is a truly astounding Japanese Maple that offers much to both new and experienced gardeners alike. This variety is a stand-out among its relatives, offering a unique weeping-like structure that epitomizes the Japanese sophistication of a mature garden. Its deep green, sharply pointed leaves turn a magnificent range of shades in the fall, ranging from bright oranges to deep greens and reds. Though it can be grown in a variety of soil types and light conditions, adding a little more attention will truly reward you with a spectacle of foliage unmatched by other trees in your garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/131_acer_palmatum_trompenburg/og/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021217Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=18be7036fc4f67c30ce4c62881c4b046c942fdcd584afe8366c6aca0f0cc8da8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/131_acer_palmatum_trompenburg/regular/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021217Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=99271b98c70c02db6db6c78923f7c3eeba6de9fd645d6b5519c7d189f4a0bb42",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/131_acer_palmatum_trompenburg/medium/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021217Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=094698095ebe7bc8506de2203b1668433aef993cf14c6cd9d4c8475c0ee3b2c6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/131_acer_palmatum_trompenburg/small/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021217Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2ff91c5909a59e232cb8faa82c59a547fb4a284a1257848a2eece35c21993ec7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/131_acer_palmatum_trompenburg/thumbnail/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021217Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e9394922ecb977e6adfd8db2040086ec373933bdd25c7bb547b17fd43807964d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 132,
+      "common_name": "Tsukasa Silhouette Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Tsukasa Silhouette'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tsukasa Silhouette",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 20,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=132&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=132&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "April",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=132&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tsukasa Silhouette Japanese Maple is a lovely, yet elegant, small tree. Its delicate leaves emerge in vibrant shades of pink in the spring and slowly turn a wonderfully warm reddish color in the summer. The fall brings shades of bronze and orange for a truly mesmerizing display. Its dense canopy provides generous amounts of shade, and its Umbrella-shaped form makes it the perfect addition to any garden. This slow-growing tree is easy to care for and will bring subtle beauty and serenity to your landscape, making it an amazing choice for any garden!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/132_acer_palmatum_tsukasa_silhouette/og/Acer_palmatum_Eddisbury_-_Flickr_-_peganum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3dd2902585cd970cdab0cf01a0e29ad27a303158b4a04c9d28fe097e29daac04",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/132_acer_palmatum_tsukasa_silhouette/regular/Acer_palmatum_Eddisbury_-_Flickr_-_peganum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b37851cc938f783892b9d43ee88aa43297066ce9fd2a066e447262f66eef1459",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/132_acer_palmatum_tsukasa_silhouette/medium/Acer_palmatum_Eddisbury_-_Flickr_-_peganum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8e78a8106b31995eb92c20ce04aa55e19eee65f1463aa76e70dc522e060fbd2c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/132_acer_palmatum_tsukasa_silhouette/small/Acer_palmatum_Eddisbury_-_Flickr_-_peganum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=578dae3ba612bebd92db8b7675588363222b47fdb49cdd7132b2b599a83db2df",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/132_acer_palmatum_tsukasa_silhouette/thumbnail/Acer_palmatum_Eddisbury_-_Flickr_-_peganum.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6a2906c015ef2211dff4394edb7b740294cd6af79ba4d6431999976cff34b377"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 133,
+      "common_name": "Tsuma Gaki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tsuma Gaki'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tsuma Gaki",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 10,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=133&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=133&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=133&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tsuma Gaki Japanese Maple (Acer palmatum 'Tsuma Gaki') is an amazing tree with a unique shape and vibrant foliage. It is a fast-growing species featuring a mounded, vase-shaped form with deeply lobed, dark glossy green leaves. In summer and autumn, the foliage turns to brilliant shades of yellow, orange, scarlet and red. This stunning tree is perfect for adding year-round interest to a garden, and it is also very hardy. The Tsuma Gaki Japanese Maple is a great choice for anyone looking for a low maintenance, yet visually striking tree that adds character and beauty to their landscape.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 134,
+      "common_name": "Tsuri Nishiki Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Tsuri Nishiki'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tsuri Nishiki",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 10,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=134&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=134&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=134&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Tsuri Nishiki Japanese Maple is an amazing tree to add to any garden or landscape. It has an array of beautiful and vibrant seasonal foliage, unheard of in other varieties. In spring, its young leaves are stunning shades of yellow and pink, and in autumn it creates a mesmerizing display of purple, red, and orange. It grows with a graceful upright shape and makes an ideal choice for a small garden or patio. Its unique show of color and its neatly organized form make the Tsuri Nishiki Japanese Maple an easy choice for any landscape.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 135,
+      "common_name": "Twombly's Red Sentinel Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Twombly's Red Sentinel'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Twombly",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 10,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=135&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=135&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=135&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Twombly's Red Sentinel Japanese Maple is a magnificent and truly unique species of Japanese Maple. Its deep red foliage gives it an eye-catching and beautiful appearance that adds color to any garden. Its upright and upright-rounded structure also make it an excellent focal point in a variety of settings, from woodland gardens to suburban backyards. Its new growth is intensely colored and its broad form is unmatched by any other maple on the market. Extremely cold hardy and drought tolerant, Twombly's Red Sentinel is the perfect addition to any outdoor space.",
+      "default_image": {
+        "license": 9,
+        "license_name": "Public Domain Dedication (CC0)",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/135_acer_palmatum_twomblys_red_sentinel/og/33757558900_958207d989_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021219Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=612884c23a805032cc81d70c9b4fc12edc9587614a839cef1f3890265552f726",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/135_acer_palmatum_twomblys_red_sentinel/regular/33757558900_958207d989_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021219Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=791ea3d065fe8d37d6084db3dfe18c8374fd9d470606dba6fc0d9d71b66cceec",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/135_acer_palmatum_twomblys_red_sentinel/medium/33757558900_958207d989_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021219Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f7b293bb0bf5845a2566be67d6c13fddf553b53bb2c4e5a1181deef7ceb910c0",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/135_acer_palmatum_twomblys_red_sentinel/small/33757558900_958207d989_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021219Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a92bbde227ac0796023391d4956cf8758a788e63d7cc06828d2cf9445f365f4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/135_acer_palmatum_twomblys_red_sentinel/thumbnail/33757558900_958207d989_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021219Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8cd710ff7ecbbe867d3789ea51b84144232e33348946e965b9cb1f918a1710ab"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 136,
+      "common_name": "Ueno Homare Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Ueno Homare'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Ueno Homare",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 12,
+          "max_value": 12,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=136&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=136&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=136&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Ueno Homare Japanese Maple is an impressive and eye-catching tree that looks amazing in any garden. It features stunning vibrant red, yellow and orange leaves, making it a great tree for adding some bold colour to any outdoor area. It’s low-maintenance, grows best in full sun and can reach up to 8 metres in height. It’s also perfect for small gardens, as in autumn the leaves tend to hang downwards providing a beautiful canopy effect. The Ueno Homare Japanese Maple is a beautiful addition to any landscape and can be the perfect finishing touch for any garden enthusiast.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/136_acer_palmatum_ueno_homare/og/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0b60a5920b0e2c12fd238cd1e8ca3fb102c94795d56a18d70dbacb9211f1db99",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/136_acer_palmatum_ueno_homare/regular/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3ef8aa912a33e406fc08c243eb55dd5abb2697eabc96005d46788871ad6b8226",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/136_acer_palmatum_ueno_homare/medium/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0bd6617c44e7c761e8b878de5e788900b4d4726e6a20f2f7f67d424807418c09",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/136_acer_palmatum_ueno_homare/small/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e3e8c70d22ee084a805fd0512cda871341e958afe0dbdb338164cfa419b9cc6e",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/136_acer_palmatum_ueno_homare/thumbnail/3ea9ddf894f766d45ef848c98b9a-1424381.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3d334cedf598a289ea7e5ceade04a1d7b0ee460c7e906e31983a98a3bf340b4c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 137,
+      "common_name": "Floating Cloud Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Ukigumo'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Ukigumo",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 10,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=137&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=137&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-white-yellow",
+            "rust-green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "vein",
+          "color": [
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "twig",
+          "color": [
+            "yellow-red-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=137&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Floating Cloud Japanese Maple, or Acer palmatum 'Ukigumo', is an amazing sight to behold. With delicate, finely-fingered leaves and a lacey, cascading form that reaches up to fifteen feet, this tree provides a beautiful addition to any landscape. Its bright green leaves are outlined in vibrant oranges and reds throughout the seasons, making it a stunning focal point. Additionally, it is extremely hardy, growing in both full sun and partial shade, and is low maintenance and low water needing. With its striking beauty and low maintenance nature, Floating Cloud Japanese Maple is a wonderful choice for any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/137_acer_palmatum_ukigumo/og/4845850971_a6f376a12a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e577f8fc2a9d6ea0d4db13f71ad993b9de8f45212baf8e554d777bb6d85faee0",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/137_acer_palmatum_ukigumo/regular/4845850971_a6f376a12a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fa1552d8c4614bb6f2d13a3159283c66e891eea76a20f31aee18722aba7c8425",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/137_acer_palmatum_ukigumo/medium/4845850971_a6f376a12a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6a0cea57967d78d2bd6d6006a5ae29d00083d10c5631e4fe3a539435a5adff34",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/137_acer_palmatum_ukigumo/small/4845850971_a6f376a12a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=224a8ba979cfec2ca9a33fc22151a2e0f4e3fdd246f3037d2269cbcac4ceed2c",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/137_acer_palmatum_ukigumo/thumbnail/4845850971_a6f376a12a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=884ed911c0283c90f079dc2317168d2c3cd2eaedb7bd0c6400109028c39bf74f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 138,
+      "common_name": "Utsu Semi Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Utsu Semi'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Utsu Semi",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 15,
+          "max_value": 15,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=138&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=138&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "May",
+        "June",
+        "June",
+        "July",
+        "June",
+        "July",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=138&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Utsu Semi Japanese Maple (Acer palmatum 'Utsu Semi') is an amazing addition to any garden. This attractive, hardy specimen boasts attractive foliage in a variety of colors all year round. In spring and summer, the leaves are a vibrant green, while in autumn and winter they turn a brilliant yellow, pink and orange. This tree also has an interesting, weeping form that adds interest and texture. Plus, it can tolerate temperatures as low as -20°F and grows well in full sun or partial shade. With proper care and maintenance, this gorgeous tree will last for many years and will become an eye-catching focal point for any outdoor space.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/138_acer_palmatum_utsu_semi/og/Acer_palmatum_Klon_palmowy_2019-05-26_05.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021221Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f23b2e84b2ddfd6a1be866044ee1873588bf61d4598e099012a12e4c9583b555",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/138_acer_palmatum_utsu_semi/regular/Acer_palmatum_Klon_palmowy_2019-05-26_05.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021221Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fefb596086c99cbb4014f2cce02c71a1f3e761005d8b1ddc7181f9195a6fe310",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/138_acer_palmatum_utsu_semi/medium/Acer_palmatum_Klon_palmowy_2019-05-26_05.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021221Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1ede3fbf978c97d1ef20448c0617bfcc68fea95f5d8dd70acd6f53107d4b67e3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/138_acer_palmatum_utsu_semi/small/Acer_palmatum_Klon_palmowy_2019-05-26_05.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021221Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7778814af037108eaa26b42de53c9dec25619077b4c299f4cdee3c2a876445d2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/138_acer_palmatum_utsu_semi/thumbnail/Acer_palmatum_Klon_palmowy_2019-05-26_05.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021221Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=df70f5d2537d432998f2054423550ff616d042d2498bc0d2473fab09c16473a2"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 139,
+      "common_name": "Villa Taranto Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Villa Taranto'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Villa Taranto",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 10,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=139&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=139&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=139&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Villa Taranto Japanese Maple, Acer palmatum 'Villa Taranto', is a stunning, medium-sized deciduous tree native to Japan. It features delicate five-lobed, olive-green foliage tinged with rich purple in spring, which turns to an intensely red colour in the autumn. This unique, eye-catching colour display, in combination with its elegant, vase-shaped form, makes it a superb small garden feature, providing visual interest throughout the year. With low maintenance requirements, and a slow to moderate growth rate, this small tree is definitely one to consider adding to your landscape.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 140,
+      "common_name": "Wilson's Pink Dwarf Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Wilson's Pink Dwarf'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Wilson",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 6,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=140&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=140&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=140&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Wilson's Pink Dwarf Japanese Maple (Acer palmatum 'Wilson's Pink Dwarf') is an amazing tree that adds year-round interest to any landscape. Its small size makes it perfect for tight spaces and its delicate, pinnate leaves are a stunning shade of blush-pink, turning to green as the spring progresses. In fall, the leaves turn dramatic shades of oranges, golds, and reds. Its hardy yet graceful form, low-maintenance needs, and bright foliage make it an excellent choice for any yard. Not to mention, its petite size certainly doesn't sacrifice in beauty.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 141,
+      "common_name": "Emperor I Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Wolff'"
+      ],
+      "other_name": [
+        "Emperor 1"
+      ],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Wolff",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 20,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "7",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=141&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=141&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "purple-red",
+            "purple"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "purple-brown",
+            "purple"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=141&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Emperor I Japanese Maple (Acer palmatum 'Wolff') is a very impressive tree valued for its beautiful colors and striking silhouette. Its foliage sets it apart with brilliant patterns of red, green, and brown throughout each season. In the autumn months, the colors glow with an intense oranges and reds creating a glorious display. They are also well suited for small gardens, as they only reach heights of 8 to 10 feet with a spread of just 6 to 8 feet. Their manageable size create the perfect backdrop for impressive displays of color and shape, adding an elegant touch of nature to your landscape.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/141_acer_palmatum_wolff/og/41561385154_d744c9f519_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021222Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d0524da433d8089db3bace0800a96ab06b28078851e07f34024e7b9449ba44cc",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/141_acer_palmatum_wolff/regular/41561385154_d744c9f519_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021222Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=28145967f5d6f35f3e177a59a13a8a3adf57b4df37b70f4ddf55c7053f7abded",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/141_acer_palmatum_wolff/medium/41561385154_d744c9f519_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021222Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e71812c89824a4fbf09ccbf7e4a6f05361db1349ee1a89c29ca5d422e405f3be",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/141_acer_palmatum_wolff/small/41561385154_d744c9f519_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021222Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a09ec0020b98d2d18cac959d4bde46a4750708bf4a8076e74beea52e08616f81",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/141_acer_palmatum_wolff/thumbnail/41561385154_d744c9f519_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021222Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2131b472420ea102d7616cf1a2eb566134d9207286644e4b09fcd04562adaf75"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 142,
+      "common_name": "Yellow Bird Japanese Maple",
+      "scientific_name": [
+        "Acer palmatum 'Yellow Bird'"
+      ],
+      "other_name": [],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Yellow Bird",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 15,
+          "max_value": 15,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=142&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=142&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=142&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Yellow Bird Japanese Maple is one of the most prized maples in the yard. Its bright yellow-green foliage is striking, especially when the tips of each leaf turn golden in the fall. This semi-dwarf maple thrives in partial to full sun and does best in both moist and well-drained soil. Its habit is open and upright and can reach heights of 8–10 feet in ten years, making it ideal for small or medium sized gardens. Its vibrant yellow-green foliage glows in the sun and provides a dramatic accent all year. With its graceful weeping habit, it's an excellent choice for adding beautiful interest to shady areas. Whether you select it for its beauty, graceful habit, or year-round color, the Yellow Bird Japanese Maple is a must-have for any garden!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 143,
+      "common_name": "Yubae Japanese Maple*",
+      "scientific_name": [
+        "Acer palmatum 'Yubae'"
+      ],
+      "other_name": [
+        "Evening Glow Japanese Maple"
+      ],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Yubae",
+      "variety": null,
+      "species_epithet": "palmatum",
+      "genus": "Acer",
+      "origin": [
+        "Japan"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 20,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=143&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=143&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=143&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Yubae Japanese Maple is an amazing tree to have. Its vibrant, cluster leaf shape and and twisted, contorted branches create a stunning landscape addition that is sure to be a head turner. Its color gracefully evolves with the seasons, from pulsing reds stretching along its branches in the Spring, to blazing oranges and yellows in Summer, and finally, deep burgundies and reds in the Fall. Its graceful, flowing branches make it a perfect canopy for smaller plants and flowers, as well as giving the effect of a calming, flowing stream in the garden. All this beauty, accompanied by feathery foliage and vibrant colors, make Yubae Japanese Maple a must have for any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/143_acer_palmatum_yubae/og/51150061025_29f690d490_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021223Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8c08f9454c25d3948eb381565ab210d90fd6969fd4e0619eeafcb9d5ba181e97",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/143_acer_palmatum_yubae/regular/51150061025_29f690d490_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021223Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d140dbe0928b651a476e39bcfdcf7c53cb6217843274c6aa2cae9f405b4c643b",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/143_acer_palmatum_yubae/medium/51150061025_29f690d490_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021223Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=aa7609491184f49debdd99693be2ee636c2c77283d9ffe5b52b43ae68a0042b2",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/143_acer_palmatum_yubae/small/51150061025_29f690d490_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021223Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=966b255d76a7f15aa1e710a0df9e1bd764de7d83be24f32c8c0b77b17aa20a38",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/143_acer_palmatum_yubae/thumbnail/51150061025_29f690d490_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021223Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4f102e924bdcdca8fa6a6b3604eda35059ffba3a103e362c37361e780f83978f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 144,
+      "common_name": "Moosewood",
+      "scientific_name": [
+        "Acer pensylvanicum"
+      ],
+      "other_name": [
+        "Striped Maple",
+        "Snakebark Maple",
+        "Moose Maple",
+        "Whistlewood",
+        "Goosefoot Maple"
+      ],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "pensylvanicum",
+      "genus": "Acer",
+      "origin": [
+        "Northeastern United States",
+        "eastern Canada"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 25,
+          "max_value": 25,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Squirrels",
+        " Birds",
+        " Bees"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=144&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=144&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "yellow-green",
+            "brown"
+          ]
+        },
+        {
+          "part": "branches",
+          "color": [
+            "brown"
+          ]
+        },
+        {
+          "part": "trunk",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=144&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": true,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Moosewood (Acer pensylvanicum) is an amazing species of tree, thanks to its stunning fall foliage ranging in color from deep red to golden yellow. Its ornamental bark is also something to behold as it has deep, unique ridges. The tree also has a pleasing shape, often forming a dense, somewhat narrow pyramid. Adding to its beauty, it has a pleasing aroma that radiates from its orange flowers in springtime. Quiet resilient, it can withstand a range of temperature variation and adapts to various soils, making it great for gardens. All these qualities makes Moosewood the perfect addition to any outdoor space.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/144_acer_pensylvanicum/og/50159672678_a016bd18b9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=38b28b1551ed2b6ce9da2759ef8e88bfad0a8689a8b88747c90ac5f8a34aa894",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/144_acer_pensylvanicum/regular/50159672678_a016bd18b9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7dc40c0f9ada15a17d8277a65d6b74367f66464ebefe58cac1a276ad9bad7b3a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/144_acer_pensylvanicum/medium/50159672678_a016bd18b9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=62850bd2ae008a4890c625c0ac8591ecd39e026543bc7f51896c58b360516e33",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/144_acer_pensylvanicum/small/50159672678_a016bd18b9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ab28247cea5854f6ccfd84ff1cda301eef45739d8ca6fba7a62277b032ed878f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/144_acer_pensylvanicum/thumbnail/50159672678_a016bd18b9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=66a0a3925aab60521bf90b63ef5e28ed512ec91c37da29a2667b8297de49f0b5"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 145,
+      "common_name": "Crimson King Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Crimson King'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Crimson King",
+      "variety": null,
+      "species_epithet": "platanoides",
+      "genus": "Acer",
+      "origin": [
+        "Europe",
+        "Garden origin"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 50,
+          "max_value": 50,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "4"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=145&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=145&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaf",
+          "color": [
+            "maroon"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "yellow-pink-white"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "red"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part sun/part shade",
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "February",
+        "March"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=145&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Crimson King Norway Maple is an amazing tree species that provides striking visual interest with its bold maroon foliage. Hardy and easy to maintain, the tree is the perfect addition to any garden due to its fast growth rate, interesting bark and its impressive height which can grow up to 40 feet tall. Its favoured by many gardeners as it offers great colour even during the winter months as its leaves will turn deep purple as the temperature drops. It's also non-invasive, so it won't spread or overtake nearby plants or trees. All in all, the Crimson King Norway Maple is an ideal choice for gardeners who want to make a statement in their garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/145_acer_platanoides_crimson_king/og/35279593622_dbffc5f94b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3fa889328fa0060ed1e8bf01ee4cc329f66f4ca3a6b8085edea6375094d25062",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/145_acer_platanoides_crimson_king/regular/35279593622_dbffc5f94b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4f1b060db59de71d545ea92b76f023831c04d5e726a61130a12548a262d1ab9c",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/145_acer_platanoides_crimson_king/medium/35279593622_dbffc5f94b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5300d3443eee47482d1d957a8c7f9634bc17be0b9b7c4cb0b03ca6b8da03de93",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/145_acer_platanoides_crimson_king/small/35279593622_dbffc5f94b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0741b253b3136418d28f104d27a063edce1f270e59d3bdb5c294e3bd23bd75d4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/145_acer_platanoides_crimson_king/thumbnail/35279593622_dbffc5f94b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ea5ed5a8b14e9cef719b9ac730700363efc3386e19077dcc6004eb42ce0afc25"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 146,
+      "common_name": "Crimson Sentry Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Crimson Sentry'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Crimson Sentry",
+      "variety": null,
+      "species_epithet": "platanoides",
+      "genus": "Acer",
+      "origin": [
+        "Europe",
+        "Garden origin"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 50,
+          "max_value": 50,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "4"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=146&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=146&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=146&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Crimson Sentry Norway Maple is truly an amazing plant species. It's a medium to large shade tree with a vigorous and elegant upright growth habit, featuring wonderful long-term season interest in the fall and winter. Its uniquely vibrant crimson foliage is eye catching and stands out in any garden, while its strong limbs and dense branches make it a reliable choice for any landscape. It's also quite adaptable and can thrive in a variety of soils, plus it's tolerant of both heat and drought. Truly a unique species, the Crimson Sentry Norway Maple is an amazing addition to any outdoor space.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/146_acer_platanoides_crimson_sentry/og/Acer_platanoides_Faassen27s_Black_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7683e439985989c61fc63b55e3ce2e5fee20bef46bff86b661e5c4455e3663fa",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/146_acer_platanoides_crimson_sentry/regular/Acer_platanoides_Faassen27s_Black_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d8fad5ae507a4af4d32df03e93b38720a988aa6d58bda505c00d2bf25c31a90b",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/146_acer_platanoides_crimson_sentry/medium/Acer_platanoides_Faassen27s_Black_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d7ea5c38e7c915ecb099c9ab89e199374645038e7ee7c1535a7a100058f0c857",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/146_acer_platanoides_crimson_sentry/small/Acer_platanoides_Faassen27s_Black_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dca0a05786c570a7ebc5c1d6bcd00e63bcf319f50ae0f6d1c0b22ac1fedc45a3",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/146_acer_platanoides_crimson_sentry/thumbnail/Acer_platanoides_Faassen27s_Black_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d48f95fa14765c318f6c8e176c1f5198475adedb548c199c70638ff32fa5abef"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 147,
+      "common_name": "Harlequin Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Drummondii'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Drummondii",
+      "variety": null,
+      "species_epithet": "platanoides",
+      "genus": "Acer",
+      "origin": [
+        "Europe",
+        "Garden origin"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 50,
+          "max_value": 50,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Stooling",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "4"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=147&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=147&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-white"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=147&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Harlequin Norway Maple is an amazing and unique species of maple. Boasting bright green-yellow foliage and creamy white blooms, it’s a stunning addition to any garden. Its lush foliage provides plenty of shade, but also ensure that the hours of sunlight it does get will be enjoyed to the fullest. It grows best in full sun and is easy to care for; you’ll only need to prune it occasionally and make sure its soil is kept moist. It also produces small fruits that attract birds, so it’s sure to add a cheerful pop of color and wildlife to any outdoor space.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/147_acer_platanoides_drummondii/og/10840118873_cc5e8da787_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7fb0d075d9cb8b50c42a7d868e90f32c491b782ed21419171e22057225929e26",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/147_acer_platanoides_drummondii/regular/10840118873_cc5e8da787_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=01c0ec1177289918e5bf3febed9631fd9a6e95d3d1429bacf4e14029963c94fd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/147_acer_platanoides_drummondii/medium/10840118873_cc5e8da787_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bd3e2cde912c6dd2c783b255761c0e55dc01d5b99f9933874e8cca74956e4b98",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/147_acer_platanoides_drummondii/small/10840118873_cc5e8da787_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=51aeda07c90a68c61fbdcf935f630b35265da3b9195f9a50db867c173d683aef",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/147_acer_platanoides_drummondii/thumbnail/10840118873_cc5e8da787_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=29860512e4d7154b1c02b6e7a0da393e89e10dfc9fed35d82fa86196d56a7276"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 148,
+      "common_name": "Emerald Queen Norway Maple",
+      "scientific_name": [
+        "Acer platanoides 'Emerald Queen'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Emerald Queen",
+      "variety": null,
+      "species_epithet": "platanoides",
+      "genus": "Acer",
+      "origin": [
+        "Europe",
+        "Garden origin"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 50,
+          "max_value": 50,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "4"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=148&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=148&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=148&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Emerald Queen Norway Maple is an amazing tree species. With its vivid green, waxy leaves that emerge in early spring and its stately, oval-shaped canopy, it's truly a sight to behold. It’s an extremely popular ornamental tree species and its broadleaf resistant to drought and pollution. Its dark green foliage and yellowish-green fall color make the Emerald Queen Norway Maple an ideal choice for parks, large gardens, business landscapes, and avenue plantings. This hardy species grows in moist, well-drained soils, as long as it has full sun. It's a fast-growing maple that can reach a height of 40' and is winter-hardy in its zone. All in all, it's a stunning and resilient tree that brings beauty and longevity to any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/148_acer_platanoides_emerald_queen/og/Acer_saccharum_28Sugar_maple29_282692405476329.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021226Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=48684ac4306114cae615e0404f717236606ce70641bd0f25c5792152911f7a87",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/148_acer_platanoides_emerald_queen/regular/Acer_saccharum_28Sugar_maple29_282692405476329.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021226Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=18e323cddf084d9604da62676e34962f66113d77e95daae771cd8be8780fa3aa",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/148_acer_platanoides_emerald_queen/medium/Acer_saccharum_28Sugar_maple29_282692405476329.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021226Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a411e4302c4c28028badf5ca3cae08a86aeaada436b31b34201d1f705b5d8616",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/148_acer_platanoides_emerald_queen/small/Acer_saccharum_28Sugar_maple29_282692405476329.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021226Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c39fe4a9a9f73357820f05d1dbc684af6aacb7f313b179a6a16f702a48414274",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/148_acer_platanoides_emerald_queen/thumbnail/Acer_saccharum_28Sugar_maple29_282692405476329.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021226Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bb73a06758cb8e9aa0cb45d2d01b9a23291d7961ce538517b6d4291a6d8a8b5d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 149,
+      "common_name": "Princeton Gold Maple",
+      "scientific_name": [
+        "Acer platanoides 'Princeton Gold'"
+      ],
+      "other_name": [],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Princeton Gold",
+      "variety": null,
+      "species_epithet": "platanoides",
+      "genus": "Acer",
+      "origin": [
+        "Europe",
+        "Garden origin"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 50,
+          "max_value": 50,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "4"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=149&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=149&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=149&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": true,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Princeton Gold Maple (Acer platanoides 'Princeton Gold') is one of the most stunning trees around. This majestic tree is characterised by its golden foliage, which turns to a deep orange-red in autumn. Not only is this tree's deep hues eye catching, but it also has impressive drought and cold tolerance. It’s ideal for those looking for beauty and reliability — Princeton Gold Maple is the perfect choice for any landscape. Its moderate growth rate means that it won’t take up too much room and will become a stunning feature in next to no time.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/149_acer_platanoides_princeton_gold/og/Acer_27Golden_Globe27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f524ef8c2d7d36aa0f14918c0ed0d6084c630f167e6c79494c9fbd7fc19fbcd4",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/149_acer_platanoides_princeton_gold/regular/Acer_27Golden_Globe27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7fc8260cc6163ae7569070c5c3b16d95b47536e899729b0a02e749cbd4ca79dd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/149_acer_platanoides_princeton_gold/medium/Acer_27Golden_Globe27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1df4ab77e2911eabd75c0fa1ef1426f5667ccde77f0f1b708dc6bef001cddb1f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/149_acer_platanoides_princeton_gold/small/Acer_27Golden_Globe27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e585d8cfe5f152cca1e5a4fb4e324674b747366d60161b180a0a8cd277605e0d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/149_acer_platanoides_princeton_gold/thumbnail/Acer_27Golden_Globe27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=721cb7cfa412e4afd53cba2cdcc75bdd3066b210a888ea3fa5f2c452b6cc8af1"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 150,
+      "common_name": "Eskimo Sunset Sycamore Maple",
+      "scientific_name": [
+        "Acer pseudoplatanus 'Eskimo Sunset'"
+      ],
+      "other_name": [
+        "Planetree Maple"
+      ],
+      "family": "Sapindaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Eskimo Sunset",
+      "variety": null,
+      "species_epithet": "pseudoplatanus",
+      "genus": "Acer",
+      "origin": [
+        "Europe",
+        "Western Asia",
+        "North Africa"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 30,
+          "max_value": 30,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "5"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=150&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=150&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=150&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Eskimo Sunset Sycamore Maple (Acer pseudoplatanus 'Eskimo Sunset') is an amazing plant species due to its vivid foliage. Its oblong leaves are deep green on top and light pink and yellow underneath, making it stand out in any garden. The leaves turn yellow in the autumn and the tree is crowned with nearly round clusters of fruits and has fragrant small white flowers in late spring. This beautiful maple is resistant to the city pollution and seldom affected by insects, making it a great choice for urban landscaping. Even better, it is fast-growing and easily adapts to a variety of soil and climate conditions. Indeed, Eskimo Sunset Sycamore Maple is a stunning, low-maintenance tree.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/150_acer_pseudoplatanus_eskimo_sunset/og/Acer_pseudoplatanus_27Nizetii27_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b5988a64ae5afb017ca35ddee7557ad79e6a1e391d5def0695a95752576d5270",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/150_acer_pseudoplatanus_eskimo_sunset/regular/Acer_pseudoplatanus_27Nizetii27_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1563c3c96725ea1a5daa9011b8ea1d3082f42d58d8fb7e86f1eb29f4a296e158",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/150_acer_pseudoplatanus_eskimo_sunset/medium/Acer_pseudoplatanus_27Nizetii27_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=179a53639727031ee7dd48a652a214f2c248b0d5360626d209bf48a4044a90d1",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/150_acer_pseudoplatanus_eskimo_sunset/small/Acer_pseudoplatanus_27Nizetii27_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=12cacbc0ad4885a4206f07427f7d55ec0eec8e93b3bcc8d174cc44bc0f9a69a4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/150_acer_pseudoplatanus_eskimo_sunset/thumbnail/Acer_pseudoplatanus_27Nizetii27_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260626%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260626T021227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3a96bd4e79b844a1cbae6d017f51113763cbab0b42900df4dcec9d9d4eeb3089"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
