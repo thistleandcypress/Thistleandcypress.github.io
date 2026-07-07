@@ -99496,6 +99496,3684 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 481,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Desyel' DESERT EVE YELLOW"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Desyel",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=481&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=481&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=481&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "DESERT EVE YELLOW yarrow is a showy perennial that stands out in any garden. It makes an excellent border, and its deep yellow daisy-like flowers can be a treat for both the senses and the garden. Its long-lasting blooms stay bright and cheerful from the midsummer to the first hard frost. Its heart-shaped evergreen foliage makes a great backdrop for any landscape. This drought-tolerant plant is ideal for sunny spots and is resistant to deer. It can also be used as cut flowers, as the blooms last a few days in water. DESERT EVE YELLOW yarrow is an essential addition to any flowerbed or border.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 482,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium f. rosea"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=482&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=482&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=482&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium f. rosea) is an amazing plant, with it's beautifully delicate pink flowers blooming year-round. The plant is an excellent choice as a cover plant, providing unique textural contrast with its delicate, feathery leaves topped with sprays of pale-pink tiny flowers. It is also an excellent source of nectar for hungry bees, butterflies and other pollinators. Yarrow is also extremely dependable, as it is a tough, hardy perennial and can withstand both hot, dry climates and cooler, wetter environments. Its fragrant blooms are also very distinctive, offering a soothing scent of honey and herbal tea that is both refreshing and calming. Yarrow is a must-have for gardens, and truly an amazing plant.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/482_achillea_millefolium_f_rosea/og/2560px-Achillea_27Rosea27_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020051Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=16d01a7ceaa961208b399c85fd1868e6659df7416626e833ea490ef547007d58",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/482_achillea_millefolium_f_rosea/regular/2560px-Achillea_27Rosea27_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020051Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2e27a20f48c124106692e8b25af5e1f79e26e90af0a77e457ce79622cd3a39a5",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/482_achillea_millefolium_f_rosea/medium/2560px-Achillea_27Rosea27_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020051Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=14bae901dbd3b8d7b4711460ec787506aec3198f0587fff506ad7458536b76e2",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/482_achillea_millefolium_f_rosea/small/2560px-Achillea_27Rosea27_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020051Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=aec5ef7275cd1f74c0daf6a3f4df8417d7feb58a85bea8aa47802c855ea11903",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/482_achillea_millefolium_f_rosea/thumbnail/2560px-Achillea_27Rosea27_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020051Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ace23dec23f06e41901de9be32c7597b928ed3c2531bd84ecedad526abe46798"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 483,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Montrose Rose'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Montrose Rose",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=483&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=483&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=483&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium 'Montrose Rose') is an amazing plant species for many reasons. It is an excellent choice for native landscapes because of its Deer and drought resistance. It is also very attractive and has a long blooming season of mid-spring to late summer. Its clusters of fragrant, attractive pale rose-pink flowers add great texture and color to the garden. Its fern-like foliage and clump-forming habits make it very versatile in the garden. It can be used as a back-of-the-border plant or a container plant, as well as an edging plant or for mass plantings. It also makes for great cut flowers for floral arrangements. Yarrow is an easy to care for plant that is sure to add beauty to any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 484,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Paprika'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Paprika",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=484&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=484&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=484&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium 'Paprika') is an amazing plant species that thrives in full sun and well-drained soil. With its tall and upright stems, 'Paprika' produces bright, rich green leaves and pale orange-red flowers that bloom from summer through fall. This colourful species is deer and rabbit resistant, drought tolerant, and exhibits higher levels of medicinal oils than common white and pink varieties. Its height of 1 to 3 feet and spread of 1 to 2 feet make it an ideal specimen for borders and garden beds. Yarrow's exceptional performance in the garden and its ability to offer us medicinal health benefits make it a truly stand-out species.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/484_achillea_millefolium_paprika/og/9654640294_14745a6dba_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020052Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7e64323f7a0ea9f97c0bb11a6c9a6faa2b6204121f48cc61903d45c7f973a819",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/484_achillea_millefolium_paprika/regular/9654640294_14745a6dba_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020052Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a8e9418afff0ddfcbef78ae5bb0adc7e1d3374ac68dbc9abb4e948d5d3ef0dd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/484_achillea_millefolium_paprika/medium/9654640294_14745a6dba_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020052Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=aa8fdb558947b2e791bf6abc1e87021d5a785b7e474f5df7ec08a07caf0a57e5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/484_achillea_millefolium_paprika/small/9654640294_14745a6dba_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020052Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=59ee0912892732887b25cbc4fb07ec85de92a69bc9a58436d99108b7f190d134",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/484_achillea_millefolium_paprika/thumbnail/9654640294_14745a6dba_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020052Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6959fcbf0ecc1241d9bdbaed3b8fd1eb8088871a6a3f920ddf5b5409f29a2876"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 485,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Peachy Seduction'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Peachy Seduction",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=485&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=485&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=485&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium 'Peachy Seduction') is an amazing plant due to its striking beauty and many practical uses. The tall blooms form a beautiful umbrella of pink and peach-hued petals with a strong, sweet scent. It’s also an incredibly hardy, low-maintenance flower, thriving in most soils, growing quickly and lasting for months in summer gardens. Additionally, the leaves can be dried and brewed into a tea with medicinal properties, such as boosting blood circulation and aiding digestive health. This versatile flower is a great addition to any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 486,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Pomegranate'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Pomegranate",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=486&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=486&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=486&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium 'Pomegranate') is an amazing plant species with a unique look. Its attractive foliage and blossom heads makes it an eye-catching addition to any garden. Its colorful salmon-pink flowers with serrated petals provide an interesting and vibrant flower display. Its leaves are feathery with a deep green color and a distinctive aroma. Its tough and hardy nature makes it a resilient and reliable choice for a garden. It is also renowned for being a beneficial plant, with its flowers attracting beneficial insects, while its leaves can be used in herbal remedies. The combination of its beautiful look, resilience and usefulness makes yarrow an ideal addition to any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/486_achillea_millefolium_pomegranate/og/Achillea_millefolium_Paprika.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020053Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=56b0cdf63df34a824741e6889b6b8a850eee8a6f4756a9c4a806dfb3dfdf5d6e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/486_achillea_millefolium_pomegranate/regular/Achillea_millefolium_Paprika.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020053Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dd2030fb5bf1f94af2fdc380c3051cb2d0a763294250bb8ac1bb49692c6d9bb4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/486_achillea_millefolium_pomegranate/medium/Achillea_millefolium_Paprika.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020053Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6dc6b5fb4592be5d9f4bca3b5ba185fa069b7c6ee97beec06d3071fa9975dda8",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/486_achillea_millefolium_pomegranate/small/Achillea_millefolium_Paprika.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020053Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=940c66c89772772e9b1ae517efbd47b8c467c02b0cf1605c5ce082621567f418",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/486_achillea_millefolium_pomegranate/thumbnail/Achillea_millefolium_Paprika.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020053Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f823ee7390689a384704768f77a61671f226c1de265d81bee93af3bf5f827b7a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 487,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Pretty Belinda'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Pretty Belinda",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=487&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=487&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=487&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium 'Pretty Belinda') is an amazing plant to have in your garden! It blooms with beautiful white and pink umbel-shaped flowers in late spring or early summer. The foliage has attractive silver-green fern-like leaves and the stems are strong and unbranched, making the plant a great choice for borders, container gardens, and drying. It's a great plant for attracting pollinators such as butterflies and bees, and it's drought tolerant and easy to care for once established. Not only is it beautiful to look at, yarrow is also medicinal and highly useful for natural healing. It has been used for centuries for its antiseptic and wound healing properties. All of these qualities make 'Pretty Belinda' a must-have for your garden!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 488,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Red Beauty'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Red Beauty",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=488&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=488&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "dark-green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green-white",
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "white",
+            "pink-white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=488&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium 'Red Beauty') is an awesome flowering perennial that is perfect for gardeners of any level. It has deep red flowers and dark green, fern-like foliage that provides great texture and color in any flower bed. With its colorful blooms, this plant adds amazing visual interest to the garden. This plant is also well-suited for a variety of terrain, and is easy to care for and maintain. Plus, its well-known medicinal properties make it a great addition to any garden. Not only is yarrow beautiful to look at, it's also incredibly useful to have around.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/488_achillea_millefolium_red_beauty/og/38580956105_a6199a8718_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c979132c2cf3f53f46173ee80ccf3c9407b160319259035d67c659d17fe992b4",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/488_achillea_millefolium_red_beauty/regular/38580956105_a6199a8718_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6f08cec68d737689eaa2cd8e93d38bc61a2934b88647a4e6f9444fa71381c7e6",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/488_achillea_millefolium_red_beauty/medium/38580956105_a6199a8718_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7f7dfbad3f0a71bc6ee77e3a8512be6435b3ebf4f2a2634b94c777168cf23889",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/488_achillea_millefolium_red_beauty/small/38580956105_a6199a8718_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fa35bb6d6dac4cff04639bd6d74b5e63bbbe91025bded34ddd6ec146a67ae660",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/488_achillea_millefolium_red_beauty/thumbnail/38580956105_a6199a8718_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8c0ca81ab20f5f931fb0d36e8d17311a3e8ed5df72a14f54c063d1b85e416662"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 489,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea millefolium 'Saucy Seduction'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Saucy Seduction",
+      "variety": null,
+      "species_epithet": "millefolium",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=489&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=489&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=489&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea millefolium 'Saucy Seduction') is a perennial flower that is perfect for cutting gardens and patios. Its delicate, fragrant blooms come in a mix of deep magenta, pink and purple and attract butterflies and hummingbirds. This hardy plant is also an excellent choice for dry gardens as it has good drought tolerance. Its well-branched, upright habit makes it ideal for groundcover, rock gardens, cottage-style gardens, and may even be used as a border. It is deer resistant and easy to maintain—just prune lightly after blooming. Yarrow's unique beauty, easy care, and versatility make it an amazing addition to any garden!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/489_achillea_millefolium_saucy_seduction/og/5147860510_c54d44e5f5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=378f6f2d1f8e59bc1f28cdf5a3cdb8ff3079b82e1c0db3691b561ed73f3995fb",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/489_achillea_millefolium_saucy_seduction/regular/5147860510_c54d44e5f5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=23b9e4d127c6cc724d145b98226e0da7082a9ae32c78530f7ffcfbe5b950beae",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/489_achillea_millefolium_saucy_seduction/medium/5147860510_c54d44e5f5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ee330f707c6f9439660a0432443c9f194d099678df02d43ea3654e7487f4cf74",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/489_achillea_millefolium_saucy_seduction/small/5147860510_c54d44e5f5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=362709eadb852c34ed6edbb6d46f30a86ed4979e29b93198ee3be86dbe5bac32",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/489_achillea_millefolium_saucy_seduction/thumbnail/5147860510_c54d44e5f5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=aa9e77a9078953a45d2818ca931cf2416b7c739ec28b038176c70014f14878e8"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 490,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Moonshine'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Moonshine",
+      "variety": null,
+      "species_epithet": "'Moonshine'",
+      "genus": "Achillea",
+      "origin": [
+        "Germany",
+        "Netherlands",
+        "United Kingdom",
+        "United States"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Root Cutting"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=490&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=490&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "May",
+        "June",
+        "July",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=490&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Achillea 'Moonshine' yarrow is an amazing plant with a unique and attractive bloom. Its bright yellow flowers stand out beautifully against its green foliage, with petals that look just like daisies. Yarrow prefers full sun and tolerates drought, making it an ideal choice for those who don't have a lot of time to care for their plants. It's also resistant to deer, rabbits, and other small wildlife, meaning you won't have to worry about them invading your garden. On top of all that, it has a long bloom period that can last from mid-spring to late summer. With this gorgeous perennial, your garden will look amazing all season long.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/490_achillea_moonshine/og/6895727692_a114904212_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=87fc616ea442cc14ba9d98daddce51455ddb9fc2956581bfd2b346f5c253681c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/490_achillea_moonshine/regular/6895727692_a114904212_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=95e096853c0a546f6d8df376f1d68e881c663ff7679e42d23e1b0fb31f3bc6da",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/490_achillea_moonshine/medium/6895727692_a114904212_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9f7e91832fa8b5563e6ebcfb47176e7770a776602174490c46c1499581657e96",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/490_achillea_moonshine/small/6895727692_a114904212_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cc1c6672d0ab1d2844a4d2bef7ab55a197bbd0d6d25402ece282c7eb97abbac9",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/490_achillea_moonshine/thumbnail/6895727692_a114904212_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=844761573b5926063b35c0a9149f97b5f3bf1e70fe9d9a28314428283d6b5dcf"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 491,
+      "common_name": "sneezewort",
+      "scientific_name": [
+        "Achillea ptarmica 'gypsy white'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "gypsy white",
+      "variety": null,
+      "species_epithet": "ptarmica",
+      "genus": "Achillea",
+      "origin": [
+        "Germany",
+        "Austria",
+        "Switzerland",
+        "France",
+        "Italy",
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia",
+        "Montenegro",
+        "Albania",
+        "Bulgaria",
+        "Romania",
+        "Ukraine",
+        "Moldova",
+        "Belarus",
+        "Lithuania",
+        "Latvia",
+        "Estonia",
+        "Poland"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=491&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=491&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "December",
+        "January",
+        "February",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=491&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sneezewort (Achillea ptarmica 'gypsy white') is an amazing plant species that is perfect for a variety of garden settings! Its delicate white blooms cluster on top of slender, wispy stems, making it an eye-catching addition to porches and patios. It is an easy to care for perennial that thrives in full sun or partial shade, requires little watering, and is generally pest and disease free. Additionally, its feathery foliage is fragrant and lends an air of romanticism, making it an ideal addition to any border. All of this, combined with its bright, cheerful blossoms, make it an outstanding choice for any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/491_achillea_ptarmica_gypsy_white/og/2560px-Achillea_ptarmica_27The_Pearl27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c233b45d999ac08cd4be10db96bf964bcc0b453d6b1d0cef58b60751c4c54d8c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/491_achillea_ptarmica_gypsy_white/regular/2560px-Achillea_ptarmica_27The_Pearl27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c76ddc512306dd977956823f055d207d5387d9a26f55991fc9280c9be45f4126",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/491_achillea_ptarmica_gypsy_white/medium/2560px-Achillea_ptarmica_27The_Pearl27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a1af5e7c5a49eed5e6ddd61245286a2d337ca8085092344fed762197fa19e75b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/491_achillea_ptarmica_gypsy_white/small/2560px-Achillea_ptarmica_27The_Pearl27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=baa70f93f3f89b04241253314da6c6b5092b92be6fc9d151d64b984babbfa645",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/491_achillea_ptarmica_gypsy_white/thumbnail/2560px-Achillea_ptarmica_27The_Pearl27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=972446b54048b3f05d834599edb4342b654ad6e5181491a4755c8588f33e4e61"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 492,
+      "common_name": "sneezewort",
+      "scientific_name": [
+        "Achillea ptarmica (The Pearl Group)"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "ptarmica",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "North Africa",
+        "Western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=492&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=492&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=492&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sneezewort (Achillea ptarmica (The Pearl Group)) is an amazing plant species. It is native to many areas in Europe and Asia and is often planted for its attractive silvery foliage and clusters of white blooms. Its unconventional name comes from its ability to cause allergic reactions upon contact with its volatile essential oils. Its beautiful flower clusters attract a range of pollinators like butterflies and bees, making it a great addition to any garden. It's also known for being an excellent specimen plant and can be grown in clumps, providing a long flowering period with long lasting blooms. Its adaptability and hardiness also means it is easy to grow and maintain. It’s an impressive addition to any garden, and its ability to bring colour and variety to a space is second to none.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/492_achillea_ptarmica_the_pearl_group/og/2767012614_c7e9632338_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=467f1fad4202c0c2532903e6f940b554591c950b10ea7aae4b4ab84aa98277db",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/492_achillea_ptarmica_the_pearl_group/regular/2767012614_c7e9632338_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=34a3fc12dffbe317c973739193523b2603c294319511ee2022ed8fc8a33297e8",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/492_achillea_ptarmica_the_pearl_group/medium/2767012614_c7e9632338_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4c1c7619d11cdcb62e9f1684cb19ad4edf6d8e81d1eb738eeb20434b74bdc1c5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/492_achillea_ptarmica_the_pearl_group/small/2767012614_c7e9632338_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=632fd24529e22de84dfdd608967509331c7f28aaeccd986798a74e09c7935c1d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/492_achillea_ptarmica_the_pearl_group/thumbnail/2767012614_c7e9632338_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=43aa990d1dfd7e1b84087efc62dc0b5e1977f11df52f5fcf9b4f3741ab77f5e9"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 493,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Schwellenburg'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Schwellenburg",
+      "variety": null,
+      "species_epithet": "'Schwellenburg'",
+      "genus": "Achillea",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=493&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=493&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=493&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Achillea 'Schwellenburg' is a truly amazing plant species. It features silvery grey-green foliage and incredible large, flat clusters of sweet-scented flowers. These colourful blooms appear from June to September and attract huge amounts of bees and butterflies. This plant is not only aesthetically pleasing, it is also highly tolerant of drought conditions and can be grown in almost any type of fertile, well-drained soil. It is a great addition to any garden, providing a low maintenance, hardy perennial for your garden borders or wildflower meadows. It's a great pick for any gardener, and will bring bright, cheery blooms to your space year after year.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/493_achillea_schwellenburg/og/Yarrow_P7010492.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4d7e0889856897f54414fa1f7502d739b8f719e21bbefcd24fea57ad65d18c5a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/493_achillea_schwellenburg/regular/Yarrow_P7010492.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1c129a6c1cff76c89d44508a86510f777e2657b9cbe0bc28a092f93c14337940",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/493_achillea_schwellenburg/medium/Yarrow_P7010492.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7c1b08d87f0aa97e217a68fd44e4ba6697bef5966ae015490048c8d893f6c44f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/493_achillea_schwellenburg/small/Yarrow_P7010492.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=676779d6039dcecdafbdd70af399e0ed65d3f4fcab808d15309868809f4506a1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/493_achillea_schwellenburg/thumbnail/Yarrow_P7010492.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7f9855ceeaf47a8d964dc66b6ffb12d70e0473ff81b3871186b3c5a668d4c39a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 494,
+      "common_name": "Siberian yarrow",
+      "scientific_name": [
+        "Achillea sibirica"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "sibirica",
+      "genus": "Achillea",
+      "origin": [
+        "Eastern Russia"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=494&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=494&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "stems",
+          "color": [
+            "gray-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=494&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Siberian yarrow (Achillea sibirica) is a drought-tolerant perennial with striking, flat-topped clusters of feathery-looking yellow flowers. It blooms in early summer and its buds are a deep maroon color. It is an essential plant in the dry, sunny gardens of North America due to its excellent drought-tolerance and drought-resilience. Siberian yarrow's tolerance of extreme temperatures make it an ideal choice for shade gardens and cold regions. Its long-lasting, lovely foliage is a long-term burst of color and excellent addition to any garden. It also does not require very much maintenance and requires very little water for survival. Siberian yarrow's beauty and resilience make it a great choice for any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/494_achillea_sibirica/og/7762255084_e1def57a0c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c20130e8213baa89f49dcb5d1b568105acf79b4c4c969758d5c76a6c75382b30",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/494_achillea_sibirica/regular/7762255084_e1def57a0c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fcfbc3e1480c6204353654886c28c7e4be461c8285016064134092663ae96e4f",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/494_achillea_sibirica/medium/7762255084_e1def57a0c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=43814a5410c2d313d4b7788cfe87530c82483f9011a313e39bb6562536f7d68e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/494_achillea_sibirica/small/7762255084_e1def57a0c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9c57a74fdbe58f26d29e8af389eaada0c649fad7a717f39de3473cf3b23f8218",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/494_achillea_sibirica/thumbnail/7762255084_e1def57a0c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6bbb4f250ca3b1d34f1004e2aebf2f44f5cf912ee782bf88119e1c26f3aec0c3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 495,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea sibirica subsp. camschatica 'Love Parade'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Love Parade",
+      "variety": null,
+      "species_epithet": "sibirica",
+      "genus": "Achillea",
+      "origin": [
+        "Russia",
+        "Mongolia",
+        "China",
+        "Kazakhstan"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=495&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=495&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=495&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Love Parade Yarrow (Achillea sibirica subsp. camschatica 'Love Parade') is an incredible plant species. It is a unique hybrid strain, which has a dramatic color palette of exotic pinks, purples, and whites. This variety produces abundant flower clusters that are a real delight! Its long-lasting blooms are sure to add a pop of vibrant colors to your garden. This variety is also extremely resilient and cold hardy, making it suitable for a variety of climates and areas. The drought, heat and humidity tolerant perennial can even survive in dry soils, making it a great choice for gardens with less water supply. Love Parade is truly an amazing plant species that is sure to enhance your outdoor space!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 496,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Snow Sport'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Snow Sport",
+      "variety": null,
+      "species_epithet": "'Snow",
+      "genus": "Achillea",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Stem Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=496&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=496&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=496&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Achillea 'Snow Sport' yarrow is an amazing plant species. It features beautiful silvery-gray foliage that is perfect to add texture to your garden. It produces delicate white flower clusters, making it a great filler for any outdoor space. This hardy perennial is tolerant of a variety of conditions, including drought, and is low maintenance, so it can be planted almost anywhere. It draws butterflies to the garden, and once established, it spreads, so it will help fill in any gaps. It's perfect for a cottage garden look that will be striking all season.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 497,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea (Summer Pastels Group)"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(Summer",
+      "genus": "Achillea",
+      "origin": [
+        "Europe",
+        "North Africa",
+        "Western Asia",
+        "North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=497&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=497&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white-yellow"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=497&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Yarrow (Achillea (Summer Pastels Group)) is an amazing perennial wildflower. Its cheery, bright pink, yellow, lavender, and peach flowers bring color to gardens throughout summer and into the fall. Its foliage is low-growing, feathery and finely-cut. Yarrow is easy to care for and thrives in sunny spots and is highly drought tolerant. Not only is it ornamental, it is also beneficial to pollinators like butterflies and bees. Its aroma can help calm by releasing tension, reducing inflammation, and deepening sleep as well. Yarrow is an amazing and versatile wildflower perfect for any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/497_achillea_summer_pastels_group/og/52382084735_177f5783b5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020059Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=61a8d37d18b8a7e49a7a9154576d508376fd944f1d735ca6925feb1e05679d50",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/497_achillea_summer_pastels_group/regular/52382084735_177f5783b5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020059Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ac56055a5241d84edc4cd36063ce12298fccbbcd0ab49dff0241b8ffe95efc8d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/497_achillea_summer_pastels_group/medium/52382084735_177f5783b5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020059Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3c4547de746a3a4236c3a162d2ee0826f1ee6804b38a232e05591fd23c4802ca",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/497_achillea_summer_pastels_group/small/52382084735_177f5783b5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020059Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=61a8bbadb5deebbef1bfbbd20e9dab582a6ff4bf5b8c6ab6159051d606ada349",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/497_achillea_summer_pastels_group/thumbnail/52382084735_177f5783b5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020059Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f9f465652e22ccd6ca0a525d8870c8ba1f43ef50fcd073b5ab59a5d2f03c4267"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 498,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Summerwine'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Summerwine",
+      "variety": null,
+      "species_epithet": "'Summerwine'",
+      "genus": "Achillea",
+      "origin": [
+        "Germany",
+        "United Kingdom",
+        "Netherlands",
+        "United States",
+        "France"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=498&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=498&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=498&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Achillea 'Summerwine' yarrow is an amazing flower species that is exceptionally easy to maintain. It is a perennial evergreen with a long flowering season, with dense clusters of tiny yellow-centered white flowers that are silvery-green underneath. This species of yarrow is great for borders, wild flower gardens, rock gardens, and edging pathways. Its fragrance can be enjoyed from a distance, and some species have even been used for traditional herbal remedies. With very minimal care, this species of yarrow is great for adding beauty and interest to any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 499,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Terracotta'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Terracotta",
+      "variety": null,
+      "species_epithet": "'Terracotta'",
+      "genus": "Achillea",
+      "origin": [
+        "Germany",
+        "Austria",
+        "Switzerland",
+        "France",
+        "Italy",
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia",
+        "Montenegro",
+        "Albania",
+        "Bulgaria",
+        "Romania",
+        "Ukraine",
+        "Moldova",
+        "Belarus",
+        "Poland",
+        "Czech Republic",
+        "Slovakia",
+        "Hungary"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=499&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=499&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "yellow-pink"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown-green",
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=499&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Achillea 'Terracotta' - more commonly known as yarrow - is an amazing plant species for any home gardener. Its beautiful terracotta-coloured blooms add an eye-catching splash of colour in any garden, while its natural air freshening properties help naturally deter pests. Plus, its easy to maintain - once established, it's drought-tolerant and loves the sun! Its blooming season is usually mid to late spring, and its pollinator-friendly flowers will attract and sustain wildlife in the garden. A classic, low maintenance plant choice for any garden, Achillea 'Terracotta' is a great addition to any outdoor space.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/499_achillea_terracotta/og/51814554903_89600efb50_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4c9fef2ff8951489172f9af60d76dabde1fa35d5a2d921df7f4c2bbb1c1cc95d",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/499_achillea_terracotta/regular/51814554903_89600efb50_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dbd3f11bca7526f621dbddd91ce319d515356861f97c904d275e3117bd1e87f5",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/499_achillea_terracotta/medium/51814554903_89600efb50_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=633f1625592a4b379202df79181faedb3585c6f6650aed739e2783449ce0b4db",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/499_achillea_terracotta/small/51814554903_89600efb50_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=eb6f5033bf648245b0364164c693800f9554af40718aadc36525265df059bf23",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/499_achillea_terracotta/thumbnail/51814554903_89600efb50_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1fe365cdc153394d094219826b2c7552cbf5f5453e2730a3fbade5c96a231aae"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 500,
+      "common_name": "woolly yarrow",
+      "scientific_name": [
+        "Achillea tomentosa 'Aurea'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Aurea",
+      "variety": null,
+      "species_epithet": "tomentosa",
+      "genus": "Achillea",
+      "origin": [
+        "Central Asia",
+        "Caucasus",
+        "Iran",
+        "Turkey",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=500&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=500&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=500&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Woolly yarrow (Achillea tomentosa 'Aurea') is an amazing perennial flower that is a must-have for your garden. The bright yellow flowers are topped with fuzzy, wool-like foliage that make it stand out from the crowd. Its sturdy stems and long-lasting blooms make it the perfect choice for a long-lasting garden display. Its foliage is deer and rabbit resistant and its drought tolerant, meaning it does well in dry conditions and can tolerate various levels of sun and shade. Its attractive flower heads and bushy habit add texture and interest to layers of your garden. Woolly yarrow will make your garden vibrant and beautiful throughout the season.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/500_achillea_tomentosa_aurea/og/2560px-Achillea_tomentosa1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c51c43d1542873d194b344b88e715d8ab86bb4262820be96d4e0b7032b9df089",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/500_achillea_tomentosa_aurea/regular/2560px-Achillea_tomentosa1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=da1ece049b4aafdec9f1969cc601652f41902dc3df7c3df741ea0a7fee96f483",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/500_achillea_tomentosa_aurea/medium/2560px-Achillea_tomentosa1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fad10bff9e0d2bb099420cc4579da20152d3c4b7fac7e9508c059f13503cc61e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/500_achillea_tomentosa_aurea/small/2560px-Achillea_tomentosa1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5c4f9973bb8b405b945318d7834daf68d5cefb6d09316b6f0d8130f7912049e8",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/500_achillea_tomentosa_aurea/thumbnail/2560px-Achillea_tomentosa1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6a3fb80ca0d4b73d7eb5cd0eb98d088ad51832389ec956bd2a7c2aae104be87e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 501,
+      "common_name": "yarrow",
+      "scientific_name": [
+        "Achillea 'Walther Funcke'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Walther Funcke",
+      "variety": null,
+      "species_epithet": "'Walther",
+      "genus": "Achillea",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Root Cutting"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=501&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=501&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "yellow-pink"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=501&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Achillea 'Walther Funcke' yarrow is an amazing plant species due to its long flowering season, drought tolerance, and excellent disease resistance. Its vibrant yellow blooms bring an added burst of beauty to any garden. This hardy perennial forms a neat, compact ball of bright cheery blossoms that dance above the lush fern-like foliage. The flowers will re-bloom if sheared back, extending the bloom period and bringing a constant stream of color, particularly in dry or full sun areas. Yarrow's uniform shape and texture make it a low-maintenance, time-saving perennial in the garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/501_achillea_walther_funcke/og/51276730628_57ee68754b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=91b73e057d8b6001e6699e47caadd88ad53d61af880b77aac58ce338fe273989",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/501_achillea_walther_funcke/regular/51276730628_57ee68754b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7bb9599a6d1a1896f1d91c713e4b1a8a35f34b8a9df85896b401ba46af2f73fe",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/501_achillea_walther_funcke/medium/51276730628_57ee68754b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=43055f5185c6a9c0502645e2efa62787facf18d53365903da968eb0805a2562f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/501_achillea_walther_funcke/small/51276730628_57ee68754b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=579603b88355f99fe7bcfa61f1312c6489cbbcfbf7f89cca583673eabb7e75c2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/501_achillea_walther_funcke/thumbnail/51276730628_57ee68754b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=62ff39e03671c51aa8c0915a802f9d3ba37ea5408a3373370c8ee0383b792183"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 502,
+      "common_name": "hot water plant",
+      "scientific_name": [
+        "Achimenes (group)"
+      ],
+      "other_name": [],
+      "family": "Gesneriaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(group)",
+      "genus": "Achimenes",
+      "origin": [
+        "Mexico",
+        "Guatemala",
+        "Honduras",
+        "Costa Rica",
+        "Panama",
+        "Colombia",
+        "Venezuela",
+        "Ecuador",
+        "Peru"
+      ],
+      "type": "Herbs",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=502&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=502&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=502&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Hot Water Plant is an awesome choice of species for any avid gardener. It is a perennial plant, with unique and exotic blooms in a variety of shapes and colors, that can be grown indoors or outdoors. These plants are incredibly adaptive, thriving in all sorts of climates, from warm rainforest environments to cool temperate locations. In order to grow them, simply fill any container with water, place the root-ball into it, and enjoy the beautiful flowers that emerge for months. Hot Water Plants are also great for propagating and are incredibly low-maintenance, surviving both drought and short-term flooding easily. A truly amazing species that anyone can grow.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 503,
+      "common_name": "golden spaniard",
+      "scientific_name": [
+        "Aciphylla aurea"
+      ],
+      "other_name": [],
+      "family": "Apiaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "aurea",
+      "genus": "Aciphylla",
+      "origin": [
+        "New Zealand"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "7",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=503&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=503&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "September",
+        "October",
+        "November",
+        "March",
+        "April",
+        "May",
+        "September",
+        "October",
+        "November"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=503&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "High",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": true,
+      "harvest_season": "Summer",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Golden Spaniard is an amazing plant species known for its gorgeous golden-yellow foliage. As an incredibly hardy and versatile plant, the Golden Spaniard is an ideal choice for a wide variety of landscaping applications. It grows in a neat and tidy mound, making it an excellent option for edgers, raised beds, or rock gardens. Best of all, its foliage transforms throughout the season to take on a stunning golden hue, creating impressive visual impact in any space. With exceptional cold-hardiness and the ability to thrive in full-sun conditions, the Golden Spaniard is a truly remarkable plant.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/503_aciphylla_aurea/og/2560px-Aciphylla_aurea_kz13.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cb3abc01e12272802c5053d0ff4ee9ad38688bcccbf7c741e7f5b2425667ea8a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/503_aciphylla_aurea/regular/2560px-Aciphylla_aurea_kz13.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=eed886438e8a49fb453298cca108f0774c8bbfbcd5da01fcf2931e118d5df25d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/503_aciphylla_aurea/medium/2560px-Aciphylla_aurea_kz13.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9bddbfdafc2e291cab45bafe76ae285aa1770ddf71bd1a862877a4679b96e5b3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/503_aciphylla_aurea/small/2560px-Aciphylla_aurea_kz13.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7e79b81cac328295ebdbcfc176786d127177df79592dca7e94d8f1fc84b481dd",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/503_aciphylla_aurea/thumbnail/2560px-Aciphylla_aurea_kz13.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=661d10a437c23a97432fe60e264db30381cde6cc2c16d63730946b3fa92ec197"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 504,
+      "common_name": "paurotis palm",
+      "scientific_name": [
+        "Acoelorrhaphe wrightii"
+      ],
+      "other_name": [],
+      "family": "Arecaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "wrightii",
+      "genus": "Acoelorrhaphe",
+      "origin": [
+        "Caribbean",
+        "Central America",
+        "Florida",
+        "Mexico",
+        "Colombia"
+      ],
+      "type": "Palm or Cycad",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 15,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=504&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=504&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-yellow",
+            "yellow-green",
+            "green",
+            "green-beige"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "yellow-green",
+            "green"
+          ]
+        },
+        {
+          "part": "trunks",
+          "color": [
+            "beige-brown",
+            "green-brown"
+          ]
+        },
+        {
+          "part": "trunk",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=504&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Paurotis Palm (Acoelorrhaphe wrightii) is an amazing plant species native to the Everglades of Florida. It's a low-maintenance palm that can grow up to 25 feet tall. Its leaves are spectacular - long, thin, and fan-shaped. They have a unique, silver-green color that creates truly beautiful landscapes. The Paurotis is a hardy plant that can tolerate a wide range of temperatures and drought. It's also salt-tolerant, making it perfect for coastal areas. With its easy growth and attractive appearance, the Paurotis Palm is a great choice for any landscaper looking to add a bit of tropical flair to their outdoor spaces.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/504_acoelorrhaphe_wrightii/og/24857511382_4d8a1ef1dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bcf63cbcaca301ccb9b9dc467570e523b1996425802bfa78469dae31579eb2f8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/504_acoelorrhaphe_wrightii/regular/24857511382_4d8a1ef1dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8da828b54114ffde640b06257c8cca953eaa2594378250dbcb1869f79ad6360e",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/504_acoelorrhaphe_wrightii/medium/24857511382_4d8a1ef1dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9f6208d4456aedb04c07d066f0f7a1a5fd50bd1aea0dbf6159ead667b2eb19dc",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/504_acoelorrhaphe_wrightii/small/24857511382_4d8a1ef1dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0f01ff3994c98d958557f7c35b1544caba65e3b81de4eaf0c62be454fd3686b2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/504_acoelorrhaphe_wrightii/thumbnail/24857511382_4d8a1ef1dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020102Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=70adb66ec48ef6fa70e700fb4c191a399076a010e7247030e1efc20a0a5a08a1"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 505,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum bulbuliferum 'Monk Gone Wild'"
+      ],
+      "other_name": [],
+      "family": "Ranunculaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Monk Gone Wild",
+      "variety": null,
+      "species_epithet": "bulbuliferum",
+      "genus": "Aconitum",
+      "origin": [
+        "India"
+      ],
+      "type": "Vine",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 7,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=505&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=505&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "purple-blue"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "green-white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "December",
+        "March"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=505&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Monkshood (Aconitumbulbuliferum 'Monk Gone Wild') is an amazing plant species that can brighten up any garden. It produces vibrant silver-green foliage and striking electric-blue flowers that contrast against the plant's deep purples. This perennial bloomer is perfect for borders, as its large flowers will grant an eye-catching display from mid-summer to early autumn. This reliable, hardy species is also deer and drought-resistant and can survive temperatures as low as -30 degrees. Gardeners will be impressed by this low-maintenance, low-height plant, so why not add Monkshood to your landscape for an attractive touch of color?",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/505_aconitum_bulbuliferum_monk_gone_wild/og/50275942563_55509f4393_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9e336e188018621df1c63c4f1fe2c1fbcf3382b230fab938ebdd96fa75febe94",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/505_aconitum_bulbuliferum_monk_gone_wild/regular/50275942563_55509f4393_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9a3a84e5567090f679fda1c716af266a88460a0aee22152ab1248b113a35a0b4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/505_aconitum_bulbuliferum_monk_gone_wild/medium/50275942563_55509f4393_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dca6fc61d8c58fcfe90d3e8f261723b7414fc8c5f8fdcab9c54ff5f41302a560",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/505_aconitum_bulbuliferum_monk_gone_wild/small/50275942563_55509f4393_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8416653e457d56f7a3d2ab3a2e57ad6966f0504a7a9f89c153fffbff375ce349",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/505_aconitum_bulbuliferum_monk_gone_wild/thumbnail/50275942563_55509f4393_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=801afda7ff34dacc1c94bc47fb3f96941af282750df29e58fce7544cacd19e5f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 506,
+      "common_name": "azure monkshood",
+      "scientific_name": [
+        "Aconitum carmichaelii 'Arendsii'"
+      ],
+      "other_name": [],
+      "family": "Ranunculaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Arendsii",
+      "variety": null,
+      "species_epithet": "carmichaelii",
+      "genus": "Aconitum",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=506&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=506&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white-blue"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=506&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Azure Monkshood (Aconitum carmichaelii 'Arendsii') is a beautiful and unique species of flower. Its electric blue blooms, which show off its vibrant color and unique shape, appear briefly every summer and often last for much longer. It is easy to maintain, and its low-maintenance nature makes it a great addition to anyone's garden. The bright yellow central ball adds a touch of sunshine to any setting, making it a great contrast against its deep purple buds. This species is also well known for its ability to attract butterflies and other pollinators during its blooming season. Azure Monkshood is truly a remarkable and stunning flower.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/506_aconitum_carmichaelii_arendsii/og/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2d96a7c6cab947b626d09c857f5f05d641555b3685aa0a6fd12cdb9b6f4302b8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/506_aconitum_carmichaelii_arendsii/regular/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1246d8185eadaa2f9f34265da84b1095ef70f19383af85afbb9d131bb1350f72",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/506_aconitum_carmichaelii_arendsii/medium/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=16621481e408f7e0854c8ce6a01c2971045a57d12f21f00114e8799332a12afb",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/506_aconitum_carmichaelii_arendsii/small/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f2c4bec07f4f0fe7768e4c75d709d2caba157dc282164c2f815d9ce6b6879df0",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/506_aconitum_carmichaelii_arendsii/thumbnail/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f3308ace3c9c5d99926c9ff351fe6eaa93399ec1a09dcbfcaf4d283094751dc5"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 507,
+      "common_name": "azure monkshood",
+      "scientific_name": [
+        "Aconitum carmichaelii var. angustius"
+      ],
+      "other_name": [],
+      "family": "Ranunculaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": "var. angustius",
+      "species_epithet": "carmichaelii",
+      "genus": "Aconitum",
+      "origin": [
+        "China",
+        "Vietnam"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=507&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=507&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white-blue"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "May",
+        "August",
+        "August",
+        "September",
+        "September",
+        "October",
+        "November",
+        "October",
+        "November"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=507&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Azure Monkshood (Aconitum carmichaelii var. angustius) is an attractive and captivating flowering species that easily adds an eye-catching pop of color to any garden. This perennial has large, bright electric blue hooded flowers that rise tall on strong, sturdy stems. Azure Monkshood is an easy-to-care for plant that thrives in shady gardens, and produces delicate flowers from mid- to late-summer. Its unique color and exotic beauty add a special charm that is sure to be admired. Not only is it beautiful, it is also surprisingly easy to cultivate.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/507_aconitum_carmichaelii_var_angustius/og/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1e2471e36b42873d90c69dca2ac37e9fa002c9e1e858eee0ef04aca54664b53d",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/507_aconitum_carmichaelii_var_angustius/regular/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=be6e3ba2af243b9cde644a04c4cbd10a43adaa79d5b669341e39c8de587eda7a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/507_aconitum_carmichaelii_var_angustius/medium/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a30e47d77193c5713826249a87af54a91d1e72a83ab688ddd7aabd3a5de81c8",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/507_aconitum_carmichaelii_var_angustius/small/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=46ad537b8ec2dc52553584b98d28fd88fbed68fe62177dc3c20436d58b929c11",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/507_aconitum_carmichaelii_var_angustius/thumbnail/51585221643_efcbab382f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9c94d4de58bf25f2e05832d8f5aa182ef9bf4ec9d5fe6c73ab69b71a21118301"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 508,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum 'Eleonara'"
+      ],
+      "other_name": [],
+      "family": "Ranunculaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Eleonara",
+      "variety": null,
+      "species_epithet": "'Eleonara'",
+      "genus": "Aconitum",
+      "origin": [
+        "Germany",
+        "Austria",
+        "Switzerland",
+        "Czech Republic",
+        "Poland",
+        "Slovakia",
+        "Hungary",
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia",
+        "Montenegro",
+        "Albania",
+        "Romania",
+        "Bulgaria",
+        "Moldova",
+        "Ukraine",
+        "Belarus",
+        "Lithuania",
+        "Latvia",
+        "Estonia"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=508&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=508&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=508&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Monkshood (Aconitum 'Eleonara') is a stunning, hardy perennial plant that is a great choice for any garden. Its gorgeous apricot-pink flower clusters tower on tall spires that can reach up to 3 feet in height. The foliage is densely packed and the matte-green, lacy foliage is almost art-like in its beauty. This is a great addition to any space in need of a pop of color. Its beautiful flower clusters are very eye-catching, and it will bring a unique texture and color to any border or garden bed. Monkshood is easy to care for and does well in moderately dry to moist, well-drained soils in full sun to part shade.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 509,
+      "common_name": "climbing monk's hood",
+      "scientific_name": [
+        "Aconitum hemsleyanum"
+      ],
+      "other_name": [],
+      "family": "Ranunculaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "hemsleyanum",
+      "genus": "Aconitum",
+      "origin": [
+        "Central and western China"
+      ],
+      "type": "Vine",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=509&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=509&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white-blue"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green",
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=509&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Climbing Monk's Hood (Aconitum hemsleyanum) is an amazing climber with beautiful deep violet-blue flowers. This hardy perennial thrives in partially shady areas and can quickly cover walls and fences with its vigorous tendrils of foliage, forming an impressive display. Its foliage is also a great source of contrast against brighter colors, providing a touch of subtle drama. For additional charm and interest, its large, rounded flowers are sometimes marked with a distinctive white eye, adding elegance to any outdoor space. With its attractive foliage, an attractive and enchanting blossom, and its ease of growth, Climbing Monk's Hood is an ideal addition to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/509_aconitum_hemsleyanum/og/6166179411_f2598d51ec_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7d8b2228569b9865a4280988346601e34e1723592e756966ae428871f74d9a24",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/509_aconitum_hemsleyanum/regular/6166179411_f2598d51ec_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d15c54840e75cf14628d08897cf1d8921076b458867691c5165d68afb49be474",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/509_aconitum_hemsleyanum/medium/6166179411_f2598d51ec_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1376862fcb34932f187c215fc6f63cb1e3fe39e85390c56281971b42d2ea37de",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/509_aconitum_hemsleyanum/small/6166179411_f2598d51ec_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=67dda3052e033aef98500e50e87859098c6829c1da61de0abab68c5e19ff76a5",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/509_aconitum_hemsleyanum/thumbnail/6166179411_f2598d51ec_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bc5855c6211268d58e1cbab341cfa1e289b819df9712c3318d9cade346418ea0"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 510,
+      "common_name": "monkshood",
+      "scientific_name": [
+        "Aconitum napellus"
+      ],
+      "other_name": [],
+      "family": "Ranunculaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "napellus",
+      "genus": "Aconitum",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=510&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=510&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "purple-blue",
+            "purple"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown",
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green-colored"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "filtered shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=510&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mildew",
+        "  Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Rabbit resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Autumn",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Monkshood (Aconitum napellus) is a stunning plant species known for its deep blue flowers and majestic stature. It is an impressive sight that is sure to capture attention in any garden. The flowers have an unmistakable shape and pattern which is often compared to a hooded monk. This species has a high tolerance to most soils and is surprisingly hardy even in cold climates. It also makes a great addition to any garden, providing height and a unique presence. Monkshood is very easy to maintain and will thrive with regular pruning. Once established, this species will flower year after year and bring joy to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/510_aconitum_napellus/og/38214790954_f875a2bd9e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ab3534e60b9c6de0795c68b1ce1d2a955fc4abff8dc3484b74d7e1364f65c667",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/510_aconitum_napellus/regular/38214790954_f875a2bd9e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a290bd86fb9a4b5a998d68b9e0a3653ff88f61559824e394647412e50c34a191",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/510_aconitum_napellus/medium/38214790954_f875a2bd9e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e8073ab58be0adf423b5e5aa7c2feffbe0d21c6112f98fc0044459881ccba583",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/510_aconitum_napellus/small/38214790954_f875a2bd9e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=beb14cb1de848c6728498c5d9e73026211a31592cd8b4ecd2887acbd3140f9a5",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/510_aconitum_napellus/thumbnail/38214790954_f875a2bd9e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260707%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T020105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=86bd56eddbbed4c96942aa5eaed0344598b84d1558219cbeb16ecb8c513c3089"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
