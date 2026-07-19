@@ -9,10 +9,10 @@
 
   <meta name="description" content="Part 2 of The Hidden Architecture of Time: The repeating six-fold heartbeat nested inside every single hour of the day.">
   <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="daily rituals, rhythm, time design, mathematical patterns, sawtooth wave, tiferet">
+  <meta name="keywords" content="daily rituals, rhythm, time design, mathematical patterns, sawtooth wave">
   <meta name="theme-color" content="#faf8f5">
 
-  <link rel="canonical" href="https://thistleandcypress.com/rhythm/daily-rituals/time2.html">
+  <link class="canonical" href="https://thistleandcypress.com/rhythm/daily-rituals/time2.html">
 
   <meta property="og:title" content="The Sawtooth: Time's Six-Fold Pulse – Thistle & Cypress">
   <meta property="og:description" content="If you track how numbers reduce minute by minute, a steady heartbeat reveals itself. Six cycles every hour. Always.">
@@ -78,41 +78,42 @@
 
     <h2>Anatomy of an Hour</h2>
     <p>
-      Let's look at the first ten minutes of any generic hour—we will use 10:00 through 10:09 as a clear baseline. If we calculate the digital reduction of the minutes, the pattern climbs uniformly:
+      Let's look at the first ten minutes of the ten o'clock hour—using 10:00 through 10:09 as our baseline. When we reduce the sum of all the digits in the time, a clean climb emerges, followed by an immediate reset:
     </p>
 
     <ul>
-      <li><strong>10:00</strong> &rarr; Minute value: 0</li>
-      <li><strong>10:01</strong> &rarr; Minute value: 1</li>
-      <li><strong>10:02</strong> &rarr; Minute value: 2</li>
-      <li>... The sequence climbs steadily through 3, 4, 5, 6, 7, 8 ...</li>
-      <li><strong>10:09</strong> &rarr; Minute value: 9</li>
+      <li><strong>10:00</strong> &rarr; 1 + 0 + 0 + 0 = <strong>1</strong></li>
+      <li><strong>10:01</strong> &rarr; 1 + 0 + 0 + 1 = <strong>2</strong></li>
+      <li><strong>10:02</strong> &rarr; 1 + 0 + 0 + 2 = <strong>3</strong></li>
+      <li>... The sequence climbs steadily through 4, 5, 6, 7 ...</li>
+      <li><strong>10:08</strong> &rarr; 1 + 0 + 0 + 8 = <strong>9</strong> (The Peak)</li>
+      <li><strong>10:09</strong> &rarr; 1 + 0 + 0 + 9 = 10 &rarr; 1 + 0 = <strong>1</strong> (The Reset)</li>
     </ul>
 
     <p>
-      Watch what happens precisely at the ten-minute mark. The clock reads 10:10. When we reduce the minutes, $1 + 0 = 1$. The value collapses immediately back down to its base. The climb begins anew. 
+      Watch what happens precisely at the nine-minute mark. The value collapses immediately back down to 1. The climb begins anew. 
     </p>
 
     <p>
-      This rigid reset happens exactly six times every hour:
+      Because our clock runs on a base-60 system, this rigid pattern of climbing to 9 and resetting back to 1 happens exactly six times every single hour:
     </p>
 
     <ul>
-      <li><strong>Minutes :00–:09</strong> &rarr; Climb from 0 to 9</li>
-      <li><strong>Minutes :10–:19</strong> &rarr; Climb from 1 to 1 (after reduction)</li>
-      <li><strong>Minutes :20–:29</strong> &rarr; Climb from 2 to 2</li>
-      <li><strong>Minutes :30–:39</strong> &rarr; Climb from 3 to 3</li>
-      <li><strong>Minutes :40–:49</strong> &rarr; Climb from 4 to 4</li>
-      <li><strong>Minutes :50–:59</strong> &rarr; Climb from 5 to 5</li>
+      <li><strong>Minutes :00–:08</strong> &rarr; Climbs from 1 to 9, then drops at :09 to 1</li>
+      <li><strong>Minutes :09–:17</strong> &rarr; Climbs from 1 to 9, then drops at :18 to 1</li>
+      <li><strong>Minutes :18–:26</strong> &rarr; Climbs from 1 to 9, then drops at :27 to 1</li>
+      <li><strong>Minutes :27–:35</strong> &rarr; Climbs from 1 to 9, then drops at :36 to 1</li>
+      <li><strong>Minutes :36–:44</strong> &rarr; Climbs from 1 to 9, then drops at :45 to 1</li>
+      <li><strong>Minutes :45–:53</strong> &rarr; Climbs from 1 to 9, then drops at :54 to 1... leading into the next hour's reset.</li>
     </ul>
 
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 2.5rem 0;">
-      <img src="../images/sawtooth-wave.svg" alt="Line chart illustrating the minute reductions across an hour, creating six sharp sawtooth peaks" style="max-width: 100%; height: auto; display: block;">
+      <img src="../images/sawtooth-wave.svg" alt="Line chart illustrating the complete time reductions across an hour, creating six sharp sawtooth peaks peaking at 9 and resetting to 1" style="max-width: 100%; height: auto; display: block;">
       <span class="caption" style="font-style: italic; font-size: 0.9rem; margin-top: 0.5rem; opacity: 0.8;">The six-fold pulse: a mechanical clock mapped out as a rhythmic waveform.</span>
     </div>
 
     <p>
-      When mapped visually, the result is a clean sawtooth wave. Six distinct peaks, six distinct resets. Every hour of every day behaves exactly this way. The hour value provides a flat, steady baseline, while the minutes provide a continuous internal heartbeat. 
+      When mapped visually, the result is a clean sawtooth wave. Six distinct peaks, six distinct resets. Every hour of every day behaves exactly this way. The base values provide a flat, steady momentum, while the minutes provide a continuous internal heartbeat. 
     </p>
 
     <h2>The Rhythmic Quality of Six</h2>
