@@ -9,10 +9,10 @@
 
   <meta name="description" content="Part 2 of The Hidden Architecture of Time: The repeating six-fold heartbeat nested inside every single hour of the day.">
   <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="daily rituals, rhythm, time design, mathematical patterns, sawtooth wave">
+  <meta name="keywords" content="daily rituals, rhythm, time design, mathematical patterns, sawtooth wave, 24-hour clock">
   <meta name="theme-color" content="#faf8f5">
 
-  <link class="canonical" href="https://thistleandcypress.com/rhythm/daily-rituals/time2.html">
+  <link rel="canonical" href="https://thistleandcypress.com/rhythm/daily-rituals/time2.html">
 
   <meta property="og:title" content="The Sawtooth: Time's Six-Fold Pulse – Thistle & Cypress">
   <meta property="og:description" content="If you track how numbers reduce minute by minute, a steady heartbeat reveals itself. Six cycles every hour. Always.">
@@ -71,14 +71,18 @@
     </p>
 
     <p>
-      When you map out exactly how that reduced signature shifts minute by minute across a full hour, the smallest-scale pattern of our day reveals itself. It is a steady, rhythmic pulse.
+      To see this design with absolute clarity, we have to look past the standard 12-hour AM/PM display and look at the day through a 24-hour clock. The 24-hour framework eliminates the artificial reset at noon, allowing the mathematical sequence to progress without friction from 00:00 all the way to 23:59. Interestingly, this system reveals that the only moment the clock experiences a true, absolute zero is at the exact midpoint of midnight: 00:00. For the remaining 1,439 minutes of the day, the values constantly resolve into numbers 1 through 9.
+    </p>
+
+    <p>
+      When you map out exactly how that reduced signature shifts minute by minute across any full hour, the smallest-scale pattern of our day reveals itself. It is a steady, rhythmic pulse.
     </p>
 
     <hr style="border: 0; border-top: 1px solid #e0dcd5; margin: 2.5rem 0;">
 
     <h2>Anatomy of an Hour</h2>
     <p>
-      Let's look at the first ten minutes of the ten o'clock hour—using 10:00 through 10:09 as our baseline. When we reduce the sum of all the digits in the time, a clean climb emerges, followed by an immediate reset:
+      Let's track the first ten minutes of the ten o'clock hour—using 10:00 through 10:09 as our baseline. When we reduce the sum of all the digits in the time, a clean climb emerges, followed by an immediate structural reset:
     </p>
 
     <ul>
@@ -86,34 +90,52 @@
       <li><strong>10:01</strong> &rarr; 1 + 0 + 0 + 1 = <strong>2</strong></li>
       <li><strong>10:02</strong> &rarr; 1 + 0 + 0 + 2 = <strong>3</strong></li>
       <li>... The sequence climbs steadily through 4, 5, 6, 7 ...</li>
-      <li><strong>10:08</strong> &rarr; 1 + 0 + 0 + 8 = <strong>9</strong> (The Peak)</li>
-      <li><strong>10:09</strong> &rarr; 1 + 0 + 0 + 9 = 10 &rarr; 1 + 0 = <strong>1</strong> (The Reset)</li>
+      <li><strong>10:08</strong> &rarr; 1 + 0 + 0 + 8 = <strong>9</strong> <span style="font-style: italic; opacity: 0.7;">(The Peak)</span></li>
+      <li><strong>10:09</strong> &rarr; 1 + 0 + 0 + 9 = 10 &rarr; 1 + 0 = <strong>1</strong> <span style="font-style: italic; opacity: 0.7;">(The Reset)</span></li>
     </ul>
 
     <p>
-      Watch what happens precisely at the nine-minute mark. The value collapses immediately back down to 1. The climb begins anew. 
+      Watch what happens precisely at the nine-minute mark. The moment the clock touches 10:09, the value collapses immediately back down to 1. The climb begins anew. 
     </p>
 
     <p>
-      Because our clock runs on a base-60 system, this rigid pattern of climbing to 9 and resetting back to 1 happens exactly six times every single hour:
+      Because our clock runs on a base-60 system, this rigid pattern of climbing to 9 and resetting back to 1 happens exactly six times every single hour. When tracked across the 10:00 hour, the cadence maps out with absolute predictability:
     </p>
 
     <ul>
-      <li><strong>Minutes :00–:08</strong> &rarr; Climbs from 1 to 9, then drops at :09 to 1</li>
-      <li><strong>Minutes :09–:17</strong> &rarr; Climbs from 1 to 9, then drops at :18 to 1</li>
-      <li><strong>Minutes :18–:26</strong> &rarr; Climbs from 1 to 9, then drops at :27 to 1</li>
-      <li><strong>Minutes :27–:35</strong> &rarr; Climbs from 1 to 9, then drops at :36 to 1</li>
-      <li><strong>Minutes :36–:44</strong> &rarr; Climbs from 1 to 9, then drops at :45 to 1</li>
-      <li><strong>Minutes :45–:53</strong> &rarr; Climbs from 1 to 9, then drops at :54 to 1... leading into the next hour's reset.</li>
+      <li><strong>Minutes 10:00–10:08</strong> &rarr; Climbs from 1 to 9, then drops at 10:09 to 1</li>
+      <li><strong>Minutes 10:09–10:17</strong> &rarr; Climbs from 1 to 9, then drops at 10:18 to 1</li>
+      <li><strong>Minutes 10:18–10:26</strong> &rarr; Climbs from 1 to 9, then drops at 10:27 to 1</li>
+      <li><strong>Minutes 10:27–10:35</strong> &rarr; Climbs from 1 to 9, then drops at 10:36 to 1</li>
+      <li><strong>Minutes 10:36–10:44</strong> &rarr; Climbs from 1 to 9, then drops at 10:45 to 1</li>
+      <li><strong>Minutes 10:45–10:53</strong> &rarr; Climbs from 1 to 9, then drops at 10:54 to 1... leading cleanly into the next sequence.</li>
     </ul>
 
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 2.5rem 0;">
-      <img src="../images/sawtooth-wave.svg" alt="Line chart illustrating the complete time reductions across an hour, creating six sharp sawtooth peaks peaking at 9 and resetting to 1" style="max-width: 100%; height: auto; display: block;">
+      <!-- Inline SVG Optimized with a clear baseline = 1 and explicit reset intervals on the X axis -->
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="100%" height="auto" style="display: block; max-width: 100%;">
+        <rect width="100%" height="100%" fill="#faf8f5" />
+        <line x1="80" y1="280" x2="740" y2="280" stroke="#e3ded7" stroke-width="1" />
+        <line x1="80" y1="60" x2="740" y2="60" stroke="#e3ded7" stroke-width="1" stroke-dasharray="4 4" />
+        <text x="50" y="285" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#7a756e" text-anchor="middle">1</text>
+        <text x="50" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#7a756e" text-anchor="middle">9 (Peak)</text>
+        <path d="M 80,280 L 170,60 L 180,280 L 270,60 L 280,280 L 370,60 L 380,280 L 470,60 L 480,280 L 570,60 L 580,280 L 670,60 L 680,280 L 740,160" fill="none" stroke="#8c8275" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+        <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#7a756e" text-anchor="middle">
+          <circle cx="80" cy="280" r="3.5" fill="#8c8275" /><text x="80" y="305">10:00</text>
+          <circle cx="180" cy="280" r="3.5" fill="#8c8275" /><text x="180" y="305">10:09</text>
+          <circle cx="280" cy="280" r="3.5" fill="#8c8275" /><text x="280" y="305">10:18</text>
+          <circle cx="380" cy="280" r="3.5" fill="#8c8275" /><text x="380" y="305">10:27</text>
+          <circle cx="480" cy="280" r="3.5" fill="#8c8275" /><text x="480" y="305">10:36</text>
+          <circle cx="580" cy="280" r="3.5" fill="#8c8275" /><text x="580" y="305">10:45</text>
+          <circle cx="680" cy="280" r="3.5" fill="#8c8275" /><text x="680" y="305">10:54</text>
+        </g>
+        <text x="410" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-style="italic" fill="#8c8275" text-anchor="middle">Resets to Base Value 1 Every 9 Minutes</text>
+      </svg>
       <span class="caption" style="font-style: italic; font-size: 0.9rem; margin-top: 0.5rem; opacity: 0.8;">The six-fold pulse: a mechanical clock mapped out as a rhythmic waveform.</span>
     </div>
 
     <p>
-      When mapped visually, the result is a clean sawtooth wave. Six distinct peaks, six distinct resets. Every hour of every day behaves exactly this way. The base values provide a flat, steady momentum, while the minutes provide a continuous internal heartbeat. 
+      When mapped visually, the result is a clean sawtooth wave. Six distinct peaks, six distinct resets. Every hour of every day behaves exactly this way. The base hour values provide a flat, steady momentum, while the minutes provide a continuous internal heartbeat. 
     </p>
 
     <h2>The Rhythmic Quality of Six</h2>
