@@ -1,21 +1,25 @@
-no---
+---
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>A Pattern That Found Me Twice – Thistle & Cypress</title>
-  <meta name="description" content="How the golden ratio resurfaced and reshaped the way I see the world.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Pattern That Found Me Twice – Thistle & Cypress</title>
+  
+  <meta name="description" content="How the golden ratio resurfaced and reshaped the way I see the world.">
+  <meta name="author" content="Thistle & Cypress">
+  <meta name="keywords" content="golden ratio, fibonacci sequence, sacred geometry, patterns in nature, gematria, intentional living, mindfulness, thistle and cypress">
+  <meta name="theme-color" content="#faf8f5">
 
   <!-- Canonical URL -->
-  <link rel="canonical" href="https://thistleandcypress.com/rhythm/enrichment/pattern-that-found-me-twice.html">
+  <link rel="canonical" href="https://thistleandcypress.com/rhythm/enrichment/golden-ratio.html">
 
   <!-- OpenGraph -->
   <meta property="og:title" content="A Pattern That Found Me Twice – Thistle & Cypress">
   <meta property="og:description" content="How the golden ratio resurfaced and reshaped the way I see the world.">
   <meta property="og:type" content="article">
-  <meta property="og:url" content="https://thistleandcypress.com/rhythm/enrichment/pattern-that-found-me-twice.html">
+  <meta property="og:url" content="https://thistleandcypress.com/rhythm/enrichment/golden-ratio.html">
   <meta property="og:site_name" content="Thistle & Cypress">
 
   <!-- Twitter Card -->
@@ -26,26 +30,75 @@ no---
   <!-- Stylesheet -->
   <link rel="stylesheet" href="../../style.css">
 
-  <!-- JSON-LD Structured Data -->
+  <!-- JSON-LD Structured Data Block -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "A Pattern That Found Me Twice",
-    "description": "How the golden ratio resurfaced and reshaped the way I see the world.",
-    "author": {
-      "@type": "Person",
-      "name": "Thistle & Cypress"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://thistleandcypress.com/rhythm/enrichment/pattern-that-found-me-twice.html"
-    },
-    "articleSection": "Enrichment"
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://thistleandcypress.com/#website",
+        "name": "Thistle & Cypress",
+        "url": "https://thistleandcypress.com/",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Thistle & Cypress"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://thistleandcypress.com/rhythm/enrichment/golden-ratio.html#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://thistleandcypress.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhythm",
+            "item": "https://thistleandcypress.com/rhythm/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Enrichment",
+            "item": "https://thistleandcypress.com/rhythm/enrichment/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A Pattern That Found Me Twice",
+            "item": "https://thistleandcypress.com/rhythm/enrichment/golden-ratio.html"
+          }
+        ]
+      },
+      {
+        "@type": "BlogPosting",
+        "@id": "https://thistleandcypress.com/rhythm/enrichment/golden-ratio.html#article",
+        "isPartOf": {
+          "@type": "WebSite",
+          "@id": "https://thistleandcypress.com/#website"
+        },
+        "mainEntityOfPage": "https://thistleandcypress.com/rhythm/enrichment/golden-ratio.html",
+        "headline": "A Pattern That Found Me Twice",
+        "description": "How the golden ratio resurfaced and reshaped the way I see the world.",
+        "url": "https://thistleandcypress.com/rhythm/enrichment/golden-ratio.html",
+        "datePublished": "2026-04-26",
+        "genre": "Mindfulness",
+        "articleSection": "Enrichment",
+        "author": {
+          "@type": "Person",
+          "name": "Thistle & Cypress"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Thistle & Cypress"
+        }
+      }
+    ]
   }
   </script>
 </head>
@@ -53,7 +106,7 @@ no---
 <body class="rhythm-page enrichment-page">
 
   <!-- Global Navigation -->
-  <nav>
+  <nav role="navigation" aria-label="Primary navigation">
     <a href="/">Home</a>
     <a href="/about.html">About</a>
     <a href="/kitchen/index.html">Kitchen</a>
@@ -63,18 +116,18 @@ no---
   </nav>
 
   <!-- Submenu Navigation -->
-  <nav class="subnav">
+  <nav class="subnav" role="navigation" aria-label="Rhythm sections">
     <a href="../index.html">Rhythm</a>
     <a href="../daily-rituals/index.html">Daily Rituals</a>
     <a href="../mindful-moments/index.html">Mindful Moments</a>
     <a href="../seasonal-living/index.html">Seasonal Living</a>
-    <a href="../enrichment/index.html" class="active">Enrichment</a>
+    <a href="../enrichment/index.html" class="active" aria-current="page">Enrichment</a>
     <a href="../travel/index.html">Travel</a>
     <a href="../resources/index.html">Resources</a>
   </nav>
 
   <!-- Hero -->
-  <header class="hero">
+  <header class="hero" role="banner">
     <div class="hero-inner">
       <h1>A Pattern That Found Me Twice</h1>
       <p class="tagline">How the golden ratio resurfaced and reshaped the way I see the world</p>
@@ -82,15 +135,15 @@ no---
     </div>
   </header>
 
-  <main class="post-content">
+  <main class="post-content" role="main">
     
     <figure style="text-align: center; margin: 0 auto 2rem auto; max-width: 150px;">
-      <img src="../../rhythm/images/golden-spiral.jpg" alt="The Golden Spiral" style="width: 100%; height: auto; border-radius: 2px;">
+      <img src="../../rhythm/images/golden-spiral.jpg" alt="The Golden Spiral illustration showing geometric growth arcs" style="width: 100%; height: auto; border-radius: 2px;">
       <figcaption style="font-size: 0.8rem; font-style: italic; color: #666; margin-top: 0.5rem;">The Golden Spiral</figcaption>
     </figure>
     
     <p>
-      I first encountered the <strong>golden ratio</strong> — the proportion &phi; &approx; 1.618 — more than twenty years ago in
+      I first encountered the <strong>golden ratio</strong> — the proportion $\phi \approx 1.618$ — more than twenty years ago in
       <em><a href="https://en.wikipedia.org/wiki/The_Da_Vinci_Code" target="_blank" rel="noopener">The Da Vinci Code</a></em>. Dan Brown described it as a “divine proportion,” a hidden structure running through nature, art,
       and architecture. He tied it to the <strong><a href="https://en.wikipedia.org/wiki/Fibonacci_sequence" target="_blank" rel="noopener">Fibonacci sequence</a></strong>
       (1, 1, 2, 3, 5, 8, 13…), the simple pattern that generates the spirals we see in sunflowers, pinecones, shells, and even
@@ -156,6 +209,7 @@ no---
 
   </main>
 
+  <!-- Footer Include -->
   {% include footer.html %}
 
 </body>
