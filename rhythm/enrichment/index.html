@@ -13,13 +13,13 @@
   <meta name="theme-color" content="#faf8f5">
 
   <!-- Canonical URL -->
-  <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/rhythm/enrichment/">
+  <link rel="canonical" href="https://thistleandcypress.com/rhythm/enrichment/">
 
   <!-- OpenGraph Metadata -->
   <meta property="og:title" content="Enrichment – Thistle & Cypress | Curiosity & Inner Growth">
   <meta property="og:description" content="Exploring the ideas, lessons, and discoveries that shape who we are becoming — a space for curiosity, learning, and personal evolution.">
-  <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
-  <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/rhythm/enrichment/">
+  <meta property="og:image" content="https://thistleandcypress.com/OG-image-F.jpg">
+  <meta property="og:url" content="https://thistleandcypress.com/rhythm/enrichment/">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Thistle & Cypress">
 
@@ -27,71 +27,67 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Enrichment – Thistle & Cypress">
   <meta name="twitter:description" content="Curiosity, learning, and the gentle pursuit of a more abundant life.">
-  <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
+  <meta name="twitter:image" content="https://thistleandcypress.com/OG-image-F.jpg">
 
   <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
 
-  <!-- JSON-LD: Website -->
+  <!-- JSON-LD: Unified Structured Data Block -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Thistle & Cypress",
-    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
-    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
-    }
-  }
-  </script>
-
-  <!-- JSON-LD: Breadcrumbs -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
+    "@graph": [
       {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/"
+        "@type": "WebSite",
+        "@id": "https://thistleandcypress.com/#website",
+        "name": "Thistle & Cypress",
+        "url": "https://thistleandcypress.com/",
+        "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Thistle & Cypress"
+        }
       },
       {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Rhythm",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/"
+        "@type": "BreadcrumbList",
+        "@id": "https://thistleandcypress.com/rhythm/enrichment/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://thistleandcypress.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhythm",
+            "item": "https://thistleandcypress.com/rhythm/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Enrichment",
+            "item": "https://thistleandcypress.com/rhythm/enrichment/"
+          }
+        ]
       },
       {
-        "@type": "ListItem",
-        "position": 3,
+        "@type": "CollectionPage",
+        "@id": "https://thistleandcypress.com/rhythm/enrichment/#collection",
         "name": "Enrichment",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/enrichment/"
+        "description": "A collection of ideas, lessons, and reflections that nurture curiosity, wisdom, and personal growth.",
+        "url": "https://thistleandcypress.com/rhythm/enrichment/",
+        "isPartOf": {
+          "@type": "WebSite",
+          "@id": "https://thistleandcypress.com/#website"
+        },
+        "about": [
+          { "@type": "Thing", "name": "Enrichment" },
+          { "@type": "Thing", "name": "Personal Growth" },
+          { "@type": "Thing", "name": "Learning & Curiosity" }
+        ]
       }
-    ]
-  }
-  </script>
-
-  <!-- JSON-LD: CollectionPage -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Enrichment",
-    "description": "A collection of ideas, lessons, and reflections that nurture curiosity, wisdom, and personal growth.",
-    "url": "https://thistleandcypress.github.io/thistleandcypress.com/rhythm/enrichment/",
-    "isPartOf": {
-      "@type": "WebSite",
-      "name": "Thistle & Cypress",
-      "url": "https://thistleandcypress.github.io/thistleandcypress.com/"
-    },
-    "about": [
-      { "@type": "Thing", "name": "Enrichment" },
-      { "@type": "Thing", "name": "Personal Growth" },
-      { "@type": "Thing", "name": "Learning & Curiosity" }
     ]
   }
   </script>
@@ -100,7 +96,7 @@
 <body class="rhythm-page enrichment-page">
 
   <!-- Global Navigation -->
-  <nav>
+  <nav role="navigation" aria-label="Primary navigation">
     <a href="/">Home</a>
     <a href="/about.html">About</a>
     <a href="/kitchen/">Kitchen</a>
@@ -110,18 +106,18 @@
   </nav>
 
   <!-- Submenu Navigation -->
-  <nav class="subnav">
+  <nav class="subnav" role="navigation" aria-label="Rhythm sections">
     <a href="../index.html">Rhythm</a>
     <a href="../daily-rituals/index.html">Daily Rituals</a>
     <a href="../mindful-moments/index.html">Mindful Moments</a>
     <a href="../seasonal-living/index.html">Seasonal Living</a>
     <a href="../travel/index.html">Travel</a>
-    <a href="../enrichment/index.html" class="active">Enrichment</a>
+    <a href="../enrichment/index.html" class="active" aria-current="page">Enrichment</a>
     <a href="../resources/index.html">Resources</a>
   </nav>
 
   <!-- Hero -->
-  <header class="hero">
+  <header class="hero" role="banner">
     <div class="hero-inner">
       <h1>Enrichment</h1>
       <p class="tagline">Curiosity, learning, and the gentle pursuit of a more abundant life.</p>
@@ -129,7 +125,7 @@
     </div>
   </header>
 
-  <main>
+  <main role="main">
 
     <p>
       Enrichment is where growth takes root — the ideas, lessons, and discoveries that shape who we are becoming.
