@@ -1,5 +1,7 @@
 ---
 ---
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -102,3 +104,95 @@
   }
   </script>
 </head>
+
+<body class="rhythm-page mindful-moments-page">
+
+  <!-- Global Navigation -->
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="/kitchen/">Kitchen</a>
+    <a href="/garden/">Garden</a>
+    <a href="/craft/">Craft</a>
+    <a href="/rhythm/" class="active">Rhythm</a>
+  </nav>
+
+  <!-- Submenu Navigation -->
+  <nav class="subnav">
+    <a href="../index.html">Rhythm</a>
+    <a href="../daily-rituals/index.html">Daily Rituals</a>
+    <a href="../mindful-moments/index.html" class="active">Mindful Moments</a>
+    <a href="../seasonal-living/index.html">Seasonal Living</a>
+    <a href="../travel/index.html">Travel</a>
+    <a href="../enrichment/index.html">Enrichment</a>
+    <a href="../resources/index.html">Resources</a>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>Mindful Moments</h1>
+      <p class="tagline">Quiet reflections and the small pauses that bring us back to ourselves.</p>
+      <div class="header-divider"></div>
+    </div>
+  </header>
+
+  <main>
+
+    <p>
+      Mindful moments are the gentle pauses that help us notice the world as it is — a shift in light,
+      a breath of cold air, the sound of rain against the window. These pieces capture the sensory
+      details and quiet reflections that invite us to slow down, soften, and reconnect with the present.
+    </p>
+
+    <!-- Standardized Grid Layout -->
+    <div class="post-list">
+
+      <!-- Post Card: Stepping Out of the Noise -->
+      <article class="post-card">
+        <a href="stepping-out-of-the-noise.html">
+          <h2>Stepping Out of the Noise</h2>
+          <p class="excerpt">
+            A daily pause to soften the mind and body — meditation, prayer, or simply closing your eyes to breathe.
+          </p>
+        </a>
+      </article>
+
+      <!-- Post Card: Tracing the Orchard Path -->
+      <article class="post-card">
+        <a href="orchard-path.html">
+          <h2>Tracing the Orchard Path</h2>
+          <p class="excerpt">
+            An intentional labor of love to reclaim the land, honoring memory while tracing a path toward the northeast clearing
+          </p>
+        </a>
+      </article>
+
+      <!-- 
+      <!-- Post Card: A New Way of Living at 60 Journal -->
+      <article class="post-card" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+        <a href="turning-60/" itemprop="url">
+          <h2 itemprop="name">A New Way of Living at 60: The Journal</h2>
+          <p class="excerpt" itemprop="description">
+            An elegant blend of rigorous physiology, lifestyle architecture, and real-world honesty exploring what it means to cultivate a strong, grounded next chapter.
+          </p>
+        </a>
+      </article>
+      --> 
+      
+      <!-- Future post cards will go here -->
+
+    </div>
+
+    <!-- Back Link -->
+    <div class="post-back">
+      <a href="../index.html">← Back to Rhythm</a>
+    </div>
+
+  </main>
+
+  <!-- Footer Include -->
+  {% include footer.html %}
+
+</body>
+</html>
