@@ -170786,6 +170786,3530 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1051,
+      "common_name": "tartarian aster",
+      "scientific_name": [
+        "Aster tataricus"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "tataricus",
+      "genus": "Aster",
+      "origin": [
+        "Eastern Asia"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1051&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1051&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "blue-violet"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1051&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Autumn",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Tartarian aster is an absolutely stunning perennial flower, with its small, star-shaped white flowers brightening any outdoor space. Amazingly, it not only tolerates cold temperatures but also flourishes from mild to extreme cold, making it the perfect choice for many gardens. It’s also quite easy to maintain, as it’s very rarely affected by pests, and it blooms from June throughout autumn. With its stunning displays of white flowers, the Tartarian aster creates an impressive visual feature in any garden, providing a unique and beautiful addition to your landscape.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1051_aster_tataricus/og/51577222466_39fd091818_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a61b550b793152287883e5c54be24daceede2140fa1c946b1139cad1f1aa300",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1051_aster_tataricus/regular/51577222466_39fd091818_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2e7841909d012d8108728487acca98a176fa731f33a2052399af783a32734495",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1051_aster_tataricus/medium/51577222466_39fd091818_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a3dad1d05c12fcd59e4895c097d346dd7f9ee5b6c2bd9ed8a695d3919781dbb3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1051_aster_tataricus/small/51577222466_39fd091818_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=de0edc8a6566450407e2603bf2d5d351e293bc200e11d09b58d2e2b797d07e43",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1051_aster_tataricus/thumbnail/51577222466_39fd091818_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b044254e017c0402834d33e10704b0551dcfbc00adbee76a2074359d0d048154"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1052,
+      "common_name": "tatarian aster",
+      "scientific_name": [
+        "Aster tataricus 'Jindai'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Jindai",
+      "variety": null,
+      "species_epithet": "tataricus",
+      "genus": "Aster",
+      "origin": [
+        "Russia",
+        "Kazakhstan",
+        "Mongolia",
+        "China"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1052&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1052&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "violet-blue",
+            "purple-blue"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1052&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tatarian aster (Aster tataricus 'Jindai') is an amazing species of perennial that adds beauty to any landscape. Its bright, daisy-like flowers appear in late summer in loose clusters of pink and purple, with a yellow center. Its slender foliage provides a lovely contrast to the bold florets. Perfect for planting in large groups, it makes a stunning backdrop to any garden border. In addition to its beauty, Tatarian aster is exceptionally easy to care for and it loves full sun. With its tolerance of both heat and humidity, it is sure to thrive in most environments.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1052_aster_tataricus_jindai/og/51577221556_55434310fe_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=79701d28f93ef07b69885d43dbd9b1ac82c5355ac3c107e7d2cf34791e64fa24",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1052_aster_tataricus_jindai/regular/51577221556_55434310fe_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=76a2bbb7188a09104f335796bc231f09e35913e85a777e7eb603385fe592c33e",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1052_aster_tataricus_jindai/medium/51577221556_55434310fe_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=11bc51d33fb7bd70a372fe7f6ab24078a83ad181fd538d43eac7b20aa52de0fe",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1052_aster_tataricus_jindai/small/51577221556_55434310fe_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7e1b6b7de4dc088bfd4b17dd8fe04d09e9325d5bed0116504229d0078145ce86",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1052_aster_tataricus_jindai/thumbnail/51577221556_55434310fe_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=caeca1fd7ce2adbd73a4c39609db1e5d8e28fe04048e22f3961f5fe2738e24f2"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1053,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster 'Wood's Pink'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Wood",
+      "variety": null,
+      "species_epithet": "'Wood's",
+      "genus": "Aster",
+      "origin": [
+        "United States"
+      ],
+      "type": "Aster",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1053&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1053&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "pink",
+            "purple-pink"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow-green",
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1053&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Aster 'Wood's Pink' is an amazing plant species. Its visually captivating blooms of delicate, lavender-pink petals are exquisite against lush green foliage. This perennial is quite versatile, able to thrive in many soil types, making it a great choice for any garden. It can be sown directly into the garden, or started indoors in containers. Preferring full sun, this variety can easily tolerate some shade. It re-blooms throughout the season and is a great source of late-season nectar for many pollinators. Low maintenance and easy to care for, Aster 'Wood's Pink' is an excellent choice for any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1053_aster_woods_pink/og/51173221868_d7cef2e31e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0ac460f81fedfd3710492371af6561a2ee6501d79b41dd21373331aa81fb5846",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1053_aster_woods_pink/regular/51173221868_d7cef2e31e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3bc1f170f454506e17d071ae264c171015d23f7ac7230443d4bd13cc8c6b88e4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1053_aster_woods_pink/medium/51173221868_d7cef2e31e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a8ae871dbaac0689bd61550cfbf62903c359cdff33ef718f48f1260a6fb7b81d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1053_aster_woods_pink/small/51173221868_d7cef2e31e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=60562699f3089b5eff99f24595a440874c48e8add8c97731de0389b91830cc7c",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1053_aster_woods_pink/thumbnail/51173221868_d7cef2e31e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5e73723910bd51f451e1e367dfc8ecf4fb998f489107113c0ffc0ebf142e2639"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1054,
+      "common_name": "aster",
+      "scientific_name": [
+        "Aster 'Wood's Purple'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Wood",
+      "variety": null,
+      "species_epithet": "'Wood's",
+      "genus": "Aster",
+      "origin": [
+        "United States"
+      ],
+      "type": "Aster",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1054&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1054&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "purple-white"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow-orange-pink"
+          ]
+        },
+        {
+          "part": "petals",
+          "color": [
+            "purple"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1054&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Aster 'Wood's Purple' is an amazing plant that features deep purple and white bloom clusters in the middle of autumn. Its slender, toothed foliage and robust stems make it a standout addition to any garden. Its vibrant flowers make it an ideal choice for attracting butterflies and other pollinators. Its thick blooms appear well into the fall, providing a beautiful backdrop for other plants. Aster 'Wood's Purple' has excellent disease and heat tolerance, making it a great pick for gardeners in warmer climates. Its carefree nature also makes it a great addition for novice gardeners, as it requires minimal maintenance once established.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1054_aster_woods_purple/og/9762158284_5fae38a7b8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bf09e3b6a5cb55d8498ac670ba940dd831a75510f787acad8c93c1f0f7f92c51"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1055,
+      "common_name": "astericus",
+      "scientific_name": [
+        "Asteriscus maritimus"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "maritimus",
+      "genus": "Asteriscus",
+      "origin": [
+        "Western Mediterranean",
+        "southern Portugal",
+        "Canary Islands",
+        "Greece"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Sexual Reproduction",
+        "Asexual Reproduction",
+        "Fragmentation"
+      ],
+      "hardiness": {
+        "min": "8",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1055&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1055&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "dark-yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1055&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": false,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astericus (Asteriscus maritimus) is an amazing plant species native to coastal areas of the Atlantic and Mediterranean. Its beautiful yellow flowers, resembling a star, bloom from late spring to early autumn. It can be grown from seed and is both drought-tolerant and salt-tolerant, making it perfect for growing on a sunny beach. This hardy and easy to care for plant not only adds a splash of colour to any location but its strong scent also helps repel mosquitos and flies. Its deep roots enable it to catch nutrients from the soil and help stabilize the substrate around it, making it an environmentally beneficial addition to any garden.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1055_asteriscus_maritimus/og/23735474193_ca3e4f8713_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014603Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=604d2d7ec62eb5a2487f3a8ae1fb15f091b79d73a9ec9fadebc5e070fd3b58e4"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1056,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Alive and Kicking'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Alive and Kicking",
+      "variety": null,
+      "species_epithet": "'Alive",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1056&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1056&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "May",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1056&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe 'Alive and Kicking' is an amazing plant species. Its glossy, deep green, lacy foliage forms compact upright mounds of attractive foliage to add texture to the garden. It produces plumes of fragrant, feathery, pale-pink blooms in early summer and are great for adding a burst of color. It works well in borders, containers, and especially in shade gardens. It is deer resistant, drought-tolerant, and requires little maintenance. Astilbe plants live up to their name, thriving in moist, well-drained soils and lasting for many years with minimal care. The delicate flowers and attractive foliage of Alive and Kicking make it a great choice for any landscape.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1056_astilbe_alive_and_kicking/og/Astilbe_27Alive_26_Kicking27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014603Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=89c0c7d707143fd8b8a99eaf336f93465aa091c2d5e66c89d4e3701b28d71d63",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1056_astilbe_alive_and_kicking/regular/Astilbe_27Alive_26_Kicking27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014603Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f16881c01104f5a136997ed28cb742aecad12cbb038e1848bcf91beea4303b6d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1056_astilbe_alive_and_kicking/medium/Astilbe_27Alive_26_Kicking27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014603Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b490b359c8cb6c271597d2c3b68bad19ead767ca75ba0eaf0819ad7e417d8f80",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1056_astilbe_alive_and_kicking/small/Astilbe_27Alive_26_Kicking27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014603Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fff995140370fe577b1262f61d76047a47c88b7a853c462e7f44671d4612b679",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1056_astilbe_alive_and_kicking/thumbnail/Astilbe_27Alive_26_Kicking27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014603Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b581884650b8c3fa8ca638d8d27f423e2f19efb102483d44d83a096f79c2e835"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1057,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Amethyst'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Amethyst",
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1057&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1057&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green",
+            "red"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "deep-green",
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1057&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe arendsii 'Amethyst' is an amazing variety of astilbe. It produces gorgeous, deep purplish-pink flower blooms from mid to late summer that look like mini plumes. It is also a robust, cold-tolerant perennial with attractive, glossy green foliage. This shade loving plant is easy to maintain and can bloom for years with minimal care. It also makes a great addition to shady areas where other varieties may struggle. Astilbe arendsii 'Amethyst' is a stunning and versatile plant that brings life and colour to the garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1057_astilbe_arendsii_amethyst/og/19103372526_2583c0e579_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=56f2df05d9d8468f305c0e513141269e1a81c3ec464e4842e7de361e052ce919",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1057_astilbe_arendsii_amethyst/regular/19103372526_2583c0e579_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=52ac2a1adb4cba367c62be2b38e909962f67e7c33079da4d5a808489c1bf03ca",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1057_astilbe_arendsii_amethyst/medium/19103372526_2583c0e579_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=131311e0b95de6e66b448d70c0b7ec90ad423405f59705b16b37eb945476ba47",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1057_astilbe_arendsii_amethyst/small/19103372526_2583c0e579_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1d658659ea5d3e17a84d0f5fa91b3eadd0091772a4243880b3bfdbb9a0efde68",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1057_astilbe_arendsii_amethyst/thumbnail/19103372526_2583c0e579_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0e7f41df069ef8eb64c1a583a9a043c891ead96c1d5e13eff05cd7cb396e34e9"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1058,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii ASTARY PINK"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany",
+        "Netherlands",
+        "Belgium",
+        "Luxembourg",
+        "France",
+        "Switzerland"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1058&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1058&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1058&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Astilbe Arendsii Astary Pink is a stunning addition to any garden. This deciduous perennial is low maintenance and easy to grow, blooming in late spring. Its glorious, deep fuchsia-pink flowers emerge atop foliage that is an attractive dark green. Astilbes make excellent cut flowers, and benefit from deadheading, as this will extend the bloom time and may even lead to a reblooming! Astilbe Arendsii Astary Pink can also help attract pollinators to your garden. The foliage will even remain a beautiful shade of green during the winter months. Plant it in areas with moist soil and, in return, enjoy its majestic beauty in your garden for years to come!",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1058_astilbe_arendsii_astary_pink/og/52275313348_ba0b4b8f3b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014605Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2c23213fad5c908bd3f7c9e2dc22a059782d65e4f2e38c80434b26131015b8c3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1059,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Augustleuchten' AUGUST LIGHT"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Augustleuchten",
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1059&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1059&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "August",
+        "December",
+        "January",
+        "February",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1059&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe arendsii 'Augustlight' is a beautiful, long blooming perennial with its eye-catching magenta flowers and lush, green foliage. This showy deal is the perfect addition to any garden. During its peak season, Augustlight is full of ornamental, fluffy blooms. It will create a brilliant show of color in shaded or part-shaded places of your garden. Its low-care requirements and drought tolerance make it super easy to care for. Plus, the deer don't seem to get drawn to it, so you don't have to worry about it being eaten away. Augustlight is one of the best plants available in terms of beauty and easy care. It will give you a beautiful show of color throughout the summer season.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1059_astilbe_arendsii_augustleuchten_august_light/og/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014605Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6d76b0b52b9f2c623d92ede44611bc9ebeb0067e05ba248b61d2e422774cbb7a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1059_astilbe_arendsii_augustleuchten_august_light/regular/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014605Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8af8f3296608e321fa6a41bfbf1f541765641899e43c1e19d9b7c5db1249dac0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1059_astilbe_arendsii_augustleuchten_august_light/medium/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014605Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f8bba361abc27655d60dfcc035aae51a55f42d7125135cdaca0cf4724050b42c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1059_astilbe_arendsii_augustleuchten_august_light/small/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014605Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=643137bced3f91bca763ea95b5fe531d196620a5e22e95b56ebee906cb6e3308",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1059_astilbe_arendsii_augustleuchten_august_light/thumbnail/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014605Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f523468390abe6b5b67e8bd331d279943f94f7c66c0144e82b955159f69b515c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1060,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Beauty of Ernst' COLOR FLASH"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Beauty of Ernst",
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1060&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1060&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1060&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe Arendsii 'Beauty of Ernst' COLOR FLASH is an amazing plant species that not only looks stunning with its large, full and brilliantly contrasting pale pink and white flowers, but is also incredibly low maintenance and hardy. The large plumes of blooms stretch up to a height of 75cms and remain vibrant throughout the summer. They thrive in any moist and partially shaded environment, making them great for planting in borders, beside water features and in pots. Their foliage turns a beautiful yellow-orange in the autumn, making them an eye-catching addition to any garden. The COLOR FLASH variety has been especially bred to offer an even more striking contrast in flower colour, making it truly spectacular.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1061,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Fanal'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Fanal",
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1061&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1061&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1061&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe arendsii 'Fanal' is an amazing plant species that stands out for its beautiful foliage and vibrant blooms. It features fine, feathery foliage with deep burgundy foliage and delicate pink flowers that bloom in the summer months. This species is also very hardy and tolerant of a wide range of conditions, making it extremely easy to care for. It is well-suited for shaded areas or for adding texture and color to perennial flower beds and borders. 'Fanal' is a great choice for both novice and experienced gardeners alike!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1061_astilbe_arendsii_fanal/og/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014606Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4908165148d1b665442b05ecacbdd27f16ca51173dcdb0a8fbd058360583b0ba",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1061_astilbe_arendsii_fanal/regular/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014606Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3ee0b6e26fc75facc1be5cd616ac69e03e9b7fb8517d47bc72d0d8c3ad8165db",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1061_astilbe_arendsii_fanal/medium/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014606Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b97aa4fef4c90820c8f06e3129f6ca30df2f9a2c4cb97bd21815fc8a81f53792",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1061_astilbe_arendsii_fanal/small/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014606Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=22f57a091cc3a7d19b6fcb278cf38aaf07a34b76fa72033e78cf751555c000d0",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1061_astilbe_arendsii_fanal/thumbnail/2560px-TawuC582ka_~21nfwvsh~_Astilbe_Arendsa_27Granat27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014606Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=74fdfa346ced3d05fc9c9ee11e89c2c28f5587b343cd1157360394299ed33fd7"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1062,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Irrlicht'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Irrlicht",
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1062&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1062&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1062&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe arendsii 'Irrlicht' is an amazing plant species. It is an herbaceous perennial with lush foliage that provides lovely contrast to the flower spikes. Its low-maintenance and easy to grow, even in shady areas with inadequate soil. The clumps of frilled, fern-like foliage in shades of green create excellent contrast to the spikes of pink, plume-shaped flowers that fade to a rosy-red. It blooms in late spring to early summer and looks great mass planted in a border, as a ground cover, or in a rock garden. A great choice for adding texture and colour to any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1062_astilbe_arendsii_irrlicht/og/Astilbe_x_arendsii_Irrlicht_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=afb5ea6767494069574dedf396e134670c394216ca4c87754a3e46297e73d28a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1062_astilbe_arendsii_irrlicht/regular/Astilbe_x_arendsii_Irrlicht_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a2cfc92828670723680e0d239efd598f25cfae8531fb1d2eb6b1edd09755a148",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1062_astilbe_arendsii_irrlicht/medium/Astilbe_x_arendsii_Irrlicht_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=061305f807b6053111e9c8c4e1ec0469088ea13a9186ab3207e1a06e198a57ac",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1062_astilbe_arendsii_irrlicht/small/Astilbe_x_arendsii_Irrlicht_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bf6045e033aa36393b52582f1a5b1ef44e6897a1f15d750f23930a93825c6caa",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1062_astilbe_arendsii_irrlicht/thumbnail/Astilbe_x_arendsii_Irrlicht_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5b1f5a6f49b24420d88dca23dfc0f6c876522c8ebf43bf10eebf98c278046066"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1063,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Rote Cattleya' RED CATTLEYA"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Rote Cattleya",
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Astilbe",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1063&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1063&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "November",
+        "March"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1063&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe arendsii 'Rote Cattleya' RED CATTLEYA is an amazing plant species! It features vibrant rose-red blooms that attract butterflies and hummingbirds to your garden. Its foliage has a soft texture that adds an elegancy to your landscape. This plant is a good choice for any sunny to partially shaded area and grows best in moist, organically rich soils. In addition, Astilbe arendsii 'Rote Cattleya' RED CATTLEYA is a low maintenance option that provides beautiful, resilient blooms. It is also highly deer-resistant, making it ideal for any garden. With its showy colorful blooms, this plant species adds dynamic beauty and texture to any outdoor space.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1063_astilbe_arendsii_rote_cattleya_red_cattleya/og/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8b8e9b0c4b4d7f600b803d593a9bcbfb929eee20a847004f453f47ab0ad000ce",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1063_astilbe_arendsii_rote_cattleya_red_cattleya/regular/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a73a26d4dffcae125e1e6b79d01527f6d20101aa3b4d5248ec1e142ad0e00453",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1063_astilbe_arendsii_rote_cattleya_red_cattleya/medium/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bfbaed784510c890687461b0a65ea64d2958ba172b16a3a756c8eabf0ef671e3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1063_astilbe_arendsii_rote_cattleya_red_cattleya/small/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=24ddf2f53a6c53f22039ce715674a291c2736f93f9f55c0f81452f93436d7603",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1063_astilbe_arendsii_rote_cattleya_red_cattleya/thumbnail/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4cf832ad5b24f859a36c2b4043a39f361f73288bdbde5127d08255c7ddae9298"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1064,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe arendsii 'Rotlicht' RED LIGHT"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Rotlicht",
+      "variety": null,
+      "species_epithet": "arendsii",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1064&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1064&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "brown-white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1064&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe arendsii 'Rotlicht' RED LIGHT is an amazing flowering perennial that blooms in USDA zones 3-9. Its clusters of deep red, feathery plumes provide exquisite color and texture that are sure to bring a touch of glamour to any garden. In late spring, plants begin to spike up with lacy, delicate, pinkish-red flowers that age to a deeper shade of crimson. In fall, the blooms transition to bronze-colored seedpods that are attractive in their own right. Deer and drought tolerant, this hardy plant requires little maintenance other than trimming spent blooms. With its brilliant colors, long flowering season, and easy maintenance, Astilbe arendsii 'Rotlicht' is sure to add eye-catching beauty to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1064_astilbe_arendsii_rotlicht_red_light/og/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5c4b910c8c52c0577534eaa4b936beeb91c5830623f991e8cb556b126343976f",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1064_astilbe_arendsii_rotlicht_red_light/regular/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=06a6d32c5ed72662981a4e4765102c04575c7bd5e67689c6c4a7afdb773129be",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1064_astilbe_arendsii_rotlicht_red_light/medium/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=25b4d976f54976d8fb56a571c5909c1daf45ff73d04ae14e570e609f1154a77c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1064_astilbe_arendsii_rotlicht_red_light/small/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e94b1c65d724cef93bf56d97a6d48fad68f9bfa3751f2ca65ec84393225280e1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1064_astilbe_arendsii_rotlicht_red_light/thumbnail/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f31f751e570509e93fbe4e01c6afe0361dcec9ac17f51598d81f0308d7f5949e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1065,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Burgunderrot' BURGUNDY RED"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Burgunderrot",
+      "variety": null,
+      "species_epithet": "'Burgunderrot'",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Astilbe",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1065&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1065&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1065&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe 'Burgunderrot' BURGUNDY RED is a plant species with delicate fern-like foliage and striking blooms that is sure to be a standout in any outdoor space. Its burgundy-crimson colors look beautiful when mass planted in any border or landscape bed. It blooms for an extended period of time in the summer and looks stunning when paired with other sun or partial shade loving plants. Plus, its easy to care for and drought tolerant - making it perfect for gardeners of all levels. Astilbe 'Burgunderrot' BURGUNDY RED is truly an amazing plant species!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1065_astilbe_burgunderrot_burgundy_red/og/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=889a97f9a4a6af5236b222f505079b11d2a7eff4e1960e2f95b82ec3a3891bad",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1065_astilbe_burgunderrot_burgundy_red/regular/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e1317de8057b7e8f97b6dede76dfb2e695661dc0b354ac7a4e28ffdde496357a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1065_astilbe_burgunderrot_burgundy_red/medium/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0cfef745466542f933b1b46fb9d32b5d909b018af29f67c48141622abcc4c5ef",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1065_astilbe_burgunderrot_burgundy_red/small/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c9a633df9e2237e298f181210bff0223f0ac302f4a81997d61211971d8798e01",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1065_astilbe_burgunderrot_burgundy_red/thumbnail/52448177310_6a7615a7fb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=85e365b83ec28b6d2d48f0c6d55968b856677f2a21b212624cd56f438fe87e12"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1066,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Darwin's Surprise'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Darwin",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1066&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1066&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1066&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe (Astilbe chinensis 'Darwin's Surprise') is a beautiful and hardy flower that will bring a burst of color to any garden. Its bright pink blooms adorning its delicate foliage make this plant a beautiful and eye-catching addition to any garden. 'Darwin's Surprise' is an evergreen variety and blooms late summer to fall. It is low-maintenance, drought-tolerant, and deer-resistant. Not to mention its distinctive leaves are full of texture and come in shades of green and bronze for added visual interest. All in all, 'Darwin's Surprise' is a fantastic addition to any garden and will surely bring beauty and joy for years to come.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1066_astilbe_chinensis_darwins_surprise/og/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014609Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3732ed9863d5060219c08b9fdd32d75008fdf07464e8324212a27ae96b8ac0cc",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1066_astilbe_chinensis_darwins_surprise/regular/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014609Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2be3b473658934ecf3dba0eee51ef703c20f1b04a3dd126a1819f9b07ad476e4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1066_astilbe_chinensis_darwins_surprise/medium/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014609Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f6c01231f98d58d4927588f3a1daecbb80cbf9baaf865a1109f7eeafee966f41",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1066_astilbe_chinensis_darwins_surprise/small/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014609Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=003917bdf68d9de9aa879354957820a24e13c652abdeb22bc4096b9a8b13359b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1066_astilbe_chinensis_darwins_surprise/thumbnail/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014609Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=91ba44b72b06b89055f0b01abf96a35e47490a7e711fe3d9ec34be6dee861141"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1067,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Diamonds and Pearls'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Diamonds and Pearls",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1067&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1067&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "May",
+        "August",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1067&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe (Astilbe chinensis 'Diamonds and Pearls') is an amazing ornamental garden plant that puts on a spectacular show during the summer months. With its sweet white or pink clusters of flowers and dainty, fern-like foliage, Chinese astilbe is perfect for adding color and texture to any garden. Unlike other Astilbe varieties, Chinese astilbe is less prone to pests and diseases, making it relatively low maintenance. Versatile and easy to propagate, Chinese astilbe also looks great in a variety of garden designs, from formal to informal. Its bold blooms and graceful foliage make a beautiful addition to boundaries, herbaceous borders, or containers.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1067_astilbe_chinensis_diamonds_and_pearls/og/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0fd281369b43e536740429624f54416f6155739da59bceeb97dfa088daf25646",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1067_astilbe_chinensis_diamonds_and_pearls/regular/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=de01fceb3ad459358a239797ef6efb34813bcc89cf9a65aa691e1bef7695320e",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1067_astilbe_chinensis_diamonds_and_pearls/medium/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f57da8e8f31dbaf5a67e374692c4d505a604ae4238104d3ca5b14ad8d982897e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1067_astilbe_chinensis_diamonds_and_pearls/small/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f353c14746f0e3bdf93adca40684ea3fdbc0630ca021d0f8f22385a99283b39f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1067_astilbe_chinensis_diamonds_and_pearls/thumbnail/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7b07fd2d8e3bfafdc27315991f1e0c98b70a4d5e9b5531dae4857a4834ea6916"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1068,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Finale'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Finale",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1068&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1068&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1068&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe (Astilbe chinensis 'Finale') is simply stunning. This hardy perennial is perfect for any flower garden. The striking blooms of soft pink, white or lavender flowers in summer and foliage of dark green will add beauty to your garden all season. The Finale variety is particularly impressive, with taller flower stalks and more plentiful blooms than other varieties. It is easy to care for and drought tolerant, making it a great choice for gardeners of any skill level. Plus, it is deer resistant! The beauty of Chinese astilbe is sure to draw attention to your garden and brighten up any garden bed.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1068_astilbe_chinensis_finale/og/knotweed-flower-plant-purple.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=01c3a8b29ebd4682bc0d70fc4a93dffbc79eef681b4857c2f34b17c20381b29b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1068_astilbe_chinensis_finale/regular/knotweed-flower-plant-purple.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fa5f531c52599995439d39a4e57606986095ca2a286f7cc13faeacffb0ab3f41",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1068_astilbe_chinensis_finale/medium/knotweed-flower-plant-purple.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8f6a174f0a033b6a70b3420b065ffc9c7baed7f37cf0ac1b2b54159f9288199b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1068_astilbe_chinensis_finale/small/knotweed-flower-plant-purple.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=25aa58ae4bc594ae533bdbffb9fa0c8dc8935228a3ef310b783f33fda5d11f07",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1068_astilbe_chinensis_finale/thumbnail/knotweed-flower-plant-purple.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=00ee9c83da5ff6867339b027f8db7f81e696975244e38fc7ec3c2a9e102727e8"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1069,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Love and Pride'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Love and Pride",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1069&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1069&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-purple",
+            "pink"
+          ]
+        },
+        {
+          "part": "foliage",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "brown-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1069&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe (Astilbe chinensis 'Love and Pride') is an amazing plant that guarantees show stopping beauty with its white dainty flowers in the summer. It is a low maintenance plant that is perfect for creating a stunning garden. The foliage is dark green and emerges in early spring. It provides a phenomenal contrast in borders, containers, and can be utilized as a ground cover in shaded areas. It is deer resistant, not prone to pests and diseases, and can thrive in damp conditions. A great choice for woodland gardens, Chinese astilbe provides beauty and is sure to bring love and pride to any garden space!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1069_astilbe_chinensis_love_and_pride/og/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=65438a87d4da5aedb6fd3d646f112085c787e92641ba056dcf777b1f02980c49",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1069_astilbe_chinensis_love_and_pride/regular/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=40b218b407ad42fd185e9d20a56257c9df93b3dddb242be7fc6625966af085e2",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1069_astilbe_chinensis_love_and_pride/medium/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ebc19b5ee7e373d51952f9edfbc81283bf71f4f772d8e25a2499295d13e11c3f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1069_astilbe_chinensis_love_and_pride/small/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9719e3de8478350faa453a3200db5a498cc2e8558171417f71ec89c2a2078ccd",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1069_astilbe_chinensis_love_and_pride/thumbnail/49081062131_6f47f8b994_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2940110be192d049b9497fe236f8a92963b7d67ee0ceaf327e18600052bca0fb"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1070,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Purpurkerze' PURPLE CANDLE"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Purpurkerze",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1070&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1070&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-purple"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1070&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe is an amazing addition to any garden. Its delicate, feathery spikes of purple blossoms dance in the breeze, lighting up the landscape with vibrant color. The flowers attract pollinators and provide nectar sources for butterflies and hummingbirds. Its handsome foliage forms beautiful fountains of mounding leaves with stunning shades of bronze and deep green. It thrives in moist, shady spots and its lovely purple blooms look beautiful when planted in groups. Unlike many other plants, Chinese astilbe is easy to maintain and tolerant of drought when established. Its cheerful beauty is sure to bring a pop of color to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/og/39386513705_e9def738c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0d6963a268a3cdfde2bf601ba8911d57069e0422162b009a0611b9780b8bb9c6",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/regular/39386513705_e9def738c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7d5c90ed3f494addb1a3cd1554ddf60480a9ef8767bf3dc78e5a5731e82286d2",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/medium/39386513705_e9def738c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c67aaf7db7dc8ab8da555304ca87df860dd3e30335e6dc6d7d6e220f90f6d697",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/small/39386513705_e9def738c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=35083471b8b73764e919c3b07f09f5b4aba796d8e848b8dca69aef364b0cc9fb",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1070_astilbe_chinensis_purpurkerze_purple_candle/thumbnail/39386513705_e9def738c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7098113e04ed92b2852281ebc5d078482a96a535ed6efa23edadb314825f7b8d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1071,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis var. davidii"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": "var. davidii",
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "Asia",
+        "Russia",
+        "India",
+        "Myanmar"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 4,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1071&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1071&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-purple",
+            "lavender-pink-green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "dark-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1071&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe (Astilbe chinensis var. davidii) is an amazing plant that is sure to add a splash of color and life to any garden. It is a stunning herbaceous perennial that can reach up to three feet tall and features purple or pink spike flowers. The foliage of Chinese astilbe is a vibrant emerald green with glossy foliage. In addition, it is quite easy to maintain and can tolerate high levels of shade, making it a great choice for those with shady gardens. It can also be used as a cut flower in floral arrangements, adding a vibrant floral pop. Overall, Chinese astilbe is an extraordinary choice for adding long-lasting beauty to any flowerbed.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1071_astilbe_chinensis_var_davidii/og/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3b5d4c053b64b3bee19c46960072eb092dfd477850392eea81933353e84b7903",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1071_astilbe_chinensis_var_davidii/regular/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7de1f1c7f2027c5c6374bb84dcc86caca6ad5864d1e2be08b51d17aa68ab44fb",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1071_astilbe_chinensis_var_davidii/medium/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=849132b234a9c668cd4cec6998dc8e43fbe1e39626464e18d104b2c8e8e83449",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1071_astilbe_chinensis_var_davidii/small/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a44eede253a98d6f3be6772c95d41316e70607727528107166c45d011bd82c3f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1071_astilbe_chinensis_var_davidii/thumbnail/49081256312_50ab6617f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=703f2337fa1779fefe406d407091f299d30d12483194aa865df79407e89fff1b"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1072,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis var. pumila"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": "var. pumila",
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "Tibet"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1072&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1072&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "foliage",
+          "color": [
+            "green-gray"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink-lavender-white"
+          ]
+        },
+        {
+          "part": "stalks",
+          "color": [
+            "silver-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "December",
+        "January"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1072&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe (Astilbe chinensis var. pumila) is an amazing perennial shade loving plant. It produces dense purple or pink panicles of flowers in summer and early autumn. This eye-catching plant can give gardens a beautiful color display in summer months. It can also be used in rock gardens or at the edge of a woodland garden. In addition, Chinese astilbe is a low maintenance plant that requires minimal watering and fertilizing. It is tolerant of a wide range of soils, but prefers damp soil and shady areas. It is a great choice for those looking to add color to their garden without having to worry about a lot of upkeep.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1072_astilbe_chinensis_var_pumila/og/27622619213_e772f08412_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b7cedaf038ad26920ecedb4c5e6fa3c25f88a307033f8373486979c4d9377158",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1072_astilbe_chinensis_var_pumila/regular/27622619213_e772f08412_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e3cabc006c8d412c76459c0bb1c569f57ad9dec4ce087e592f6d71d4e8c9f42b",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1072_astilbe_chinensis_var_pumila/medium/27622619213_e772f08412_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0f4740bda803e547464828e86b67dacc8d7bd44dcb8f6b8ea87c61805ef34e58",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1072_astilbe_chinensis_var_pumila/small/27622619213_e772f08412_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=274812c00237ca585737b83032c11f3f67363b94a1662f2b2f82ba1cd1e669ca",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1072_astilbe_chinensis_var_pumila/thumbnail/27622619213_e772f08412_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8063549b609c8dd66bed9cbbc0169402d8c69c5d7b29e6d0552d2b694e70ec2a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1073,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis var. taquetii 'Superba'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Superba",
+      "variety": "var. taquetii ",
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1073&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1073&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "dark-pink"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1073&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Chinese astilbe (Astilbe chinensis var. taquetii 'Superba') is an amazing plant for the garden. It has lush and lush foliage in the form of bright green, deeply divided leaves and tall deep rose flower spikes that age to deep pink. It grows in semi-shade or sun and prefers moist soil. The blooms are compact and long lasting, often lasting until first frost. It also serves as a great ground cover as it grows to a height of 12-24 inches. Its beauty and ease of maintenance make it a popular choice for any shade garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1073_astilbe_chinensis_var_taquetii_superba/og/43359629975_a325c83c26_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8586214dcfb18c6119ac27ec7a83ac194f2ab93d4dfe0ab6752c4ce25b06496b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1073_astilbe_chinensis_var_taquetii_superba/regular/43359629975_a325c83c26_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7a9975b8d0f3f9009a93ade8c1215e0cc620c801b7228a7ebd826c04f02bd130",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1073_astilbe_chinensis_var_taquetii_superba/medium/43359629975_a325c83c26_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0085a369f43f604efa0e172ab00f4410238786e03bfc58eb915feab620cad793",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1073_astilbe_chinensis_var_taquetii_superba/small/43359629975_a325c83c26_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=920fa1ad87380e51eb02d5808622bd6fecebcf197add7443ede0031e9f4f2cab",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1073_astilbe_chinensis_var_taquetii_superba/thumbnail/43359629975_a325c83c26_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=87d67a63175b6592b13aba8e393c9ef2dc42f21f6aac69f4cf3137b5cef8310e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1074,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Vision in Red'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Vision in Red",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1074&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1074&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1074&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese astilbe is an amazing plant species that is perfect for adding a splash of color to your garden. The foliage is a light shade of green, with the Vision in Red variety featuring striking plumes of deep red. In mid-summer, this perennial produces attractive feathery blossoms that look like clusters of fluffy red feathers. This plant is low-maintenance and goes well with other flowers or shrubs. It thrives in shaded areas with moist, well-drained soil, and can even tolerate drier conditions once established. Even if this plant is neglected it can regrow itself the following year. Chinese astilbe is perfect for bringing a touch of classic beauty to any garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1074_astilbe_chinensis_vision_in_red/og/astilbe-red-flower-prachtspiere-schattenpflanze.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=aeb6fd9f7a3e8e03a2a8c7471ff1a6b3c48b5159e4cc594002188258cf2af538",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1074_astilbe_chinensis_vision_in_red/regular/astilbe-red-flower-prachtspiere-schattenpflanze.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c59f8a98dd24bd5133e0a3cef7291b3c8ea5f98f8622a249cfabf3fbefe5e203",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1074_astilbe_chinensis_vision_in_red/medium/astilbe-red-flower-prachtspiere-schattenpflanze.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=909caabc83a7045697325694c595a2ca10d6726f2a3fdcf0b03a7d9e2ff0ed36",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1074_astilbe_chinensis_vision_in_red/small/astilbe-red-flower-prachtspiere-schattenpflanze.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=52ca15c1324d917b8e8bbb55b5fa90f0e29899798eefc0b7238cf16b0e474a3f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1074_astilbe_chinensis_vision_in_red/thumbnail/astilbe-red-flower-prachtspiere-schattenpflanze.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fe0e397506e3a7fb1dc914e3b657b76703308035e34d1f1d9238a42991ba2c30"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1075,
+      "common_name": "Chinese astilbe",
+      "scientific_name": [
+        "Astilbe chinensis 'Visions'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Visions",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Astilbe",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1075&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1075&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1075&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese Astilbe (Astilbe chinensis 'Visions') is an amazing perennial flower that blooms from summer to early fall in breathtaking colors of pink, white, and rose. Their delicate blooms are sure to brighten up any garden and make it a stand out feature. It can even tolerate light shade, making it a versatile choice for any landscape. Plus, it’s known for thriving in cold areas and being drought tolerant. Chinese Astilbe is a must-have for its incredibly long bloom time, magnificent colors, and easy care.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1075_astilbe_chinensis_visions/og/27941793432_c5c390dbc4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014614Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6a2b83b59a72c38246e8df93b2f943bdf6fa25276bfb904c4db4526dd7bd8756",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1075_astilbe_chinensis_visions/regular/27941793432_c5c390dbc4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014614Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6c8e5bada1d32e709e4c6a477d051d0e75f981cafdffdb6ba4b02a83ae63559c",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1075_astilbe_chinensis_visions/medium/27941793432_c5c390dbc4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014614Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6701822607d506f7174fe411254183f8c0ad32ab20af4327f1b301e811a4e64a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1075_astilbe_chinensis_visions/small/27941793432_c5c390dbc4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014614Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cfeebf9dfe97015284104e245c4131cb58c6c9eca2c07a8a7ebe7bce11e15c6e",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1075_astilbe_chinensis_visions/thumbnail/27941793432_c5c390dbc4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014614Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=30e2305ca40726628a6138640ca6d987330b7e0c6c66ebab781a8f617db88494"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1076,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Darwin's Dream'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Darwin",
+      "variety": null,
+      "species_epithet": "'Darwin's",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1076&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1076&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1076&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe 'Darwin's Dream' is an amazing plant choice for the home or garden. It has an upright habit with tall, slim flower spikes that burst with white blooms from early summer through early fall. Lush, medium-green foliage provides a beautiful backdrop for the fragrant blooms. It is a hardy, low maintenance perennial which is great for beginners. It grows best in part shade, making it ideal for areas of your garden with dappled sun or partial shade. Also, 'Darwin's Dream' is resistant to deer, so you can plant with peace of mind. An extra bonus is the blooms make great cut flowers. 'Darwin's Dream' will make a beautiful addition to your garden.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1076_astilbe_darwins_dream/og/52275778975_608b8fe6c2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014614Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=db03105c853c3661da026c7cced9a8e0cc2133a1acca8111548d69f7368e9e41"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1077,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Delft Lace'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Delft Lace",
+      "variety": null,
+      "species_epithet": "'Delft",
+      "genus": "Astilbe",
+      "origin": [
+        "Netherlands"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1077&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1077&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1077&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe 'Delft Lace' is amazing for several reasons. It has vibrant foliage, with deep green leaves and delicate, white flower plumes. These flowers will bloom in late summer and add an interesting texture to any garden. The plant is easy to care for; minimal watering and fertilizing is required. Furthermore, it is deer and rabbit resistant - making it ideal for homeowners looking for a statement piece that deer won't eat. It also brings birds and butterflies to the garden, with its vibrant blooms and nectar. This beautiful plant is a great addition to any garden, adding texture and colour.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1077_astilbe_delft_lace/og/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5c97e07afd0c199bb0a6d8ff1e27ee157cba8b6c9781bc66ef92342cd60b14a7",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1077_astilbe_delft_lace/regular/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8b3bab768a0ec25951567b3f601bc63506f896ca81cf795deadeb91abd994fd5",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1077_astilbe_delft_lace/medium/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b9ce9e78edecf7b22a5f76a0f3402d9f85e98eb0c2d315a7a8523bb7d2918cb6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1077_astilbe_delft_lace/small/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=543497a3d7c6c580dfb512432af6dbf5f9ed34f340589917f59f53b8fbe7cdcf",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1077_astilbe_delft_lace/thumbnail/52182349570_1e2bff09bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=77cd051b01b15aeb32920257c7d4f2dcb220ec7e1f5dc0acf375f96d098b3bef"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1078,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Deutschland'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Deutschland",
+      "variety": null,
+      "species_epithet": "'Deutschland'",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1078&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1078&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1078&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe 'Deutschland' is an amazing plant species due to its distinctive features and beautiful foliage. It produces large mauve plumes of blossom during the summer months, adding a dazzling hint of colour to shaded areas. Its mounded, deep green foliage is evergreen in some areas, providing year-round interest, while its tall and graceful form adds an elegant air to any garden. Its tolerance of difficult soils and shady spots makes it an ideal choice for a low maintenance but stunning addition to a garden. Astilbe 'Deutschland' is a great choice for any gardener.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1078_astilbe_deutschland/og/Astilbe_japonica_Deutschland_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014616Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=21c62ae0b3f5f663c7f68aa77b8161ab3236f4fce6d5a4fa663233d315ff772e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1078_astilbe_deutschland/regular/Astilbe_japonica_Deutschland_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014616Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fbc6131f21519a218ac5cfdcb6ba8b210976cff1c862c37f435844ed65366202",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1078_astilbe_deutschland/medium/Astilbe_japonica_Deutschland_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014616Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3d5fa0d243406086107a28efebf457ca3660bbad54b0a0f738fa351a0d4d77d3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1078_astilbe_deutschland/small/Astilbe_japonica_Deutschland_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014616Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f2666ad6723507f592b3cafd147238d6ab932d92dc3149da04894f1244891fd8",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1078_astilbe_deutschland/thumbnail/Astilbe_japonica_Deutschland_0zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014616Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4d7ef73be8806e808b91cecaebead8270a19413f2f459ad5cfba656d6e0b0acd"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1079,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Erica'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Erica",
+      "variety": null,
+      "species_epithet": "'Erica'",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1079&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1079&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1079&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe 'Erica' is an amazing plant species that is perfect for low areas in any garden. It thrives in moist, well-draining soil, and is tolerant of a wide range of pH levels. Its stunning purple-pink flower spikes make it a beautiful addition to any garden. It also has lush, vibrant foliage that stays evergreen, even in cold and shady spots. Its long bloom season from May to August brightens any garden landscape, and its plume-like blooms attract hummingbirds, butterflies and other pollinators by the dozens. It's a reliable and hardy plant that is sure to bring any garden to life.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1079_astilbe_erica/og/52275313348_ba0b4b8f3b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014616Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6cac7ec66c2a8fd58a18fb359773d0396c6ef036f218a4fca33b5a95877ee975"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1080,
+      "common_name": "astilbe",
+      "scientific_name": [
+        "Astilbe 'Federsee'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Federsee",
+      "variety": null,
+      "species_epithet": "'Federsee'",
+      "genus": "Astilbe",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1080&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1080&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1080&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Astilbe 'Federsee' is an amazing flowering plant choice for the garden. With its low maintenance demands and eye-catching plume-like wispy blossoms, it’s easy to see why this perennial is a garden favorite. Not only does it thrive in partial to full shade locations, it produces an endless display of white flowers from June to August. Its delightfully contrasting burgundy stems and foliage provide additional pop of color. When it comes to soil and moisture needs, Astilbe 'Federsee' is undemanding and suitable for a wide range of soils, as long as it’s moist. Perfect for growing in a pot or the garden bed, this plant makes a statement to any outdoor paradise.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1080_astilbe_federsee/og/52275778975_608b8fe6c2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260726%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260726T014617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3c8df502bdb1ca9d110ae90935f9e48769521504a8b7dd5baa0dc4a93f89c937"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
