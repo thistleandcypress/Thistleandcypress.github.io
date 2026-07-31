@@ -189235,6 +189235,3646 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1201,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Dangling Pearls'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Dangling Pearls",
+      "variety": null,
+      "species_epithet": "'Dangling",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1201&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1201&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1201&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Begonia 'Dangling Pearls' is an amazing plant species that brings a magical look to any garden. Its cascading stems bear bright pink, pinkish-white and white blooms that hang in clusters like jewels, creating a stunning look. Plants can reach up to three feet in height and have glossy, wavy-edged green leaves that add extra texture and interest. Despite its exotic looks, this plant is incredibly easy to grow and perfect for containers or gardens in partial shade. The Begonia 'Dangling Pearls' is a truly unique plant that will delight and charm any gardener.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1202,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Emerald Glow'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Emerald Glow",
+      "variety": null,
+      "species_epithet": "'Emerald",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1202&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1202&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1202&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The begonia 'Emerald Glow' is an incredibly unique species with its waxy and thick leaves that are a striking deep emerald green giving it a glossy, sharp appearance. The light green veins in the center add to its captivating look. Its bright yellow flowers burst with beauty and will bloom throughout the spring and summer months, adding even more life to this already beautiful species. It makes a bold statement while still being strikingly elegant and graceful. Its small compact form and easy to care for nature make this an ideal choice for any home or garden. The begonia 'Emerald Glow' is absolutely stunning and adds a touch of beauty to any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1203,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia FUNKY PINK"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "FUNKY",
+      "genus": "Begonia",
+      "origin": [
+        "Japan",
+        "China",
+        "Taiwan"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1203&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1203&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1203&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The hybrid tuberous begonia (Begonia FUNKY PINK) is an amazing species of flower because of its eye-catching bloom that stands out with its bright pink and funky colored petals. It is incredibly easy to take care of and thrives in both warm and cool temperatures, as well as in part shade. Its large showy blossoms will bloom all summer long and keep your garden looking great from spring to fall. They are also easy to propagate with cuttings and can even be grown indoors, adding a splash of unique color to any home. With its beautiful and unique blooms, the hybrid tuberous begonia is an amazing species to have in your garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1203_begonia_funky_pink/og/Begonia_CorallinaHybrids_PresidentCarnotInflorescenceA.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=12617f09cc8a84035426e73b43c8938bf1b71a8348c346ed1b3c39d35cb29f34",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1203_begonia_funky_pink/regular/Begonia_CorallinaHybrids_PresidentCarnotInflorescenceA.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6813186837b6080428e4c9b72c8e7ce963aa26db8aeed54c896391a4c599de86",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1203_begonia_funky_pink/medium/Begonia_CorallinaHybrids_PresidentCarnotInflorescenceA.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b1a95f4202ba7a88e72ecc0e27d3676fe81bc4a7e03b9540e47799f38624764d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1203_begonia_funky_pink/small/Begonia_CorallinaHybrids_PresidentCarnotInflorescenceA.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=553348d4b22cd87e2375de534b16ba8b9890a83bf03e8969833dd0e40c15d930",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1203_begonia_funky_pink/thumbnail/Begonia_CorallinaHybrids_PresidentCarnotInflorescenceA.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ad3757faaa2a41981e33ae3ab9ec6bdcf12d018816bc785bac9aab5275abcafe"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1204,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis"
+      ],
+      "other_name": [
+        "giant begonia"
+      ],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "grandis",
+      "genus": "Begonia",
+      "origin": [
+        "Southern China"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1204&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1204&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green-red"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Deep shade",
+        " Filtered shade",
+        " Full sun only if soil kept moist",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1204&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Hardy Begonia (Begonia grandis) is an exquisite, long-blooming plant that is perfect for the outdoor garden. Its large, thick, and tender leaves are a deep green, and the stems are shallowly toothed. During the summer, the Hardy Begonia blooms with clusters of small, pink, cup-shaped flowers which draw in butterflies and other pollinators. It thrives in areas with partial to full shade and rich, moist soil. Hardy to -10 degrees Fahrenheit, this Begonia species is perfect for temperate climates and can even be used as a groundcover. It's a great choice to liven up shady areas and can provide a splash of color and pollinator activity year-round.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1204_begonia_grandis/og/50351525871_8929004bae_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0653d002fbdebd16e89c66642f47d3621c071e799b13ec5495f253183b658fd8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1204_begonia_grandis/regular/50351525871_8929004bae_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a3e087342a81dbb63655ec956b1fc50fef6467956d5eda0878e7f4f5e640b565",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1204_begonia_grandis/medium/50351525871_8929004bae_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f3fd7171ee5d1ba22219893d1de0f13c4f02532e6f4f8b2f7f07013fede4e708",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1204_begonia_grandis/small/50351525871_8929004bae_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=924e27e1b534b0b0debc0fda1450113f4fb7d4fff934b52d87b333cfc65f1fe7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1204_begonia_grandis/thumbnail/50351525871_8929004bae_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=624a66e3bd47446a205f8d8c35e81a6c9a134d302b37503070925f943d97915b"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1205,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis subsp. evansiana"
+      ],
+      "other_name": [
+        "giant begonia"
+      ],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "grandis",
+      "genus": "Begonia",
+      "origin": [
+        "Southern China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1205&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1205&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "stalks",
+          "color": [
+            "pink-green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Deep shade",
+        " Filtered shade",
+        " Full sun only if soil kept moist",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1205&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": null,
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1205_begonia_grandis_subsp_evansiana/og/3970623217_612770362c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=99bac851550ba93afe0cd595796192145f15c3c02129983b9906cc9162509257",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1205_begonia_grandis_subsp_evansiana/regular/3970623217_612770362c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ac3c1e56f2ace20390a2c91b311632d01510cf61894bf04024114006298c7d53",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1205_begonia_grandis_subsp_evansiana/medium/3970623217_612770362c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=451491106a01befc20891fba7349f502a4fcb0315d4c51eac412dbf086d473d6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1205_begonia_grandis_subsp_evansiana/small/3970623217_612770362c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=97a93f32cf6a1435376d1830c482f57b05ee6f278e5806c978c1a4a10fef57ef",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1205_begonia_grandis_subsp_evansiana/thumbnail/3970623217_612770362c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=01a589ec74b304d5cdc9244fbfef5be8759e9dda9fdc924f524db66c7a1625e9"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1206,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis subsp. evansiana 'Alba'"
+      ],
+      "other_name": [
+        "giant begonia"
+      ],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Alba",
+      "variety": null,
+      "species_epithet": "grandis",
+      "genus": "Begonia",
+      "origin": [
+        "Southern China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1206&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1206&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Deep shade",
+        " Filtered shade",
+        " Full sun only if soil kept moist",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1206&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Hardy begonia (Begonia grandis subsp. evansiana 'Alba') is an amazing plant species. This plant is hardy, meaning it is able to withstand cold temperatures, making it even more resilient. Its beautiful white and pink flowers bloom in the late summer months, and it can also be used as a ground cover. Hardy begonias are also low-maintenance and can be used to add a touch of color and texture to any garden. Additionally, it is also shade-tolerant, making it a great choice for shady areas. Hardy begonias are a wonderful choice for gardeners looking for something that is easy to maintain and adds charm and beauty to the landscape.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1207,
+      "common_name": "hardy begonia",
+      "scientific_name": [
+        "Begonia grandis 'Wildwood Premier'"
+      ],
+      "other_name": [
+        "giant begonia"
+      ],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Wildwood Premier",
+      "variety": null,
+      "species_epithet": "grandis",
+      "genus": "Begonia",
+      "origin": [
+        "Southern China"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1207&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1207&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Deep shade",
+        " Filtered shade",
+        " Full sun only if soil kept moist",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1207&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Hardy begonia (Begonia grandis ‘Wildwood Premier’) is an amazing plant species for any garden. They produce beautiful dark-green foliage with intricate silver veining, paired with clusters of showy pink flowers with attractive yellow centers. They thrive in partial shade and can spread up to 3 feet, making them perfect for covering a large area. Hardy begonias are incredibly hardy in cooler climates, surviving temperatures as low as 40 degrees. In addition, they are fairly drought-tolerant and require minimal care. With its stunning colorful flowers and foliage, Hardy Begonia is sure to make any garden look beautiful.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1208,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Green Gold'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Green Gold",
+      "variety": null,
+      "species_epithet": "'Green",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1208&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1208&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1208&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Begonia 'Green Gold' is an amazing plant species because of its low maintenance and high impact beauty. The alternating green and gold leaf pattern creates an eye-catching effect in both sunny and shady places. It is known to be particularly tolerant to drought, and is easy to propagate, since it can be grown from a single leaf. Its leaves are oval in shape and have a unique “holly-like” texture, making it easy to identify. This species also produces beautiful pink and yellow flowers, further adding to its beauty. With the Begonia 'Green Gold', you can liven up any indoor or outdoor space with its vibrant colors and interesting textures.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1208_begonia_green_gold/og/Begonia_28Rex-hybrid29_27Merry_Christmas27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=61c1c1e8fb0e281a5168bafd1cb3efe186737a4a92990861eb78600229c93248",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1208_begonia_green_gold/regular/Begonia_28Rex-hybrid29_27Merry_Christmas27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b6c7035554b5184eedd78265280339d26a51c658037aaa99f6218cfd20a756bf",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1208_begonia_green_gold/medium/Begonia_28Rex-hybrid29_27Merry_Christmas27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6473859ec445f327ecfd5e34949507d990025230ae37f826042fc92a8ba79ed5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1208_begonia_green_gold/small/Begonia_28Rex-hybrid29_27Merry_Christmas27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f0a59d01564ab6416cc0f5876c46d229f3a2d52731402924a0d9243a1d2c6fce",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1208_begonia_green_gold/thumbnail/Begonia_28Rex-hybrid29_27Merry_Christmas27_02.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4323157ce43c421729c3a5ff5cc114e8ba2f9762d40fc59892faa658775ace68"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1209,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Gryphon'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Gryphon",
+      "variety": null,
+      "species_epithet": "'Gryphon'",
+      "genus": "Begonia",
+      "origin": [
+        "Belgium"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "8",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1209&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1209&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "mint-green-creamy"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "maroon"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part sun/part shade",
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1209&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The begonia 'Gryphon' is a truly amazing plant. It has a unique feathery, rose-like foliage with purple, cream and green coloration. Its deep pink, double flowers bloom from summer to fall, their petals kissed with yellow stamens for maximum impact. This Begonia can tolerate full shade and make an ideal companion for hostas and ferns. It is exceptionally hardy, being drought and humidity tolerant, and once established, it’s mostly carefree. A real show-stopper in the garden, Begonia 'Gryphon' is sure to attract plenty of attention and appreciation.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1209_begonia_gryphon/og/9656051530_21f82c3dc7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7f844bb68ba633c98160d66e9f29b75d4e04bb014f6282da2df9f756bc6a90ba",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1209_begonia_gryphon/regular/9656051530_21f82c3dc7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dffb9ced22f46158653861e8c5e01b506552e94b5dfc226e7d5a6641f13aeab0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1209_begonia_gryphon/medium/9656051530_21f82c3dc7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=36915f1ca369fa29e81ab0e2b4bac023590f4ba6d55ca1a0b2b427214c0f1a05",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1209_begonia_gryphon/small/9656051530_21f82c3dc7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=685021349502205e8174cba14f2287207c323fc6fe2dd809fe98053701938506",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1209_begonia_gryphon/thumbnail/9656051530_21f82c3dc7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c1bde59494dd0a96de6f4e04d8a849fe024b32d66b1c350c8f01f3189e0caccf"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1210,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Lime Royale'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Lime Royale",
+      "variety": null,
+      "species_epithet": "'Lime",
+      "genus": "Begonia",
+      "origin": [
+        "Belgium"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1210&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1210&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May",
+        "May",
+        "October"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1210&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Begonia 'Lime Royale' is an elegant and amazing houseplant species ideal for any home. Its vibrant chartreuse foliage gives it a tropical touch while its clusters of soft pink flowers add a hint of color. The foliage of this begonia is shaded with deep red veins, lending it an especially beautiful look. Additionally, it requires very little maintenance. With regular watering and bright indirect sunlight, Begonia 'Lime Royale' will thrive for many years. Plus, its twining stems provide interest in hanging baskets as its cascading foliage flutters in the slight breeze. It's no wonder that Begonia 'Lime Royale' is a perfect addition to any home.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1211,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Martha Stewart'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Martha Stewart",
+      "variety": null,
+      "species_epithet": "'Martha",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1211&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1211&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "stalks",
+          "color": [
+            "green-pink"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1211&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Begonia 'Martha Stewart' is a beautiful, easy-to-care for option for any garden. It features colorful leaves with yellow and green variegation, as well as spectacular blooms in shades of pink and white. Consequently, it adds a unique and uplifting ambience to the entire space. It is also fairly tolerant of dry air and doesn't require a lot of water, which makes it an ideal choice for those with busy lifestyles. Additionally, it grows best in partial shade and only needs to be pruned occasionally making it a low-maintenance option. With its unique charm and easy-care routine, the Begonia 'Martha Stewart' will definitely bring beauty and life to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1211_begonia_martha_stewart/og/52599838828_d48aa4283c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f3822f2ebeaab33a3382472735ad7050ef914787811d62616c486af0b891bbcd",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1211_begonia_martha_stewart/regular/52599838828_d48aa4283c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=450c3543e1ea6a41ad07ac2d3c56966f3ac651d012baa30ea6f6d5aacf65fc66",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1211_begonia_martha_stewart/medium/52599838828_d48aa4283c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=98ed2d8c0f2f786729d96c358f1f6a14681c49d5acaef6e68217f6b141702047",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1211_begonia_martha_stewart/small/52599838828_d48aa4283c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=be5f7d957bef632690051481731286f9f59d8475badb788326c31b2911a6e882",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1211_begonia_martha_stewart/thumbnail/52599838828_d48aa4283c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=13cdebb1f089dc856d9f4491347e04d435e8814a89b87635ab2093964ae63b01"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1212,
+      "common_name": "iron cross begonia",
+      "scientific_name": [
+        "Begonia masoniana"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "masoniana",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting"
+      ],
+      "hardiness": {
+        "min": "11",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1212&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1212&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part sun/part shade",
+        "filtered shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1212&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Acidic",
+        " Alkaline",
+        " Well-drained"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mites",
+        " Root rot",
+        "  Pest resistant",
+        " Disease resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Iron Cross Begonia (Begonia masoniana) is a unique and beautiful plant with large, showy foliage. Its green leaves are marked with a deep purple, cross-shaped pattern with white veins radiating outward, giving the leaves their signature \"iron cross\" look. It's a great choice for brightening up semi-shaded areas or a low light living space. The foliage develops an interesting tuberous shape over time. It produces clusters of white to pink bell shaped flowers that appear in late summer and fall. It's truly a spectacular plant that's sure to be a conversation starter in any garden!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1212_begonia_masoniana/og/29865980861_27d35f6447_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=aff881a7feac44a4c163188d00bffacdd96d831001e012ee091da3be0bef31d0",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1212_begonia_masoniana/regular/29865980861_27d35f6447_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=da58b8af8a8b90a4e6ba6f16c90750e83d735e38244679faca4ebd3ac91762d3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1212_begonia_masoniana/medium/29865980861_27d35f6447_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f103432f761f143a15215390e97c7ca42c8888f762b2750317bf6daf409e41c6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1212_begonia_masoniana/small/29865980861_27d35f6447_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=84e39b695d6294c1e68b897ae6a35853e3d545b1a5798e91b8cad2ee847b07b5",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1212_begonia_masoniana/thumbnail/29865980861_27d35f6447_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bbe6aadd418e239e36e3c82cc04439411958c5fccc296caeb23cbfcd5a448a6f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1213,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Penny Lahn'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Penny Lahn",
+      "variety": null,
+      "species_epithet": "'Penny",
+      "genus": "Begonia",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1213&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1213&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "maroon-green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink-red",
+            "bright-red"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stalks",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "stamen",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "red"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1213&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Begonia 'Penny Lahn' is an amazing plant species. Native to tropical regions, its tall branches can reach heights of 24 inches and boast bright green foliage highlighted by magenta-red petals. The large blooms and bold colors make it a great addition to any garden or outdoor space. The leaves and stems are also quite delicate and the plant is fairly easy to take care of. It's unique look and bright colors make it a standout in any setting - the perfect way to liven up a backyard or potted patio garden. Plus, its low maintenance and easy to care for making it an ideal choice for busy gardeners.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1213_begonia_penny_lahn/og/52496552436_073086053b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8be0dcccda73e60efdf96bc0815f053558e3b3ca140049afb684bc730c41bbf8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1213_begonia_penny_lahn/regular/52496552436_073086053b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5acfea22ffba025805798dbb5a8302a24a5ea8a6e62c74db48eb433abd498fbd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1213_begonia_penny_lahn/medium/52496552436_073086053b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c9ecc65163e47d76010ec88f9256cfb1bb2b6e7b6e2a9b3658ce1b53b3bdee7a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1213_begonia_penny_lahn/small/52496552436_073086053b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d507d27a198771b636e15db8cb95304bc4008fdf4521bfea85fb06e22bacf9eb",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1213_begonia_penny_lahn/thumbnail/52496552436_073086053b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=89e05be9dd9c08cb23a9a0c77ba251ad9a26d3580056a59ab28f0f39ee89bb9c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1214,
+      "common_name": "rex begonia",
+      "scientific_name": [
+        "Begonia rex-cultorum"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "rex-cultorum",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1214&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1214&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "foliage",
+          "color": [
+            "green-white-pink-purple"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1214&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Rex Begonia, or Begonia Rex-Cultorum, is truly an amazing type of plant. With its stunning and vibrant colors, intricate and intricate leaf structure, and overall lush appearance, the Rex Begonia is sure to transform any dull looking space. It is a low maintenance plant which is perfect for beginner gardeners and provides lasting beauty with little effort. Furthermore, the Rex Begonia is an air purifying plant which helps to reduce pollutants and toxins in the air. Its stunning foliage, easy maintenance and air purifying qualities make this an amazing and essential addition to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1214_begonia_rex-cultorum/og/28485232700_2b71265572_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e0b49e8687e38b708b674f9d6f8562546b19a64f1e33617bcd52118f16e2e607",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1214_begonia_rex-cultorum/regular/28485232700_2b71265572_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2ce8949b1f169cb6a5c8c785ad2e814f9373cd8f182f6d28ba38d1205bc3bd76",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1214_begonia_rex-cultorum/medium/28485232700_2b71265572_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bba6d45f9e1fff1ebed549316d26f8df9e54fa24c1385f5dac06231d306ce0cc",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1214_begonia_rex-cultorum/small/28485232700_2b71265572_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bd297d68d71cd720a69349e14decd21e4f23ecf5b43cbc500167a2cac8f2bf92",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1214_begonia_rex-cultorum/thumbnail/28485232700_2b71265572_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ef54b1d3fa77cbc0f8d305d85395edabf36ca456993524be90be0f1fa7a10c3f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1215,
+      "common_name": "rex begonia",
+      "scientific_name": [
+        "Begonia rex-cultorum 'Super Curl'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Super Curl",
+      "variety": null,
+      "species_epithet": "rex-cultorum",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1215&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1215&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1215&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "High",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Rex begonia (Begonia rex-cultorum 'Super Curl') is amazing for its stunning foliage coloration and uniquely sculpted leaves. This shade-loving plant has stunning leaves that are usually bright green, with patches of silver, pink, and red. The 'Super Curl' cultivar tends to have more intense coloration and the elongated, curly leaves look almost sculpted. Its showy blooms, soft to the touch, come in a variety of shades, ranging from pink to white. Rex begonia is incredibly hardy, making it an easy choice for a variety of gardens. It's a standout addition to any shady area, and its unique colors and sculptural leaves are sure to make an impact.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1215_begonia_rex-cultorum_super_curl/og/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a6d97b0dd04c7389484d9fdf046dea424366368133249c11fc558299e5f70f64",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1215_begonia_rex-cultorum_super_curl/regular/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b540f3c6c48dfb145322344163a4a29f03448be5985071340f2f6f8021182d06",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1215_begonia_rex-cultorum_super_curl/medium/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e231935624b2e2279d2415f82e7c98e747cdf5913ba55b227423cef2cb198776",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1215_begonia_rex-cultorum_super_curl/small/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1911dde90d1a81c862293a147643442d26a5d17e67b117589a76b703a47500ed",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1215_begonia_rex-cultorum_super_curl/thumbnail/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6bdb7e6acd574cc926acb61c56375abfbdaaac8e2f59de6ee96b135e917c2e5d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1216,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'River Nile'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "River Nile",
+      "variety": null,
+      "species_epithet": "'River",
+      "genus": "Begonia",
+      "origin": [
+        "Egypt"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1216&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1216&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-maroon"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1216&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Begonia 'River Nile' is an amazing plant species due to its beautiful colors and impressive hardiness. Its striking pink and white flowers trailing from its long stems will brighten up any room or garden. This attractive variety is also very easy to care for and can be grown in temperatures as low as 58°F. It loves the sun, so it's great for brightening up darker areas, and loves to be watered regularly. Its foliage is a rich deep green, making it perfect for borders or raised beds and it's sure to add an exotic touch to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1216_begonia_river_nile/og/48273820461_444a667bea_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d5628bf06cdaa2eb36a529c36906664575f21c44dc42f99a4c5f37c921e909b2",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1216_begonia_river_nile/regular/48273820461_444a667bea_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=471467117cd31423424939890780c6fdaf0052a6b705e1e324c47699f2f3cd47",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1216_begonia_river_nile/medium/48273820461_444a667bea_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7dd7febc7235b5e2988e0d09d83adaac1375705b5ea417d4e1ade7005732babb",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1216_begonia_river_nile/small/48273820461_444a667bea_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d6d6072c058f542dec22cd3ac462e9450797e11b95893226dd8e5b04a28ab270",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1216_begonia_river_nile/thumbnail/48273820461_444a667bea_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=489eedbb246b70b5c9cd3eb2b8f478fd2467df5cc8c0230c1bacd6cde846da99"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1217,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia (Semperflorens Cultorum Group)"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(Semperflorens",
+      "genus": "Begonia",
+      "origin": [
+        "Brazil",
+        "Colombia",
+        "Ecuador",
+        "Peru"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1217&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1217&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink-red-white"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "foliage",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1217&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Begonia (Semperflorens Cultorum Group) is renowned for its showy and eye-catching display of vibrant pink and white flowers. These flowers are often referred to as being “non-stop” bloomers, as they will continually flower from late spring all the way through to autumn. This amazing species is incredibly hardy as well, making it suitable for both indoor and outdoor planting. It is also able to thrive in either shady or full sun environments, adding to its appeal. Begonia (Semperflorens Cultorum Group) is an excellent choice if you’re looking for a long-flowering and hardy plant that will bring color and cheer to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1217_begonia_semperflorens_cultorum_group/og/28769541485_d149269ecc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=59636ab8da5e38be5f09fc5cb59de1e3471c9cf8aecb2686ffb279e44bd8de6c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1217_begonia_semperflorens_cultorum_group/regular/28769541485_d149269ecc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c2faa77b7bd5447dcd3b80d48ec630afe9fdc7dc7497cc160962c9f2172d96d4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1217_begonia_semperflorens_cultorum_group/medium/28769541485_d149269ecc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2f92687c4255327f3407968cff2ac0bd69b943a74acf1f9c1ad6828f6e46b31b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1217_begonia_semperflorens_cultorum_group/small/28769541485_d149269ecc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5589b159118d5a465a6936b3b35b2bc57c7726c4f0b66c85855da2f91b5969c6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1217_begonia_semperflorens_cultorum_group/thumbnail/28769541485_d149269ecc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3f822dfeb856383f86356bc76a00b90e6f86555052f6ee382f44c21733a7c2ad"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1218,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia semperflorens 'Senator Deep Rose'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Senator Deep Rose",
+      "variety": null,
+      "species_epithet": "semperflorens",
+      "genus": "Begonia",
+      "origin": [
+        "Brazil"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1218&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1218&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "dark-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1218&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Begonia semperflorens 'Senator Deep Rose' is a show stopping variety of houseplant. With its beautiful green and deep rose foliage, and its unique fan-like growth habit, it stands out from the crowd. The flowers are free-flowering and come in a variety of colors, from bright pink to deep yellow, giving it a lovely, vibrant display all year round. The Begonia semperflorens 'Senator Deep Rose' is perfect for brightening up your office or home decor and is also easy to care for, making it an excellent choice for any home or garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1218_begonia_semperflorens_senator_deep_rose/og/8884235929_8f2eaa2082_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=835ed8584708a38a174875344a610cd6f0a62fae463fc4dded4d8a07f26ddcea",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1218_begonia_semperflorens_senator_deep_rose/regular/8884235929_8f2eaa2082_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=09b62097a664632e4242eff139290b250d2b4b6ac3a665b898f54fd38abe4bb1",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1218_begonia_semperflorens_senator_deep_rose/medium/8884235929_8f2eaa2082_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=84f2199848619c3adb93c815e635285329f528cecb76699715b235ec81748b9d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1218_begonia_semperflorens_senator_deep_rose/small/8884235929_8f2eaa2082_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=76daf30f97f1d774a356fcfd14a98375ddbd5670c16f3422e71dcb3af23999c4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1218_begonia_semperflorens_senator_deep_rose/thumbnail/8884235929_8f2eaa2082_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b664445e81c797dccffac943df2a038d93990b36a7f0cf0db016573c686e5252"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1219,
+      "common_name": "wax begonia",
+      "scientific_name": [
+        "Begonia semperflorens-cultorum 'Harmony Scarlet'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Harmony Scarlet",
+      "variety": null,
+      "species_epithet": "semperflorens-cultorum",
+      "genus": "Begonia",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1219&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1219&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "bright-red"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "gray-green"
+          ]
+        },
+        {
+          "part": "flower",
+          "color": [
+            "bright-red-pink"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "filtered shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1219&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The wax begonia (Begonia semperflorens-cultorum 'Harmony Scarlet') is an amazing plant species with remarkable benefits. It's glossy, dark green leaves with red accents are stunning and make for vibrant plant displays. This evergreen variety is tolerant of a wide range of temperatures, and can even bloom continuously throughout the summer. Best of all, the wax begonia is an easy-care option that requires little maintenance! Water in moderation and plant in a bright, well-drained spot and you will be sure to enjoy the flowers' unique beauty over a long season.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/og/51577380672_f496c3f7c8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dcd59bb0ff3c27200f7fee1231b4d9a42b662c71633f1b531a2bca649fd06f8d",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/regular/51577380672_f496c3f7c8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b7a15b13315d7231d4a08a728c0bf09dcf232b292234bc2451cbea71e5a0b334",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/medium/51577380672_f496c3f7c8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b91e73688a3f44edfd9a041e84d5401b58c0ec6ec435cf1b61aa375a25f6c404",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/small/51577380672_f496c3f7c8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=79a6381e6d33080af6cf17aedafda7f1f1919021573e66643c37dd648cef7e3f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/thumbnail/51577380672_f496c3f7c8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b6192a5f8e26dd3e1d53551fbcc9890765343aeefbe1cb9df088a1f0d24033c8"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1220,
+      "common_name": "angelwing begonia",
+      "scientific_name": [
+        "Begonia 'Sinbad'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sinbad",
+      "variety": null,
+      "species_epithet": "'Sinbad'",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1220&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1220&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "dark-green-pink"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "pink-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1220&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Angelwing begonias (Begonia 'Sinbad') are a luscious and eye-catching plant species. They’re easy to care for, yet beautiful enough to draw attention. These begonias are both drought and heat-resistant, making them suitable for any garden setting. They have large, glossy green foliage with burgundy highlights, and delicate white flowers. The light-pink, wavy petals of the 'Sinbad' variety give the plant its unique name, as they resemble the wings of an angel. With proper care, these begonias will provide year-round foliage and seasonal flower blossoms. Perfect for adding colour to a outdoor space or as a houseplant, angelwing begonias are an amazing addition to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1220_begonia_sinbad/og/3789073932_9453547ff0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0e33cc4c6a82d6fe84e359aa87f02565b6f95ce41c0adcdb1ce06d7f08d9f04d",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1220_begonia_sinbad/regular/3789073932_9453547ff0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ffce9cfcd29956bfddb95bc8b48e16e4ae63ff8af297e2bcb38f89d0c654f157",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1220_begonia_sinbad/medium/3789073932_9453547ff0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2da55e5e9883a2b77c62bd21e332170869d4bf2bfdab27215e5395850a40b32f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1220_begonia_sinbad/small/3789073932_9453547ff0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f57264d0f5ef1850120bd3a95553def8413e39eae5034f0dfbc8b6a3b84bec96",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1220_begonia_sinbad/thumbnail/3789073932_9453547ff0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6efb4ae7a494eb40e4a8e0695ed2d8528d076c3361520b652f541b291d0aaad7"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1221,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Solar Flare'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Solar Flare",
+      "variety": null,
+      "species_epithet": "'Solar",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1221&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1221&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part sun/part shade",
+        "filtered shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1221&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Begonia 'Solar Flare' is an amazing plant species due to its unique color palette. The beautiful foliage combines cream, apricot, lime and cherry tones to create an eye-catching display. It thrives in warm, humid conditions, making it suitable for your windowsill garden or outdoor planting. The striking foliage reflects the light, giving it added sparkle. The delicate, yet sturdy stems make this species an easy keeper and its showy blooms make it a great choice for adding a striking touch of colour to any garden. With its ability to thrive in a range of climates and its vibrant foliage, Begonia 'Solar Flare' is definitely an incredible plant species.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1222,
+      "common_name": "angelwing begonia",
+      "scientific_name": [
+        "Begonia 'Sophia'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sophia",
+      "variety": null,
+      "species_epithet": "'Sophia'",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1222&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1222&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1222&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Angelwing Begonia 'Sophia' is an amazing plant species with unique characteristics that make it stand out. Its large, oval-shaped leaves feature striking red undersides that contrast beautifully with the glossy, deep green tops. The showy, double pink flowers bloom throughout the year, adding to its beauty. Plus, Sophia is incredibly easy to care for, needing minimal attention and well-draining soil to grow its best. Its an impressive sight indoors, brightening any room with its exotic flair. With its graceful lines and attractive color combinations, the Angelwing Begonia 'Sophia' is a charming, eye-catching addition to any home.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1222_begonia_sophia/og/Begonia_27Sophie_CC3A9cile27_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=09a5de568519cfb0317837ad5723a58de82ce67bdcd1d14afe18028c6f016679",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1222_begonia_sophia/regular/Begonia_27Sophie_CC3A9cile27_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=87d7dd6f50102f546ed49ebe50cbe06528933945d5ba2551928bfd3191204556",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1222_begonia_sophia/medium/Begonia_27Sophie_CC3A9cile27_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=040cad3bc8667715fdc2925b22ec5e8d3af36298dae1a36d58dc20d6ccbc5af5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1222_begonia_sophia/small/Begonia_27Sophie_CC3A9cile27_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4f29d1b6d7b6351f55070242a9c7b2e6a5d9365b33e961bd015fc46f1582bc05",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1222_begonia_sophia/thumbnail/Begonia_27Sophie_CC3A9cile27_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=77adad563953b309f0cd08b0d47a2c67c3d9300bd69610c7211a90d24d8ed9b6"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1223,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia tuberhybrida 'Jurassic Pink Splash'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Jurassic Pink Splash",
+      "variety": null,
+      "species_epithet": "tuberhybrida",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.25,
+          "max_value": 1.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Seed Propagation",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1223&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1223&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1223&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The hybrid tuberous begonia (Begonia tuberhybrida 'Jurassic Pink Splash') is an amazing garden specimen that blooms heavily in shades of pink and white. Its frilly and vibrant blooms add a tropical aesthetic to any space. The powerhouse of a plant can grace any garden all season long with its clusters of flowers, and is relatively easy to care for. It flourishes in partial sun to shady conditions and only requires minimal watering, making it an efficient use of resources for any home gardener. With its colorful and long-lasting blooms, this begonia is sure to be a star in your garden!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/og/22656824786_be81bc2887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=949927ef80d28233174c3f25dca7d1764a3a5d9e3153bcbb83d67a81079e8434",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/regular/22656824786_be81bc2887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=092be8595ba10a5dfad2d28d3cc15b6c5daae35a24be0be93735b05491ebdce3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/medium/22656824786_be81bc2887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=78d0b5421e8756eaddb8d1efb9b5d23542635442ebc1c8fa433762f4eb1e7fb0",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/small/22656824786_be81bc2887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d01010f53b7e60d843715875ca69fbdf186199423d6ddced4acdb06fbcc20702",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/thumbnail/22656824786_be81bc2887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=50381704c7153ecf29bd79ae06af796a575f434b520d5c5c4d1b585b4181fdc7"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1224,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia tuberhybrida 'Jurassic Silver Swirl'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Jurassic Silver Swirl",
+      "variety": null,
+      "species_epithet": "tuberhybrida",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.25,
+          "max_value": 1.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Air Layering Propagation",
+        "Leaf Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1224&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1224&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "dark-purple-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "August",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1224&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The hybrid tuberous begonia 'Jurassic Silver Swirl' is simply amazing. It features stunning, silver-green foliage that develops a festive hue of pink and purple shades as it matures. This begonia is low-growing and upright, with interesting branching that adds multiple levels of texture. Bright green and yellow flowers bloom in the summer months, making it a show-stopping feature in the garden. In addition, 'Jurassic Silver Swirl' is resistant to deer, easy to care for, and loves partial to full shade. Its intricate leaves provide year-round interest, making this begonia a real asset to the garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/og/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=435886646e03b9e4e3d34a1aa4de013a72ee8be527770afe649f14ac1f36d4ef",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/regular/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0098569332e055ac98d3265cf25edcf3edef2ba808d9e03cec75028487aa52c5",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/medium/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6b25e9bc3dc115fccb4af7fa6e5e3ff26c0cb3c4a3f0d86a698c37a9226387ab",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/small/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6cdd8a83bdac1ce6f8a35464970ae7ce50958e57628683a95b360c7c6f26aa5a",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/thumbnail/28152488224_06e2aca626_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=be27acda71e1c0db3f2e1874db1664368ac3b7ed3cb06a2f86cb8d38bb3bbd73"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1225,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia tuberosa 'Fortune Peach Shades'"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Fortune Peach Shades",
+      "variety": null,
+      "species_epithet": "tuberosa",
+      "genus": "Begonia",
+      "origin": [
+        "China"
+      ],
+      "type": "Begonia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1225&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1225&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1225&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Begonia tuberosa ‘Fortune Peach Shades’ is a stunning plant with interesting and eye-catching foliage. Its bronze-green leaves are patterned with white, while its peachy-pink blooms are sure to bring beauty to any garden or home. It thrives in shade and can survive in dry conditions, making this an easy-care and hardy addition to any space. Not only that, its uniquely colored flowers will attract birds and pollinators, and its heat-tolerant leaves will remain lush and vibrant on even scorching summer days. Plus, its bushy, upright form is a great choice for containers. Have a ‘Fortune Peach Shades’ Begonia in your garden and it’ll be a show-stopper for years to come!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1226,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia (Tuberosa Group)"
+      ],
+      "other_name": [],
+      "family": "Begoniaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(Tuberosa",
+      "genus": "Begonia",
+      "origin": [
+        "China",
+        "Japan",
+        "India",
+        "Korea"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Seed Propagation",
+        "Air Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1226&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1226&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part sun/part shade",
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1226&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Hybrid Tuberous Begonia is a stunning addition to any garden or home. Its unique flowers come in a variety of colors, from white to pink, orange and yellow. Its large, toothed leaves are attractive, and its tuberous rhizomes allow it to thrive in a range of climates. When planted in semi-shade, the leaves and blooms of the Hybrid Tuberous Begonia will remain vibrant and healthy. This beauty can be appreciated all year round indoors or out! With its hardiness and easy care, this is a great plant for everyone, from the novice gardener to the experienced green thumb.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1226_begonia_tuberosa_group/og/Begonia_x_tuberhybrida_1005Pink1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014759Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9044d2699f82aadc0adaab0e205091aa15de6723c8ee4e2c5385bdf165046e80",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1226_begonia_tuberosa_group/regular/Begonia_x_tuberhybrida_1005Pink1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014759Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=45a90beaee5d1d5f2087049dee1c9b04ee88af99073e98ce7132169e1ca4eb12",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1226_begonia_tuberosa_group/medium/Begonia_x_tuberhybrida_1005Pink1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014759Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5e4568cc8f1d3082e62490bb26c2f96f1a062a7eabfdb31217fec7af73273ed5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1226_begonia_tuberosa_group/small/Begonia_x_tuberhybrida_1005Pink1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014759Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=215ba3e578dae6ff0402ff8e1c17d23d6ab66454159019880a53f37d168cbeb8",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1226_begonia_tuberosa_group/thumbnail/Begonia_x_tuberhybrida_1005Pink1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014759Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=18ec59c612edbf87455b286c9c4789bd8a9f394b154d632ddf3a5dac67628eb9"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1227,
+      "common_name": "English daisy",
+      "scientific_name": [
+        "Bellis perennis"
+      ],
+      "other_name": [
+        "English Daisy"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "perennis",
+      "genus": "Bellis",
+      "origin": [
+        "Northern Africa",
+        "Western Asia",
+        "Europe"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.25,
+          "max_value": 0.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1227&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1227&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "petals",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stalks",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stalk",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flower",
+          "color": [
+            "white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1227&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Low",
+      "pest_susceptibility": [
+        "Fungal leaf spot"
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "English daisy (Bellis perennis) is an amazing species to have in your garden! These perennials are low growing and love sun-filled areas. They have lovely bright flowers in pink, white, or red and intricate, eye-catching foliage. Not only are they pleasant to look at, but they also attract beneficial pollinators! The flowers are edible and can be used to garnish salads or desserts. English daisies are also incredibly resilient and tolerate drought, disease, and low temperatures. All of these qualities make them an excellent plant to add to any garden!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1227_bellis_perennis/og/52596198660_443c34ed63_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1fcc0055859f5fddad3e6e8b542fb03fef7236345bc43d758853595633b0d6ec",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1227_bellis_perennis/regular/52596198660_443c34ed63_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=afaf611eb0c8eede4fc6736be74710edbf8e606e806ea919ede74fb35e9dfb1f",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1227_bellis_perennis/medium/52596198660_443c34ed63_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=73985ddea18cc3f2152d6807e3d57b2427b3b241e710319bc324df3dbfe4e707",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1227_bellis_perennis/small/52596198660_443c34ed63_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=65a627ef215b5078ed2d0722e613ec6c01249dccdf38d75e4116535d760451a0",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1227_bellis_perennis/thumbnail/52596198660_443c34ed63_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cff54f6192c56474fe9149fa5394c3c15c8109739388ab9347d0c25359eabd91"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1228,
+      "common_name": "English daisy",
+      "scientific_name": [
+        "Bellis perennis BELLISSIMA RED"
+      ],
+      "other_name": [
+        "English Daisy"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "perennis",
+      "genus": "Bellis",
+      "origin": [
+        "Northern Africa",
+        "Western Asia",
+        "Europe"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.25,
+          "max_value": 0.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1228&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1228&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1228&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Fungal leaf spot"
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Bellis perennis 'PAS285179' BELLISSIMA RED is an absolutely stunning English Daisy, a beautiful hardy annual flower that is sure to attract attention. This little beauty has unique and vibrant red daisy petals, contrasting with yellow button centres that make this variety truly eye catching. It grows quickly, making it suitable for any garden size. The flowers are self-cleaning, so deadheaded spent blooms is seldom required. Not only does it look great but it needs very little maintenance and is resistant to many common garden diseases and pests. Many pollinating insects which can help promote other blooming plants are attracted to this flower. All in all, it's an amazing flower for the flower bed or border and truly the Queen of the Daisies.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1228_bellis_perennis_bellissima_red/og/daisies-red-flowers-spring-garden-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b37dbecd3175f5227e717e2b8a201cc055168f00084111fc173ec4edbda3cbfe",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1228_bellis_perennis_bellissima_red/regular/daisies-red-flowers-spring-garden-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=89b9abf119a4cc3bdec32d304b3f9b7f350c6bfae191c4e83eef0f0c11cf6379",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1228_bellis_perennis_bellissima_red/medium/daisies-red-flowers-spring-garden-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=808d8a3499f59c84a7f18e138fb8ae301fe846b00a8c3d598e1640cb416106e6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1228_bellis_perennis_bellissima_red/small/daisies-red-flowers-spring-garden-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=af44b567bc2656366f3f42a23f90cc6e613a3c7638e3150fac21c4f28fac9795",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1228_bellis_perennis_bellissima_red/thumbnail/daisies-red-flowers-spring-garden-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f419f65303696289df69e4928d18087c296deafd53c53ca80302bc17e4e6f02b"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1229,
+      "common_name": "wax gourd",
+      "scientific_name": [
+        "Benincasa hispida"
+      ],
+      "other_name": [],
+      "family": "Cucurbitaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "hispida",
+      "genus": "Benincasa",
+      "origin": [
+        "Indomalaya"
+      ],
+      "type": "Fruit",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1229&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1229&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "fruit",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "vine",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flower",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "fruits",
+          "color": [
+            "green-yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1229&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": true,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The wax gourd (Benincasa hispida) is an amazing multifaceted species of vine-growing squash. Its amazing because of its versatility – it can be eaten as a vegetable and its mature, dried, shell-like rind is used to make containers, various musical instruments, and even to fuel fires. Additionally, its root, stem, leaf and flower are all edible and oftentimes utilized in traditional medicine for treating a variety of ailments. Its sweet flesh can be eaten cooked or raw, plus the gourd also produces a large amount of edible seeds that can be harvested for their high nutrient content. Truly an amazing plant!",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1229_benincasa_hispida/og/14397805714_f84f9abde5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014801Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=487b14b5b592fe9219f523252046b827d4ecce995e6cde304713c6feac2c0a0d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1230,
+      "common_name": "holly-leaved barberry",
+      "scientific_name": [
+        "Berberis aquifolium"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "aquifolium",
+      "genus": "Berberis",
+      "origin": [
+        "Northern North America"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds"
+      ],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1230&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1230&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "yellow",
+            "yellow-maroon"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "green-yellow"
+          ]
+        },
+        {
+          "part": "branch",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stalk",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1230&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": true,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Holly-leaved Barberry (Berberis aquifolium) is an amazing plant species with a unique look and many benefits. Its green-tinted leaves have the classic holly-like shape, making it a valuable addition to any landscape. Its reddish-purple stems and bright yellow flowers add a touch of visual appeal. In addition, Holly-leaved Barberry is great for attracting birds and butterflies, as well as providing shelter, nesting sites, and food for wildlife. This attractive plant is also often used as a low-maintenance hedge or border as it is cold-hardy and tolerant of a wide variety of soils and conditions. It’s a great choice for those looking for an easy-care and interesting addition to their garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1230_berberis_aquifolium/og/51093554136_76d8dd16c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014801Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ccd0758489b80d739a8e173205de3203fd0acea5de5ffbc806b3711becf00ed8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1230_berberis_aquifolium/regular/51093554136_76d8dd16c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014801Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c2a1518b14f6db6e4a7b057390a7301351a6adf2eef2b68f05e52fe45d46c94c",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1230_berberis_aquifolium/medium/51093554136_76d8dd16c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014801Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b5679446c0f3b54ed2ff3b3272f8d88d16bedbf7aa75c6fe89ac86dc78a30b05",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1230_berberis_aquifolium/small/51093554136_76d8dd16c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014801Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2c2e9ed971667dbdb056da151d5983c8ed2c27ff64d99056f75840a784cba12a",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1230_berberis_aquifolium/thumbnail/51093554136_76d8dd16c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260731%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260731T014801Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=52cf6e483dfbec3705419b68c6537b617a157859472024e162cd40e1df3918ef"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
