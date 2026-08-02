@@ -196563,6 +196563,3650 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1261,
+      "common_name": "pigsqueak",
+      "scientific_name": [
+        "Bergenia cordifolia 'Winterglut' WINTER GLOW"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Winterglut",
+      "variety": null,
+      "species_epithet": "cordifolia",
+      "genus": "Bergenia",
+      "origin": [
+        "Germany",
+        "Austria",
+        "Czech Republic",
+        "Poland",
+        "Slovakia",
+        "Hungary",
+        "Romania",
+        "Ukraine",
+        "Belarus",
+        "Russia",
+        "Kazakhstan",
+        "Mongolia",
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1261&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1261&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "dark-pink"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "December",
+        "January",
+        "February",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1261&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Pigsqueak, also known as Bergenia cordifolia 'Winterglut' WINTER GLOW, is a stunningly beautiful perennial plant with evergreen, heart-shaped leaves which stay vibrant and colorful even in winter. The opulent red stems, purple and green leaves, and pink flowers make it a sight to behold and will light up your landscape. It is hardy plant, tolerating both heat and cold, and is drought tolerant. This plant is also quite deer resistant, and can be used as a groundcover or in containers. Pigsqueak's low maintenance and easy care makes it a great choice for any home garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/og/34142635135_905ab8b02b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9c28fb33756dfaff04e0e2f4c42f729e9627e880363d49529dad173eb7f89bd4",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/regular/34142635135_905ab8b02b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=30a7b4903bbeb1ead06aa8f02c487a99f993b3b65d9b9d17a55160438b0e5e89",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/medium/34142635135_905ab8b02b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ebb5e68ae29279c3ffce5d59fb24076ca8045d80ecae05e614277c277558ac6e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/small/34142635135_905ab8b02b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=670a12258471aea2c7e956d84d32c802d454550bbd43bca980ecfb95de051d7c",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1261_bergenia_cordifolia_winterglut_winter_glow/thumbnail/34142635135_905ab8b02b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=324ed5a5a9c302a874be66cf46c74ea4ebf8f5ce9bde01b9acd4d2ec71159aea"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1262,
+      "common_name": "pigsqueak",
+      "scientific_name": [
+        "Bergenia crassifolia"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "crassifolia",
+      "genus": "Bergenia",
+      "origin": [
+        "Northeastern Asia"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1262&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1262&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "purple"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "green-white"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "yellow-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1262&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Pigsqueak (Bergenia crassifolia) is an amazing plant species that offers beauty and long-lasting color throughout the year. This tough evergreen thrives in difficult growing conditions, making it a good choice for difficult to landscape areas. It boasts glossy green, textured foliage that remains year-round and blooms from early spring to summer with stunning hot pink flowers. Its ability to tolerate both humidity and mild droughts make it a perfect addition for any garden. Pigsqueak is also deer and rabbit resistant, a welcome trait for gardeners everywhere.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1262_bergenia_crassifolia/og/49795861818_6dddfa15dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=695433b33baa9233cd2be5efbd4e4c641c53bb1011f3a3dfa3fe70e300c64bdf",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1262_bergenia_crassifolia/regular/49795861818_6dddfa15dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8f1569498974ebb1a9fca6cb5f98fd95c8e451bf7a57289b15b88aea2a1c8a2b",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1262_bergenia_crassifolia/medium/49795861818_6dddfa15dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6090560ebc440611a09633e6f4826c78a0dba831128095410d641cfa77780c00",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1262_bergenia_crassifolia/small/49795861818_6dddfa15dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=70ee48edb0a924898b2b2b190819ccefe1b3f75de3c01b6d69b289bc0d80e3b6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1262_bergenia_crassifolia/thumbnail/49795861818_6dddfa15dc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014637Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=97fa428d2c6eb3b20845ecb0d06dd5dbfcaff0f82b852d4e76810b43014cbf85"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1263,
+      "common_name": "bergenia",
+      "scientific_name": [
+        "Bergenia DRAGONFLY ANGEL KISS"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "DRAGONFLY",
+      "genus": "Bergenia",
+      "origin": [
+        "Germany",
+        "Poland",
+        "Czech Republic",
+        "Austria",
+        "Slovakia",
+        "Hungary"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1263&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1263&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flower",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "red"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1263&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bergenia DRAGONFLY ANGEL KISS is an amazing plant species that will make your garden look amazing! Its foliage is deep, dark green and its flowers are outstanding and vibrant. Its blooms are abundant and clustered in clusters, creating a stunning contrast against the foliage. On top of that, the blooms come in a variety of colors, ranging from lovely purples and pink, to graceful whites and oranges. Not only that, but Bergenia DRAGONFLY ANGEL KISS is also amazingly easy to care for, needing only a little bit of water and some occasional trimming to keep looking its best. So if you're looking for an amazing, ornamental plant that you can use to spruce up your garden, look no further than Bergenia DRAGONFLY ANGEL KISS.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1263_bergenia_dragonfly_angel_kiss/og/33667377666_9a82243f2c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e6a54d1b9a6defe8b45ed93c80d136fe536037e090539578f5a21c6c9420a24c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1263_bergenia_dragonfly_angel_kiss/regular/33667377666_9a82243f2c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b79febebfdff48ba4c3d331545a4199459467fe415f585e3fc4815867c72c41d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1263_bergenia_dragonfly_angel_kiss/medium/33667377666_9a82243f2c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e551187c9e8ba85a7f2eedc093947c766163cbfec6a16ae8caf8fcfc74235c20",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1263_bergenia_dragonfly_angel_kiss/small/33667377666_9a82243f2c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=967f54ad558458a829bc2ecce8dfe89986fcf5f0f4a8414b66cc70ef54e6bb47",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1263_bergenia_dragonfly_angel_kiss/thumbnail/33667377666_9a82243f2c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=04e07980a75ed1e6a2bbb73a7c63fd3e6075c34ea4287528d2e9fb5362d0933e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1264,
+      "common_name": "bergenia",
+      "scientific_name": [
+        "Bergenia DRAGONFLY SAKURA"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "DRAGONFLY",
+      "genus": "Bergenia",
+      "origin": [
+        "Germany",
+        "Poland",
+        "Czech Republic",
+        "Austria",
+        "Slovakia"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1264&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1264&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "purple-white",
+            "pink"
+          ]
+        },
+        {
+          "part": "foliage",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1264&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bergenia DRAGONFLY SAKURA is an amazing plant species with brilliant colors and texture that's sure to make your garden stand out. Its large, glossy, dark green leaves and robust stems make it suitable for a range of landscapes and garden styles. With bright pink and burgundy flowers that bloom from mid-spring to mid-summer, Bergenia DRAGONFLY SAKURA offers a blaze of dazzling colors, while its foliage will remain evergreen all year round. Tough and low maintenance, this eye-catching plant is an excellent choice for gardeners of all levels.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1264_bergenia_dragonfly_sakura/og/51969302703_090c7f40c0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=600bf40774d25e966118102e2e3c9bbd570001be82b58200b5200a296552844f",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1264_bergenia_dragonfly_sakura/regular/51969302703_090c7f40c0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c99abebc40324d3f4c4da8df3cbe8f648537d60c5b96f87968d4ef7026854672",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1264_bergenia_dragonfly_sakura/medium/51969302703_090c7f40c0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=903500e5d0ec7be2f3604a50a85c8bcb8b2a650e31de0f0eadcbc916f84c46d6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1264_bergenia_dragonfly_sakura/small/51969302703_090c7f40c0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=98a2d6d53f9fb0dca32ee4ab9da76e899c5afa6ad2dbb6a554dcf295205dad30",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1264_bergenia_dragonfly_sakura/thumbnail/51969302703_090c7f40c0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=75476943d2e21969a3f3a953ea49b83b944d21d4dcca070df64c4c942bf28cf4"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1265,
+      "common_name": "pigsqueak",
+      "scientific_name": [
+        "Bergenia 'Eden's Magic Giant'"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Eden",
+      "variety": null,
+      "species_epithet": "'Eden's",
+      "genus": "Bergenia",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1265&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1265&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1265&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Pigsqueak (Bergenia 'Eden's Magic Giant') is an amazing plant species for many reasons. Its density of rich green foliage makes it an ideal accent for any garden. It boasts showy, red bell-shaped flowers that can reach up to 8 inches in diameter, blooming abundantly in late winter and early spring. As the temperatures drop, its evergreen leaves take on a russet-bronze hue adding to its visual interest. It grows well in partial shade to full sun and its strong root system makes it both wind and drought tolerant. Pigsqueak is truly a magical plant gift – stunningly pretty and durable, a great choice for any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1266,
+      "common_name": "pigsqueak",
+      "scientific_name": [
+        "Bergenia 'Herbstblute' AUTUMN GLORY"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Herbstblute",
+      "variety": null,
+      "species_epithet": "'Herbstblute'",
+      "genus": "Bergenia",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1266&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1266&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink-purple"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "September",
+        "October",
+        "November",
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1266&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bergenia 'Herbstblute' AUTUMN GLORY, or pigsqueak, is a unique and striking plant species that is sure to wow any garden or landscape. Pigsqueak produces an abundance of bright pink, rosette-shaped flowers in the spring. In the fall, its glossy green leaves turn a deep bronze color, creating a stunning show of color. It requires low maintenance and tolerates a wide range of soils, making it easy to cultivate. Pigsqueak is also deer-resistant, making it an ideal plant for rural gardens. Its evergreen foliage keeps it looking lush year-round, providing an interesting texture to any outdoor space. With its low maintenance and remarkable colors, pigsqueak is the perfect addition to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1266_bergenia_herbstblute_autumn_glory/og/19710816359_b23db68480_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=32dcc8b8a6144f301bbdac44e1d85ca9724ce308a09aaca258ca45593b450e59",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1266_bergenia_herbstblute_autumn_glory/regular/19710816359_b23db68480_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0dfb5d19ea9c5c00658c917badab4a59714623a3162d76ff0f0c50a119bae074",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1266_bergenia_herbstblute_autumn_glory/medium/19710816359_b23db68480_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c239ec0b0ae4954ec2c2898eeaf222291baeed50be6154e81e8fb020df8b83c4",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1266_bergenia_herbstblute_autumn_glory/small/19710816359_b23db68480_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0c18f741a4136479b62657111c305bfeaa8e64bdc28c9217f81a1e1516622c76",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1266_bergenia_herbstblute_autumn_glory/thumbnail/19710816359_b23db68480_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fa98c9a7bb0c0a8249444df646a3250365ae9ad55113d4b5490a89d2fa378357"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1267,
+      "common_name": "purple bergenia",
+      "scientific_name": [
+        "Bergenia purpurascens"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "purpurascens",
+      "genus": "Bergenia",
+      "origin": [
+        "Eastern Himalayas"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1267&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1267&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-purple"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "November",
+        "December",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1267&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Purple Bergenia (Bergenia purpurascens) is an amazing plant that is easy to grow and very decorative. It can tolerate a wide range of climates and is both drought and cold hardy. Its purple leaves start off as a deep shade of purple and turn a more vibrate, almost pinkish hue in the summer. Its pink-purple drainage near the end of the stem together with the purple color of its foliage makes it an eye-catching addition to any garden. This deciduous perennial grows low to the ground and produces bell-shaped flowers in the spring. It prefers partial to full shade and is relatively easy to care for. In summary, purple Bergenia is an ideal plant choice for both beauty and durability.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1267_bergenia_purpurascens/og/9198104173_4e54a1ac35_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ac70db35fd04c79459ff2c4954711c18e28121fc6583f45b3177aed6e863b7b8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1267_bergenia_purpurascens/regular/9198104173_4e54a1ac35_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=858bbefca8b8067385b1adf27a075e487cb7d3a0414bef8dbefcbaf0ed806675",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1267_bergenia_purpurascens/medium/9198104173_4e54a1ac35_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2aab1264ffac61c7936838f4fd444c5aff51ab2ee22079bfa86b3b0c39c3eab2",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1267_bergenia_purpurascens/small/9198104173_4e54a1ac35_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f6a25a9e169b5b6c0478128f5cc02882ba93c93aa6299217f2165ef4daf78d75",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1267_bergenia_purpurascens/thumbnail/9198104173_4e54a1ac35_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1c668a7c3df570b633db661a96367016f664aff0c7c210b6f3a71d5ecea15883"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1268,
+      "common_name": "bergenia",
+      "scientific_name": [
+        "Bergenia 'Silberlicht' SILVERLIGHT"
+      ],
+      "other_name": [],
+      "family": "Saxifragaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Silberlicht",
+      "variety": null,
+      "species_epithet": "'Silberlicht'",
+      "genus": "Bergenia",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Bergenia",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1268&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1268&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1268&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bergenia 'Silberlicht' SILVERLIGHT is an amazing plant species for the landscape due to its durability and its ornamental values. SILVERLIGHT produces grey-green foliage with striking silver veins, which glows in full sun. As well as offering dramatic colors and texture to a garden, it also tolerates some serious weather conditions with its strong and leathery foliage, making it an ideal choice for a low-maintenance garden. It produces large vibrant pink or white flowers during the spring, and offers additional evergreen foliage in the Winter months adding color to the land all year long.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1268_bergenia_silberlicht_silverlight/og/bergenia-flower-shrub-flowers.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=48c9015d6f3a4230b6c6190316ca9eb12499eada7afac2893bb6d0f39d76cb4b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1268_bergenia_silberlicht_silverlight/regular/bergenia-flower-shrub-flowers.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c289c4f1c6bef16f4767cf9e5f90fd036b2cb113b5ea68d69747a86e9919db6d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1268_bergenia_silberlicht_silverlight/medium/bergenia-flower-shrub-flowers.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=baf9205d07a4afe851b8ab4f68dd26a67200f55fbfefa4dcded042d7f124783e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1268_bergenia_silberlicht_silverlight/small/bergenia-flower-shrub-flowers.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=71c8d7a58d610cd2491c444b20e5d67429ec48ded87c21aec00c225b3271f82e",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1268_bergenia_silberlicht_silverlight/thumbnail/bergenia-flower-shrub-flowers.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=54cace39bb531c9c7d72d0ff9700a9a55aea40bdcc1fe12d4ac1dd11e4ee2ff3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1269,
+      "common_name": "chocolate flower",
+      "scientific_name": [
+        "Berlandiera lyrata"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "lyrata",
+      "genus": "Berlandiera",
+      "origin": [
+        "Southern United States",
+        "Mexico"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1269&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1269&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "dark-brown"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1269&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Easy",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The chocolate flower (Berlandiera lyrata) is an amazing plant species! This gorgeous yellow wildflower with a delightfully chocolate-scented bloom is native to North America and is easy to cultivate and maintain. Its vibrant and cheerful blooms can brighten any sunny space and the delicious chocolate scent make it a great addition to any garden. It also self-seeds, ensuring it can be enjoyed for years to come. With its hardiness, ease of care, and ability to add a unique aroma to your garden, the chocolate flower is certainly a must have for any gardener!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1269_berlandiera_lyrata/og/51107451812_2f53520afb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=afe834f69b537cde3e6f19feeed1a84b94e89d316f943d6bde011d4ca09d58cc",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1269_berlandiera_lyrata/regular/51107451812_2f53520afb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=854faaf4f5cead1c7de176de38d668623214a5b5f8025350b0d8de198a80d3b5",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1269_berlandiera_lyrata/medium/51107451812_2f53520afb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1424520aca6fc343271328851a511f179c2bdd7b104868d15372179377592ec6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1269_berlandiera_lyrata/small/51107451812_2f53520afb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f307e965bf483453771ae818a988875dc2fcab6188ecde87d087fa30c149f808",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1269_berlandiera_lyrata/thumbnail/51107451812_2f53520afb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4141ae98271943ac38cf27bbb379b5fd789e47bdd567bcf6d2269e2bd45f950a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1270,
+      "common_name": "chocolate flower",
+      "scientific_name": [
+        "Berlandiera lyrata 'Mora County Mix'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Mora County Mix",
+      "variety": null,
+      "species_epithet": "lyrata",
+      "genus": "Berlandiera",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1270&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1270&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1270&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Chocolate Flower 'Mora County Mix' (Berlandiera lyrata) is the perfect addition to any garden. During the summer months, the striking yellow blooms will keep your garden looking lively and inviting with their sweet, chocolaty fragrance and cheerful colors. Not only do these special flowers attract bees and butterflies, but the foliage also has a unique texture. Plus, the tall and showy blooms are perfect for cutting and adding to a bouquet. The Chocolate Flower 'Mora County Mix' is a must-have for anyone looking to create an unforgettable garden space.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1270_berlandiera_lyrata_mora_county_mix/og/Kaldari_Berlandiera_lyrata_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=26eaebf98be267df13943044e2644232ca8ece45d429c7accdd996c6d34835a0",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1270_berlandiera_lyrata_mora_county_mix/regular/Kaldari_Berlandiera_lyrata_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cdea369f3e37be5ec8fad7a29e198011d220804acfd2e2b9d46e3934319744e4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1270_berlandiera_lyrata_mora_county_mix/medium/Kaldari_Berlandiera_lyrata_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5fd858420327954ff0a0b3d7519422632ec4bfa6ce923ec83325ae4a5797cb91",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1270_berlandiera_lyrata_mora_county_mix/small/Kaldari_Berlandiera_lyrata_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7fe3b111ea52369e4aac8d4baadc451bb7b7da2da003527b4e96bc6774abfa2d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1270_berlandiera_lyrata_mora_county_mix/thumbnail/Kaldari_Berlandiera_lyrata_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=46470870d8bae0c78e8b4d657553c9a87ede9bb7c93159bc72b36b6704039616"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1271,
+      "common_name": "green eyes",
+      "scientific_name": [
+        "Berlandiera texana"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "texana",
+      "genus": "Berlandiera",
+      "origin": [
+        "South",
+        "central United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1271&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1271&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "April",
+        "September",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1271&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Green Eyes, or Berlandiera texana, is an amazing plant species known for its lemon-scented yellow flowers. They are native to Texas and its surrounding states, and they bloom during the spring and summer months. During the day, their daisy-like blooms open up, but at night they close and even turn pale green. This species is loved by local pollinators, such as bees and butterflies, making them essential for a healthy flora population. Not surprisingly, they earned the nickname of ‘green eyes’ because of their vibrant eyes when the petals are in bloom. Green Eyes is a must-have for any Texas garden!",
+      "default_image": {
+        "license": 44,
+        "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1271_berlandiera_texana/og/4c60390f41944819b23434133d60526423013ea3.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4a74b1c63861721e1df4d71b55aa217d08264a87369d2309ab290142b98fac36",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1271_berlandiera_texana/regular/4c60390f41944819b23434133d60526423013ea3.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3daf24c1ae6969e37cba951b9f67d70d868fc27a76ebde27779c60812a9931fc",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1271_berlandiera_texana/medium/4c60390f41944819b23434133d60526423013ea3.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=72218aca2c853b463df67194e65835ebd11a1005203fc58951621d2cea664ebf",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1271_berlandiera_texana/small/4c60390f41944819b23434133d60526423013ea3.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f533e474d4fea4572b52fe0c9acbec5ee46fce0d2242e3f7f7b3740ca8741c92",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1271_berlandiera_texana/thumbnail/4c60390f41944819b23434133d60526423013ea3.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ebc6869c426692259547b2770a1e24f705acd073c6e462368d60de67158e3286"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1272,
+      "common_name": "jewel plant",
+      "scientific_name": [
+        "Bertolonia maculata"
+      ],
+      "other_name": [],
+      "family": "Melastomataceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "maculata",
+      "genus": "Bertolonia",
+      "origin": [
+        "Brazil"
+      ],
+      "type": "Creeper",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.25,
+          "max_value": 0.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Leaf Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "11",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1272&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1272&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "dark-green",
+            "dark-green-red"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "maroon-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1272&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Jewel Plant (Bertolonia maculata) is an astounding tropical plant that provides an array of colors and gratification to its beholders! Producing white and purple speckled, bell-shaped flowers in the center, and textured, intricate foliage that creates a sensational palette of variations of deep and light green hues, it’s no wonder why this plant is everyone’s favorite. Low maintenance and beautiful, the Jewel Plant is great for any home, garden or even a patio. With its unique and attractive features, it is no wonder why this plant is beloved by gardeners, landscape architects, and interior designers alike.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1272_bertolonia_maculata/og/Bertolonia_maculata_2019-04-16_0864.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4885df79a3432bc79239363dab47f09b2c7044a9f642cdd4e89d8378cb1e49e8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1272_bertolonia_maculata/regular/Bertolonia_maculata_2019-04-16_0864.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=648226d313b2d4140ff85d1972d84450986dfd8f996e499fdcc773187fb6c2e3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1272_bertolonia_maculata/medium/Bertolonia_maculata_2019-04-16_0864.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=69d369bf51ec68d43e1abb6eb41d33eebb6ff83cf40612b71d52d579fc666659",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1272_bertolonia_maculata/small/Bertolonia_maculata_2019-04-16_0864.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=487961dbdbb12e911f5b3e90efe995baaa41bb8bf0a09c58c52e8d172afe8f30",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1272_bertolonia_maculata/thumbnail/Bertolonia_maculata_2019-04-16_0864.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=65a72358ce248642bd0d3cd5300e6847da6539c13d3b9c64d77c367477f9617d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1273,
+      "common_name": "beet",
+      "scientific_name": [
+        "Beta vulgaris"
+      ],
+      "other_name": [],
+      "family": "Amaranthaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "vulgaris",
+      "genus": "Beta",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Vegetable",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1273&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1273&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"1-2\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "roots",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "red"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1273&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Beet (Beta vulgaris) is an amazing plant species for numerous reasons. It is both highly nutritious and incredibly versatile. It contains a variety of vitamins and minerals, making it a good dietary addition. It can be cooked, pickled, and juiced, making it a delicious go-to ingredient. Additionally, its deep purple and reddish hues make beet an eye-catching and appealing food option. Beet is also praised for its role in supporting eye, brain, and cardiovascular health. Finally, it is a key ingredient in a variety of cuisines around the world, demonstrating its widespread appeal. All of these factors come together to make beet an amazing and unique plant species.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1273_beta_vulgaris/og/24673569230_b226299b70_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=29d4dfbe0cfb00c7cbdc42e3f8637ecd896c905e001018415f8cea1962474be9",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1273_beta_vulgaris/regular/24673569230_b226299b70_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dbfeacf520016907e45f2a594c6919416585ba8563e4b2e7a3acca08f62b4d02",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1273_beta_vulgaris/medium/24673569230_b226299b70_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3226551612f5ac1f804335fdc43581dd8e66fce418a39a6e21e2e2c52a98776c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1273_beta_vulgaris/small/24673569230_b226299b70_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=869c0a061e3ee95f79893a249e2e21d44aa4e4ba88a6a519db206c46c4e7778b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1273_beta_vulgaris/thumbnail/24673569230_b226299b70_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014642Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=85632a3d128fa1df4a00e771ac1138a3d0aa7ecdf1dee17a4c0e431958d4820d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1274,
+      "common_name": "beet",
+      "scientific_name": [
+        "Beta vulgaris (Garden Beet Group) 'Bull's Blood'"
+      ],
+      "other_name": [],
+      "family": "Amaranthaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Bull",
+      "variety": null,
+      "species_epithet": "vulgaris",
+      "genus": "Beta",
+      "origin": [
+        "Bulgaria",
+        "Romania",
+        "Hungary",
+        "Ukraine",
+        "Moldova"
+      ],
+      "type": "Vegetable",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1274&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1274&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1274&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The amazing Beet (Beta vulgaris (Garden Beet Group) 'Bull's Blood') is not only eye-catching due to its deep reddish-purple foliage, but rich in nutrition as well. Its leaves are tender and sweet with an earthy flavor and ruby-red veins that run through them. The roots can be eaten raw, roasted, boiled or pickled and provide an excellent source of vitamins A and C, fiber, and minerals. And don't forget all the other health benefits such as reducing cholesterol and helping with digestive issues. When you look for an easy addition to your meals, you can't go wrong with Beet (Beta vulgaris (Garden Beet Group) 'Bull's Blood').",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1274_beta_vulgaris_garden_beet_group_bulls_blood/og/2560px-Beta_vulgaris2C_San_Francisco_farmers_market.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6a7b5c01b22f091e6ba56a2938a347eb29a1225cb01dab6ac0f52cba569c3b28",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1274_beta_vulgaris_garden_beet_group_bulls_blood/regular/2560px-Beta_vulgaris2C_San_Francisco_farmers_market.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2d0c19af37c8b65e0700b1bc519a8226a98f758a9f6c74ef79eaf04bee9dccbc",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1274_beta_vulgaris_garden_beet_group_bulls_blood/medium/2560px-Beta_vulgaris2C_San_Francisco_farmers_market.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=05905f61d4dc37d770bae818744fd973203663b6ffe21c49baabb56936507cd7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1274_beta_vulgaris_garden_beet_group_bulls_blood/small/2560px-Beta_vulgaris2C_San_Francisco_farmers_market.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cbeb62743df968632657d1a992307479c36bb33859600e818b51adc778ff2c37",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1274_beta_vulgaris_garden_beet_group_bulls_blood/thumbnail/2560px-Beta_vulgaris2C_San_Francisco_farmers_market.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=26bde0b652baced89a94ce01e652b9a13f571e823c778854a44c429e11b90688"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1275,
+      "common_name": "Swiss chard",
+      "scientific_name": [
+        "Beta vulgaris (Leaf Beet Group)"
+      ],
+      "other_name": [],
+      "family": "Amaranthaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "vulgaris",
+      "genus": "Beta",
+      "origin": [
+        "Italy",
+        "France",
+        "Spain",
+        "Greece",
+        "Middle East"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1275&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1275&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1275&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Swiss Chard is an amazing plant species belonging to the Beta vulgaris (Leaf Beet Group). It has yellow, white, and bright red-veined leaves, with crisp stalks in a rainbow of colors. Swiss Chard is not only a colorful ornamental, but an edible delight with a sweet, mild flavor. It is nutrition-rich with antioxidants, vitamins such as A and C, minerals, and fiber. It is also well-known for being heat-tolerant and is highly adaptable to cooler climates. In addition, it only needs minimal maintenance and its harvest will last multiple seasons. Swiss Chard is truly an amazing and versatile vegetable that is tasty and nourishing for people from all walks of life.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1275_beta_vulgaris_leaf_beet_group/og/Starr_070112-3389_Beta_vulgaris_subsp._cicla.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7881a1e68014b0792d59ee1dc13280248502f38533536a388c5e755aee9f2f05",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1275_beta_vulgaris_leaf_beet_group/regular/Starr_070112-3389_Beta_vulgaris_subsp._cicla.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=48c7b4dda8a0b4f647ea2de4930ec8742e2394e0bfc3ce5356a0a9195b8fc38f",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1275_beta_vulgaris_leaf_beet_group/medium/Starr_070112-3389_Beta_vulgaris_subsp._cicla.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d16b5177003d90c930549b3c3ea9d2e42c6ec3f2ac54a5c74e5552a39c3c0f1d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1275_beta_vulgaris_leaf_beet_group/small/Starr_070112-3389_Beta_vulgaris_subsp._cicla.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5f00a455060b1dda8ad0787fb704327ac8a41b1c37f01b873e1fc3dbfd6eb1a1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1275_beta_vulgaris_leaf_beet_group/thumbnail/Starr_070112-3389_Beta_vulgaris_subsp._cicla.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a176ec6da1abeb18bb318a729fe040018df7742067081316a9a9964e525b9cf3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1276,
+      "common_name": "Swiss chard",
+      "scientific_name": [
+        "Beta vulgaris (Leaf Beet Group) 'Bright Lights'"
+      ],
+      "other_name": [],
+      "family": "Amaranthaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Bright Lights",
+      "variety": null,
+      "species_epithet": "vulgaris",
+      "genus": "Beta",
+      "origin": [
+        "Switzerland"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1276&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1276&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1276&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Swiss chard 'Bright Lights' is a truly amazing plant species. Not only it's nutritious - full of vitamins A, C, K, and multiple minerals - but its multi-coloured stems and leaves make it a beneficial addition to your garden. From beautiful green to striking reds, oranges, yellow, and pink, the leaves, full of flavour, add a splash of colour to your plate. Its prolific growth also allows for multiple harvests throughout the season. Additionally, Swiss chard does not require complicated maintenance; it loves sunny areas and doesn't require moisture to thrive. With Swiss chard 'Bright Lights', your garden and your plate will never be dull again.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/og/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d12a66dcbd8d9bc4e79c3258d7b9301153a8b9891a74c06e5bab5771d575a26f",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/regular/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=86d27d47a5bdbe878b9dad82f8284e4beae453227bcdb0eb1f54f41ffd7ecc11",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/medium/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e02bf8f7c9340cd438ae9638ca9608c9d07883f44a3479bd680ea2cab3cec345",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/small/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=964686fe187b0d76e4efe38f22afd8ded16ef9000dbfe482caff9e95d5a694c0",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1276_beta_vulgaris_leaf_beet_group_bright_lights/thumbnail/Beta_vulgaris_var._cicla_Bright_Lights_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=18332aa169655fa28d92e936a8708dcb4985bab5f0a689d6f71e8e6d1b2e30eb"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1277,
+      "common_name": "Swiss chard",
+      "scientific_name": [
+        "Beta vulgaris (Leaf Beet Group) 'Northern Lights'"
+      ],
+      "other_name": [],
+      "family": "Amaranthaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Northern Lights",
+      "variety": null,
+      "species_epithet": "vulgaris",
+      "genus": "Beta",
+      "origin": [
+        "Switzerland",
+        "Germany",
+        "France",
+        "Italy",
+        "Austria"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1277&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1277&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "lime-green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "stalk",
+          "color": [
+            "red"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "August",
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1277&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": null,
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1277_beta_vulgaris_leaf_beet_group_northern_lights/og/51497846878_e9e9289222_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b7a08c21d6dbf496d3794facb722a2e894bef7764f00b39e6210e5e5e7918d9e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1278,
+      "common_name": "sugar beet",
+      "scientific_name": [
+        "Beta vulgaris subsp. vulgaris"
+      ],
+      "other_name": [],
+      "family": "Amaranthaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "vulgaris",
+      "genus": "Beta",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Vegetable",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [
+        "Birds"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1278&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1278&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "stems",
+          "color": [
+            "red",
+            "green-red-yellow",
+            "lime-green-red-yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "green-maroon"
+          ]
+        },
+        {
+          "part": "midrib",
+          "color": [
+            "red-yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1278&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sugar beet (Beta vulgaris subsp. vulgaris) is an amazing plant species that packs a nutritional punch. Not only does it contain nutritious sugars, but it also contains dietary fiber, folate, manganese, iron, and magnesium. It's a great source of energy due to its high sugar content, and is widely used for producing pharmaceuticals, ethanol and other chemicals. Its ability to be grown on most soils and in cold climates makes it a very productive crop. The versatile uses and benefits of this versatile crop make it one of the most important plants around!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1278_beta_vulgaris_subsp_vulgaris/og/24879462575_521a00b451_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9c5309774e9282b8f80ec84a6fd5318c250e9d658617d6edf739e4dbf6c85570",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1278_beta_vulgaris_subsp_vulgaris/regular/24879462575_521a00b451_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b1ac56e8766d3c663a042d5621dc14289737dd6927b056b124ab07742b47b49a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1278_beta_vulgaris_subsp_vulgaris/medium/24879462575_521a00b451_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fa964eba7294b5b1386511538a542e62efa1f8e30440ad786e34cacb61925ec4",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1278_beta_vulgaris_subsp_vulgaris/small/24879462575_521a00b451_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=15890c1bfffc940a5c06030d44e944e3367f6b09e00ed888e66a8416540cd88d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1278_beta_vulgaris_subsp_vulgaris/thumbnail/24879462575_521a00b451_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9ea6ae0a8ca2a5112597cc9d16271e132534cf8b2c2b6c5e1114ab2ad71a6bba"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1279,
+      "common_name": "Asian black birch",
+      "scientific_name": [
+        "Betula dahurica"
+      ],
+      "other_name": [],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "dahurica",
+      "genus": "Betula",
+      "origin": [
+        "Northeastern Asia"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 40,
+          "max_value": 50,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1279&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1279&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1279&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": null,
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1279_betula_dahurica/og/2560px-Betula_dahurica_kz06.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=db1c815442649607e478e6588115eb4bf9d10e59c09d4b3dca1f27a3acd3ad23",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1279_betula_dahurica/regular/2560px-Betula_dahurica_kz06.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9221340fb0cd4fcdecfef77d8ca7d4f0131a10332f8507706640b438cc44d2d3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1279_betula_dahurica/medium/2560px-Betula_dahurica_kz06.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=604222496de566362622d85e5e894902341a2c147aa0d478430476925bc156c4",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1279_betula_dahurica/small/2560px-Betula_dahurica_kz06.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0b1c91d7f6a04f8ddc1d12536f46fb1025564673ac2dddc9ab46ea0c5da97b1c",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1279_betula_dahurica/thumbnail/2560px-Betula_dahurica_kz06.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=de5aa67ac0b269b1e31cf58f747212ccbea79510471503b90956e919e4da8f9a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1280,
+      "common_name": "dwarf birch",
+      "scientific_name": [
+        "Betula 'Golden Treasure' CESKY GOLD"
+      ],
+      "other_name": [],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Golden Treasure",
+      "variety": null,
+      "species_epithet": "'Golden",
+      "genus": "Betula",
+      "origin": [
+        "Czech Republic"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Layering Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1280&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1280&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1280&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Dwarf birch (Betula 'Golden Treasure' CESKY GOLD) is an amazing plant species due to its impressive hardiness. Although it is considered a dwarf, this small shrub can grow up to 6-7 feet tall, making it an ideal choice for small landscaping projects. It is also resistant to pests and disease and can survive in most climates. Its most attractive feature is its bright and vibrant golden-yellow foliage which provides an eye-catching contrast against most garden backgrounds. It is also an ideal choice for providing dense and low-maintenance ground cover throughout the garden and can be relied upon for its year-round interest.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1281,
+      "common_name": "sweet birch",
+      "scientific_name": [
+        "Betula lenta"
+      ],
+      "other_name": [
+        "sweet birch",
+        "black birch",
+        "black birch",
+        "Sweet Birch",
+        "Black Birch",
+        "Mountain Mahogany"
+      ],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "lenta",
+      "genus": "Betula",
+      "origin": [
+        "Eastern North America"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 40,
+          "max_value": 75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds"
+      ],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1281&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1281&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun",
+        " Partial Shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1281&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Loam",
+        " Humus Enriched"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Stem borer insects"
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sweet Birch (Betula lenta) is an amazing species of trees for its versatility. With beautiful shades of yellow and white, its bark is particularly striking. Sweet birch has a hard, rot-resistant heartwood, making it an excellent choice for timber. Its flexibility also makes it a great choice for living fences, for example. The edible sap is good for both humans and wildlife. Sweet Birch is also a great source of Vitamin C and a popular flavoring for beverages and candy, as well as being a traditional medicinal remedy. In short, Sweet Birch has so many uses and qualities, it's no wonder why it's so amazing.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1281_betula_lenta/og/30316536233_231e8568d8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=15f7e87bd45141cc529c11dbfd9769dc956516ecde61dba3b0f777599b1cc6e1",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1281_betula_lenta/regular/30316536233_231e8568d8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=00ac0254291e4689b27a21015843f4b79c4773c0f0789c6dbb0b9b2543dd4d2d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1281_betula_lenta/medium/30316536233_231e8568d8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8e561dcd86ffdf0f21b9bfcdb545401e08852b8718d0c4e898cb4184cda949f3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1281_betula_lenta/small/30316536233_231e8568d8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=baec6d6e1ee7ad0e63070b89524b9a5b264cce30da7e6ecf058ac5a9058c4dcf",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1281_betula_lenta/thumbnail/30316536233_231e8568d8_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014646Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3d1b83175ec2d4f7169a12c7e0eae71fa5b6ae02c4353b0b0d459338dbcc281c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1282,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'BNMTF' DURA-HEAT"
+      ],
+      "other_name": [],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "BNMTF",
+      "variety": null,
+      "species_epithet": "nigra",
+      "genus": "Betula",
+      "origin": [
+        "United States"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 30,
+          "max_value": 40,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Tissue Culture",
+        "Division",
+        "Budding"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1282&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1282&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "August",
+        "February",
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1282&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "River Birch (Betula nigra 'BNMTF' DURA-HEAT) is an amazing tree species perfect for any garden! It's heat tolerant, fast growing and provides much-needed shade in the summer. Its deep, fissured bark has been known to add beauty and texture with its cinnamon hue. It looks particularly stunning when planted near bodies of water, such as rivers and lakes. Its leathery leaves change from deep green in spring and summer, to yellow and golden hues in winter. River birches are also incredibly multi-tasker and can even be used as a privacy screen or border. With its adaptability to harsh conditions, it makes for an ideal, long-term investment for anyone's garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1283,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'Cully' HERITAGE"
+      ],
+      "other_name": [],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Cully",
+      "variety": null,
+      "species_epithet": "nigra",
+      "genus": "Betula",
+      "origin": [
+        "United States"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 40,
+          "max_value": 70,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1283&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1283&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1283&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "River Birch is an amazing plant species due to its unique characteristics. It is an medium to large-sized tree with graceful, drooping branches and cinnamon-colored bark that peels away in paper-like curls. River Birches thrive in both wet and dry soils, providing options for planting in a variety of climates. The 'Cully' Heritage variety has an excellent disease resistance, making it a favorite choice for demanding urban environments. It also helps purify air and attracts wildlife, making it a perfect addition to any garden. This hardy tree is a beautiful choice for any landscape and is guaranteed to be a show-stopper.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1284,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'Dickinson' NORTHERN TRIBUTE"
+      ],
+      "other_name": [],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Dickinson",
+      "variety": null,
+      "species_epithet": "nigra",
+      "genus": "Betula",
+      "origin": [
+        "United States"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 30,
+          "max_value": 35,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1284&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1284&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "February",
+        "March",
+        "June",
+        "July",
+        "August",
+        "June",
+        "July",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1284&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "River birch (Betula nigra 'Dickinson' Northern Tribute) is an amazing plant species with many desirable characteristics. It is a fast-growing medium to large tree with beautiful exfoliating, cinnamon-tan bark and drooping foliage that becomes more pendulous with age. In addition, it is highly tolerant of adverse growing conditions such as pollution, poor soils, and heat. It is also a great choice for those looking for year-round interest in the landscape since its attractive bark will persist even when there are no leaves on the tree. This hardy tree is especially popular in the Midwestern and Southern parts of the United States and is commonly used for restoration and beautification projects.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1285,
+      "common_name": "river birch",
+      "scientific_name": [
+        "Betula nigra 'Little King' FOX VALLEY"
+      ],
+      "other_name": [],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Little King",
+      "variety": null,
+      "species_epithet": "nigra",
+      "genus": "Betula",
+      "origin": [
+        "United States"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 8,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Air Layering Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1285&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1285&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "bark",
+          "color": [
+            "gray-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1285&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "River Birch (Betula nigra 'Little King' FOX VALLEY) is an incredible addition to any garden or landscape. Its smooth bark and vibrant dark green leaves create a peaceful and calming environment. This fast-growing tree provides year round visual interest with its leaf shape, texture and color changing from season to season. Its subtle yet sweet aroma of fall leaves welcomes friends and family to your home. Its strong root system ensures soil stability, helping against flooding and mudslides. Its ability to thrive in a variety of growing conditions makes it perfect for virtually any planting situation. Low maintenance requirements and high resistance to diseases make this tree even more attractive. River Birch is truly an amazing tree, perfect for any garden or landscape.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1285_betula_nigra_little_king_fox_valley/og/52615262584_4de4239d56_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0ea54f5763a4aac2da79c0aaa1ded70387f9370315fc0fde8b14f7e5d6e5c370",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1285_betula_nigra_little_king_fox_valley/regular/52615262584_4de4239d56_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8a4da627330e5ff179add326780fa9bfe9903ffe625902b8083169dcccdf9a91",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1285_betula_nigra_little_king_fox_valley/medium/52615262584_4de4239d56_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a8cb7dad39c7c1690cbdb89e7886c7a7b61ce0428ac708ec52573246f4f44df",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1285_betula_nigra_little_king_fox_valley/small/52615262584_4de4239d56_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1ece0f9ce8d7583c82f8c3cdb283e5e86412562f75ebb33874e48775f6af3e73",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1285_betula_nigra_little_king_fox_valley/thumbnail/52615262584_4de4239d56_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=957391a840a53a0d4d2274c976836ebd8c027626b60363c47bd5d590e79ecbdb"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1286,
+      "common_name": "water birch",
+      "scientific_name": [
+        "Betula occidentalis"
+      ],
+      "other_name": [
+        "River Birch",
+        "Western Birch",
+        "Black Birch",
+        "Red Birch",
+        "Spring Birch",
+        "Mountain Birch",
+        "Western Birch",
+        "Black Birch",
+        "Red Birch",
+        "Spring Birch",
+        "Mountain Birch"
+      ],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "occidentalis",
+      "genus": "Betula",
+      "origin": [
+        "Western North America"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 10,
+          "max_value": 40,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds"
+      ],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Root Division"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1286&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1286&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "branch",
+          "color": [
+            "maroon-gray"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "yellow-red",
+            "red-green"
+          ]
+        },
+        {
+          "part": "bark",
+          "color": [
+            "red-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1286&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy Clay"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The water birch (Betula occidentalis) is an amazing plant species for many reasons. Not only is it highly drought tolerant, often being found in dry riparian surfaces, but it is also able to provide a large range of benefits to the environment. It provides shelter and shade for wildlife, windbreaks, and helps to stabilize and protect riverbanks from soil erosion. In addition, water birch is beneficial for human beings. Its wood is strong and durable, and can be used to create beautiful wood grains and craft pieces. Moreover its leaves are edible and can provide medicinal properties and other uses. With its hardiness, its many benefits, and its attractive appearance, water birch is an amazing plant species worth preserving.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1286_betula_occidentalis/og/49852650303_ae4566b8c2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014648Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=13f8e9355a47f828c566f53da9a0763cdadef04a2f0353aadb47092ad679cd96",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1286_betula_occidentalis/regular/49852650303_ae4566b8c2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014648Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1ae480b8c11385b89884d26dbf595f64329a359aac2d0e823527054bf0e17b44",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1286_betula_occidentalis/medium/49852650303_ae4566b8c2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014648Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=90543b51488e6d812a08aad704d8528113fdf435689cbe1c4a064980367379a1",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1286_betula_occidentalis/small/49852650303_ae4566b8c2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014648Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=38ad4ad979d6031a5464cb961d0caaa20d12abcc73e30cafde62f76a11ad12a4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1286_betula_occidentalis/thumbnail/49852650303_ae4566b8c2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014648Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c6c54553f38633ca7f062db278221958308943089b85460d1803440fdad6ae32"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1287,
+      "common_name": "paper birch",
+      "scientific_name": [
+        "Betula papyrifera 'Varen' PRAIRIE DREAM"
+      ],
+      "other_name": [
+        "White Birch",
+        "Canoe Birch"
+      ],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Varen",
+      "variety": null,
+      "species_epithet": "papyrifera",
+      "genus": "Betula",
+      "origin": [
+        "North America"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 60,
+          "max_value": 60,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "2"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1287&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1287&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1287&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Loamy"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Beetles",
+        "weevils",
+        " Leaf miner insect",
+        " Stem borer insects",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Paper birch (Betula papyrifera 'Varen' PRAIRIE DREAM) is an amazing tree species for the home gardener. It has a unique multicolored bark, transforming from creamy white to golden yellow to peachy pink depending on the season. It grows fast, reaching about 30' in height, and has a pleasing rounded habit. Its leaves are glossy green, providing lush summer foliage to shade any garden setting. Additionally, its glossy bronze-tinged bark provides year-round interest and a modern twist to the garden. Paper birch is adaptable to many soil conditions, making it a great choice for even beginning gardeners. And its bright fall foliage ensures it will stand out in your garden. Paper birch is truly an amazing tree species.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1288,
+      "common_name": "European white birch",
+      "scientific_name": [
+        "Betula pendula"
+      ],
+      "other_name": [
+        "silver birch",
+        "European White Birch"
+      ],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "pendula",
+      "genus": "Betula",
+      "origin": [
+        "Europe",
+        "Asia"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 30,
+          "max_value": 40,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1288&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1288&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun"
+      ],
+      "pruning_month": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1288&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Anthracnose",
+        " Beetles",
+        "weevils",
+        " Fungal leaf spot",
+        " Leaf miner insect",
+        " Rust",
+        " Stem borer insects",
+        " Virus",
+        " Wood deformity",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The European White Birch (Betula pendula) is an amazing species of tree. Its graceful white bark, delicate leaves and graceful pendulum-shaped branches truly stands out in any landscape. This species is also highly adaptable, being able to endure dry or wet conditions and soil temperatures ranging from 8 to 21 degrees Celsius. Unlike other birches, its cream-colored bark does not exfoliate, making it a gorgeous year-round accent tree in any landscape. The European White Birch is a desirable species for its flood tolerance, its ability to attract wildlife, and its unique aesthetic.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1288_betula_pendula/og/13952996937_bf790c084f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=05cb1167d37c99775bb0edbdb196fec9e7842bed7227ceca0f9a64e0be8539b7",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1288_betula_pendula/regular/13952996937_bf790c084f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c04fdeaff25dffcdc7438398987f9f8ce7c7230054a377925ceea24791e17f07",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1288_betula_pendula/medium/13952996937_bf790c084f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a1f60c6aaf58e5d7fbb788f9903fb2429b476ba2cc784c22df8e98415f201228",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1288_betula_pendula/small/13952996937_bf790c084f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e7ce30bf42fe2610ee22ee64ff27fc3eae58da4803c87c9566e72e3302eab891",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1288_betula_pendula/thumbnail/13952996937_bf790c084f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9e605eabbb1d8c792be63bc4c53926bb584c8103624be07e2bb38403de4a747f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1289,
+      "common_name": "silver birch",
+      "scientific_name": [
+        "Betula pendula MAGICAL GLOBE"
+      ],
+      "other_name": [
+        "silver birch",
+        "European White Birch"
+      ],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "pendula",
+      "genus": "Betula",
+      "origin": [
+        "Europe",
+        "Asia"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 30,
+          "max_value": 40,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1289&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1289&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1289&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Anthracnose",
+        " Beetles",
+        "weevils",
+        " Fungal leaf spot",
+        " Leaf miner insect",
+        " Rust",
+        " Stem borer insects",
+        " Virus",
+        " Wood deformity",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Silver birch (Betula pendula Magical Globe) is an amazing species of tree with a unique and magical appearance. As its name suggests, the trunk is coated in a distinctive silvery-white bark that shimmers in the sunlight. The lush, deep green leaves of the silver birch give way to vibrant yellow-orange hues in autumn, creating breathtaking views. This long-living species can grow over 50 feet tall with a spread of up to 35 feet, and is incredibly hardy. What's more, it responds well to pruning, so it can make a great addition to any garden. For an even more remarkable effect, consider planting several trees in a grove. Silver birch (Betula pendula Magical Globe) is sure to add a touch of whimsy and beauty to any landscape.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1289_betula_pendula_magical_globe/og/birch-grove-forest-spring.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fec07207f994483bc2cfa005bdb642c3e44a801e08a9089de56916554822f72e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1289_betula_pendula_magical_globe/regular/birch-grove-forest-spring.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bbfc171e3fee356123f408c912a96622e0e79496d74048a932d4a5f38eaf5745",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1289_betula_pendula_magical_globe/medium/birch-grove-forest-spring.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1d11e5055462e2b12e77d0a9c1eb45558c9c48aec3a6bed3423611b40989caf1",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1289_betula_pendula_magical_globe/small/birch-grove-forest-spring.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=85dadd6d714d2e3902fa496e9fd01679a6cdb2993cb9925b82a595760217e5fd",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1289_betula_pendula_magical_globe/thumbnail/birch-grove-forest-spring.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014649Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=113aa82872eade07c5b07e25b88f660dfc394031fae3a5bbd17f9265d3fdc203"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1290,
+      "common_name": "Japanese white birch",
+      "scientific_name": [
+        "Betula platyphylla"
+      ],
+      "other_name": [],
+      "family": "Betulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "platyphylla",
+      "genus": "Betula",
+      "origin": [
+        "Manchuria",
+        "Korea",
+        "Japan"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 30,
+          "max_value": 40,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1290&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1290&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "bark",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "trunk",
+          "color": [
+            "white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1290&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Japanese white birch is a stunning addition to any garden. Its white bark and distinctive ‘shaggy’ look give it a unique, eye-catching look. It’s also an incredibly versatile tree, growing and thriving in many different environments. It’s tolerant of acidic, dry, alkaline and even cultivation conditions, making it a great choice for all sorts of landscapes. Its gorgeous, delicate foliage adds a touch of serenity to outdoor spaces and its strong roots, even in clay soils, help to bind and strengthen the ground. Enjoy every last aspect of this amazing tree and its picturesque look in any outdoor space.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1290_betula_platyphylla/og/17210016372_4c7c2a3187_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=02964fab56679d3a232a67bf040ce0b4b36b6916d8e4442d50777fd9c727e67c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1290_betula_platyphylla/regular/17210016372_4c7c2a3187_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b826f433cb10289cc40e97f4de9429193a7e7ed34c97a3b0d8301c6b8cde7c7c",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1290_betula_platyphylla/medium/17210016372_4c7c2a3187_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c8a50044a787087ff56b1d099101aa7ac8f29fbf6e723148cd76363144c02770",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1290_betula_platyphylla/small/17210016372_4c7c2a3187_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=27e5ed7452bc1127765e48fbf2d62e02af3ef28aede9495cb753ab870909a636",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1290_betula_platyphylla/thumbnail/17210016372_4c7c2a3187_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260802%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T014650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=41c882989f680b6d79b6048eac16b0cd1702567bcc8fc708e5eb725e597e1522"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
