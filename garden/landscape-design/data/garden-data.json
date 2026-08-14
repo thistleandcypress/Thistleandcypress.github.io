@@ -242247,6 +242247,3419 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1621,
+      "common_name": "Bush's sedge",
+      "scientific_name": [
+        "Carex bushii"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "bushii",
+      "genus": "Carex",
+      "origin": [
+        "United States"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1621&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1621&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "May",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1621&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bush's sedge (Carex bushii) is an amazing species for its low maintenance and stunning ornamental appeal. This species is easy to care for and can make a great addition to almost any outdoor space. Bush's sedge grows in a direct clump and is great for providing texture and screening. The foliage is deep green with bronze tones that get brighter in the sun and really sparkle. Bush's sedge can also tolerate periods of drought yet still be able to thrive in humid climates. This sedge is a deer resistant plant that adds personality and charm with its elegant arching stems and texture. Its truly an amazing plant you don't want to miss out on.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1621_carex_bushii/og/Carex_swanii_23_June_2018_Will_County2C_Illinois.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fba8fe31c357715c2e24886967f50de06189c8d192ef0632e359bbaa15f0cb38",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1621_carex_bushii/regular/Carex_swanii_23_June_2018_Will_County2C_Illinois.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7e56f2035fa44249f27425825a6e5c567f01bf84e2f91c1705606a6c358a881e",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1621_carex_bushii/medium/Carex_swanii_23_June_2018_Will_County2C_Illinois.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c8c21053bcad10c0ea1d623e476aa30db1c8aab3a2590ff58ce2f8583bee6702",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1621_carex_bushii/small/Carex_swanii_23_June_2018_Will_County2C_Illinois.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=37817c1302e427a9888ae95615c032142c5fd15365c4e32934abc01ff9e5a263",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1621_carex_bushii/thumbnail/Carex_swanii_23_June_2018_Will_County2C_Illinois.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b07f5030ff14d2036bc5013a3a7dd4e19bd60e18eeb26bf6b984217915cd21c1"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1622,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex cherokeensis"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "cherokeensis",
+      "genus": "Carex",
+      "origin": [
+        "Southeastern United States"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Stolon",
+        "Rhizome Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1622&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1622&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1622&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge (Carex cherokeensis) is an amazing yetoften underrated native grass species that produces spectacular yellow blooms in early spring. Its upright, sword-like foliage thrives in wet and boggy conditions, providing a stunning garden display that is ideal to brighten up any damp corner of a garden. On top of its attractive yellow foxtail-like blooms, this plant is also a great solution to erosion control problems as its dense grassy foliage spreads quickly, forming an abundant, mounded root system. Carex cherokeensis is one of nature’s most valuable resources, versatile enough to be planted for both functional and decorative purposes.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1622_carex_cherokeensis/og/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=67ae010cd4687dda2bf1bd0ad5b70614591e481d7788071594691d31d8908985",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1622_carex_cherokeensis/regular/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=22b4d076b8d3cf807a7690a7fe6ac33b1fb7caa3a9b84586fc0773514aa5c8fb",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1622_carex_cherokeensis/medium/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8eeea906b37a83e9c8b79ea0d8a8e957d1f3353dafc5955d3931802332073e9c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1622_carex_cherokeensis/small/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5bef218e0a7cd39574169d6d8e698f30f3d88df3550f5412d9c4011ff3bea2b5",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1622_carex_cherokeensis/thumbnail/Brown_Fox_Sedge_28Carex_vulpinoidea29_in_wet_meadow_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a608818453a4b409d0dbd37b06fe2d6966aea78177eb39bbfe244598be8b9f3f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1623,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex ciliatomarginata 'Treasure Island'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Treasure Island",
+      "variety": null,
+      "species_epithet": "ciliatomarginata",
+      "genus": "Carex",
+      "origin": [
+        "United States"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1623&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1623&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1623&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge (Carex ciliatomarginata 'Treasure Island') is an amazing plant species that will add texture and foliage interest to any landscape. With its decorative yellowish-green leaves and soft, unique texture, this sedge stands out in the garden. It is one of the toughest varieties of sedge and is extremely drought tolerant, making it an ideal choice for low-maintenance gardens. It is also a clumping grass-like plant with a medium to dwarf size that can be left alone or trimmed to desired shape. Its bright color helps to lighten shady areas and draws attention to whatever corner of the garden it is in. The 'Treasure Island' sedge is an incredible ornamental addition for any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1624,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex comans"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "comans",
+      "genus": "Carex",
+      "origin": [
+        "New Zealand"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "7",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1624&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1624&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "silver-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "March",
+        "May",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1624&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Rust",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Summer",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge, or Carex comans, is an amazing plant species that provides a plethora of benefits. The evergreen foliage is low-maintenance and requires little to no mowing. It can withstand drought, and its color changes from striking red to deep green with the change in seasons. This fully hardy grass is an excellent habitat for wildlife, such as birds and small mammals. It also helps to improve air quality and reduce air pollution. Moreover, its roots help to prevent erosion. Sedges also have impressive cold hardiness, making them perfect for cold climates. They are an excellent choice for ground covers, low-level hedging, and general garden decor. With its many benefits, it's clear why Sedge is such an amazing plant species.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1624_carex_comans/og/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=33bdcbd46d5527754a6385ad0fe121a1f57b7fbf7b24e2b24537afc792d87494",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1624_carex_comans/regular/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=88bbd6f253da5c44baf7ac20596528b3e093c66b398c65c2eb3a2a49d0c50541",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1624_carex_comans/medium/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=99c15dee3f0e93657bb794a5d77803b12eb1a9753e1c3d5b7f7acf44f2a83678",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1624_carex_comans/small/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6d73a8398e9a04a4fa3a6ea61a3f52a74e1a4b40cdc0eb8e316c1c1851aee141",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1624_carex_comans/thumbnail/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8178717fbb3c388c260eb7ef778528a5d7a3927fe417ada5ddc782513207b235"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1625,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex comans 'Frosted Curls'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Frosted Curls",
+      "variety": null,
+      "species_epithet": "comans",
+      "genus": "Carex",
+      "origin": [
+        "New Zealand"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "7",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1625&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1625&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "silver-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1625&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Rust",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge (Carex comans 'Frosted Curls') is an amazing ornamental grass that looks like a living fountain. Its long, thin leaves are striped with white, giving them a translucent, frosted appearance. This eye-catching grass dances gracefully in the breeze and is a great choice for adding texture and movement to a garden. It tolerates full sun and partial shade but prefers moist soils and humid climates. Its low-maintenance characteristics make it the perfect addition to any garden or landscape.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1625_carex_comans_frosted_curls/og/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=11a163269e67c9bf9099ff4ac5455e80c8a04e0ab48dc7b511af9ff0c004696b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1625_carex_comans_frosted_curls/regular/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3d4a7758c3c4b58d55c31c5aafce85294c3b3347213807f19df3e8b956bd2214",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1625_carex_comans_frosted_curls/medium/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=40927ae48cc68b8d4641f11186379aa9916fa8f2f5654851b9071e5c5bcb9808",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1625_carex_comans_frosted_curls/small/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=85fb1cb752c7f3ecda734efa37efae5c00d7368f0d775516c40193de83357534",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1625_carex_comans_frosted_curls/thumbnail/33665261076_1cb1692a4d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=75f81ee9ede83de4de6fe1d19b285dd4b7e69a33870f44d9f30f6fc803d20e11"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1626,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex conica 'Snowline'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Snowline",
+      "variety": null,
+      "species_epithet": "conica",
+      "genus": "Carex",
+      "origin": [
+        "S.E. Asia",
+        "Japan",
+        "China (Japan"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1626&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1626&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1626&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Drought resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge (Carex conica 'Snowline') is an amazing evergreen that adds architectural interest to a garden in winter. This slow-growing perennial was developed in Germany and was awarded a Gold Medal at the 2016 Chelsea Flower Show. Its slender blades of green-silver foliage create a lined texture and contrast nicely with darker evergreen shrubs. This sedge typically grows 12 inches tall and 18 inches wide but can spread to 36 inches over time. It is low-maintenance and does not require pruning. It is also deer resistant and makes a great groundcover option for a partial to full shade garden. Sedge (Carex conica 'Snowline') is a great option for creating texture and year-round interest in today's modern garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1626_carex_conica_snowline/og/Carex_conica_Snowline_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b82ccaf207fa250caa1956dc023c1a7f1c5a3b4dd4fa93f293a122cc12991290",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1626_carex_conica_snowline/regular/Carex_conica_Snowline_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ef20b64e124ec9f9bafeb9cd8975ecebfe93ef8f01a2c2b395050d91da764f67",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1626_carex_conica_snowline/medium/Carex_conica_Snowline_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=472a8e297165f832e3a1695fca38e93e73411254ee736e80915f997667273c8b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1626_carex_conica_snowline/small/Carex_conica_Snowline_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=db29f799abe6baa49bee58925a8aaf7960fd15678428ec7cb6b9e389606d14a2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1626_carex_conica_snowline/thumbnail/Carex_conica_Snowline_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8fdef032158b30e71e81e8f4f0ba9eea0c760d3966f90062e3fe23052c2b58e7"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1627,
+      "common_name": "fringed sedge",
+      "scientific_name": [
+        "Carex crinita"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "crinita",
+      "genus": "Carex",
+      "origin": [
+        "Central and eastern United States"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds"
+      ],
+      "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1627&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1627&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1627&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Clay",
+        " Sand"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Fringed Sedge (Carex crinita) is an amazing plant species that adapts to Wetland and Lowland forest habitat with ease. It is a perennial, cool-season native grass that is capable of providing four-season interest in southwestern landscapes. Its delicate-looking, evergreen leaves have a soft, billowy texture that contrasts nicely with other plant species. In summer, fringed sedge produces inconspicuous, feathery flower spikes that add subtle beauty. In winter, its evergreen leaves make a welcome addition to the garden, and its fuzzy yellow-brown seed heads provide valuable winter food for wildlife. It is a highly adaptable species and is very low maintenance.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1627_carex_crinita/og/26298830557_4057e00d18_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7dbe84b6e29fa5c521ae34faa94b17a7498d18b9524af567354f5ce5836ba036",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1627_carex_crinita/regular/26298830557_4057e00d18_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8a26716256deb7e4816df25f4c16a35838f3ec0ce752c650bf152b464053b889",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1627_carex_crinita/medium/26298830557_4057e00d18_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=22fdc403d8d46136a573fa91e4288e5467c14a1fdacfbbc4bad18a2d7796b768",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1627_carex_crinita/small/26298830557_4057e00d18_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=46299ec6b27661c24bb681e090fda77f52f4541c0ae0ac7802fdab4e515f394f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1627_carex_crinita/thumbnail/26298830557_4057e00d18_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=375a77548f4d3f550713fd4b7a596e86066cdfc836ccce8ddab29584d24c2814"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1628,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex cristatella"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "cristatella",
+      "genus": "Carex",
+      "origin": [
+        "North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Squirrels",
+        " Birds",
+        " Butterfly Larvae"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation",
+        "Stolon",
+        "Rhizome Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1628&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1628&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun",
+        " Partial Shade"
+      ],
+      "pruning_month": [],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1628&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Loam"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge (Carex cristatella) is an amazing species of plant. It is often found in low, wet or marshy areas in Scotland and across Europe. It is a herbaceous perennial that brings a stunning dimension to any wetland environment. It provides habitat for small animals and birds, and its bright green leaves with striking white margins are a stunning visual feature. The leaves can be dried and used in floral arrangements and crafts. Its spreading culms have a plethora of uses throughout the year, making it an invaluable addition to any wild garden.",
+      "default_image": {
+        "license": 44,
+        "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1628_carex_cristatella/og/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9e988689da84363a78181ab548f0e94ea4c3f5d01c2a53e05c32b9f0665a3a2f",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1628_carex_cristatella/regular/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=adaf0832c5ddc73e63bf6df6fe9fe5619efd940c969fa29e46fd69931518e222",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1628_carex_cristatella/medium/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ffab2cb7b9fc529d97c7ff607672a6fd4ada5c65faf19ec024beac75476ef8df",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1628_carex_cristatella/small/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f1f78f2bd325a39bba0cf5827c22cb588112d3b4b1c31e29d20de2ad9d40d340",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1628_carex_cristatella/thumbnail/eb2cfe174c38854f4e115c244e50af95e442af3c.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ae7d3c3257d3319e5e0cf0ef9225f35ce06c3e95be1704e8673b8c3d28cd80de"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1629,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex crus-corvi"
+      ],
+      "other_name": [
+        "Ravenfoot Sedge"
+      ],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "crus-corvi",
+      "genus": "Carex",
+      "origin": [
+        "North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1629&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1629&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part sun/part shade",
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1629&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Clay",
+        " Sand",
+        " Loam"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The sedge (Carex crus-corvi) is an amazing plant species due to its versatility and hardy nature. With its bright green foliage, sedge provides beautiful coloring to any garden, making it a great ornamental option. It is extremely easy to care for, as it flourishes in moist soil and can tolerate direct sunlight without damage. Its robust root system helps protect against erosion and an array of wildlife species find shelter beneath its lush foliage. The sedge is highly adaptable, able to thrive in a variety of environments, from standing water and low-lying ditches to shady areas. Whether planted in a garden or in a natural landscape, sedge is a great choice for any gardener.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1629_carex_crus-corvi/og/52618292308_6521f973c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3218e459ce06843e4230fdfa615b0585cfc011570f39f613e472c0b72c3da2df",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1629_carex_crus-corvi/regular/52618292308_6521f973c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ee0d4b393b09c5481fd412e44876392928e4c43c839d6495fa18f95a93493990",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1629_carex_crus-corvi/medium/52618292308_6521f973c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1d0a0f25c07c9b43e7f272f482c96f5a9d1cb96f195dc3f4f59c946b1506ba5a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1629_carex_crus-corvi/small/52618292308_6521f973c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=02bc2591e0bd3308f2b81f93fe549d25443b03e4a866cd16a340d3b50af3c7bc",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1629_carex_crus-corvi/thumbnail/52618292308_6521f973c9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010107Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4f361ab401e13f5fe786992907edfb912bac3e90d829969aa9925004fdb11365"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1630,
+      "common_name": "Davis's sedge",
+      "scientific_name": [
+        "Carex davisii"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "davisii",
+      "genus": "Carex",
+      "origin": [
+        "Eastern",
+        "central United States"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1630&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1630&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part sun/part shade",
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1630&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Davis's sedge (Carex davisii) is an amazing plant species for many reasons. It is incredibly hardy and can survive in a variety of different climates from wetlands to dry, rocky areas. It is also drought tolerant, and its deep green leaves provide a beautiful contrast when planted around flowers or other greenery. Additionally, Davis’s sedge is a source of food for many different species of insect or birds, making it an important part of many ecosystems. Finally, Davis’s sedge is known to have a very long lifespan, and in some cases, it is known to live for up to one hundred years. These qualities make Davis’s sedge an amazing plant species.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1631,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex dolichostachya 'Kaga-nishiki' GOLD FOUNTAINS"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Kaga-nishiki",
+      "variety": null,
+      "species_epithet": "dolichostachya",
+      "genus": "Carex",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1631&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1631&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1631&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Carex dolichostachya 'Kaga-nishiki' GOLD FOUNTAINS sedge is truly one of the most amazing plants you can find. This ornamental grass features long, fine-textured foliage that cascades gracefully from its container, adding a stylish touch to any garden. It is best known for its showy gold foliage that can quickly brighten up your garden and help it stand out from the rest. Its fast-growing habit requires very little maintenance, while providing plenty of erosion control, making it perfect for garden paths or borders. And even after winter has passed, it continues to be an eye-catching feature with its strong presence and vibrant color. If you want a show-stopping plant that can quickly transform your garden, then Carex dolichostachya 'Kaga-nishiki' GOLD FOUNTAINS sedge is perfect for you.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1631_carex_dolichostachya_kaga-nishiki_gold_fountains/og/Carex_dolichostachya_Gold_Fountains_3zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ada7c5eb5ad01646c8436b53dc5c5d0ca3ca77b2e710de35be0d4547ac50587a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1631_carex_dolichostachya_kaga-nishiki_gold_fountains/regular/Carex_dolichostachya_Gold_Fountains_3zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=356f31824157e0049c70d904eb375beb252367ccf2db183d393c69b32d8a4e6a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1631_carex_dolichostachya_kaga-nishiki_gold_fountains/medium/Carex_dolichostachya_Gold_Fountains_3zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=797f65e1f7842075b70b9ad5ecc23e176ad2f6f9c8bfe3ef28ba0fb73ce0f3cc",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1631_carex_dolichostachya_kaga-nishiki_gold_fountains/small/Carex_dolichostachya_Gold_Fountains_3zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b8b72f7277d038b83a0c9e623d82d0a03d6d039ae97c97784000b7eede4f753e",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1631_carex_dolichostachya_kaga-nishiki_gold_fountains/thumbnail/Carex_dolichostachya_Gold_Fountains_3zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2c4a015b5deafb5647ace677bacf9a84372b925d28b081a18f2ba6251540abd5"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1632,
+      "common_name": "bristle-leaved sedge",
+      "scientific_name": [
+        "Carex eburnea"
+      ],
+      "other_name": [
+        "Black Fruited Sedge",
+        "Bristleleaf Sedge"
+      ],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "eburnea",
+      "genus": "Carex",
+      "origin": [
+        "Eastern and central North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds",
+        " Butterfly Larvae"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1632&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1632&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1632&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sand"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Bristle-Leaved Sedge is an amazing species of plant due to its tremendous amount of habitat value. Its thick, coarse leaves give shelter and cover to small animals and birds, as well as food sources like ground-nesting invertebrates. The Bristle-leaved Sedge also produces long stems reaching up to a meter in length, which make it popular with gardeners for providing structure and height in planted areas. This sedge is incredibly resilient and hardy; it can tolerate a wide range of climates and soils, even those with poor drainage. Its beautiful golden color and unique texture make it a fantastic addition to any outdoor space.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1632_carex_eburnea/og/2560px-Carex_eburnea_kz01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ee2e92c087ab6e78c4e603ca3af142283fd47508dee7b863114e82ac4f129849",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1632_carex_eburnea/regular/2560px-Carex_eburnea_kz01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7b791b8952cf04a0be56517db37e2c75530ceedbe2d2af315968613654197115",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1632_carex_eburnea/medium/2560px-Carex_eburnea_kz01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e7a040ac33f67007533b98ec535f01063b246b5b3090ad53159425aac7ebf2e6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1632_carex_eburnea/small/2560px-Carex_eburnea_kz01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0b2a6d7477e973cc8e52fd0b75fc65fe00a5762bb227a61cce1ef63f48717eed",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1632_carex_eburnea/thumbnail/2560px-Carex_eburnea_kz01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=532b2efe17f886875d666c8ad015cdf28f350e49b656ac0a2af2dcea0d5344b2"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1633,
+      "common_name": "tufted sedge",
+      "scientific_name": [
+        "Carex elata"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "elata",
+      "genus": "Carex",
+      "origin": [
+        "Northern Africa",
+        "central and western Asia",
+        "Europe"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1633&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1633&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1633&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tufted Sedge is an amazing plant species native to Europe and Asia. It's an evergreen,g clumping- forming sedge that grows in damp, sunny spots, and is a great choice for areas of moist soil. This species is coveted for its bright, sky-blue flowers that attract a variety of pollinators, including butterflies and bees. Its tall, slender blades add structure, texture and color to gardens. This species thrives in areas of wet soil and humid climates, making it a great choice for low-maintenance landscaping. Its lush foliage offers a unique look while still being tolerant of wet soils. Tufted Sedge is a great choice for giving wetlands and natural areas a stunning pop of color.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1633_carex_elata/og/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dadef59989f68599f2c83350ad364b185cb637dc48fc1a993f65055fc37ab7c5",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1633_carex_elata/regular/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=461d66816d0268b85583950e87e1e9baf9739fa3ac8887c28b62efe9b37906e1",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1633_carex_elata/medium/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7768fdc8978543f2922fffc044f97bca85ca463ad0ecbec462f9f3133ed868f8",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1633_carex_elata/small/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e961d6ebb602e503c4c0f5533fdc9a2dc05900bc00c0bf62f3ee4128c8e45c14",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1633_carex_elata/thumbnail/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=97de7067f0c676d68a601c7ea5dc264b8c8d8ed288cbb7b2d113fd6729c66d22"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1634,
+      "common_name": "Bowles' golden sedge",
+      "scientific_name": [
+        "Carex elata 'Aurea'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Aurea",
+      "variety": null,
+      "species_epithet": "elata",
+      "genus": "Carex",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1634&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1634&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "lime-geen"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "dark-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1634&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Bog"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Mites",
+        "  Pest resistant",
+        " Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bowles' golden sedge (Carex elata 'Aurea') is an amazing plant species, well worth adding to your garden. It is an evergreen perennial with bright golden-yellow blades that make a striking feature in the garden. It prefers full sun or partial shade and is resistant to most common pests, diseases, and drought. It has a mounding habit of arching foliage that ripples in the wind and is ideal for creating lawns, edging, and rockeries. It is a great alternative to grass as it requires very little maintenance and its beautiful color brings life to any space. Bowles' golden sedge is a must-have for any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1634_carex_elata_aurea/og/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=53edc1f57c7c0e3208190b1532df51bcbd3daec7935043c176b66fe014a81fd8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1634_carex_elata_aurea/regular/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0c919a589bfa6db085ce3cd261de504531182096a23d5489633a38f7e4eb0981",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1634_carex_elata_aurea/medium/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a4f93b2925570a64c5710c4de8ae8043f5fdf9f9f672444606c641263df6c2d2",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1634_carex_elata_aurea/small/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=25ccc9d348cef97f7cb4da104455a7c62e326c2b1713949a541cf87b1f14bc6c",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1634_carex_elata_aurea/thumbnail/27192153993_c9f54d0276_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d121b882cf421b9b5bd1afc75c57fe1dfdee6e6a41ac09f3b64ccc76fb637f1c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1635,
+      "common_name": "blue green sedge",
+      "scientific_name": [
+        "Carex flacca"
+      ],
+      "other_name": [
+        "Glaucus Sedge",
+        "Blue Sedge",
+        "Blue Sedge"
+      ],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "flacca",
+      "genus": "Carex",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1635&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1635&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "brown"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Sun",
+        " Partial Shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1635&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Rust",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Blue Green sedge (Carex flacca) is a unique and amazing species of wetland grass. It is also known as Glaucous Sedge, and produces a deep blue hue in its foliage. Its evergreen foliage displays a thin ribbon-like growth habit, and delicate textured leaves. Its flowering habit contributes to its unique color palette. It is a great addition to any wetland garden, and can be combined with other grasses and ferns for an interesting texture and color combination. This sedge tolerates a variety of soil types, responds well to pruning, and is drought tolerant. Whether you are creating a woodland-style landscape or a serene wetland look, this sedge will bring out the best of your garden.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1635_carex_flacca/og/49986611418_51c31d7d8b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010110Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8a11a0d6293c3b29059b23aa5efe0f6f7013abd3beb31057f3f8549bae4ed719"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1636,
+      "common_name": "blue sedge",
+      "scientific_name": [
+        "Carex flacca 'Blue Zinger'"
+      ],
+      "other_name": [
+        "Glaucus Sedge",
+        "Blue Sedge",
+        "Blue Sedge"
+      ],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Blue Zinger",
+      "variety": null,
+      "species_epithet": "flacca",
+      "genus": "Carex",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1636&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1636&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun",
+        " Partial Shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1636&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Rust",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Blue Sedge, technically known as Carex flacca 'Blue Zinger', is an amazing plant species. Its lush, colorful leaves remind observers of a rolling field of blue. Instead of its typical grass-like foliage, Blue Sedge has bright blue leaves that compliment any garden décor. Additionally, it is a very hardy plant species, requiring only minimal maintenance and offering outstanding drought tolerance. The added bonus of Blue Sedge is its season-long flower spikes that peak during the spring, accordingly providing splendid pops of color even in areas with high temperatures.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1637,
+      "common_name": "blue wood sedge",
+      "scientific_name": [
+        "Carex flaccosperma"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "flaccosperma",
+      "genus": "Carex",
+      "origin": [
+        "Southeastern North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Stolon"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1637&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1637&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "March",
+        "April",
+        "May",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1637&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Blue wood sedge (Carex flaccosperma) is an amazing and hardy species of sedge that will add texture and subtle accent to any landscape. It features narrow, but wide, soft and floppy bluish-green leaves, and in early summer, it produces slender, red-tinged seedheads. This sedge is highly adaptable, withstanding both wet and dry conditions, and makes a great ground cover. It's also highly deer-resistant and adds a beautiful accent of blue to the landscape. Blue wood sedge is a low-maintenance, durable accent that will make a unique and eye-catching addition to any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1637_carex_flaccosperma/og/2560px-Grasses_of_Kerala_07239.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a9c92c63c7d173a066ea2be4e57e3d6075c2eeab1a5b76467c16358a4c57f897",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1637_carex_flaccosperma/regular/2560px-Grasses_of_Kerala_07239.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9f9e388bb2f896d034ae3b52fdfe39dc5c9379c5b9ff0297883d8ea01f5bd9e0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1637_carex_flaccosperma/medium/2560px-Grasses_of_Kerala_07239.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=206f3dbea4687b261b31956e1097731ff346ecbe62ff49f1e4c36be78f23063e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1637_carex_flaccosperma/small/2560px-Grasses_of_Kerala_07239.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=11896262712108f8a4903a4b072e02bcae3353ca60ae36a46b8b501ea959ad6a",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1637_carex_flaccosperma/thumbnail/2560px-Grasses_of_Kerala_07239.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=24f1676d7b459eaed4a11a4dbe5368313beb415cda8a66f0782c4144e1452031"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1638,
+      "common_name": "Frank's sedge",
+      "scientific_name": [
+        "Carex frankii"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "frankii",
+      "genus": "Carex",
+      "origin": [
+        "Eastern and central North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds",
+        " Butterfly Larvae"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Stolon"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1638&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1638&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun",
+        " Partial Shade"
+      ],
+      "pruning_month": [
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1638&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Clay",
+        " Loam"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Frank's sedge (Carex frankii) is an amazing species of plant that is well worth admiring. It's a low-growing perennial sedge that is native to the eastern United States and forms masses of thin, spiky foliage. It is a clump-forming plant that has an evergreen habit forming spreading clumps with pointed, upright leaves in medium to light green. It blooms in spring with insignificant but attractive reddish-purple flowers. It can adapt to a wide range of soil types and prefers a sunny spot but will part shade to full sun. It's drought and cold tolerant making it an easy-care choice for a landscape or garden. Frank's sedge is ideal for xeriscaping or for areas where low-maintenance plants are required and it's sure to draw perfect amount of attention.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1638_carex_frankii/og/Carex_pseudocyperus_inflorescens_281929.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e1fd6cba5fa2b437b89e913cf5b72bc771a9fda0569e715607076cc4b549ce0c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1638_carex_frankii/regular/Carex_pseudocyperus_inflorescens_281929.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4f9b8ed994926188fe1ae6fa7230d9b7c3b5f5b9c398eba05ac1ae76a6de38b6",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1638_carex_frankii/medium/Carex_pseudocyperus_inflorescens_281929.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=61df0ce7258d31fab7966a016f1060bfc94274f517e28dd58bf40649ce62ead1",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1638_carex_frankii/small/Carex_pseudocyperus_inflorescens_281929.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=28def2c7d764c456567aeeccdd2322dfbd7f6616b7df40e63849ac4e41f07215",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1638_carex_frankii/thumbnail/Carex_pseudocyperus_inflorescens_281929.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f11d9d0361b55064965c23a14a0eb1dafe938760b02715aa99ee3f5a5f5b2499"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1639,
+      "common_name": "gray sedge",
+      "scientific_name": [
+        "Carex grayi"
+      ],
+      "other_name": [
+        "Bur Sedge",
+        "Morning Star Sedge",
+        "Gray's Sedge",
+        "Asa Gray's Sedge",
+        "Morning Star Sedge",
+        "Gray's Sedge",
+        "Asa Gray's Sedge"
+      ],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "grayi",
+      "genus": "Carex",
+      "origin": [
+        "Eastern North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds"
+      ],
+      "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1639&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1639&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun",
+        " Partial Shade",
+        " Deciduous Shade (Spring Sun)"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1639&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Loam"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Gray Sedge (Carex grayi) is an amazing plant species that adds a unique touch to the landscape. It is a small grass-like plant with slender, arching stems and light green, wooly foliage. The tiny sharp-tipped flowers in spring are a delightful addition. It's low-maintenance, shade-tolerant, and evergreen, providing year-round interest in the garden, both for its soft, colorful foliage and its arching, graceful form. Ideal for planting in rock gardens and in the front of beds and borders. It's also an excellent choice for containers or mixed-container plantings. It's perfect for providing contrast and texture in drought-tolerant, cottage, and woodland gardens.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1639_carex_grayi/og/28537687075_61a056d85a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bee7645f92fdee30af54aece73acc97071f5e2858a28657fb7c66c7d6498cf39",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1639_carex_grayi/regular/28537687075_61a056d85a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3bf18e2e2136d7e654afa47a667bb0c0065bae2994b6671323281833121a6dbd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1639_carex_grayi/medium/28537687075_61a056d85a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ffa42715dc8572e0d91bd86d3454f5715bf15c4ad111c4ea09466f03dcdd8617",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1639_carex_grayi/small/28537687075_61a056d85a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dfa1875003096bad295d96abf9937259817f746c9c70b10976cd03ab8342f43a",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1639_carex_grayi/thumbnail/28537687075_61a056d85a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8b83f98e1f672c4242ac38e7f2319a18ca22dec7b5011fb474dc3c2d1492f88e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1640,
+      "common_name": "Hayden's sedge",
+      "scientific_name": [
+        "Carex haydenii"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "haydenii",
+      "genus": "Carex",
+      "origin": [
+        "Northeastern and north",
+        "central North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Stolon"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1640&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1640&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Sun",
+        " Partial Shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1640&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Hayden's sedge (Carex haydenii) is an amazing plant species, due to its adaptability and beauty. It is a tufted perennial sedge native to North America that can be found in moist to wet meadows, woods and along streams. It boasts distinctive light green grass-like foliage with an upright growing habit. In late spring, it is adorned with drooping brown-green flowers and looks stunning in a naturalistic garden setting. Besides its beauty and calming presence, Hayden's sedge is also able to flourish in difficult growing conditions such as dry or rocky soils. This makes it an ideal choice for landscaping projects as well as for bringing biodiversity and structure to your garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1641,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex 'Ice Dance'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Ice Dance",
+      "variety": null,
+      "species_epithet": "'Ice",
+      "genus": "Carex",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1641&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1641&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "August",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1641&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Carex 'Ice Dance' is an amazing plant species. Its unique foliage boasts white variegation, making it an attractive accent for any garden or landscape. Its fine texture also adds a delicate, delicate look, with its delicate blades of grass. The sedge's low-growing habit and its ability to form a dense mound make it great for edging and is also suitable for containers. It's evergreen nature means it can provide year round interest in the garden, with no fuss and no mess. Carex 'Ice Dance' is truly an amazing plant, adding the perfect touch to any landscape.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1641_carex_ice_dance/og/1364px-Carex_morrowii_27Ice_Dance27_plant.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cb96e779f0631cabebd389904c479dddea23a3271723e986bed94f2daeae616b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1641_carex_ice_dance/regular/1364px-Carex_morrowii_27Ice_Dance27_plant.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ba0e09fbe6a5179fa4a11baeedf8d08c06ce021cdf5171f31cae96282ef583c3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1641_carex_ice_dance/medium/1364px-Carex_morrowii_27Ice_Dance27_plant.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=876b91a7f0f1d8a8f761c6343305d8abaea5c8255819d84a542875d6023235c6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1641_carex_ice_dance/small/1364px-Carex_morrowii_27Ice_Dance27_plant.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=62a642a63160421beaf5edcce257a267cfeef94d910f2f8c344dbf6fd7491aa7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1641_carex_ice_dance/thumbnail/1364px-Carex_morrowii_27Ice_Dance27_plant.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f08c1b77de73713be9feb53d3a6796d87cc0e10d23051f761218a1f8927e70d3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1642,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex laxiculmis"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "laxiculmis",
+      "genus": "Carex",
+      "origin": [
+        "United States"
+      ],
+      "type": "Grass",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1642&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1642&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Deciduous Shade (Spring Sun)"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1642&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Clay"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge (Carex laxiculmis) is a native, perennial plant found in moist open environments, such as wet meadows and along woodland edges. It provides crucial habitat for native wildlife and is a preferred food source for native bees, butterflies, and other beneficial insects. Resilient to pests and diseases, and tolerant of poor regions, Sedge is a reliable and attractive option for landscapers and gardeners alike. Its evergreen flowering stems decked with small dangling flowers provide year-round beauty. With an attractive mounding shape and its ability to tolerate dry soil, Sedge is an amazing plant choice for all types of gardens.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1642_carex_laxiculmis/og/2560px-Ehrharta_diplax_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6adfef73fa27b05b9be7be8b53aeef2cdfba13633e7118b034711ed4a3d8d283",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1642_carex_laxiculmis/regular/2560px-Ehrharta_diplax_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a457f0d4624509715330814b3b8113ff9af8b25cb103eac1a8fb6a95863b1a53",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1642_carex_laxiculmis/medium/2560px-Ehrharta_diplax_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7ad4102c9247e06a42f11111fb54751bce33299cef5f1e2be6fbab0ce10a2d2e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1642_carex_laxiculmis/small/2560px-Ehrharta_diplax_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3c4560767610fbe641b8130df4e23d989f1ab7190d6d7fa82abc6a881bf740cf",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1642_carex_laxiculmis/thumbnail/2560px-Ehrharta_diplax_kz1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010113Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f77b0c9e1b24056ee12a9c95a8f7f7a37c1200aa6317176116c705a18958f9ab"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1643,
+      "common_name": "sedge",
+      "scientific_name": [
+        "Carex laxiculmis 'Hobb' BUNNY BLUE"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Hobb",
+      "variety": null,
+      "species_epithet": "laxiculmis",
+      "genus": "Carex",
+      "origin": [
+        "United States"
+      ],
+      "type": "Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1643&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1643&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "foliage",
+          "color": [
+            "green-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Deciduous Shade (Spring Sun)"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1643&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Clay"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sedge (Carex laxiculmis 'Hobb' BUNNY BLUE) is an amazing plant species that will bring a bright and cheerful atmosphere to your garden. Growing to only 50 cm tall by 50 cm wide, it forms a low, rounded mound of blue-grey foliage with delicate grassy flowers in summer. It's ideal for groundcover and as an edging to planting beds and containers. Deer-resistant and drought tolerant, it requires little maintenance and is tolerant of a wide range of soil conditions. Its attractive blue foliage will shine in container and rock gardens and its bright yellow flowers will bring vivid summer colour and attract bees. Sedge (Carex laxiculmis 'Hobb' BUNNY BLUE) is a great choice for any garden, perfect for providing year-round interest and colour.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1643_carex_laxiculmis_hobb_bunny_blue/og/52519074141_315128e12b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=805ac14afde314aa69b48706328e79c29859a49557a8b43f605596954ffff09b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1643_carex_laxiculmis_hobb_bunny_blue/regular/52519074141_315128e12b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7f02a046149fabfd3af8bca5cbd153b327e811f3f2fe4d711ef95f1cca3541b7",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1643_carex_laxiculmis_hobb_bunny_blue/medium/52519074141_315128e12b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=814fe6f2ed7e21365acd1dd96bb4256a3fe404897607fe9833671cf1ff5fb456",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1643_carex_laxiculmis_hobb_bunny_blue/small/52519074141_315128e12b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a831b039134152b4af5cc3c967bae1dc54616232484973316a00cd6d46287fcb",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1643_carex_laxiculmis_hobb_bunny_blue/thumbnail/52519074141_315128e12b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d8afda0805ad46a5aab404a95c0c0c79da34047d1d999f9ecc0435d980c35fe4"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1644,
+      "common_name": "oval sedge",
+      "scientific_name": [
+        "Carex leporina"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "leporina",
+      "genus": "Carex",
+      "origin": [
+        "Asia",
+        "Europe",
+        "western North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1644&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1644&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "foliage",
+          "color": [
+            "green-brown"
+          ]
+        },
+        {
+          "part": "stalk",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1644&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Oval sedge (Carex leporina) is an incredibly adaptive and amazing native plant species! It's highly drought-tolerant, resilient to numerous environmental conditions, spreads quickly and can be found in all kinds of habitats. Its structural grass-like foliage can reach up to one meter in height and can provide a wide array of habitats for small animals and insects. Its flowers are tiny and yellow-brown, but its beauty lies in its evergreen foliage, which maintains its green hue all year long. Not to mention how easy it is to maintain in the garden! Oval sedge is truly a marvel of native plants!",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1644_carex_leporina/og/51343721981_dfc2421377_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2f18f9393d605025132a8489e53151a312b73ba1c00d4e8804f88d0c8be9bf38"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1645,
+      "common_name": "sallow sedge",
+      "scientific_name": [
+        "Carex lurida"
+      ],
+      "other_name": [
+        "Sallow Sedge",
+        "Lurid Sedge",
+        "Lurid Sedge"
+      ],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "lurida",
+      "genus": "Carex",
+      "origin": [
+        "North and South America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Rhizome Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1645&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1645&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1645&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Clay",
+        " Sand",
+        " Loam"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sallow Sedge (Carex lurida) is a unique and amazing plant species. It's light tan inflorescences along the tall stems contrast nicely with the bright green leaves, creating an eye-catching combination. It prefers wet habitats and can be found growing in marshes, moist woods, and along streams. It also has a long flowering period stretching from the early part of the summer to late fall, creating stunning visuals all season long. What's more, it's a very hardy plant and has a long lifespan, making it a great choice for a long-term garden feature. Whether planted in large groups for dramatic impact or included as a detail in a meadow, Sallow Sedge is a beautiful and versatile plant.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1645_carex_lurida/og/51178147282_2dba5552a9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=475f09b516e825b140a225c32ee98d676bfbec5e993ab29ca3ffa974b8fce318",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1645_carex_lurida/regular/51178147282_2dba5552a9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d66b72f2351da89534ca85f5cf48308afcec9c4520ddd1f514d28750c5ae4a02",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1645_carex_lurida/medium/51178147282_2dba5552a9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b0cdd5db4a2322688354cd40402ad6a1e9a3369159d712e5b205e3d46ed0f0c9",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1645_carex_lurida/small/51178147282_2dba5552a9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fca4e3146e1aa5fb9ab72ad567118655ee9f8aff0cbdaaac0e9e1042e191fe55",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1645_carex_lurida/thumbnail/51178147282_2dba5552a9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f6eece37081120e39aa8e501b39ea6815aa72df07c1933da2d61590dd1327b50"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1646,
+      "common_name": "Japanese grass sedge",
+      "scientific_name": [
+        "Carex morrowii"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "morrowii",
+      "genus": "Carex",
+      "origin": [
+        "Southern and central Japan"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Stolon",
+        "Rhizome Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1646&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1646&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "August",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1646&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Japanese grass sedge (Carex morrowii) is an amazingly versatile, low-maintenance perennial that adds year-round interest to any garden. Its small deep green leaves create an attractive, evergreen-like carpet beneath trees and shrubs, making it an ideal choice for areas where traditional grasses tend to struggle. With a tolerance for wetter soils, this hardy perennial is perfect for areas that have consistent moisture and moisture-retaining soils. As an added bonus, it’s very drought tolerant. Its beautiful white and light green blooms appear in mid to late summer and last through the fall. Japanese grass sedge is an easy-care, attractive ornamental perfect for the shade or partial sun areas of any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1646_carex_morrowii/og/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f49c7db4de341c7227bd985caf044e0ce1b6f6a9ff3a95c9ab80e947f7d4bd42",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1646_carex_morrowii/regular/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=66ee4a78d9a49e66f94543f2764826e12669fe186ccc1b208190c9b3846533a3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1646_carex_morrowii/medium/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9c4fbe41ad5e1460e5e1019ad114664bf795d4d5cc1213133bd6e909b77e011b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1646_carex_morrowii/small/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b0afe8b379f8334d9dcc9caeb959b3c9e9586edac5e78e5554b70abf79d95089",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1646_carex_morrowii/thumbnail/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1d3e799832579f789b9435d08ffb6b60660cfb59c79b5f1225169964b2a05d07"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1647,
+      "common_name": "Japanese grass sedge",
+      "scientific_name": [
+        "Carex morrowii 'Goldband'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Goldband",
+      "variety": null,
+      "species_epithet": "morrowii",
+      "genus": "Carex",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1647&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1647&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "cream-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1647&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Japanese grass sedge (Carex morrowii 'Goldband') is an amazing plant species with beautiful foliage and bold colors. Its bright gold-and-green striped foliage is sure to be a show-stopper in any garden. It thrives in partial to full shade, providing the perfect nibble for woodland creatures. Plus, its resilient texture makes it an excellent choice for grass-like borders. This grass sedge is evergreen and its leaves stay healthy and beautiful year-round. As an added bonus, this low-maintenance sedge has a clumping formation, making it an ideal choice for crowding out weeds and enhancing the look of an existing landscape.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1647_carex_morrowii_goldband/og/7133815851_db7e6e2cc5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b991baf2742de82e35bb68b0af0db6b1654ecde4c7f8592c0478db38df28fe76",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1647_carex_morrowii_goldband/regular/7133815851_db7e6e2cc5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c14b641999aeab342b10131159ded50c7ed8b53a8cc9726d29ba290ecf30fc7a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1647_carex_morrowii_goldband/medium/7133815851_db7e6e2cc5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1353f7ce0d7acc109d341ac6a28e1b3d5c981abf26eea201506e2b3951198690",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1647_carex_morrowii_goldband/small/7133815851_db7e6e2cc5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=757c5f18488d6d47b67cc0bf3ba8aa3867d9e44c919acf1cc4b17bbb33fe9e97",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1647_carex_morrowii_goldband/thumbnail/7133815851_db7e6e2cc5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8d6340f09903c0fc23e72d0f10e5f7f5be0a564efdfa82656086ba896cd19fb5"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1648,
+      "common_name": "Japanese grass sedge",
+      "scientific_name": [
+        "Carex morrowii var. temnolepis 'Silk Tassel'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Silk Tassel",
+      "variety": "var. temnolepis ",
+      "species_epithet": "morrowii",
+      "genus": "Carex",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": null,
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1648&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1648&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "foliage",
+          "color": [
+            "green-cream"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1648&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Japanese grass sedge (Carex morrowii var. temnolepis 'Silk Tassel') is an amazing ornamental grass for landscaping. This grass can thrive in almost any soil type, and it has an incredible spreading habit that adds texture and color to a garden. It also grows gracefully and gracefully arching out to produce long, thin leaves. The outstanding feature of this grass is its spectacular seed heads, which create a fabulous show of drooping 'silky tassels'. This grass is also low maintenance and drought tolerant, making it a favorite choice of landscapers and gardeners alike.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1648_carex_morrowii_var_temnolepis_silk_tassel/og/21989008988_ecba059fe6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9ee696eb53d4097f4f57adc2b5245b2f745c1a8075096467022040d8d05c392b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1648_carex_morrowii_var_temnolepis_silk_tassel/regular/21989008988_ecba059fe6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=890f6e41c7c4e3ffc93760c76a8ef373570618b87e08133ea571f57774b34e38",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1648_carex_morrowii_var_temnolepis_silk_tassel/medium/21989008988_ecba059fe6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=212d8e4520e6b34294155924c9791552f2aa634ce3f902455fb465b7486bd5c7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1648_carex_morrowii_var_temnolepis_silk_tassel/small/21989008988_ecba059fe6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=94ff34b11c2ed74a70dd47421da7ace4c98d0b84cbe66470bbbcfaab993dfedf",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1648_carex_morrowii_var_temnolepis_silk_tassel/thumbnail/21989008988_ecba059fe6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fb0282c23eddbbf2842d167bec13732cc109f1df15aa8be3b6694d0462d41950"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1649,
+      "common_name": "Japanese grass sedge",
+      "scientific_name": [
+        "Carex morrowii 'Variegata'"
+      ],
+      "other_name": [],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Variegata",
+      "variety": null,
+      "species_epithet": "morrowii",
+      "genus": "Carex",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1649&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1649&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-brown"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "August",
+        "March",
+        "April",
+        "May",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1649&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Japanese grass sedge (Carex morrowii 'Variegata') is an amazing plant species with its photosynthetic variegated foliage. Its light-green leaves with a creamy-white center stripe make it an attractive choice for landscaping. This grass sedge is also incredibly versatile; it can be grown in a wide range of soil types, climates, and lighting conditions. And, if located in full to partial sun, it is incredibly resilient, allowing it to Thrive and withstand cold hardy temperatures. It also requires little maintenance, as regular trimming is not required and minimal watering is necessary. Overall, Japanese grass sedge is a perfect addition to any garden or landscaping project and is sure to add a vibrant, colorful touch.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1649_carex_morrowii_variegata/og/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2e46fdcb1b1d53d308f6f29fa6bb9d5fc0890fd7277a6c4605e506eba383132c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1649_carex_morrowii_variegata/regular/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=867ec2728aa918dad47f6beb4c845181b875cc1f94b0d78e9154d01ece277739",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1649_carex_morrowii_variegata/medium/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c56d4db19b916cb709973591217118076377d87596efb3ae96de1c167c03aead",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1649_carex_morrowii_variegata/small/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ccfc3ab8cfb62fe6f8f6316a2b3a91f31550cab4913e44b2f0fe9fdbc69f17c1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1649_carex_morrowii_variegata/thumbnail/14018932949_4f5f15e24d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a64aef8df14c844018dfd21b046967abbc6d401ccb30fe8043cbbd9a0ad10b76"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 1650,
+      "common_name": "palm sedge",
+      "scientific_name": [
+        "Carex muskingumensis"
+      ],
+      "other_name": [
+        "Swamp Oval Sedge"
+      ],
+      "family": "Cyperaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "muskingumensis",
+      "genus": "Carex",
+      "origin": [
+        "Western North America"
+      ],
+      "type": "Rush or Sedge",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Stolon"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1650&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1650&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "February",
+        "March",
+        "April",
+        "May",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1650&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Palm Sedge (Carex Muskingumensis) is a unique and amazing plant species native to North America. Its stunning foliage resembles a palm frond and looks like an evergreen in winter. The leaves range from tan and green to reddish-brown in color. Its sharp-edged blades are distinctive and give the plant an exotic look. Its roots are shallow and spread out, allowing it to grow in areas with moist and boggy conditions. Its inconspicuous flowers bloom in the summertime, bearing tiny spherical fruits - adding to its distinct look. Palm Sedge is a great addition to any wildlife garden and is sure to provide texture and striking color to the landscape.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1650_carex_muskingumensis/og/6156443708_738a17671b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3075e9745765dd805025dc13ba78afac8d278db2df8beefe57502e06ea10e29b",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1650_carex_muskingumensis/regular/6156443708_738a17671b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8a4a248b3a3eea692adfee37df5120e84d324681b002acbaa8b3e0bc14a78e39",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1650_carex_muskingumensis/medium/6156443708_738a17671b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ae3b4d1f211e4b826f22d6f953bb2aff30138cd38447920b3226e2e81c77bfda",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1650_carex_muskingumensis/small/6156443708_738a17671b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7e4b78adb67cd19df030e27e7aadd831ac7b765e7ebb205bbf33f3e930c7295b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/1650_carex_muskingumensis/thumbnail/6156443708_738a17671b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260814%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260814T010117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=da9370be21276d45ba398346e7e3375e551ab15f16d11214e2b988fb5c99f5f4"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
