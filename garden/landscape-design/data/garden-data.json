@@ -300405,6 +300405,3654 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2071,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Pinwheel'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Pinwheel",
+      "variety": null,
+      "species_epithet": "'Pinwheel'",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2071&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2071&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "August",
+        "March",
+        "April",
+        "May",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2071&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Pinwheel') is a hardy, colorful plant that is sure to please your gardening needs. With its bright daisy-like flowers and its large petal diameter, it makes an eye-catching addition to any garden or border. It is easy to care for and is drought tolerant; requiring little watering and fertilizer. Perfect for beginner or experienced gardeners alike, this beautiful flower blooms in spring and attracts numerous butterflies and birds. Its brilliant colors of white, red, and yellow adds a vibrant touch to your garden. This plant is truly amazing!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2072,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis pubescens"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "pubescens",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2072&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2072&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "bright-yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "orange-yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2072&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis pubescens) is an amazing plant species due to its many attributes! It is native to the southeastern and south-central United States, and is easily grown in well-drained soils. It produces masses of butter-yellow flowers in the summer and stays evergreen both in its foliage and structural shape all winter. Its daisy-like petals are beloved for adding beauty and color to gardens, while its ability to attract birds, bees, and beneficial insects ensures it’s vital to the ecosystem. Plus, its stems are covered in sticky hairs making it one of the best plants to keep pests away!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2072_coreopsis_pubescens/og/4715504896_93810ae29a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021137Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a3cfef4bb519a81fd24e14094f9c2eb6fff78df37ce84c0ab18ab6d2bf036e91",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2072_coreopsis_pubescens/regular/4715504896_93810ae29a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021137Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c496f82af9de2226d0d30895de0d3c1a4b744824706fbef96a96fd384fbe176e",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2072_coreopsis_pubescens/medium/4715504896_93810ae29a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021137Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d483c10d4f68111011427d4d0c2a7ccc4f96ab45fc46995caed2f7c5f925832d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2072_coreopsis_pubescens/small/4715504896_93810ae29a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021137Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f40c41e6d2aac5dd5b128fe07fd119c7d6809d849a447dd6966a19a1ae2dfbd4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2072_coreopsis_pubescens/thumbnail/4715504896_93810ae29a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021137Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d9b78851c3fbd4f786b26d4606b453f7699af7e69e5344f5175d28fc9668b17a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2073,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis pubescens 'Sunshine Superman'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sunshine Superman",
+      "variety": null,
+      "species_epithet": "pubescens",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2073&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2073&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "dark-yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "dark-yellow"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "dark-yellow"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2073&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis pubescens 'Sunshine Superman') is an incredibly beautiful plant with striking yellow blossoms and deep green foliage. The long-lasting blooms will remain vibrant from early spring until the first frost of winter. The foliage is aromatic, creating an enjoyable scent in your garden. Not only is it easy to care for, but it's highly resilient to even the most extreme climatic conditions. Its daisy-like blooms bring a bright, cheerful display to any garden landscape and attracts a variety of butterflies and hummingbirds. It's a perfect plant choice for creating a sunny, cheerful garden.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2073_coreopsis_pubescens_sunshine_superman/og/52534573588_4041277b56_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021137Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cbb8e6249fd4ce9de43c9248d40fd1465761bb812906831ce5fae54f659c87d4"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2074,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Red Elf'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Red Elf",
+      "variety": null,
+      "species_epithet": "'Red",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2074&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2074&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "July",
+        "August",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2074&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Red Elf') is an amazing plant species that will brighten the garden with its cheerful yellow daisy-like flowers. Its hardy nature makes it an excellent choice for a variety of planting areas - whether in a bed, or in a border, it will add a splash of color throughout the growing season. It is also a low-maintenance plant, requiring only periodic trimming to keep its neat shape. Not only is it beautiful, but its flowers attract an array of helpful pollinators including beneficial bees, butterflies and other beneficial insects. Its drought-tolerance makes it an ideal choice for dry areas and its heat and humidity hardiness make it fit for any climate. All in all, Tickseed (Coreopsis 'Red Elf') is an excellent plant species that will provide color, beauty, and ecosystem benefits to any outdoor space.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2075,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Red Satin' PERMATHREAD"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Red Satin",
+      "variety": null,
+      "species_epithet": "'Red",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2075&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2075&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2075&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed Coreopsis 'Red Satin' PERMATHREAD is an amazing plant species that can bring a beautiful garden to life! Its vibrant, cherry-red flowers look amazing against its deep green foliage and contrast nicely with nearby plants. It can easily thrive in almost any soil type and requires minimal maintenance, allowing for more free time for the gardener. As a bonus, when planted in masses it can act as a natural pest repellent for its surroundings. The PERMATHREAD variety also offers a unique item with its highly heat and drought resistant foliage, perfect for those hotter climates. In the end, it's no wonder why tickseed has been considered one of the best garden perennials since the 1700s!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2076,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Redshift'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Redshift",
+      "variety": null,
+      "species_epithet": "'Redshift'",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2076&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2076&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2076&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Coreopsis 'Redshift' is an amazing plant species that adds vibrant color to any outdoor space. This hardy perennial is known for its deeply cranberry-red, daisy-like flower heads and its lacy, finely divided foliage. It is very easy to look after, as it is drought and heat-tolerant, needing little water. It looks beautiful in the front of a border, creating a burst of red, or in the garden as a bold statement of colour; and the bright butter-yellow centers will light up a patio. Despite being relatively short-lived, this colorful plant species will give you years of enjoyment and bring an abundance of pollinators into your garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2076_coreopsis_redshift/og/10156484126_593e982bd7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e317fad3e807bfa8314fbf11a19eea5133fe714218096055aa4e490c74fadc25",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2076_coreopsis_redshift/regular/10156484126_593e982bd7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9b6af4b0ee2a61588033a9f675fcab64d3847ab6ddfcfabd4885a3f7b0dd4060",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2076_coreopsis_redshift/medium/10156484126_593e982bd7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=727477e608c78a3a7a3e27167758eed624f67427b1a0d3be73667ba7c40b7f17",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2076_coreopsis_redshift/small/10156484126_593e982bd7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f3b193c66a945dbb578261f827ff021eac31ec94e0b33ab2f6f326b80ef353e1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2076_coreopsis_redshift/thumbnail/10156484126_593e982bd7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dd1d68233a1904f860e63f05666ff3d5b1ceaa5b1d257cf39e1af0a623d4a929"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2077,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis rosea"
+      ],
+      "other_name": [
+        "pink tickseed"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "rosea",
+      "genus": "Coreopsis",
+      "origin": [
+        "Nova Scotia",
+        "Maryland"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2077&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2077&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun Partial sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2077&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Rocky"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Rust",
+        " Slugs",
+        "snails",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis rosea) is an amazing plant species. Its cheery and dramatic deep rose-pink blooms are a sight to behold, creating a vibrant carpet of petals from summer to autumn. Easy-to-care for, it is drought tolerant and prefers a sunny site with well-drained soil. It also attracts action-packed pollinators, including bees, butterflies and hummingbirds. Excellent at adding interest to garden beds and borders, it can be sown directly outdoors or grown in containers. Thriving in almost any soil, this striking plant is a must have for any budding gardener.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2077_coreopsis_rosea/og/36555101316_f032409a98_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=782b5620a2038490d06c0d1b83bce91cc8965c0fa762e01d12872b5642705787",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2077_coreopsis_rosea/regular/36555101316_f032409a98_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f11089fa4238ffe427ed560b85934cade13cba2416be4df69f9644611f724b16",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2077_coreopsis_rosea/medium/36555101316_f032409a98_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8379bfad8a8d50eec60d08ff816ad414320a10abd1a547048ce9e283701187c3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2077_coreopsis_rosea/small/36555101316_f032409a98_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=afed2d293c2d9d12b028c745c1993f1be76b7f0ed6875c649854d14ba35e61fc",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2077_coreopsis_rosea/thumbnail/36555101316_f032409a98_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c3e2979e244f0158bd39ea411174108300fa9ed6f5842ecbd1a6a6210c35a557"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2078,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis rosea 'Alba'"
+      ],
+      "other_name": [
+        "pink tickseed"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Alba",
+      "variety": null,
+      "species_epithet": "rosea",
+      "genus": "Coreopsis",
+      "origin": [
+        "Nova Scotia",
+        "Maryland"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2078&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2078&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun Partial sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2078&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Rocky"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Rust",
+        " Slugs",
+        "snails",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis rosea 'Alba') is an amazing flowering perennial that blooms continuously from early summers to late fall. Its star-like white petals that form around yellow centres are simply stunning. Not only does its wispy foliage form a low carpet effect, it is also highly attractive to beneficial pollinators like bees and butterflies. One of its amazing abilities is that once established, it is tolerant to drought conditions, making it a great choice for xeriscape gardens or for landscape beds that receive partial shade and does not require plenty of maintenance. The extra bonus feature of this amazing plant is that it is considered deer resistant, which makes it an ideal choice for gardens that wish to exclude these critters away.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2079,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis rosea 'American Dream'"
+      ],
+      "other_name": [
+        "pink tickseed"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "American Dream",
+      "variety": null,
+      "species_epithet": "rosea",
+      "genus": "Coreopsis",
+      "origin": [
+        "Nova Scotia",
+        "Maryland"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2079&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2079&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2079&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Rocky"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Rust",
+        " Slugs",
+        "snails",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Tickseed, or Coreopsis rosea 'American Dream' is an amazing plant that's sure to make your garden stand out. It produces an abundance of bright pink and yellow daisy-like flowers that bloom from late spring to early fall, and the clusters of flowers attract an array of butterflies, bees, and other pollinators. Its delicate foliage is a deep green, making it a perfect contrast to the bright colors of the flowers. This drought-tolerant plant flourishes in a variety of soils and is tolerant of partial shade, so it's the ideal choice for tight spaces or difficult growing conditions. And, to top it off, it's super easy to care for! Add the Tickseed to your garden for a pop of color all season long.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2079_coreopsis_rosea_american_dream/og/2560px-Coreopsis_rosea.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8807e5d06bb81cb4f25fdfb5fd89cf31108488e33f2c0db707b0583e5c5f31f1",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2079_coreopsis_rosea_american_dream/regular/2560px-Coreopsis_rosea.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=804d1a09ab6679b55eeee1ae30ca4f5f73ffd911d9ccea61cf63336151bdff3e",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2079_coreopsis_rosea_american_dream/medium/2560px-Coreopsis_rosea.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2f777933a9bab7573b98092ccc1c77b4c4daf47972d67554165d0e98c642ca28",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2079_coreopsis_rosea_american_dream/small/2560px-Coreopsis_rosea.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=30a4c511299ace90c477aa22ab9ab6c14b21354d6d6cc5141f2c3a3f94023e08",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2079_coreopsis_rosea_american_dream/thumbnail/2560px-Coreopsis_rosea.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cfb91d888dd1a4d58bd24b1b71454dbcbbc6da583633185f719ee2a2fbb2997a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2080,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis rosea 'Heaven's Gate'"
+      ],
+      "other_name": [
+        "pink tickseed"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Heaven",
+      "variety": null,
+      "species_epithet": "rosea",
+      "genus": "Coreopsis",
+      "origin": [
+        "Nova Scotia",
+        "Maryland"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2080&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2080&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "lavender-maroon"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "orange-maroon"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "red-orange"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun Partial sun"
+      ],
+      "pruning_month": [
+        "August",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2080&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Rocky"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Rust",
+        " Slugs",
+        "snails",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis rosea 'Heaven's Gate') is a spectacular plant well worth growing in the garden. It has bright, magenta-pink flowers with yellow eyes that bloom from late spring to early fall. The finely divided, bright green foliage adds a beautiful texture to the garden. It is incredibly easy to grow, tolerating dry spells once established, and is even deer resistant. This plant is an absolute magnet for bees and butterflies, creating a stunning spectacle in the garden throughout the summer. Best planted in groups of three or more in sunny spots, it's ideal for adding colour and interest to any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2080_coreopsis_rosea_heavens_gate/og/Heavensgate1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5cb9ae93b353883c63d8dee2c75528d2f8d834f4902c32d15d144976fe835d21",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2080_coreopsis_rosea_heavens_gate/regular/Heavensgate1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=87db370d4a44d0433f861ca09b5eda27a64aa57dd27c5c3402daac6f069e680a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2080_coreopsis_rosea_heavens_gate/medium/Heavensgate1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a75b8f1454f00198bdb0d1b755cf9a80b4f15b0dd74657d3a5a88fd53cd7c754",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2080_coreopsis_rosea_heavens_gate/small/Heavensgate1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bcbc3722b0b53a25863ad33983c7098f126b7d68ea5b0999f860fdde47401446",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2080_coreopsis_rosea_heavens_gate/thumbnail/Heavensgate1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a2b985f4be2bf20f8bd16fe1777bee9b8ed382a362f9d3674c58ad330219eaa0"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2081,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis rosea 'Sweet Dreams'"
+      ],
+      "other_name": [
+        "pink tickseed"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sweet Dreams",
+      "variety": null,
+      "species_epithet": "rosea",
+      "genus": "Coreopsis",
+      "origin": [
+        "Nova Scotia",
+        "Maryland"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2081&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2081&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun Partial sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2081&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Sandy Rocky"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Rust",
+        " Slugs",
+        "snails",
+        "  Deer resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed, or Coreopsis rosea 'Sweet Dreams', is an amazing plant species to grow in gardens. It has vibrant and fragrant daisy-like flowers with maroon centers and petals in shades of pink and white. It blooms from late spring through early fall, giving your garden a nice splash of color throughout the season. Not only is it beautiful, but it's versatile and easily adapts to a variety of climates and soils. It's drought and heat resistant and requires very little maintenance, making it an ideal choice for both novice and experienced gardeners.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2081_coreopsis_rosea_sweet_dreams/og/2560px-Coreopsis_rosea_Sweet_Dreams_6zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021141Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=efba51d6c9210f4d4e17141e5dfdaff72748007648f446ba5940674575f45956",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2081_coreopsis_rosea_sweet_dreams/regular/2560px-Coreopsis_rosea_Sweet_Dreams_6zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021141Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e32723ff3439e3b0725f34963260ba5f1ab19baf63e90d99112c9857ac5b4afd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2081_coreopsis_rosea_sweet_dreams/medium/2560px-Coreopsis_rosea_Sweet_Dreams_6zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021141Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=caad34a5f355d82ae1e0fbb9f2d88e6167b4ac17ef34f0b0e83a2dfeb73cf321",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2081_coreopsis_rosea_sweet_dreams/small/2560px-Coreopsis_rosea_Sweet_Dreams_6zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021141Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=908e8216eba73a2a7a7ac48a531f4ccb707bf75590d1ed0bc1645cb2aeac0020",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2081_coreopsis_rosea_sweet_dreams/thumbnail/2560px-Coreopsis_rosea_Sweet_Dreams_6zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021141Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f54d46a915d1734b5527693a1bd29c3348c73c9f14ee4185d3b1b85363d3ee49"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2082,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Route 66'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Route 66",
+      "variety": null,
+      "species_epithet": "'Route",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2082&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2082&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2082&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Route 66'), with its vibrant, 3-inch-wide, golden-yellow flowers, is sure to brighten up any garden. Its unique petals fold tightly around a fiery dark-red center, creating an eye-catching contrast of colors. Its daisy-like flowers, combined with its long blooming season, make this aesthetically pleasing and summer-flowering perennial an amazing addition to any flower bed or garden. Its dark-green foliage is both heat and drought tolerant, which makes it perfect for those hot summer days. And to top it all off, it is a magnet for bees, butterflies, and hummingbirds. Truly, Tickseed (Coreopsis 'Route 66') is the perfect flower for the summer season.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2083,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Sienna Sunset'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sienna Sunset",
+      "variety": null,
+      "species_epithet": "'Sienna",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2083&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2083&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2083&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Sienna Sunset') is an amazing plant for any garden. It is easy to maintain and ensures blooms throughout the year. The vibrant, double yellow flowers of 'Sienna Sunset' provide a stunning contrast with its bronze foliage. The flowers are delicate, yet incredibly hardy, making this a great choice for beginner gardeners. This variety can survive in a range of different climates and requires minimal care, making it an ideal option for any garden. With its beautiful colour combination and ease of care, 'Sienna Sunset' is an exceptional species that will be enjoyed by all.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2084,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis SOLANNA GOLDEN SPHERE"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "SOLANNA",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2084&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2084&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2084&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed, or Coreopsis Solanna Golden Sphere, is an amazing plant species due to its versatility and compact bushy habit. It can flower all summer until the first frost and is incredibly low-maintenance given its drought-tolerant nature. It thrives in any soil type, including clay, and handles polluted, coastal, and windy climates well. It produces stunning golden-yellow flowers in bold, spherical clusters. Its high resistance to diseases and pests make it an alluring choice for any garden. Its sturdy branching can reach heights up to 45 cm and is also deer-resistant. Tickseed is the perfect addition to borders and containers or can act as a groundcover.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2085,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Sonnenkind' BABY SUN"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sonnenkind",
+      "variety": null,
+      "species_epithet": "'Sonnenkind'",
+      "genus": "Coreopsis",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2085&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2085&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2085&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Sonnenkind' BABY SUN) is an amazing plant for anyone looking for vibrant yet low-maintenance colour in their garden. This dazzling perennial grows in a daisy-like form and features clusters of sunshine-like yellow blooms that last all summer long. Its incredibly low-care nature means you can enjoy many seasons of bright, vibrant colour without any fuss or worry. Plus, it's easy to propagate from seed, meaning you can quickly fill your garden space with its dazzling beauty. Whether you're a novice or experienced gardener, Tickseed 'Sonnenkind' BABY SUN is a real show stopper!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2086,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Sunburst'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sunburst",
+      "variety": null,
+      "species_epithet": "'Sunburst'",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2086&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2086&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2086&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Sunburst') is an amazing plant choice for any garden. Its bright sunny yellow flowers with golden centres add a cheerful pop of colour all season long. A drought-tolerant native, this beauty thrives with minimal care, blooming from late spring to early fall. It is an excellent choice for groundcover, providing neat, low-maintenance foliage. It even provides nectar for pollinators in the garden. Its name comes from its seeds, which look like ticks and spread easily, promising plenty of blooms in future seasons. Tickseed is an easy, resilient, and vibrant addition to any landscape.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2086_coreopsis_sunburst/og/px1595783-image-kwypvzd5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f5858e05fe0891453a33da5a70a9e9fc5db26fc04e1ae5126fbff9421ab7fa22",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2086_coreopsis_sunburst/regular/px1595783-image-kwypvzd5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8981d4eac9f21a543f396eec80e4f4d538b8ba43a72e352ecb9ed25661a0ffb2",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2086_coreopsis_sunburst/medium/px1595783-image-kwypvzd5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6a011fc44ca97feafb670f08e49588be4e3da968d8f921cf1477c0abc11d767a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2086_coreopsis_sunburst/small/px1595783-image-kwypvzd5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ebbf7daddbba322c64652a402f8c68061147adb3268b8cc1538402556b60aa84",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2086_coreopsis_sunburst/thumbnail/px1595783-image-kwypvzd5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=029f4d69136649f5e2f4152c8a2522b15b2f123ebe05560d59afe4a60d0f984c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2087,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Sunray'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sunray",
+      "variety": null,
+      "species_epithet": "'Sunray'",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2087&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2087&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "bright-yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "orange-yellow"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "black-brown"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2087&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Sunray') is a fantastic flower, with a variety of desirable features. It is a tough and sturdy plant that is extremely low maintenance and drought tolerant. The cheery bright yellow petals and cheerful foliage also make it a great pick for any garden. It offers both beauty and fragrance in a single plant. This species blooms from early summer to the first frost and makes a great addition to any perennial bed, as it will return year after year. It is also extremely adaptive and can grow in a wide range of conditions. The reliable sunray tickseed is a excellent pick - bring some life and light to your garden!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2087_coreopsis_sunray/og/5389784330_f97a6e052f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=32009ed979119e023df5a2145c75d727194a43f413b839c05ea95752965d0e94",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2087_coreopsis_sunray/regular/5389784330_f97a6e052f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ca9d22bbae82e93d8f651f95783d8ed96e920ede0702aab3dc0e5224d6c12b34",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2087_coreopsis_sunray/medium/5389784330_f97a6e052f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1bde6fea08531c8c14b1e5fdc1edc4635b10fb9959fc1efa56a362faf91fce22",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2087_coreopsis_sunray/small/5389784330_f97a6e052f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c7b31aded36336c4b9a2017b65face435c6889a7b83949c0e5c3094dda29101a",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2087_coreopsis_sunray/thumbnail/5389784330_f97a6e052f_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4d2c2788d7eacd53c179d5c55aa392d937eb80450ee1fd42f0492a8e06696f6c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2088,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Sweet Marmalade'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sweet Marmalade",
+      "variety": null,
+      "species_epithet": "'Sweet",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Cutting",
+        "Division",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2088&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2088&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2088&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed (Coreopsis 'Sweet Marmalade') is an amazing plant. It has attractive, orange-brown flowers with yellow centres that last for months. The plant is drought-tolerant and easy to care for, making it perfect for novice gardeners. Its marmalade-like flowers attract pollinators like butterflies, bees and hummingbirds. The foliage is finely-textured and adds great texture and interest to garden beds and containers. With vibrant blooms that return year after year, this sweet marmalade coreopsis is an excellent choice for a low-maintenance, reliable and colourful show in any landscape.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2089,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis 'Tequila Sunrise'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tequila Sunrise",
+      "variety": null,
+      "species_epithet": "'Tequila",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2089&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2089&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2089&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Tickseed 'Tequila Sunrise' is a truly breathtaking plant. This hardy, sun-loving annual is adorned with striking yellow and red-orange pointed petals that create a showy display that will bring a cheery pop of color to any landscape. Not only does it produce hundreds of stunning blossoms throughout the summer, but it is also a real show-stopper when it comes to attracting pollinators like butterflies and honeybees. The 'Tequila Sunrise' is extremely easy to grow and maintain which makes it the perfect choice for novice gardeners. Its long-blooming and drought-tolerant nature make it a perfect fit for any garden, making it one amazing species to have in any garden!",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2089_coreopsis_tequila_sunrise/og/madchenauge-flower-yellow-blossom-bloom-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021144Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f0c657a287e17d65ed4ebf7a98aaca72c90c92f74e653775b3d4e38d11ef2d01",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2089_coreopsis_tequila_sunrise/regular/madchenauge-flower-yellow-blossom-bloom-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021144Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=42c216101247b4e00b85973ebfd0a3b1973f425472733ae862cc488577454967",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2089_coreopsis_tequila_sunrise/medium/madchenauge-flower-yellow-blossom-bloom-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021144Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c2d0ca8d8d82ea658d0fb731fb93844331d1a6b4e49cbf8db3f41f4ebd7f24fd",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2089_coreopsis_tequila_sunrise/small/madchenauge-flower-yellow-blossom-bloom-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021144Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4bbc6f9554d4399288ac120fe93050f7017d2d65cbe4cacd53df78aee1a95fd7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2089_coreopsis_tequila_sunrise/thumbnail/madchenauge-flower-yellow-blossom-bloom-nature.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021144Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e43e4034b45bf60846838b71626ef079aced9492b4fc705c5fb9edd3cbe34e8c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2090,
+      "common_name": "plains coreopsis",
+      "scientific_name": [
+        "Coreopsis tinctoria"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "tinctoria",
+      "genus": "Coreopsis",
+      "origin": [
+        "Central and eastern United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2090&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2090&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "yellow-maroon"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "pale-yellow",
+            "brown-yellow",
+            "maroon-yellow"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "gold-green",
+            "gold-maroon"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-green",
+            "green"
+          ]
+        },
+        {
+          "part": "flower",
+          "color": [
+            "yellow-maroon"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "light-orange"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2090&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Easy",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Plains coreopsis (Coreopsis tinctoria) is an amazing wildflower species native to the United States. These gorgeous flowers can bloom from May to September with yellow daisy-like petals surrounding bright yellow or orange centers. What makes this plant species truly special is that its blooms attract both butterflies and hummingbirds with its sweet nectar aroma. Plains coreopsis has a moderate water requirement and is very tolerant of drought-like conditions, making it perfect for those trouble-free garden beds. Its striking gold hue is sure to add a vibrant pop of color to your outdoor space!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2090_coreopsis_tinctoria/og/50260256921_e948e4f100_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5b2415b43e015c591b07bac5eda76fef8e547412ab2a4136e208a2c54235579a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2090_coreopsis_tinctoria/regular/50260256921_e948e4f100_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f443622986f5cc4d83aeab494038ee5922dd4415fa8ca6f7689ba7bbf6c8920d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2090_coreopsis_tinctoria/medium/50260256921_e948e4f100_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=10492ba495b0763196751b7a267c98ee29120d7c22e6667866f8b112f9df3c85",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2090_coreopsis_tinctoria/small/50260256921_e948e4f100_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=529824700067408de01244379e679b8286b46490536b1520d9b635b67f5f0fb7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2090_coreopsis_tinctoria/thumbnail/50260256921_e948e4f100_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=63e2b49b5f6ca8f3d28a5ea75a8566c125aacf9df98248cbcbff2ba1dac8e6fb"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2091,
+      "common_name": "tickseed",
+      "scientific_name": [
+        "Coreopsis tripteris"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "tripteris",
+      "genus": "Coreopsis",
+      "origin": [
+        "Central and southeastern United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 8,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2091&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2091&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "yellow",
+            "bright-yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "brown-black",
+            "black"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "green-yellow",
+            "yellow",
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "dark-green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-green",
+            "green",
+            "dark-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2091&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Easy",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tickseed, also known as Coreopsis tripteris, is a stunning flowering plant species. It boasts yellow-orange blooms atop 3-4 foot tall and 2 foot wide mounds of foliage. The bright colors make it an attractive addition to any property. Deer and other wildlife often find refuge in the leafy mounds of Tickseed, making it a favorite of wildlife gardeners. It is a drought and heat tolerant perennial, so it comes back faithfully each year, and its hardy nature makes it an ideal choice for beginning gardeners. Its long bloom time provides months of cheerful, cheerful blooms for bees and butterflies to enjoy. Tickseed is versatile, carefree, and a great addition for any sunny garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2091_coreopsis_tripteris/og/28725267783_f0f9d97dbc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d8871f06f614275efbac7cf722030008c3e5b1dc2673fb9f30771f1868228776",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2091_coreopsis_tripteris/regular/28725267783_f0f9d97dbc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4d9a09cbade1e8c1bf1fef9cebb936b0378511f7f58d3dc86cde8f03ffdd3e9f",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2091_coreopsis_tripteris/medium/28725267783_f0f9d97dbc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=54dd9dc4da6117a36896a8e9563bcecd99f073f6332f20b82ad09aed9285dbba",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2091_coreopsis_tripteris/small/28725267783_f0f9d97dbc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b7428bb405b45f759928bc0c6c02fedaa073d744943e631039f327c3b0c561c3",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2091_coreopsis_tripteris/thumbnail/28725267783_f0f9d97dbc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=88650c6a8b46e85d73d2826e94c395a097e1cfb6c96b5df6844abfc2eb00d454"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2092,
+      "common_name": "threadleaf coreopsis",
+      "scientific_name": [
+        "Coreopsis verticillata"
+      ],
+      "other_name": [
+        "whorled tickseed"
+      ],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "verticillata",
+      "genus": "Coreopsis",
+      "origin": [
+        "Eastern United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2.5,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Greenwood Cuttings"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2092&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2092&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "yellow-black"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2092&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Easy",
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Drought resistant"
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Threadleaf coreopsis (Coreopsis verticillata) is an amazing flowering perennial species with unique features that set it apart. This low, bushy plant grows to a height of just 8 inches but has long, thread-like leaves and golden-yellow flowers that form a bright, star-like pattern. It blooms abundantly in summers and continues to flower until the first frost of winter. It's easy to maintain and Deadheading the flowers helps promote prolonged blooming. It's also tolerant to drought and will grow in a variety of soil conditions. The plant attracts beneficial pollinators like butterflies, making threadleaf coreopsis a great addition to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2092_coreopsis_verticillata/og/36057737782_004a3e2179_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dcf87e764b3dbb696f575485d439237702414948f30e736c8024561e85be22bd",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2092_coreopsis_verticillata/regular/36057737782_004a3e2179_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=55248f63b429a92fb269f46a87bc654e7b492f08ba12b0c1dbe49bb444fd14ae",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2092_coreopsis_verticillata/medium/36057737782_004a3e2179_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4629d233a4b2f35d7c67eb863ce3b1fc11562e4b34c410790d6f03836ff3ce64",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2092_coreopsis_verticillata/small/36057737782_004a3e2179_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2b98133e34859bd932ff670d9bf84fab9c083dbe7d2f3f5f54ecfd028e2d36f7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2092_coreopsis_verticillata/thumbnail/36057737782_004a3e2179_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=526068c9095fdc40dcd7fa7e9a0c12b71aabbe33cf7242c280597277ed68e27c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2093,
+      "common_name": "threadleaf coreopsis",
+      "scientific_name": [
+        "Coreopsis verticillata 'Golden Dream'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Golden Dream",
+      "variety": null,
+      "species_epithet": "verticillata",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2093&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2093&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2093&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Easy",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Threadleaf coreopsis (Coreopsis verticillata 'Golden Dream') is an amazing plant for any garden! Its tall, bright yellow blooms attract pollinators, and its delicate foliage adds a distinctly lacy texture to garden beds. It's easy to care for, with long-lasting flowers that bloom from spring to fall. Lastly, it's extremely drought-tolerant, making it an ideal choice for those with busy lifestyles or water-saving goals. With its cheerful flowers, elegant foliage, and easy-care nature, Threadleaf Coreopsis 'Golden Dream' is a wonderful addition to any garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2093_coreopsis_verticillata_golden_dream/og/hillsborough-gold-park-united-states-park.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bc65bf1665b0e87f983135677c69b38723798d67cd6f3d081809996ab116bdd5",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2093_coreopsis_verticillata_golden_dream/regular/hillsborough-gold-park-united-states-park.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e193105b803b06b6be4034cd08b6dafc3af4b26c63fcd0820996791f80ef68f9",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2093_coreopsis_verticillata_golden_dream/medium/hillsborough-gold-park-united-states-park.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a66d77cce87a9a5e9a384758d5fddeed4df7a2039d6cc3deaaa25320eef80364",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2093_coreopsis_verticillata_golden_dream/small/hillsborough-gold-park-united-states-park.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=51e7d65c4f594348b57ff50af8c8248e1211dc7671a098c1278116e3e5ed70b6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2093_coreopsis_verticillata_golden_dream/thumbnail/hillsborough-gold-park-united-states-park.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e3083a7846e8742a3810f606cb3b283bbdbff9fbd29393fa5b86185901c47996"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2094,
+      "common_name": "threadleaf coreopsis",
+      "scientific_name": [
+        "Coreopsis verticillata 'Golden Gain'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Golden Gain",
+      "variety": null,
+      "species_epithet": "verticillata",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2094&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2094&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "yellow-black"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "green-yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2094&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Easy",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Threadleaf coreopsis (Coreopsis verticillata 'Golden Gain') is an amazing plant for many reasons. Native to North America, it is widely adapted to various soil types and conditions. Its bright yellow flowers bring a cheerful energy to any garden with their showy blooms appearing from mid summer to mid fall. It has a delicate, lacy foliage and a mounding habit which makes it an excellent choice for mass plantings or as an edging or accent plant. Not only is it easy to grow, but it's also drought tolerant and generally pest and disease free. Its cheerful blooms and bright foliage will please gardeners every season.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2094_coreopsis_verticillata_golden_gain/og/9959647916_bef0512dc3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=462a1c6fd04aaf661d6ff0c60c593727720315f7290570038570e8d6b2525c68",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2094_coreopsis_verticillata_golden_gain/regular/9959647916_bef0512dc3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d25988834a4eebc1fb92ea8214192f07d7edc59124345bda337c91ca4443c7a2",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2094_coreopsis_verticillata_golden_gain/medium/9959647916_bef0512dc3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5247d4d1be5c903a0c6e87a1b83ee4a9108ad287151a1874e101404736a25335",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2094_coreopsis_verticillata_golden_gain/small/9959647916_bef0512dc3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2b7b245e5abfe420894d31925f0775ba924317b379ca5ba4a6385c75340558fb",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2094_coreopsis_verticillata_golden_gain/thumbnail/9959647916_bef0512dc3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4deda0aab8d608a7812b3e1ffaa59e47dd19502513a2d9ba13b612a9585e4b63"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2095,
+      "common_name": "threadleaf coreopsis",
+      "scientific_name": [
+        "Coreopsis verticillata 'Grandiflora'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Grandiflora",
+      "variety": null,
+      "species_epithet": "verticillata",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2095&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2095&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "June",
+        "July",
+        "June",
+        "July",
+        "August",
+        "May",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2095&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Threadleaf Coreopsis (Coreopsis verticillata 'Grandiflora') is an amazing choice for gardening enthusiasts. Its beautiful, sunshine yellow, daisy-like flowers flower in mid-summer, above thread-like leaves. It has a low-maintenance, long-blooming habit and produces a carpet of color in  flower beds and containers. It looks great along paths and in rock gardens. Plus, its drought resistant and will come back season after season for endless enjoyment. With cheerful, sunny blossoms, Threadleaf Coreopsis is a great addition to any garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2095_coreopsis_verticillata_grandiflora/og/coreopsis-verticillata-tickseed-flower-blossom.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=02e7913cbe8735c8787a1873a9eb0b32fbfa95f0b1ed33fb28e9fb60ccdd6a28",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2095_coreopsis_verticillata_grandiflora/regular/coreopsis-verticillata-tickseed-flower-blossom.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=52145f052f6fac8dfb1ee80155107f3be10e8aa9fc08e9f4df2a31cf35fbeac0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2095_coreopsis_verticillata_grandiflora/medium/coreopsis-verticillata-tickseed-flower-blossom.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=73944885d6f482c656f85ba594b718d7ec0cdf080ddd4eeaf67dcb49576f0de9",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2095_coreopsis_verticillata_grandiflora/small/coreopsis-verticillata-tickseed-flower-blossom.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c9176bd7466fc51cb38487cb9dd433e3780d88e4f0730a635f9b616f308f653a",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2095_coreopsis_verticillata_grandiflora/thumbnail/coreopsis-verticillata-tickseed-flower-blossom.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021147Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=83f7987352e41e7aca7c3697340ae2f8f72d930db45f3de4bec5312d23b7f9e5"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2096,
+      "common_name": "threadleaf coreopsis",
+      "scientific_name": [
+        "Coreopsis verticillata 'Moonbeam'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Moonbeam",
+      "variety": null,
+      "species_epithet": "verticillata",
+      "genus": "Coreopsis",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2096&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2096&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "light-yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "yellow-black"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow-black"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2096&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Low",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Threadleaf coreopsis, or Coreopsis verticillata 'Moonbeam' is an amazing plant species with many features that will draw the eye and provide visual interest to any garden. Threadleaf coreopsis produces bright yellow daisy-like flowers with slender, thread-like leaves that create a delicate texture in the garden. The threadleaf coreopsis blooms continuously from early summer to late fall making your garden shine with blooms all season long. This drought-tolerant and easy-care plant will attract bees, butterflies, and birds. Its hardy nature and long flowering period make threadleaf coreopsis a great choice to provide color and structure in any landscape.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2096_coreopsis_verticillata_moonbeam/og/19177371619_b75fb21690_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021148Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2968426c590fb1a1439101b1b76247326bee3c4d40cd324550105af6069d521a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2097,
+      "common_name": "threadleaf coreopsis",
+      "scientific_name": [
+        "Coreopsis verticillata 'Zagreb'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Zagreb",
+      "variety": null,
+      "species_epithet": "verticillata",
+      "genus": "Coreopsis",
+      "origin": [
+        "Croatia"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2097&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2097&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "bright-yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "yellow-black"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2097&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Threadleaf Coreopsis (Coreopsis verticillata 'Zagreb') is an amazing plant for brightening up any garden, no matter how small. Its delicate yellow daisy-like flowers will last throughout the summer and well into autumn, even in cooler climates. The delicate thread-like foliage is attractive enough to stand on its own, but the bright yellow blooms are truly a standout. Not only are they a lovely addition to any garden, they are also beloved by butterflies, bees, and birds. Plus, this beauty loves sunshine, making it perfect for hot, sunny areas with well-draining soil. Threadleaf Coreopsis is an amazing and valuable addition to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2097_coreopsis_verticillata_zagreb/og/19299476955_2c74d06e04_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021148Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b285b26d51fb2fd957aede871ed6d7c2a4ff36afd689b15ea7398a48b9005892",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2097_coreopsis_verticillata_zagreb/regular/19299476955_2c74d06e04_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021148Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=db85340facfc5192b13f015517a6e0ed233ea00fcc9e0aba9178ed4e369a5bf4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2097_coreopsis_verticillata_zagreb/medium/19299476955_2c74d06e04_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021148Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a536b25f1dd6bae80eb1a8597bad762747873861bf4a5a20dba5810d20faccab",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2097_coreopsis_verticillata_zagreb/small/19299476955_2c74d06e04_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021148Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1cb88e49aeeeacd1141f8eec2aa5ac94c5e02fb2fb100b00d7aa0bd8752af1ee",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2097_coreopsis_verticillata_zagreb/thumbnail/19299476955_2c74d06e04_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021148Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=446a4cf2d6f4e7834af0b8679d8cbac072c48466055e77b9c05f9beb791f2176"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2098,
+      "common_name": "cilantro",
+      "scientific_name": [
+        "Coriandrum sativum"
+      ],
+      "other_name": [
+        "coriander",
+        "Chinese parsley"
+      ],
+      "family": "Apiaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "sativum",
+      "genus": "Coriandrum",
+      "origin": [
+        "Western Asia"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2098&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2098&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white-pink"
+          ]
+        },
+        {
+          "part": "foliage",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-green",
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "fruits",
+          "color": [
+            "lime-green"
+          ]
+        },
+        {
+          "part": "petioles",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2098&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Cilantro (Coriandrum sativum) is an amazing herb with many uses and benefits. Not only is it a popular ingredient in a variety of cuisines - from Thai to Mexican to Middle Eastern - but it is also used in medicine for centuries. Cilantro contains high levels of calcium, magnesium, potassium, zinc, copper and iron, making it a nutrient-rich addition to your diet. It also contains compounds that act as a natural pesticide, helping to repel insects. In addition to helping to ward off pests, cilantro is also believed to have antioxidant, anti-inflammatory and antimicrobial properties that help to protect against a wide range of health conditions. All in all, cilantro is an amazing herb that has a range of delicious uses.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2098_coriandrum_sativum/og/23933935237_ac36e334a3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ececfdd4c32cf0b4803f9dcd5c95c61c3293b6ffbc0c1a6cca51bf4ea808aaad",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2098_coriandrum_sativum/regular/23933935237_ac36e334a3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=794ae98331bb61a0eaac5fd3b5805cc5b572d28d8d1b254517d2865bf6928bb0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2098_coriandrum_sativum/medium/23933935237_ac36e334a3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7a8986c8ccef440f733e6b5e95358625f44e216fc937d3b7b3ee8acd0f66039d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2098_coriandrum_sativum/small/23933935237_ac36e334a3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1012e07012ed8eac321add6523278e56c7c5706b0fc5561aa735df3fca0f99f4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2098_coriandrum_sativum/thumbnail/23933935237_ac36e334a3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=71499d59a05b6c0f9a39c54b28a149a95c0a66fd3f1fbcca9b1ddfd28bfb4e7f"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2099,
+      "common_name": "tatarian dogwood",
+      "scientific_name": [
+        "Cornus alba"
+      ],
+      "other_name": [
+        "white dogwood"
+      ],
+      "family": "Cornaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "alba",
+      "genus": "Cornus",
+      "origin": [
+        "Northern China",
+        "northern Korea",
+        "Siberia"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 8,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Greenwood Cuttings",
+        "Greenwood Cuttings",
+        "Hardwood Cuttings"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2099&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2099&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2099&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Anthracnose",
+        " Galls",
+        " Leaf miner insect",
+        " Mites",
+        " Nematodes",
+        " Root rot",
+        " Scale insects",
+        " Stem borer insects",
+        " Thrips",
+        "  Deer resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tatarian Dogwood (Cornus alba) is an amazing plant species that provides vibrant beauty to any landscape. It can reach heights of up to 10 feet and has bright red branches during winter. Its white flowers bloom from May to June and it produces white berries in fall. Tatarian Dogwood has green foliage that turns to attractive yellow, orange, and purple in fall. It has remarkable versatility, performing well in a variety of soils, drought resistance and is known for its resistance to disease. Best of all it provides a great source of food and shelter for wildlife like birds, small mammals, and butterflies. If you’re looking for a low-maintenance, reliable addition to your property, Tatarian Dogwood is an excellent choice!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2099_cornus_alba/og/Cornus_alba_Elegantissima_A.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e5cd8773e25d90f27e3b374e721b62e24c7cd101c49026c7188f6adf345321dd",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2099_cornus_alba/regular/Cornus_alba_Elegantissima_A.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1f8696fd431d5d6400b50895bdab27163ce052a4984819b24335932fab887810",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2099_cornus_alba/medium/Cornus_alba_Elegantissima_A.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=eef3ca9683b9f456483f58096ec62f157715c38e086ba4811f13375074ed3c6c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2099_cornus_alba/small/Cornus_alba_Elegantissima_A.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=85d862967d06788d43a27ff23d5ebc69662ef6b3999deddf41969d35c48cf6fc",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2099_cornus_alba/thumbnail/Cornus_alba_Elegantissima_A.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f401ef930680f6545af49f40a0af5a7b1c565ca1a24cbabcc0f2bd273e263a8d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2100,
+      "common_name": "tatarian dogwood",
+      "scientific_name": [
+        "Cornus alba 'Argenteomarginata'"
+      ],
+      "other_name": [],
+      "family": "Cornaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Argenteomarginata",
+      "variety": null,
+      "species_epithet": "alba",
+      "genus": "Cornus",
+      "origin": [
+        "Russia",
+        "Kazakhstan",
+        "Mongolia",
+        "China",
+        "North Korea",
+        "South Korea"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 8,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2100&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2100&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2100&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tatarian dogwood (Cornus alba 'Argenteomarginata') is an amazing plant species. It is perfect for adding interest to gardens, parks and other landscapes. It is a deciduous shrub that grows up to 6 feet tall and has striking, creamy yellow leaves with a pinkish/burgundy edge to them. In the late winter you will find clusters of white flowers followed by blue-black berries. Tatarian dogwood is also known for its outstanding winter color as the leaves turn to a beautiful reddish/purple color. It is also incredibly easy to maintain and quite tolerant to a range of soil types. There's no doubt that the Tatarian dogwood will add beauty and interest to any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2100_cornus_alba_argenteomarginata/og/2560px-Cornus_alba_argenteo-marginata_kz2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2033c6db93c0486c6f417a408b42a4ff29cc90cca300f67b290c31e53860fe35",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2100_cornus_alba_argenteomarginata/regular/2560px-Cornus_alba_argenteo-marginata_kz2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a9c22b154c1ce4b3860a272f016085340c649aa2176730e5aba9a763e30a2c7b",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2100_cornus_alba_argenteomarginata/medium/2560px-Cornus_alba_argenteo-marginata_kz2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=934e5453902d051803945bdb5604e83f34c687ec677c44a8aacb5a42bf9d2a1e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2100_cornus_alba_argenteomarginata/small/2560px-Cornus_alba_argenteo-marginata_kz2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0edf98700cd4d825241e7eedf5b17c5a73278091365ca116ff3ddee6be0d1fce",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2100_cornus_alba_argenteomarginata/thumbnail/2560px-Cornus_alba_argenteo-marginata_kz2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260831%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260831T021149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4abc609b0c93f4d3bf4c095782936a30131127b7d41c71a8550cdabad64eac64"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
