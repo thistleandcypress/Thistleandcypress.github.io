@@ -72,8 +72,7 @@
   <script>
     document.getElementById('generateReportBtn').addEventListener('click', async () => {
       try {
-        // Adjust this fetch path if your json file is located elsewhere (e.g., '../../garden-data.json')
-        const response = await fetch('../../data/garden-data.json');
+        const response = await fetch('data/garden-data.json');
         if (!response.ok) throw new Error("Could not load garden data file.");
         
         const data = await response.json();
