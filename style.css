@@ -300,6 +300,10 @@ body.about-page .welcome-text {
    FOUR PILLARS GRID — HOME PAGE
 ------------------------------------------- */
 
+/* ------------------------------------------
+   FOUR PILLARS GRID — HOME PAGE (2x2 with Centered 5th Item)
+------------------------------------------- */
+
 .pillars-wrapper {
   max-width: 900px;
   margin: 2rem auto;
@@ -307,75 +311,17 @@ body.about-page .welcome-text {
 
 .pillars {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(2, minmax(260px, 420px));
+  justify-content: center;
   gap: 1.5rem;
   margin-top: 1rem;
 }
 
-/* PHOTO-BASED PILLAR BUTTONS — HOME PAGE */
-
-.pillar-button {
-  position: relative;
-  display: block;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border-radius: 12px;
-  overflow: hidden;
-  padding: 0;
-  min-height: 260px;
-  color: #ffffff;
-  text-decoration: none;
-  transition: transform 0.2s ease;
-}
-
-/* Soft overlay for readability */
-.pillar-button::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.28);
-  transition: background 0.25s ease;
-  z-index: 1;
-}
-
-/* Ensure pillar text sits above overlay */
-.pillar-content {
-  position: relative;
-  z-index: 2;
-  padding: 1.5rem;
-  color: #f8f8f8;
-}
-
-/* Hover effect */
-.pillar-button:hover {
-  transform: translateY(-3px);
-}
-
-.pillar-button:hover::before {
-  background: rgba(0, 0, 0, 0.18);
-}
-
-.pillar-content h2 {
-  margin-top: 0;
-  font-size: 1.4rem;
-}
-
-.pillar-content p {
-  margin: 0.75rem 0 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-}
-
-/* Pillar navigation (sub-pillar links inside pillar buttons) */
-.pillar-nav {
-  font-size: 0.85rem;
-  margin-top: 1rem !important;
-  padding-top: 1rem;
-  border-top: 1px solid rgba(75, 66, 61, 0.15);
-  color: #4a423d;
-  font-style: normal;
-  line-height: 1.5;
+.pillar-card:nth-child(5) {
+  grid-column: 1 / -1;
+  justify-self: center;
+  width: 100%;
+  max-width: 420px;
 }
 
 /* ------------------------------------------
