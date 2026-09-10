@@ -338327,6 +338327,3398 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2371,
+      "common_name": "deutzia",
+      "scientific_name": [
+        "Deutzia hybrida 'Perle Rose'"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Perle Rose",
+      "variety": null,
+      "species_epithet": "hybrida",
+      "genus": "Deutzia",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2371&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2371&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2371&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Summer",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Deutzia hybrida 'Perle Rose' is an amazing plant species. It produces abundant clusters of rose-pink flowers during late spring and early summer, adding a soft and delicate touch to any garden. Its low-maintenance habit and fast-growing nature make it ideal for gardens of any size. The lovely glossy green foliage and pink blooms provide an impressive show all season long and will create a beautiful display in large or small garden beds. The lovely blooms are also excellent for bouquets. Deutzia, 'Perle Rose' is a great choice for low-maintenance gardens and is deer-resistant, making it a great addition to any landscape.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2371_deutzia_hybrida_perle_rose/og/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f7c17831b8934cde282766a33fb3735b02dd4a47c5d0e1a07b0b4055eae816ed",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2371_deutzia_hybrida_perle_rose/regular/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1413ab9eeba57a3a2b073bd0a5bce3ef59b27c06b1e0ae0bdd8d6c9028e3c486",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2371_deutzia_hybrida_perle_rose/medium/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5152a3c90da855b7019127e13e08ea856a187ae95d66dd50e07c17777fe72d9c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2371_deutzia_hybrida_perle_rose/small/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d7461304c0c152a3874b04ce640e230e039650d56811736e28011cc989eed151",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2371_deutzia_hybrida_perle_rose/thumbnail/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8acbeede051c070a71c12dedf75de316db6dbe7ce0568c81695da7e1e542afb3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2372,
+      "common_name": "deutzia",
+      "scientific_name": [
+        "Deutzia hybrida 'Strawberry Fields'"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Strawberry Fields",
+      "variety": null,
+      "species_epithet": "hybrida",
+      "genus": "Deutzia",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 4,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2372&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2372&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white-purple"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "filaments",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "purple"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2372&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Deutzia hybrida 'Strawberry Fields' is an amazing flowering shrub with a wealth of delights to offer. Its deep pink-white double flowers that appear in spring make it an eye-catching shrub. It thrives in full sun or partial shade and produces an abundance of attractive pink-white flowers that linger for weeks. Plus, its stunning dark green foliage provides additional texture and helps to bring out the unique beauty of the petals. Deutzia hybrida 'Strawberry Fields' is extremely hardy and easy to care for, making it a wonderful addition to any garden. Those looking for a low-maintenance shrub to add color to their garden should consider this choice.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2372_deutzia_hybrida_strawberry_fields/og/50607962756_ac2623be31_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=904192d41d168db2f26b974deef24e1a7fc71b9e4f945b5187b24085b998c502",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2372_deutzia_hybrida_strawberry_fields/regular/50607962756_ac2623be31_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=50f4747fc0139e26062741dc14a1686c9473fb44c29aa587d6f4785e6471731e",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2372_deutzia_hybrida_strawberry_fields/medium/50607962756_ac2623be31_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c190d9a39329af0282505348ae9e4332c806abe6345be61078cd025ed78227b7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2372_deutzia_hybrida_strawberry_fields/small/50607962756_ac2623be31_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=965551800a258e20c140439d9bb548b68cd9917b38210498efaa9dcd446cdac2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2372_deutzia_hybrida_strawberry_fields/thumbnail/50607962756_ac2623be31_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=27879560018a9210cec001809d50548909b75fab01b68ab53ded3e3370923904"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2373,
+      "common_name": "deutzia",
+      "scientific_name": [
+        "Deutzia magnifica"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "magnifica",
+      "genus": "Deutzia",
+      "origin": [
+        "Garden origin"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2373&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2373&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2373&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Deutzia magnifica is an amazing shrub for gardeners of all levels. It is easy to take care of, requires minimal pruning, and flourishes well in either full sun or partial shade. It blooms in the late spring with fragrant clusters of white to pink blooms. After flowering, it develops bright green berries, providing food for birds and other wildlife. It is an excellent plant to use for borders, natural hedges, and other privacy screens. Its height can reach up to six feet, and it can spread up to 6 feet wide. It is drought tolerant once it is established and has very few issues with pests. All around, Deutzia magnifica is an excellent addition to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2373_deutzia_magnifica/og/9226996405_35dd51ebe2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a1c698a2e1cffb912806d49c675c57a6a4a8d33fd74c377cb4c798f7248a646",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2373_deutzia_magnifica/regular/9226996405_35dd51ebe2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a1761422f1fe586fdc4c5b4da0fe59e2317e378a3271f024cf9188ec8ac048a9",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2373_deutzia_magnifica/medium/9226996405_35dd51ebe2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1865e7de969e168236cbf1394d37b846eabb6e264e45a64fe5e0e2287d7b276c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2373_deutzia_magnifica/small/9226996405_35dd51ebe2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=83676d2a312cc5802c58356d8012d17d2274a32dd6b8748225f7f197cbd9d095",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2373_deutzia_magnifica/thumbnail/9226996405_35dd51ebe2_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=be2deba60e17690ae382a99e38f4f3951dfd7ed02bc5e329cf630bb029862c71"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2374,
+      "common_name": "deutzia",
+      "scientific_name": [
+        "Deutzia 'NCDX2' YUKI CHERRY BLOSSOM"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "NCDX2",
+      "variety": null,
+      "species_epithet": "'NCDX2'",
+      "genus": "Deutzia",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2374&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2374&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2374&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Deutzia 'NCDX2' Yuki Cherry Blossom is a stunning flowering shrub that blooms with clusters of delicate cherry-pink flowers. It's an ideal choice for use in hedges, screening or foundation planting as it grows 4-6 feet tall and wide. This shrub is also noted for its outstanding yellow and orange fall foliage color. It is drought tolerant once established and requires very little pruning, as long as it is given sunlight and moisture. The creamy white blossoms look especially beautiful in the spring. Fortunately, it's very easy to care for and doesn't suffer from pests or disease. Deutzia 'NCDX2' Yuki Cherry Blossom is truly an amazing and stunning plant species.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2374_deutzia_ncdx2_yuki_cherry_blossom/og/49998668962_2577b3a04e_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cb62059c78da2cdf38768b70a3a407bab42227fbb43e0833200c9fea6a38c7de"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2375,
+      "common_name": "deutzia",
+      "scientific_name": [
+        "Deutzia rosea"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "rosea",
+      "genus": "Deutzia",
+      "origin": [
+        "Garden origin"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2375&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2375&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2375&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Deutzia rosea is an amazing deciduous shrub that adds beauty and elegance to any outdoor space. It has an upright structure and has an abundant display of beautiful white flowers in spring that can be as long as 5 cm, and produce an exquisite scent. The green leaves are simple and have serrated edges, and its stems can reach up to 3 to 5 meters in height. It thrives in sun or partial shade, and requires moist, well-drained soil. This plant is a wonderful addition to any garden or landscaping because it produces an abundance of white flowers and it will look radiant in the sunlight. It also makes a great accent piece for gardens and is a great addition to group planting schemes.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2375_deutzia_rosea/og/52116788182_774b59ca91_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=df03398c85fab108baeb1cd2dd8151ede57a5947356e6386ee9a1f2fb52631b8",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2375_deutzia_rosea/regular/52116788182_774b59ca91_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c3e635e6d2d556b165977804d27367ed37d817170e9ed2d674a84f34db966fee",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2375_deutzia_rosea/medium/52116788182_774b59ca91_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f5f92b8fea67c8bebd4741510b08937df862ddbd1a7456dd95493d0ec55ecfc0",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2375_deutzia_rosea/small/52116788182_774b59ca91_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=47b231aad434da605877f6edf9d675210aff0de73d2b69866ee937d30bb610d1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2375_deutzia_rosea/thumbnail/52116788182_774b59ca91_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9214eb58bbe3d75c331b009d349975dfad80792da878c8d88be54fcaafd71842"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2376,
+      "common_name": "fuzzy deutzia",
+      "scientific_name": [
+        "Deutzia scabra"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "scabra",
+      "genus": "Deutzia",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2376&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2376&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "pale-yellow"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "purple-yellow"
+          ]
+        },
+        {
+          "part": "stigmas",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "sepals",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "dark-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "August",
+        "May",
+        "August",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2376&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The fuzzy deutzia (Deutzia scabra) is an amazing flowering shrub that blooms in late spring and summer with small, white blossoms. Its densely clustered leaves are covered in a soft, downy fur, giving the plant a unique texture and visual interest. Its compact growth pattern allows it to fit nicely into a landscape and be the perfect addition to a garden or yard. This showy shrub is easy to care for and does well in both sun and partially shaded areas. Its hardy nature makes it great for borders, edging, or simply as a garden accent. It's an ideal choice for low-maintenance gardens that need their foliage to still look lush. This spectacular shrub is sure to bring color and texture to any yard or outdoor space!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2376_deutzia_scabra/og/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=884ae0281efdfbf03000c4cb676d1ad90a0ff36e7ea4f1368bf4e4f58c1afcaa",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2376_deutzia_scabra/regular/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=668037a4cc1894a84570f219ed7c867fbeb79ec078efb1e598d383c5ec9a15de",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2376_deutzia_scabra/medium/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fe8e457d21c4f1466d41e987cc90f0aa4d73f36900f16e44707b473d28961e4d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2376_deutzia_scabra/small/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0456a3abe77ccd8f2c7ac14131ab609d0481ef48b4e739420105f0a666ae03b6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2376_deutzia_scabra/thumbnail/51296001477_d4cf6e5ca6_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a901d78907d9d45cf10842d6481c4c5fd981e2d0918ad52e559e846e1f7a08db"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2377,
+      "common_name": "fuzzy deutzia",
+      "scientific_name": [
+        "Deutzia scabra 'Candidissima'"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Candidissima",
+      "variety": null,
+      "species_epithet": "scabra",
+      "genus": "Deutzia",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2377&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2377&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2377&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Fuzzy deutzia 'Candidissima' is an amazing plant with an abundance of beauty and versatility. It has a profusion of white, bell-shaped flowers in Spring and then its foliage turns to a deep, dark green in Summer. As the seasons cool, its leaves go through a vibrant display of colors such as orange, pink and red, giving it a stunning appearance. It thrives in partial shade and has a compact, upright form, making it easy to fit into any garden. Its flowers are also lacy and delicate, resembling cattleya orchids. The Fuzzy deutzia 'Candidissima' is an invaluable addition to any garden, and its beauty knows no bounds.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2377_deutzia_scabra_candidissima/og/27711789022_6639409178_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c3c4741af211013ce7415f114dccedf531e4d4b3dc8ee4269ac9fd66b3636fba",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2377_deutzia_scabra_candidissima/regular/27711789022_6639409178_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f3c1f3e3ee0a54623a63e5ad2e1df0ecf3ea2023784b954a4321ace0d7ad0dc0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2377_deutzia_scabra_candidissima/medium/27711789022_6639409178_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=814cf458cd683ed1cfc18308b200502cae373701beae351b5157a78c5c4539eb",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2377_deutzia_scabra_candidissima/small/27711789022_6639409178_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5378a2288f87eb705c372e57977a70dccf84174134d9cb1302bb5481c4b0c5f5",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2377_deutzia_scabra_candidissima/thumbnail/27711789022_6639409178_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f8f834645fbbd3a1b8d53f834751c6c09e452901d7dba60a0fe5e7a1d3a87f2b"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2378,
+      "common_name": "fuzzy deutzia",
+      "scientific_name": [
+        "Deutzia scabra 'Codsall Pink'"
+      ],
+      "other_name": [],
+      "family": "Hydrangeaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Codsall Pink",
+      "variety": null,
+      "species_epithet": "scabra",
+      "genus": "Deutzia",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2378&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2378&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2378&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Fuzzy Deutzia is an amazing shrub that will bring beauty to any garden. Its features are truly unique, with pink flowers that have a slight fuzziness to their petals, and a textured bark. It blooms in spring and is easy to maintain with regular pruning. This deciduous shrub is not only great for borders, but also in beds, containers, and as a prominent feature in yard landscaping. Its low-maintenance nature and tough constitution make it a great choice for novice gardeners. All in all, the Fuzzy Deutzia is a bright and beautiful addition to any garden that is sure to draw attention and admiration among everyone who sees it.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2378_deutzia_scabra_codsall_pink/og/Deutzia_crenata_f_plena2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=72d4e5cfa55cbc0389bb5ee7b1d97b9877634e0bddcb099816a1d05cc8cd69df",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2378_deutzia_scabra_codsall_pink/regular/Deutzia_crenata_f_plena2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5368742f9ae3197c2a91408dbc21bcc01c9f034be24b0af7202f4586f374b33d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2378_deutzia_scabra_codsall_pink/medium/Deutzia_crenata_f_plena2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ebfd63e07fd6df8dc825f5088036a8512d43d94d6c15905ae1284e635ea61d8a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2378_deutzia_scabra_codsall_pink/small/Deutzia_crenata_f_plena2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e0abfd3f41cad0ef47dfa69c419fbf4d1bff62e98c2f9fdf59ee4d46ed7bc26f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2378_deutzia_scabra_codsall_pink/thumbnail/Deutzia_crenata_f_plena2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=14b14dee69975bd631191f67c9a975c6aa3d81732999c25f5aa576aa0a837f91"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2379,
+      "common_name": "flax lily",
+      "scientific_name": [
+        "Dianella tasmanica 'Variegata'"
+      ],
+      "other_name": [],
+      "family": "Asphodelaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Variegata",
+      "variety": null,
+      "species_epithet": "tasmanica",
+      "genus": "Dianella",
+      "origin": [
+        "Australia"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2379&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2379&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "white-green"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2379&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Flax Lily (Dianella Tasmanica 'Variegata') is an amazing plant species due to its long, glossy green foliage and bright white flowers. This hardy, low-maintenance perennial is versatile in its uses, as it can tolerate a range of USDA hardiness zones from 5–10. Its striking and unique coloration makes it easy to incorporate in garden beds and layouts. Additionally, Flax Lilies are drought tolerant, a trait that’s especially desirable in drier areas. Finally, Flax Lily's elegant tendrils and fountain-like growth adds a dramatic touch to any garden. Whether used as a specimen, border, or for mass planting this species is sure to liven any landscape.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2379_dianella_tasmanica_variegata/og/40261611192_73c5eea080_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4fafd8cf70fec1a0e76979fd1b3a967508b38a84e75971b2c0ba3f4b9f021402",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2379_dianella_tasmanica_variegata/regular/40261611192_73c5eea080_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=eea61bd01e96671e36b817d9ce2ef06c248c308a9faa8877cb0595b7a2bb43b0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2379_dianella_tasmanica_variegata/medium/40261611192_73c5eea080_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d72268d77b49ac4cb85f226f4ede3c2e1056ac840bad7d5bcaf335c3ab17ad29",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2379_dianella_tasmanica_variegata/small/40261611192_73c5eea080_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9b6a3d6c8649026033c43c48de5d49cf17d3ea1cbcfbd2333dace4fc15a5dab8",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2379_dianella_tasmanica_variegata/thumbnail/40261611192_73c5eea080_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=58a83d713ca3e0980b47da37bac3c10987aba4394ed1d8425d5ae8a8c73f21eb"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2380,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus (Allwoodii Alpinus Group)"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(Allwoodii",
+      "genus": "Dianthus",
+      "origin": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Italy",
+        "France",
+        "Slovenia",
+        "Croatia"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2380&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2380&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "May",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2380&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Carnation (Dianthus Allwoodii Alpinus Group) is an evergreen perennial, which adds beauty to any garden. Its clusters of delicate flowers come in a variety of shades, from white to pink to yellow, each heavily fringed and deliciously scented. The flowers bloom in spring and summer, sweetening up the garden with their aroma, and stay attractive all year since they look fresh even in winter. The extraordinary shade-tolerance of this plant makes it an exceptional selection for almost any location in the garden. Carnations require little maintenance and are easy to propagate. They are long-lasting and remain in bloom for weeks, which makes them an incredible addition to outdoor spaces.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2381,
+      "common_name": "pink",
+      "scientific_name": [
+        "Dianthus allwoodii 'Frosty Fire'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Frosty Fire",
+      "variety": null,
+      "species_epithet": "allwoodii",
+      "genus": "Dianthus",
+      "origin": [
+        "United Kingdom"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2381&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2381&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2381&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The pink Dianthus allwoodii 'Frosty Fire' is a captivating and vibrant perennial that is sure to bring beauty and life to any garden. Its brightly colored flowers are a mix of deep dark pink and electric pink that will steal your heart away and add a sense of warmth and vibrancy. Not only is it pleasing to the eye, but it's also incredibly hardy, only requiring well-drained soil and a full sun position to thrive. Its an easy plant to maintain and is highly resistant to disease, leaving you with more time to enjoy the beauty of your garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2381_dianthus_allwoodii_frosty_fire/og/52621298110_6190251dd9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015847Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c023577d70a873edc6cf2221326b534186b76bfb67dde447fd9da2d96dc9c500",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2381_dianthus_allwoodii_frosty_fire/regular/52621298110_6190251dd9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015847Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3dd6cf0942a3d3011d4adca3283a4d29619004e6427644ce4bdd8a28f4ee0a5f",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2381_dianthus_allwoodii_frosty_fire/medium/52621298110_6190251dd9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015847Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4fb25f7b943b190a16b794ce955c45b1e69ba4259509d9a8d3971a8bfbcec6ec",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2381_dianthus_allwoodii_frosty_fire/small/52621298110_6190251dd9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015847Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9dd791f83fd843f845b4fc9fb4f079e7812d78b96cdb5d17741972cf42b8c545",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2381_dianthus_allwoodii_frosty_fire/thumbnail/52621298110_6190251dd9_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015847Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5dd8bdc785a57eaf904539e0418401da9296b4abb02832ccc38d5a1327219a87"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2382,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus AMERICAN PIE GEORGIA PEACH PIE"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "AMERICAN",
+      "genus": "Dianthus",
+      "origin": [
+        "Germany",
+        "France",
+        "United Kingdom",
+        "United States"
+      ],
+      "type": "Carnation",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "",
+        "max": ""
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2382&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2382&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2382&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Carnation (Dianthus AMERICAN PIE GEORGIA PEACH PIE) is an amazing plant species for its beauty and colour range. It blooms with pastel peach blossoms from light yellow to violets, giving a gorgeous palette of colour. Moreover, the flowers also have a pleasant fragrance which make them attractive and pleasurable. Additionally, carnations are long-lasting, and can last up to two months in a vase making them a great choice for any garden or home. With their bright colours and pleasant scent, carnations create a stunning and vibrant display.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2383,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus amurensis 'Siberian Blue'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Siberian Blue",
+      "variety": null,
+      "species_epithet": "amurensis",
+      "genus": "Dianthus",
+      "origin": [
+        "Russia",
+        "Mongolia",
+        "China",
+        "North Korea",
+        "Japan"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2383&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2383&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2383&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Carnation, Dianthus amurensis 'Siberian Blue', is one of the most amazing plants you will ever come across. It shows off amazing cool-blue and lavender-blue hues which pop against its dark green foliage. Its delicate flowers sway with the breeze and look stunning in garden beds, flowerpots, and cut arrangements. It blooms from spring to fall and is easily propagated by cuttings. As its soft petals brush against each other it stirs emotions of joy and peace. It is surely a plant that deserves a special place in your garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2383_dianthus_amurensis_siberian_blue/og/2560px-Dianthus_deltoides2C_steenanjer_281.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3fa528272f1e3f0f56bec7170c117ed52bf15fb6837a94383830d8ee460165f0",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2383_dianthus_amurensis_siberian_blue/regular/2560px-Dianthus_deltoides2C_steenanjer_281.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0a2b321c317a06aa52612d04359b247fc15e8d33221a68e5c88a7b3d4c6e9eae",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2383_dianthus_amurensis_siberian_blue/medium/2560px-Dianthus_deltoides2C_steenanjer_281.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9eeb6aedf6d564e7eb78285992d96fa84373ad2f71453e339db8d04c94a50653",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2383_dianthus_amurensis_siberian_blue/small/2560px-Dianthus_deltoides2C_steenanjer_281.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3c321a828ed2ec2ff512dd64c6e0d3d6f5343eff1da2cd2c5d500d1dece40ec1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2383_dianthus_amurensis_siberian_blue/thumbnail/2560px-Dianthus_deltoides2C_steenanjer_281.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7e0cbae134b57170da058864fb2934d610904d793924210580664a05c165b6ff"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2384,
+      "common_name": "sweet William",
+      "scientific_name": [
+        "Dianthus barbatus"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "barbatus",
+      "genus": "Dianthus",
+      "origin": [
+        "Western Asia",
+        "eastern Europe",
+        "Korea"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2384&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2384&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "June",
+        "July",
+        "August",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2384&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sweet William (Dianthus barbatus) is an amazing plant species that is sure to bring beauty to any garden. It is a fragrant short-lived perennial that is native to Europe and grows in a variety of colors. The flowers of this species have a unique shape, with frilly petals and a slight clove-like scent that adds a delightful surprise to the garden. They are also very hardy and thrive in full sun and well-drained soil. Sweet William makes an excellent cut flower and is a brilliant addition to any garden, providing essential nutrients to the soil and attracting beneficial insects. Its long blooming season makes it an incredibly versatile and colorful addition to your landscape.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2384_dianthus_barbatus/og/51292936780_6774af832a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c402efdac84a6d568fd7c66eaaf29539d5604aa234c015d7b1d27ff44f2bd394",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2384_dianthus_barbatus/regular/51292936780_6774af832a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=202486ca7a8f842f1465128ad7ea77e828f2299e8f4f1a83d9e4b83c5dd74197",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2384_dianthus_barbatus/medium/51292936780_6774af832a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7621f36dcf9944f1260bdd9b01dbfa6a987c43d6c38802a07ff0a11be83404cc",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2384_dianthus_barbatus/small/51292936780_6774af832a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=87faeb270b894b605bafd366ce3dd91b9b0d7427afe5850ff23e8f6aaaf02d1b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2384_dianthus_barbatus/thumbnail/51292936780_6774af832a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=39d9ce24a25de3854b077f291ce9c1fc3b6a5a374e821d9c5ded90407e5f6816"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2385,
+      "common_name": "sweet William",
+      "scientific_name": [
+        "Dianthus barbatus 'Heart Attack'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Heart Attack",
+      "variety": null,
+      "species_epithet": "barbatus",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2385&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2385&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "deep-maroon"
+          ]
+        },
+        {
+          "part": "filaments",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "yellow-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2385&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sweet William (Dianthus barbatus 'Heart Attack') is an amazing plant species that has a beautiful, unique look. It produces deep pink and red blooms on a single stem, making it look like a bouquet of flowers. The plant is also very hardy, and it is low-maintenance, making it ideal for busy gardens. Its foliage is deep green, and it likes sunny, warm locations making it perfect for summer gardens. Because it's a perennial, this plant will continue to thrive year after year yielding amazing blooms and foliage throughout the warmer months. Sweet William is the perfect addition to any garden!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2385_dianthus_barbatus_heart_attack/og/52615284963_41f04cb5cc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f4825663d84f4033c37df401c1401888b40b1a24b731b577e677db044223a809",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2385_dianthus_barbatus_heart_attack/regular/52615284963_41f04cb5cc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ee22e3a3621a76a51cd1a95b382877dd856794201f8b95993223f2116081174c",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2385_dianthus_barbatus_heart_attack/medium/52615284963_41f04cb5cc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0cd3454699b00c115498bcc1cbe1780d64962a48624643b34a892db2d199202a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2385_dianthus_barbatus_heart_attack/small/52615284963_41f04cb5cc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6d17412b58ec7b77773d948a906d43ae101aa3df1e936a8ca94a70337909a4a6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2385_dianthus_barbatus_heart_attack/thumbnail/52615284963_41f04cb5cc_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2d172d5435ee92a5acbe3d0df0c557cee6d368c0ae08e4f6a625aaad32f9b48a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2386,
+      "common_name": "sweet William",
+      "scientific_name": [
+        "Dianthus barbatus 'Pinocchio'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Pinocchio",
+      "variety": null,
+      "species_epithet": "barbatus",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe",
+        "Mediterranean region",
+        "North Africa"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2386&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2386&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "May",
+        "June"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2386&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sweet William (Dianthus barbatus 'Pinocchio') is a stunning plant species renowned for its beauty and pleasant fragrance. This hardy and easy to care for perennial produces vividly striped, deep-pink flowers on tall stems. Its ruffled petals and unique pinched nose-like center give it a distinguished look. Their fragrance is so powerful that one can smell a bouquet of freshly cut flowers even when standing at a distance. And the beauty of the flowers remain intact even after they dry out, making them an ideal choice for floral arrangements. Sweet William is an excellent choice for any gardener looking for a flowering plant that will last as long as their love.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2386_dianthus_barbatus_pinocchio/og/52608863762_65e4a44d82_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5699c0fc183e534f448aba37e02a3bb97942543a1ac9db02fc060b2d7390b646",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2386_dianthus_barbatus_pinocchio/regular/52608863762_65e4a44d82_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a2dcf39cf5dc3bf83474ae499918cdfc6c23ecf29815cf0b5db3e49119dbe061",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2386_dianthus_barbatus_pinocchio/medium/52608863762_65e4a44d82_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=859331909fca0f593665c890398030284930379788e28a8ce5a468d7e65181a0",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2386_dianthus_barbatus_pinocchio/small/52608863762_65e4a44d82_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2ed5efa817fd4b5a7701fc5a51acb9adcf8c17ab8fe0fb9f528a7dcfc3994f1d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2386_dianthus_barbatus_pinocchio/thumbnail/52608863762_65e4a44d82_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=86fd4a9c3c7c64c285a484b9800a436c4733ef83fc0429f7626b5ee4f6d71553"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2387,
+      "common_name": "sweet William",
+      "scientific_name": [
+        "Dianthus barbatus 'Sooty'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sooty",
+      "variety": null,
+      "species_epithet": "barbatus",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2387&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2387&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "maroon"
+          ]
+        },
+        {
+          "part": "filaments",
+          "color": [
+            "maroon"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2387&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Sweet William (Dianthus barbatus 'Sooty') is an amazing flower species that is sure to brighten any garden. With large, fragrant blooms in shades of rose-purple to dark maroons, they're perfect for adding colour and contrast. Not only that, but their ability to attract pollinators makes them a great choice for any garden. Sweet Williams are easy to grow, low maintenance, and can bloom from late spring to early autumn. Plus, they're deer resistant and can do well in both sunny and shady areas. If you're looking for a beautiful flower to add to your garden, Sweet William is a great choice.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2387_dianthus_barbatus_sooty/og/30573468736_eef91a50f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6ac4c09811f705c0e556a98e9d52a782996c1d97b78204e62fcbff06e1f726c0",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2387_dianthus_barbatus_sooty/regular/30573468736_eef91a50f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=630642fc4cb17db2b2d38f6441553b5190880439a87078f75fc885a992854439",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2387_dianthus_barbatus_sooty/medium/30573468736_eef91a50f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9240753620a0b84c52082a0176d082d8ed7d7ae39877f46079204ea8a3815072",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2387_dianthus_barbatus_sooty/small/30573468736_eef91a50f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=980bd793a86aaaade623cb41492aaf70ded5795716a2c626fcf6036ca6bc887d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2387_dianthus_barbatus_sooty/thumbnail/30573468736_eef91a50f4_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1f732aac395401298887bcc84ef36f2af4bbc2675796252e059505b5a619f08e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2388,
+      "common_name": "cheddar pink",
+      "scientific_name": [
+        "Dianthus 'Bath's Pink'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Bath",
+      "variety": null,
+      "species_epithet": "'Bath's",
+      "genus": "Dianthus",
+      "origin": [
+        "England"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2388&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2388&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "September",
+        "October",
+        "November",
+        "December",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2388&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The cheddar pink (Dianthus 'Bath's Pink') is an amazing plant for any gardener. Its colorful, soft pink petals are a stunning contrast to the deep green foliage that gives a delightful ambiance to any garden setting. The intense scent of freshly-cut grass and spicy clove also adds to the beauty of this plant. It is also able to withstand drought and heat making it a very resilient and maintenance-free addition for any garden. Best of all, it blooms reliably throughout the Spring and Summer season making it a very desirable garden plant for many gardeners.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2388_dianthus_baths_pink/og/pentecostal-carnation-unranked-baths-pink-blossom-bloom-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d4813d5a0cfd1114d41210e4a5b9659ba40ae5f0f37845e0f4c00133a7e0df40",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2388_dianthus_baths_pink/regular/pentecostal-carnation-unranked-baths-pink-blossom-bloom-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ddb825c8dd6ea4910269cc21fa04729340ae4c8ca4a63b24cc696635d3928fc3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2388_dianthus_baths_pink/medium/pentecostal-carnation-unranked-baths-pink-blossom-bloom-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c1b9be83f7e815c2d41594bb190b589d17fdc2cbd4769331a2242602a100ee24",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2388_dianthus_baths_pink/small/pentecostal-carnation-unranked-baths-pink-blossom-bloom-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=32986cddda55aa8ed27cf28c5447e326b3ccd8f35ee0b853cf4e64e52992571b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2388_dianthus_baths_pink/thumbnail/pentecostal-carnation-unranked-baths-pink-blossom-bloom-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bbb35e41f8d7ae3400ca3893461437716732feb79b2c983226a6b9e0f226d669"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2389,
+      "common_name": "pink",
+      "scientific_name": [
+        "Dianthus 'Bat's Double Red'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Bat",
+      "variety": null,
+      "species_epithet": "'Bat's",
+      "genus": "Dianthus",
+      "origin": [
+        "United Kingdom"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.25,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2389&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2389&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "November",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2389&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Dianthus 'Bat's Double Red' is a stunning pink flowering plant that is sure to brighten up any landscape. This perennial plant produces lush and fragrant deep pink flowers that offer a brilliant contrast against the surrounding foliage. It is an easy-to-care-for plant that is great for any garden, from beginner to expert. Not only is it beautiful, but this plant is also drought-tolerant and resistant to deer damage. It's a great plant for any garden and will provide a splash of colour for years to come.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2390,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus 'Bewitched'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Bewitched",
+      "variety": null,
+      "species_epithet": "'Bewitched'",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2390&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2390&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2390&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Carnation 'Bewitched' is a stunning variety of Dianthus that is sure to delight! With its eye-catching purple and orange tone, this carnation is both colorful and strong - capable of surviving in extreme climates. Its waterproof flowers attract beneficial pollinators, and its sweet fragrance is sure to fill the garden with delight. The thick foliage is also capable of preventing weeds, making for a more manageable garden. This impressive variety of Dianthus is an excellent way to bring long-lasting color to your garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2391,
+      "common_name": "pink",
+      "scientific_name": [
+        "Dianthus 'Black Cherry Wild'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Black Cherry Wild",
+      "variety": null,
+      "species_epithet": "'Black",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe",
+        "North Africa",
+        "Western Asia"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2391&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2391&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "red-pink"
+          ]
+        },
+        {
+          "part": "filaments",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "anthers",
+          "color": [
+            "purple"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green-yellow"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green-yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "December",
+        "January"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2391&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The 'Black Cherry Wild' Pink Dianthus is a wonderfully unique flower. This pink variety features a deep red center with glossy, green foliage and large, vibrant petals. It is perfect for adding color and texture to any garden. It is also very easy to care for and will thrive in both sun and partial shade. It is also highly fragrant, making it an ideal choice for adding a sweet scent to the garden. The petals on the Dianthus 'Black Cherry Wild' have a long lifespan and are very resilient. Whether in the garden or a vase, the 'Black Cherry Wild' Pink Dianthus is a beautiful flower that is sure to make an impression.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2391_dianthus_black_cherry_wild/og/f9127ccd81c2a341af24c2770713-1589033.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7ca00613267972fe96c12610756d3aebf75dc52efc984151d65873561658004a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2391_dianthus_black_cherry_wild/regular/f9127ccd81c2a341af24c2770713-1589033.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9a2761c2026280537c08d1042ceb80070fd75520cb41838d61b10473e984e3c9",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2391_dianthus_black_cherry_wild/medium/f9127ccd81c2a341af24c2770713-1589033.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e83084cc723e5ce806295f6dd465926e3c0ab66e77fc2fcb6d2107f75c231384",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2391_dianthus_black_cherry_wild/small/f9127ccd81c2a341af24c2770713-1589033.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=de30880deb22b65c78fca6d469376efc0fdd78cfbcec21a3bbcfd400be73879f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2391_dianthus_black_cherry_wild/thumbnail/f9127ccd81c2a341af24c2770713-1589033.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9fef72f944d4e17062d2bcd521d092ca071b4645142c0d1abe167efe879272f4"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2392,
+      "common_name": "pink",
+      "scientific_name": [
+        "Dianthus BOUQUET ROSE MAGIC"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "BOUQUET",
+      "genus": "Dianthus",
+      "origin": [
+        "Germany",
+        "France",
+        "United Kingdom",
+        "Netherlands",
+        "Belgium",
+        "Italy"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Annual",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2392&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2392&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2392&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": false,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Dianthus Bouquet Rose Magic is an amazing plant species. It has masses of pale pink flowers with yellow centers, which have a sweet fragrance. It's also incredibly hardy - it can tolerate a wide range of temperatures and soil types. The beautiful blooms are complemented by dark green foliage, adding contrast and texture. This plant also makes a great addition to any garden or container planting. Flowers remain vibrant all season long and can be cut for fresh bouquets or dried for floral arrangements. It's also a low-maintenance plant, requiring no pruning or fertilizing. The addition of this delightful flower to your garden will be sure to please.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2393,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus 'Brilliant Star'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Brilliant Star",
+      "variety": null,
+      "species_epithet": "'Brilliant",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe",
+        "Asia",
+        "North Africa"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2393&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2393&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2393&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The 'Brilliant Star' carnation (Dianthus) is an amazing variety of this classic flower. Its blooms are deep magenta colored, with a slightly darker star-shaped center that makes them stand out from the rest. The sturdy stems make it perfect for cut flower arrangements, while its ruffled petals add elegance and romance. Not only does it look great but the flowers have a wonderful, spicy scent that will fill any room. Plus, it is a hardy plant and easy to grow, making it one of the best choices for novice gardeners. With its festive colors and scent, the 'Brilliant Star' carnation is sure to add beauty to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2393_dianthus_brilliant_star/og/9234024418_5649548cef_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=094e76b65e9b160161db19e5e300cac8abfe22060b48c53f5aeb7db4070af6d5",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2393_dianthus_brilliant_star/regular/9234024418_5649548cef_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=09e2941bb5836a656785ecc4f53d12a386e36b7a805819ba8037827cd1ade1fd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2393_dianthus_brilliant_star/medium/9234024418_5649548cef_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=41b945aed1c855cfc5f9bc7da29468f06c3229cec8c697d5128d52718712c5d7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2393_dianthus_brilliant_star/small/9234024418_5649548cef_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8a468e3c5f7170d5c460282d00be84e5c20dbbfb2eeb0bacd6cb5e4e9ddae4e2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2393_dianthus_brilliant_star/thumbnail/9234024418_5649548cef_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c6e5c7cd355147fbd24ed54cfb644ad3f5110ce5a967cb963e4910cd5d97f735"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2394,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus caryophyllus 'Clarion'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Clarion",
+      "variety": null,
+      "species_epithet": "caryophyllus",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2394&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2394&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "June",
+        "July",
+        "August",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 3,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2394&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Alkaline",
+        " Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Crown rot",
+        "  Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Carnation (Dianthus caryophyllus 'Clarion') is an amazing plant species with ruffled and deep magenta blooms that are excellent for adding color and texture in any garden. Fragrant and delicate flowers are produced abundantly in summer on tall, sturdy stems. The vibrant hue of this plant is sure to turn heads - especially when combined with contrasting colors for an eye-catching effect. The foliage is also attractive, creating a dainty, yet bold look. This carnation is a winner for its beauty, pest-resistance, and drought tolerance making it an obvious choice for any landscape.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2395,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus caryophyllus 'Vienna Mischung'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Vienna Mischung",
+      "variety": null,
+      "species_epithet": "caryophyllus",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2395&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2395&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2395&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Alkaline",
+        " Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Crown rot",
+        "  Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Vienna Mischung Carnation (Dianthus caryophyllus) is a unique and stunning plant that adds vibrant color to any garden. Its fragrant flowers come in a variety of hues, ranging from white to purple and pink to red. These bright flowers can last up to three days and its sturdy stems make them perfect for cut flower arrangements. Additionally, carnations are easy to take care of and thrive in a variety of climates. Their hardy nature means they can survive cold winters, and they are even capable of rebudding and blooming multiple times throughout the summer. With its gorgeous, long-lasting blooms, the Vienna Mischung Carnation makes a great addition to any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2396,
+      "common_name": "pink",
+      "scientific_name": [
+        "Dianthus chinensis 'Velvet 'n Lace'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Velvet ",
+      "variety": null,
+      "species_epithet": "chinensis",
+      "genus": "Dianthus",
+      "origin": [
+        "China"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Hummingbirds"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2396&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2396&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2396&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Dianthus chinensis 'Velvet 'n Lace' is a stunning plant species. With its soft pink petals and evergreen foliage, this eye-catching beauty adds a touch of serenity to any setting. Apart from its captivating looks, 'Velvet 'n Lace' is an easy-care garden treasure, boasting maintenance-free flowering throughout the season without even requiring deadheading. This fast-growing evergreen also attracts beneficial pollinators, helping raise the biodiversity of the garden. An absolute must-have for low-maintenance gardeners, 'Velvet 'n Lace' is simply amazing.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2397,
+      "common_name": "pink",
+      "scientific_name": [
+        "Dianthus 'Coconut Punch'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Coconut Punch",
+      "variety": null,
+      "species_epithet": "'Coconut",
+      "genus": "Dianthus",
+      "origin": [
+        "Germany"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2397&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2397&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2397&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Dianthus 'Coconut Punch' plant is one of the most amazing plant varieties out there. With its delicate and bright pink petals and an evergreen foliage, this plant is a real beauty! Not only is it ridiculously pretty, but it is also covered with a sweet coconut fragrance, making it a pleasure to walk around your garden. The flowers also attract lots of beautiful butterflies and birds to your garden, adding another layer of enchantment to it. The pink Dianthus is the perfect addition to both small and larger gardens!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2398,
+      "common_name": "carnation",
+      "scientific_name": [
+        "Dianthus 'Dad's Favourite'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Dad",
+      "variety": null,
+      "species_epithet": "'Dad's",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe",
+        "Mediterranean region",
+        "Asia"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2398&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2398&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2398&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The carnation (Dianthus 'Dad's Favorite') is an amazing plant for gardeners of all levels. It features a unique flower that has been coveted for centuries due to its beautiful colors, delightful scent, and long-lasting blooms. The flower heads have been popular in bouquets for weddings, special occasions, and wildflower meadows. Additionally, the carnation is known for its extreme hardiness and ability to survive in conditions that would kill many other plants. This has made it a top contender for containers, indoor landscaping, and even dry, hot climates. Overall, the carnation is truly an unmatched asset to any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2399,
+      "common_name": "maiden pink",
+      "scientific_name": [
+        "Dianthus deltoides"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "deltoides",
+      "genus": "Dianthus",
+      "origin": [
+        "Western Asia",
+        "Europe"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2399&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2399&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "December",
+        "January",
+        "February",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2399&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Deer resistant",
+        " Drought resistant"
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Maiden pink (Dianthus deltoides) is an amazing flora species. Its unique flowers feature a bright pink shade with fringed petals that give the buds a delicate appearance. Maiden pink has small, silver-green leaves, making them a great choice for ground cover as they’re low-growing and won’t take up too much space in your garden. During the summer, these pretty perennials bloom with numerous blooms that will attract local pollinators like hummingbirds and bees, adding more of a vibrant look to your landscape. Maiden pink is resilient to most pests and diseases, and they’re easy to care for with some occasional pruning. Maiden pink is definitely a must-have in any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2399_dianthus_deltoides/og/Dianthus_deltoides_002.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015855Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=51e82d5b15abf0af785bbbc2550631a741d0b24fc4be8d4f9267418af78f948d",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2399_dianthus_deltoides/regular/Dianthus_deltoides_002.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015855Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=227540aa7ab17b8d3d8f0b1406756e2bef639e913319bf8a61b75c10e0a0f63b",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2399_dianthus_deltoides/medium/Dianthus_deltoides_002.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015855Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=60c0f1c9b60ea80400a011a9804c5d8386b22c8c98ec9a4e1d8e54d9e0f553a4",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2399_dianthus_deltoides/small/Dianthus_deltoides_002.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015855Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=549ebaf7980959303b287c2229ab1eb8fd8b47ba4203f386480890a0ddc27f59",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2399_dianthus_deltoides/thumbnail/Dianthus_deltoides_002.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260910%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260910T015855Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=921a24431dece05f86574dada4060bd14cf3ff38e14087bbcf119cb7292e3f27"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2400,
+      "common_name": "maiden pink",
+      "scientific_name": [
+        "Dianthus deltoides 'Albus'"
+      ],
+      "other_name": [],
+      "family": "Caryophyllaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Albus",
+      "variety": null,
+      "species_epithet": "deltoides",
+      "genus": "Dianthus",
+      "origin": [
+        "Europe",
+        "North Africa",
+        "Western Asia"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "2",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2400&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2400&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2400&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Maiden pink (Dianthus deltoides 'Albus') is a truly amazing flower to experience in any garden. It has silvery white petals, creating an elegant and delicate presence. Compact in size, it grows to just 12 to 15 inches and is sure to add cheer to any outdoor space with its classic look and graceful presence. It is an exceptionally hardy plant and easy to manage in any garden. It attracts beneficial insects such as bees, and the blossoms can be harvested and used in floral arrangements. It is also drought tolerant, which makes it an ideal low-water garden plant. Maiden pink is an excellent choice for gardeners of any skill level who want to enjoy its beauty and cheer!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
