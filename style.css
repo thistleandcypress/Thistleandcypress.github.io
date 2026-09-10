@@ -301,7 +301,7 @@ body.about-page .welcome-text {
 ------------------------------------------- */
 
 /* ------------------------------------------
-   FOUR PILLARS GRID — HOME PAGE (2x2 with Centered 5th Item)
+   FOUR PILLARS GRID — HOME PAGE
 ------------------------------------------- */
 
 .pillars-wrapper {
@@ -324,67 +324,64 @@ body.about-page .welcome-text {
   max-width: 420px;
 }
 
-/* ------------------------------------------
-   HIGHLIGHTS SECTION — KITCHEN PILLAR
-   (Card-style featured content)
-------------------------------------------- */
+/* PHOTO-BASED PILLAR BUTTONS — HOME PAGE */
 
-.highlights-wrapper {
-  max-width: 900px;
-  margin: 3rem auto;
-  padding: 1.75rem 1.5rem;
-  background-color: #f3efe9;
-  border-radius: 8px;
-}
-
-.highlights-wrapper h2 {
-  text-align: center;
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-.highlights-intro {
-  text-align: center;
-  color: #4a423d;
-  font-size: 0.95rem;
-  margin-bottom: 2rem;
-}
-
-.highlights-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
-
-.highlight-card {
+.pillar-button {
+  position: relative;
   display: block;
-  background-color: #dfe7d8;
-  color: #2b2623;
-  text-decoration: none;
-  padding: 1.25rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   border-radius: 12px;
-  border: 1px solid #c9d2c3;
-  transition: transform 0.15s ease, background-color 0.2s ease;
+  overflow: hidden;
+  padding: 0;
+  min-height: 280px;
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(43, 38, 35, 0.12);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-.highlight-card:hover {
-  background-color: #cfd8c4;
-  transform: translateY(-2px);
+/* Rich Warm Gradient Overlay */
+.pillar-button::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top, 
+    rgba(28, 35, 30, 0.82) 0%, 
+    rgba(28, 35, 30, 0.35) 55%, 
+    rgba(28, 35, 30, 0.1) 100%
+  );
+  transition: background 0.3s ease;
+  z-index: 1;
 }
 
-.highlight-card h3 {
-  margin-top: 0;
-  font-size: 1.25rem;
-  color: #2b2623;
+/* Ensure pillar text sits above overlay */
+.pillar-content {
+  position: relative;
+  z-index: 2;
+  padding: 1.5rem;
+  color: #f8f8f8;
 }
 
-.highlight-card p {
-  margin: 0.75rem 0 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: #2b2623;
+/* Hover effect with vibrant lift */
+.pillar-button:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(43, 38, 35, 0.2);
+  text-decoration: none;
 }
+
+.pillar-button:hover::before {
+  background: linear-gradient(
+    to top, 
+    rgba(35, 44, 38, 0.72) 0%, 
+    rgba(35, 44, 38, 0.25) 55%, 
+    rgba(35, 44, 38, 0.05) 100%
+  );
+}
+
+
 
 /* ------------------------------------------
    COMING SOON MESSAGE
