@@ -300,10 +300,6 @@ body.about-page .welcome-text {
    FOUR PILLARS GRID — HOME PAGE
 ------------------------------------------- */
 
-/* ------------------------------------------
-   FOUR PILLARS GRID — HOME PAGE
-------------------------------------------- */
-
 .pillars-wrapper {
   max-width: 900px;
   margin: 2rem auto;
@@ -336,36 +332,45 @@ body.about-page .welcome-text {
   overflow: hidden;
   padding: 0;
   min-height: 280px;
-  color: #ffffff;
+  color: #2b2623;
   text-decoration: none;
   box-shadow: 0 4px 12px rgba(43, 38, 35, 0.12);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-/* Rich Warm Gradient Overlay */
+/* Transparent overlay to let bright watercolor illustrations show fully */
 .pillar-button::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(
-    to top, 
-    rgba(28, 35, 30, 0.82) 0%, 
-    rgba(28, 35, 30, 0.35) 55%, 
-    rgba(28, 35, 30, 0.1) 100%
-  );
+  background: transparent;
   transition: background 0.3s ease;
   z-index: 1;
 }
 
-/* Ensure pillar text sits above overlay */
+/* Ensure pillar text sits above overlay with soft shadow for contrast */
 .pillar-content {
   position: relative;
   z-index: 2;
   padding: 1.5rem;
-  color: #f8f8f8;
+  color: #2b2623;
+  text-shadow: 0 1px 4px rgba(255, 255, 255, 0.8);
 }
 
-/* Hover effect with vibrant lift */
+.pillar-content h2 {
+  margin-top: 0;
+  font-size: 1.4rem;
+  color: #2b2623;
+}
+
+.pillar-content p {
+  margin: 0.75rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #3a322d;
+}
+
+/* Hover effect with lift and shadow */
 .pillar-button:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 20px rgba(43, 38, 35, 0.2);
@@ -373,14 +378,8 @@ body.about-page .welcome-text {
 }
 
 .pillar-button:hover::before {
-  background: linear-gradient(
-    to top, 
-    rgba(35, 44, 38, 0.72) 0%, 
-    rgba(35, 44, 38, 0.25) 55%, 
-    rgba(35, 44, 38, 0.05) 100%
-  );
+  background: transparent;
 }
-
 
 
 /* ------------------------------------------
