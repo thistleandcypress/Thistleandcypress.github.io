@@ -348,7 +348,7 @@ body.about-page .welcome-text {
   z-index: 1;
 }
 
-/* General text positioning for the first 4 buttons (moved down and right) */
+/* General text positioning for the first 4 buttons */
 .pillar-content {
   position: relative;
   z-index: 2;
@@ -370,10 +370,10 @@ body.about-page .welcome-text {
   color: #3a322d;
 }
 
-/* Specific adjustment for the 5th button (Wine & Travel) to narrow text width */
+/* Aggressive fix for Wine & Travel: pushes text block over to the right and clears the bottle */
 .pillar-card:nth-child(5) .pillar-content {
-  padding: 1.5rem 4rem 1.5rem 1.5rem;
-  max-width: 320px;
+  padding: 2.2rem 2rem 1.5rem 11rem;
+  max-width: 420px;
 }
 
 /* Hover effect with lift and shadow */
