@@ -326,12 +326,12 @@ body.about-page .welcome-text {
   position: relative;
   display: block;
   background-size: cover;
-  background-position: center;
+  background-position: center bottom;
   background-repeat: no-repeat;
   border-radius: 12px;
   overflow: hidden;
   padding: 0;
-  min-height: 280px;
+  min-height: 260px;
   color: #2b2623;
   text-decoration: none;
   box-shadow: 0 4px 12px rgba(43, 38, 35, 0.12);
@@ -348,32 +348,19 @@ body.about-page .welcome-text {
   z-index: 1;
 }
 
-/* General text positioning for the first 4 buttons */
+/* Unified text positioning for all five buttons */
 .pillar-content {
   position: relative;
   z-index: 2;
-  padding: 2.2rem 1.5rem 1.5rem 2.2rem;
+  padding: 1.8rem;
   color: #2b2623;
-  text-shadow: 0 1px 4px rgba(255, 255, 255, 0.8);
+  text-shadow: 0 1px 4px rgba(255, 255, 255, 0.9);
 }
 
 .pillar-content h2 {
-  margin-top: 0;
-  font-size: 1.4rem;
+  margin: 0;
+  font-size: 1.6rem;
   color: #2b2623;
-}
-
-.pillar-content p {
-  margin: 0.75rem 0 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: #3a322d;
-}
-
-/* Aggressive fix for Wine & Travel: pushes text block over to the right and clears the bottle */
-.pillar-card:nth-child(5) .pillar-content {
-  padding: 2.2rem 2rem 1.5rem 11rem;
-  max-width: 420px;
 }
 
 /* Hover effect with lift and shadow */
