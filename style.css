@@ -320,6 +320,13 @@ body.about-page .welcome-text {
   max-width: 420px;
 }
 
+.pillar-card:nth-child(5) .pillar-button {
+  max-width: 420px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center bottom;
+}
+
 /* PHOTO-BASED PILLAR BUTTONS — HOME PAGE */
 
 .pillar-button {
