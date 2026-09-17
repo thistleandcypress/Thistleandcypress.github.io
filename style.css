@@ -955,3 +955,25 @@ body.about-page .hero::before {
     max-height: 150px;
   }
 }
+
+/* ------------------------------------------
+   EXPANDED DESKTOP LAYOUT (PC VIEW)
+------------------------------------------- */
+
+@media (min-width: 769px) {
+  main {
+    max-width: 960px; /* Expands the overall text reading area */
+  }
+
+  .pillars-wrapper {
+    max-width: 600px; /* Makes the pillar button stack wider on desktop */
+  }
+
+  .welcome-text,
+  .content-section,
+  .featured-content,
+  .stay-rooted,
+  .post-list {
+    max-width: 900px;
+  }
+}
