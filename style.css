@@ -297,22 +297,25 @@ body.about-page .welcome-text {
 }
 
 /* ------------------------------------------
-   FOUR PILLARS GRID — HOME PAGE
+   PILLARS — UNIFORM VERTICAL STACK (HOME PAGE)
 ------------------------------------------- */
 
 .pillars-wrapper {
-  max-width: 900px;
+  max-width: 420px;
   margin: 2rem auto;
+  padding: 0 1rem;
 }
 
 .pillars {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(260px, 420px));
-  justify-content: center;
+  display: flex;
+  flex-direction: column;
   gap: 1.5rem;
   margin-top: 1rem;
 }
 
+.pillar-card {
+  width: 100%;
+}
 
 /* PHOTO-BASED PILLAR BUTTONS — HOME PAGE */
 
@@ -525,10 +528,6 @@ body.kitchen-page.wine-page .post-card {
 .post-list .excerpt {
   display: none; /* optional — keeps it ultra compact */
 }
-
-
-
-
 
 /* ------------------------------------------
    PRINT BUTTON — RECIPE PAGES
@@ -889,10 +888,6 @@ body.about-page .hero::before {
   .hero {
     min-height: 13vh;
     padding: 1.75rem 1rem 1.25rem;
-  }
-
-  .pillars {
-    grid-template-columns: 1fr;
   }
 
   .highlights-grid {
