@@ -313,9 +313,11 @@ body.about-page .welcome-text {
   margin-top: 1rem;
 }
 
-.pillar-card:nth-child(5) .pillar-button {
-  background-size: cover;
-  background-position: center 48%;
+.pillar-card:nth-child(5) {
+  grid-column: 1 / -1;
+  justify-self: center;
+  width: 100%;
+  max-width: 420px;
 }
 
 /* PHOTO-BASED PILLAR BUTTONS — HOME PAGE */
