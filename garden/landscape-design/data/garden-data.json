@@ -374970,6 +374970,3520 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2671,
+      "common_name": "purple coneflower",
+      "scientific_name": [
+        "Echinacea 'Raspberry Tart'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Raspberry Tart",
+      "variety": null,
+      "species_epithet": "'Raspberry",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2671&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2671&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "orange-red"
+          ]
+        },
+        {
+          "part": "leaf",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "brown-green"
+          ]
+        },
+        {
+          "part": "bud",
+          "color": [
+            "brown"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "light-green"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "light-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "August",
+        "May",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2671&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Purple Coneflower (Echinacea 'Raspberry Tart') is a beautiful sight to behold. Its deep purple petals stretching out around a vibrant orange-ish cone create a stunning contrast that will make a colorful statement in any garden. The petals are edible and make a delicious addition to salads, and it attracts butterflies and other pollinators. It is a hardy plant that blooms from the end of summer through autumn, so it will be a colorful addition to any garden for months. Plus, the coneflower is easy to grow and doesn't need much maintenance, making it a great choice for the busy gardener.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2671_echinacea_raspberry_tart/og/52225635060_17c1ecdf5a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=20327e6315e22d3de35fb595d924dbb8077fd6602544e37d4ced95a31ab91e9a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2671_echinacea_raspberry_tart/regular/52225635060_17c1ecdf5a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5617d3800c0da27703393aaa3a9edc910b2a5bd3bf82f206933efdff46a18c76",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2671_echinacea_raspberry_tart/medium/52225635060_17c1ecdf5a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=25643ea610b56d7612a5ca7ba571036b491901359c18fe3705d3240301e86db6",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2671_echinacea_raspberry_tart/small/52225635060_17c1ecdf5a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=761ddbc822df247531e298aa4fd0466852dca1a5a4e2d12cdb837f7210a01586",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2671_echinacea_raspberry_tart/thumbnail/52225635060_17c1ecdf5a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2c1ca7bafec7e53f5c7b9fdd7395cf4dedab0ffdb2960923d98843c96634d875"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2672,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Secret Glow'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Secret Glow",
+      "variety": null,
+      "species_epithet": "'Secret",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2672&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2672&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2672&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'Secret Glow') is an amazing plant species for any garden. This coneflower has bright, daisy-like blooms with magenta petals and vibrant, honey-hued cones, providing a unique, eye-catching pop of color in any garden bed. It blooms from mid-summer to fall, with the ability to attract many beneficial pollinators including butterflies, bees, and birds. It is highly disease and drought tolerant, robust and easy to care for. It has an extended bloom season, and it can easily be divided and replanted which allows you to share with friends and family. Enjoy the beauty of Secret Glow Coneflower in your garden this season!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2673,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Secret Lust'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Secret Lust",
+      "variety": null,
+      "species_epithet": "'Secret",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": null,
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2673&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2673&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2673&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Echinacea 'Secret Lust' Coneflower is a species that is not only beautiful, but also incredibly beneficial to the environment. With large daisy-like petals that are bright pink and dazzling yellow in the center, this species is sure to catch the eye. But more than just eye-catching, Echinacea 'Secret Lust' is incredibly hardy and grows well in multiple soils and climates. What's more, when other plant species are scarce, Coneflowers attract pollinators like Monarch butterflies, bees, and hummingbirds. Finally, Coneflowers also has medicinal properties and is known to help the immune system. For all of these reasons, Echinacea 'Secret Lust' is an amazing species.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2673_echinacea_secret_lust/og/red-echinacea-purpurea-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021403Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2c38ca739d5fb3febc82ad572ed419e1cfe4e7bb740682100800f8ae604ee84e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2673_echinacea_secret_lust/regular/red-echinacea-purpurea-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021403Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=79c0c0de2a644b595ecd1eda83374d9c8d89d80a5fdaa4ac70da4e7c8938e0b7",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2673_echinacea_secret_lust/medium/red-echinacea-purpurea-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021403Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c159510ea236fb56102b79b20cce07e97d555607d81ec02de1d55a2c34bb51e8",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2673_echinacea_secret_lust/small/red-echinacea-purpurea-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021403Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=72bf1201bfacc3b4b940619322e6e5e66f738b36603c76ad9675d37c001d97b6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2673_echinacea_secret_lust/thumbnail/red-echinacea-purpurea-flower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021403Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b0854241f0495285b7dd514e3086582edd89bf8662e4205751784da37bd4482e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2674,
+      "common_name": "wavyleaf purple coneflower",
+      "scientific_name": [
+        "Echinacea simulata"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "simulata",
+      "genus": "Echinacea",
+      "origin": [
+        "Central United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Root Cutting",
+        "Division",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2674&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2674&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2674&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The wavyleaf purple coneflower, Echinacea simulata, is an amazing species of plant. It produces beautiful flowers in a range of shades from rose-red to deep purple, and its foliage is soft and grey-green. This plant's unique feature is its characteristic wavy leaves edged with prickly points. It is easy to grow, adapting to almost any soil and climate. Its leaves, blossoms, and roots have been used for medicinal purposes, and it attracts butterflies, hummingbirds, and beneficial insects. Hardy, long-lasting, and no-fuss, this plant is a great choice for the home gardener.",
+      "default_image": {
+        "license": 10,
+        "license_name": "Public Domain Mark",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2674_echinacea_simulata/og/31157903350_c32ab6d702_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5f45373c48a2094e4fe9236dc3f6b198610090ed5949dd257591aabe1b435e01",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2674_echinacea_simulata/regular/31157903350_c32ab6d702_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=885b96f98ff295522e3f9c52ac0963d6930a61943398ca496b2c33073cbcf832",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2674_echinacea_simulata/medium/31157903350_c32ab6d702_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d1373977d116e707cbd8b80936f9c75a4ea3031df6df68735b9938839506ea11",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2674_echinacea_simulata/small/31157903350_c32ab6d702_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=30bdd436f581c56ca67731807e2a238657875466d43d062600454aed582ec2b7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2674_echinacea_simulata/thumbnail/31157903350_c32ab6d702_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bb27f0d8c760bb3b1303a2e92dd75c5b597017c79011808abc5e3c302b1f50ee"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2675,
+      "common_name": "eastern coneflower",
+      "scientific_name": [
+        "Echinacea 'Snow Cone'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Snow Cone",
+      "variety": null,
+      "species_epithet": "'Snow",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2675&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2675&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2675&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Eastern coneflower (Echinacea 'Snow Cone') is an absolutely stunning flower that will add beauty and elegance to any garden. It has a unique appearance, with bright white petals and a bright orange-brown cone-shaped center. The blooms of these coneflowers appear on tall, sturdy green stalks that will last for months. They also attract a wide range of pollinators such as butterflies and bees. Its ability to tolerate a wide range of soil and light conditions makes it a great choice for gardeners of all levels. Its long-lasting flowers will definitely bring a seasonal feel to any garden!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2676,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Solar Flare'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Solar Flare",
+      "variety": null,
+      "species_epithet": "'Solar",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2676&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2676&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2676&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The coneflower (Echinacea 'Solar Flare') is an incredible flower deserving of admiration for its beauty. It grows with large, bright orange-red petals surrounding an orange-brown cone center that stands up to three feet high. Even in the winter months, the deep flower color stands out against the snow providing a beautiful seasonal contrast. The coneflower is a native North American species and is tolerant of cold climates and growing conditions. Additionally, it is an excellent pollinator plant that attracts a variety of butterflies and bees to its sweet pollen. What truly makes the coneflower extraordinary is its ability to bring life to a garden year round.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2677,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Sombrero Hot Pink'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sombrero Hot Pink",
+      "variety": null,
+      "species_epithet": "'Sombrero",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2677&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2677&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2677&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The coneflower (Echinacea 'Sombrero Hot Pink') is an amazing choice for the garden! Boasting an impressive burst of eye-catching bubblegum pink blooms that will ignite the garden with color. Not only is its bright color a unique feature, but its unique texture adds interest when planted in masses or used as an accent. This species requires minimal care once established and is especially known for being extremely drought-tolerant. Its vibrant flowers will bring a beautiful array of butterflies, bees, and other pollinators into the garden! The vibrant perennial will surely make its presence known in the garden with its unique, eye-catching blooms!",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2677_echinacea_sombrero_hot_pink/og/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021405Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=df61e5b7cc4e735a834e73cfced36bbaae98d34eab8e950793849a430a8dd79c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2677_echinacea_sombrero_hot_pink/regular/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021405Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9423b234dda0d37a93292dcb7cb2c76fd0163a15747aea9b8457ef5084e31719",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2677_echinacea_sombrero_hot_pink/medium/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021405Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=84131f4cd20e2f8a06bea1aa3531cb443a2f3b2e60bc16ddf80cd41b306075cd",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2677_echinacea_sombrero_hot_pink/small/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021405Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6a66eef7a9112fe8d7dec1217f489d1985abf60ebf893953708eb3238e7c2f21",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2677_echinacea_sombrero_hot_pink/thumbnail/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021405Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dea0ae52d5b94743952c75d83455995beaedc2f43712434afdda924d42ad24ca"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2678,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Sunbird'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sunbird",
+      "variety": null,
+      "species_epithet": "'Sunbird'",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2678&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2678&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2678&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The coneflower (Echinacea 'Sunbird') is an amazing plant species that is sure to brighten any garden. It has an upright habit with big, daisy-like flowers in vibrant shades of yellow, orange and pink. Not only is it lovely to look at, but the coneflower is very easy to maintain. They thrive in almost any type of climate, making them a great option for all kinds of gardeners. They attract butterflies and pollinators, adding beauty to the garden even when they're not in bloom. Plus, the coneflower offers medicinal benefits with its high levels of antioxidants and anti-inflammatories. It’s no wonder why the coneflower is so beloved.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2679,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Sunrise' BIG SKY SUNRISE"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sunrise",
+      "variety": null,
+      "species_epithet": "'Sunrise'",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Coneflower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2679&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2679&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2679&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower 'Sunrise Big Sky Sunrise' is an amazing plant that provides a pop of brilliant sunset color to any garden. This echinacea is drought-tolerant and deer-resistant, making it a low-maintenance plant. It can be enjoyed from late spring through late summer, when it’s abundant with bright yellow blooms. Butterflies love the striking petals, making it a wonderful addition to any butterfly garden. Its upright stature and robust flowers make it a great choice for use as a dramatic accent. Plant 'Sunrise Big Sky Sunrise' in a sunny spot for best flowering results!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2679_echinacea_sunrise_big_sky_sunrise/og/1280px-Echinacea_Big_Sky_Sunrise_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021406Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bed896c9c16b88154a700a45a400178f663b3ac97eea7240b65542ca55981204",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2679_echinacea_sunrise_big_sky_sunrise/regular/1280px-Echinacea_Big_Sky_Sunrise_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021406Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ebae49a98a78a560d39078f9a1575e3ce377755370dda22d0112ab56ddc4bdd3",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2679_echinacea_sunrise_big_sky_sunrise/medium/1280px-Echinacea_Big_Sky_Sunrise_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021406Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cb2c112d6fe646c7c8ad4ce1cda5ee3c88326ecb8ee844575c24e84195e9c05d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2679_echinacea_sunrise_big_sky_sunrise/small/1280px-Echinacea_Big_Sky_Sunrise_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021406Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5f7bfd4dde698f0253b130df9a4cedd78ba5e92b23ab295883930eb6a251cae1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2679_echinacea_sunrise_big_sky_sunrise/thumbnail/1280px-Echinacea_Big_Sky_Sunrise_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021406Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f23071c7fabd7d31123610c84af71aa41814b82a2e1d79b23fe80b9d7eca1eb8"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2680,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Sunset' BIG SKY SUNSET"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sunset",
+      "variety": null,
+      "species_epithet": "'Sunset'",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Coneflower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2680&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2680&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2680&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'Sunset' BIG SKY SUNSET) is an amazing plant to have in your garden. With its elegant array of vibrant orange, yellow, and green petals, it creates a stunning display in any garden. The unique conical shape of the flower’s petals adds a delightful and eye-catching structure to the petal arrangement. Its charming long-lasting flowers are a great source of nectar for pollinating insects. This perennial flower thrives in sunny areas and can easily be grown in most soil conditions. Furthermore, it's drought tolerant and deer resistant. The Echinacea 'Sunset' BIG SKY SUNSET coneflower adds a unique color and texture to any garden setting, and is certain to be a conversation piece.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2680_echinacea_sunset_big_sky_sunset/og/garden-summer-flowers-plant-purple-coneflower-orange.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=269cb8d1d011f109a243ee25376a3ab24b13860e4cf3a381dff6ae131b897351",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2680_echinacea_sunset_big_sky_sunset/regular/garden-summer-flowers-plant-purple-coneflower-orange.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c08d60564d940bc5649bd392a8219a2b1a3c7f98fa528cde4964182613cd43c4",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2680_echinacea_sunset_big_sky_sunset/medium/garden-summer-flowers-plant-purple-coneflower-orange.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e1a20b72d9cf0cd32a4b833856039ff566780adc01c7be5d7b4a7c744919310b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2680_echinacea_sunset_big_sky_sunset/small/garden-summer-flowers-plant-purple-coneflower-orange.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=16f27768c480445b33ed77bb43c861bab6bcf6bf25562512b1bfc48e6fb6ea00",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2680_echinacea_sunset_big_sky_sunset/thumbnail/garden-summer-flowers-plant-purple-coneflower-orange.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b09200bebac1b9dfbd5bbce9f54f43d2917a0fb762e1203596c37ca78ff7f76e"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2681,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea (Supreme Series) 'Cantaloupe'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Cantaloupe",
+      "variety": null,
+      "species_epithet": "(Supreme",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2681&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2681&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "yellow-orange"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "red-orange"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "light-green"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "light-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2681&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The 'Cantaloupe' Coneflower is a gorgeous and vibrant bloom, featuring a striking salmon-orange daisy-like flower with a deep black-red centre. This beauty stands 20-24 inches tall and is excellent for attracting pollinators, and provides loads of colour for your garden or outdoor spaces. The Coneflower is highly resistant to drought, deer, and other plant diseases, and will remain in bloom from June through fall. Its simple beauty is sure to make your garden look alive and vibrant all summer long!",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2681_echinacea_supreme_series_cantaloupe/og/echinacea-orange-purpurea-flower-preview.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=93dea0fc1f4b4022cb74abe8b2ec2402c38548f9d9cb8d235210845c9d05d359",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2681_echinacea_supreme_series_cantaloupe/regular/echinacea-orange-purpurea-flower-preview.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8778ee9992446f02abb2979c947debfa2155dbaf8938b47519a5852ff9e89eae",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2681_echinacea_supreme_series_cantaloupe/medium/echinacea-orange-purpurea-flower-preview.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0af4d9337214e39a8e3ee501a9a10ddee7c452464e569e1e6548e2023162d640",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2681_echinacea_supreme_series_cantaloupe/small/echinacea-orange-purpurea-flower-preview.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=787fcfd1e914ef1b4113337f3381aac23bf4b762a8be83879941cc9444c07875",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2681_echinacea_supreme_series_cantaloupe/thumbnail/echinacea-orange-purpurea-flower-preview.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021407Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a15c8ad55f7ebec3544f8992d646b0542d59db905ff98e39a779c0829adbb485"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2682,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea (Supreme Series) 'Elegance'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Elegance",
+      "variety": null,
+      "species_epithet": "(Supreme",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2682&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2682&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "August",
+        "March",
+        "April",
+        "August",
+        "December",
+        "January",
+        "February",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2682&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea (Supreme Series) 'Elegance') is an amazing plant species because of its wide petals, vibrantly coloured blooms, and its strong stem. This easy-to-grow perennial is heat tolerant, so it will thrive in hot environments. Its large pink-purple cone-like flowers have petals that reflex backwards at the tips, giving it a dramatic look. Plus, this variety produces a generous abundance of flowers over a long bloom season. And because the flowers are so attractive to pollinators, it can make a stunning addition to your garden. So if you want to add colour and life to your outdoor space, choose Coneflower (Echinacea (Supreme Series) 'Elegance').",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2683,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea (Supreme Series) 'Flamingo'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Flamingo",
+      "variety": null,
+      "species_epithet": "(Supreme",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2683&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2683&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "August",
+        "September",
+        "October",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2683&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The 'Flamingo' Coneflower is a fantastic addition to any garden. This variety of Echinacea features large blooms of deep pink petals with a pop of bright orange at the center. The flowers are large enough to draw attention but also delicate and graceful. The long-lasting display of summer color makes it a favorite for bees and butterflies. It also thrives in well-drained soils and can tolerate temperatures as low as -20 degrees Celsius. With easy care instructions, this beauty is sure to bring lasting color to any garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2684,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Tanager'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tanager",
+      "variety": null,
+      "species_epithet": "'Tanager'",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.75,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2684&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2684&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "creamy-white"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "yellow-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "August",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2684&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'Tanager') is an amazing addition to the garden. All summer long, this clump forming herbaceous perennial puts on a stunning display of peach-orange blooms. The petals are fluttery and the daisy-like flower is framed with a brownish-colored cone center. It is durable, easy to grow, and long-blooming. Plus, the deer don't seem to like it. Sun loving and drought tolerant, the Tanager Coneflower is a beautiful addition to any garden while adding an element of wildlife support and color to a landscape.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2684_echinacea_tanager/og/52299046365_f2cb8a9317_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fc5e8bd75666247918dbeb034620b39bb613d495d90701ed47ef6a78f00e2475",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2684_echinacea_tanager/regular/52299046365_f2cb8a9317_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=aeaa4d6affc2f45d0781dadb06d6551f2ac6c0f62e8c93c0a98f22755d8432db",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2684_echinacea_tanager/medium/52299046365_f2cb8a9317_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=04100594930bfdac8453d12b68e00317b019cba964fe2d4f84a64ba1447c0a4f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2684_echinacea_tanager/small/52299046365_f2cb8a9317_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6c5aed0f11c28a9b17d162646b9da2b76e93efed7f0fe637d9a78621d024e9ab",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2684_echinacea_tanager/thumbnail/52299046365_f2cb8a9317_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=50310dc6fc7c72f9efb35cef5738596c06b30604fee1bc4e1e8e6165b0f77c35"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2685,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Tangerine Dream'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tangerine Dream",
+      "variety": null,
+      "species_epithet": "'Tangerine",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2685&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2685&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "bright-orange"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "brown-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "May",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2685&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'Tangerine Dream') is an amazing species of plant that brings a bright and cheerful touch to any garden. Its showy, daisy-like flowers are a blend of bright tangerine petals surrounding orange-brown centers, and complement any color scheme. This hardy, heat tolerant plant is effortless to grow and blooms all season long. Its drought-tolerant foliage is an inviting habitat for beneficial pollinators. In short, this species is the perfect addition to brighten up any yard or garden while also providing a vital habitat for local wildlife.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2685_echinacea_tangerine_dream/og/9652842315_86cee068c1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c36d1ade3e12e83c1a968123266ddd42bb9f5438a306879e5b3fe69157dfc4dd",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2685_echinacea_tangerine_dream/regular/9652842315_86cee068c1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=28d025311d757e63f6adfb8b574668dd048158049849d0326b3ef8dc7450fb69",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2685_echinacea_tangerine_dream/medium/9652842315_86cee068c1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9e428156d1c6d6645a19067365fe35e196089628deaf191836d326093f7310b2",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2685_echinacea_tangerine_dream/small/9652842315_86cee068c1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=847694d66c1986db4bd4550072b2c59c85902f4e9b831a250affa601a07a1179",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2685_echinacea_tangerine_dream/thumbnail/9652842315_86cee068c1_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2152d1f78471f2d82e29fde854a72f2571fa9348c6a2f17f1e864483bd481fb1"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2686,
+      "common_name": "Tennessee coneflower",
+      "scientific_name": [
+        "Echinacea tennesseensis"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "tennesseensis",
+      "genus": "Echinacea",
+      "origin": [
+        "Tennessee"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Root Division",
+        "Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "6"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2686&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2686&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2686&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Tennessee coneflower, Echinacea tennesseensis, is an amazing plant species due its attractive, daisy-like flowers and its ability to thrive in tough conditions. Its striking nesting petals and 4-8 inch cones make it an elegant addition to any garden. It also blooms late into the season and adds much-needed color and life to the garden in the late summer. Cold hardy and low-maintenance, this plant species can provide years of enjoyment as a vital component of a landscape. With its vibrant colors and tougher-than-steel resilience, the Tennessee coneflower is the ideal addition to any garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2686_echinacea_tennesseensis/og/2560px-Tennesseensis_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=68a22792136d9b6756b9017c5a021f7a26379367d9d8e0a9194aad47b185ad2c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2686_echinacea_tennesseensis/regular/2560px-Tennesseensis_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=de8c09cf9c6887d4668c8650b4bd841b344aeae0894e59464fc65cd2ff21af61",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2686_echinacea_tennesseensis/medium/2560px-Tennesseensis_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=07337aa19587bc0f914b60f4c7faf6cefefabc58c429f09452d4cf361ce489dd",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2686_echinacea_tennesseensis/small/2560px-Tennesseensis_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=743fe5e2b198cee6bd94bf66b54301b7e54cc264493e26b8bca39342939bb2c0",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2686_echinacea_tennesseensis/thumbnail/2560px-Tennesseensis_28229.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1eff9084b6a743b50461f94bef79a5d8e79b0d822a041de0e80f85a208695581"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2687,
+      "common_name": "Tennessee coneflower",
+      "scientific_name": [
+        "Echinacea tennesseensis 'Rocky Top'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Rocky Top",
+      "variety": null,
+      "species_epithet": "tennesseensis",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2687&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2687&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2687&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Tennessee coneflower (Echinacea tennesseensis'Rocky Top') is an absolutely amazing plant species. Not only does it boast a large, vibrant bloom of purplish-pink and orange flowers that appear in mid-summer, but it is also surprisingly hardy. It thrives in dry and poor soil, and is even drought tolerant. Additionally, it attracts hummingbirds, bees, and butterflies to the garden. Tennessee Coneflower is a long-lasting perennial, and with its bright colours and easy maintenance, it's definitely a must-have plant for adding beauty and life to the landscape.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2687_echinacea_tennesseensis_rocky_top/og/2560px-Echinacea_tennesseensis_Rocky_Top_Hybrids_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1560d8eaaf7e4df8023a63b1543cb52845bbe54be26fc5b4189206f02190d96f",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2687_echinacea_tennesseensis_rocky_top/regular/2560px-Echinacea_tennesseensis_Rocky_Top_Hybrids_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9c75ea032cc7346378f70da9dd9b63b5d7db9cb80aa0686b395277d67fa59182",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2687_echinacea_tennesseensis_rocky_top/medium/2560px-Echinacea_tennesseensis_Rocky_Top_Hybrids_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ca4fbf4c231282c4eb9a98c05fba65dc98abd7e65eda335188f4fc253cd23a0a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2687_echinacea_tennesseensis_rocky_top/small/2560px-Echinacea_tennesseensis_Rocky_Top_Hybrids_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=55f3621e986000ae6edf51d2473699cb3fbba20cdc28b5f425ad04fe6d09680d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2687_echinacea_tennesseensis_rocky_top/thumbnail/2560px-Echinacea_tennesseensis_Rocky_Top_Hybrids_2zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7eb760532298e3ce5e293662d29f01ab1b2e7355b8fb87dbbff8acef6aa58452"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2688,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'The Price is White'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "The Price is White",
+      "variety": null,
+      "species_epithet": "'The",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 1.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation",
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2688&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2688&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2688&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'The Price is White') is an amazing addition to any garden. Its large flower heads, up to five inches across, tower over other varieties, exhibiting a stunning white-petaled bloom surrounded by purplish-green cone-shaped centers. Its deep root system anchors it into the ground and it remains evergreen even in tough climates, creating structure throughout the winter. Bees, butterflies, and other pollinators flock to it due to its sweet nectar and pollen. It's beautiful enough to use as a cut flower for special occasions and its petals last for many days in a vase. A true show stopper, coneflower is well worth the price!",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2688_echinacea_the_price_is_white/og/purple-coneflower-white-flower-blooms.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=926b8d49a6aa0b1e9936b7e811c6e7d632c1d06f344b772e6446674bc6b88837",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2688_echinacea_the_price_is_white/regular/purple-coneflower-white-flower-blooms.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8ebce4821cd6a69ce77b8b18f9f4002e07a1a83fae39e4bec38eb21e5258e56d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2688_echinacea_the_price_is_white/medium/purple-coneflower-white-flower-blooms.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3037b79b5b18683ff40d6e8c05cd61049131038dfe341241fb238b85bd840405",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2688_echinacea_the_price_is_white/small/purple-coneflower-white-flower-blooms.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fe095d05daee6a5746fefd47060f7783541f097d9887a89c3afe0f9536a05ed3",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2688_echinacea_the_price_is_white/thumbnail/purple-coneflower-white-flower-blooms.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=67872056308343fda48851be4d8e6640fe1413fec4760616a7c4162e3e9f1f8b"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2689,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Tiki Torch'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tiki Torch",
+      "variety": null,
+      "species_epithet": "'Tiki",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2689&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2689&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pale-orange"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "brown-red"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "lime-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2689&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'Tiki Torch') is a beautiful sight to behold and an amazing, easy-to-care-for perennial. Its deep orange, daisy-like petals and glowing orange-bronze center cone make for an outstanding display all summer long. Not only does it provide gardeners with dazzling good looks, but this plant also offers up a truly unique scent that is sweet and spicy. It is resistant to both deer and drought, so it can handle extreme conditions with ease. From its glorious blooms to its resilient nature, Coneflower is an amazing addition to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2689_echinacea_tiki_torch/og/4824363590_01907fc887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2ce5021dd3a1d0c40413a53852554cd8a79c4535a5ae81117269085adecb4a94",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2689_echinacea_tiki_torch/regular/4824363590_01907fc887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9d28d796a7610c28ab1f619a159b4a5408fe6aa315954d2bcee661daa80a7db6",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2689_echinacea_tiki_torch/medium/4824363590_01907fc887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a7cebd96d94830c05b6aa842e964572df3782645a42c67ffab6a82839cf54a58",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2689_echinacea_tiki_torch/small/4824363590_01907fc887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=acd53f282770432dacf8bd5233a8d993708607a6d728c795a9a3f222c025f399",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2689_echinacea_tiki_torch/thumbnail/4824363590_01907fc887_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=20eb0daa95b1ae53f24962173768bf206d293b3de692c8d885a7c88747a49c26"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2690,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'TNECHKIO' KISMET INTENSE ORANGE"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "TNECHKIO",
+      "variety": null,
+      "species_epithet": "'TNECHKIO'",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Coneflower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.25,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2690&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2690&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2690&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflowers (Echinacea 'TNECHKIO' KISMET INTENSE ORANGE) are an amazing species because of their unique beauty. With long, daisy-like petals in a deep and vibrant shade of orange, these flowers will bring a gorgeous spark to any garden. Not only do they bring incredible visual appeal, they're also extremely hardy and drought-tolerant. Plant them in the ground or in containers and you'll enjoy their spectacular blooms all throughout the growing season. And best of all, coneflowers are deer, rabbit, and mole resistant, allowing them to flourish without interruption!",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2690_echinacea_tnechkio_kismet_intense_orange/og/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=30affcd0fbc33a98b2f66a06cd8150dd8d5730bd434127f50fda589214950866",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2690_echinacea_tnechkio_kismet_intense_orange/regular/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5dc3405d77affd101f36203f42f8121378db53b8a1d32192ac412378d1aa8262",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2690_echinacea_tnechkio_kismet_intense_orange/medium/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3de9c617dd1255a5dd07b34aac2766c76c0a8dc0cab1138c618aeaddaf10319c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2690_echinacea_tnechkio_kismet_intense_orange/small/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dee3a08d18ed981d775bf070045a6483687e3c12b1829664520ca98260ea1a0c",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2690_echinacea_tnechkio_kismet_intense_orange/thumbnail/coneflower-translucent-sonnenhut-echinacea-purpurea-red-glow-purple-coneflower.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2f4883b7db22eb0ff0a2c197025e4ba8dd79ac6db5467b5cfb2d6f33541ddd14"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2691,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'TNECHKR' KISMET RASPBERRY"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "TNECHKR",
+      "variety": null,
+      "species_epithet": "'TNECHKR'",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2691&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2691&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2691&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The unique Echinacea 'TNECHKR' KISMET RASPBERRY Coneflower is an incredible addition to any garden. Its crisp raspberry petals are sure to brighten up any outdoor space! Its deep blooms attract a variety of pollinators, making it a great addition to any pollinator garden. Its robust foliage is highly tolerant of drought and poor soil conditions, making it a plant that is easy to care for and maintain. The 'TNECHKR' KISMET RASPBERRY Coneflower is also highly resistant to most common pests and diseases, ensuring it will remain a beautiful part of your garden for years to come!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2691_echinacea_tnechkr_kismet_raspberry/og/Asterales_-_Echinacea_purpurea_-_4.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2d72485b41509883fb2ff6491f53384ba9c792a427e83bbae1d0a3b077915f14",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2691_echinacea_tnechkr_kismet_raspberry/regular/Asterales_-_Echinacea_purpurea_-_4.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=68797b6af6a7480d2f743363bc8df38b1168a77eaec4af4f65486cbb48003c1c",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2691_echinacea_tnechkr_kismet_raspberry/medium/Asterales_-_Echinacea_purpurea_-_4.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=540e4d47687f306e81abfbd4c7a09581955265431733d5376c7e60d2547ec913",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2691_echinacea_tnechkr_kismet_raspberry/small/Asterales_-_Echinacea_purpurea_-_4.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2ec70fdb9d00db9a50edcbd626dce18fe9e2a09828adfdf49d771de961d2fabb",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2691_echinacea_tnechkr_kismet_raspberry/thumbnail/Asterales_-_Echinacea_purpurea_-_4.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=afa58f2e0aee53e2a6b5940d64125b6703c13c2f09da5930070333cfd68a21f0"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2692,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Tomato Soup'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Tomato Soup",
+      "variety": null,
+      "species_epithet": "'Tomato",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2692&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2692&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2692&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'Tomato Soup') is an amazing plant species that blooms from mid-summer to mid-fall, boasting attractive, bright orange to rusty-pink petals that encircle a dark chocolate center cone. This gives the flowers a unique and eye-catching appearance that is sure to stand out in any garden. It also has strong medicinal properties which is an added bonus. All parts of the plant are known to have antioxidant, anti-inflammatory and immune-enhancing abilities. It is a low-maintenance flower that is tolerant to drought and tolerates poor soils and requires low to moderate watering once established in the garden. Coneflower (Echinacea 'Tomato Soup') is an amazing plant species that deserves a spot in your garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2692_echinacea_tomato_soup/og/red-orange-echinacea-echinacea-cone-flower-medicinal.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=68c015defa06112892e39e33645f59826b90fae37207f71c023589c4936a35fc",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2692_echinacea_tomato_soup/regular/red-orange-echinacea-echinacea-cone-flower-medicinal.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e5c3c5573bc077d67cc0e27355884e84e6b756dea8e9f40811a737d5c17288d0",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2692_echinacea_tomato_soup/medium/red-orange-echinacea-echinacea-cone-flower-medicinal.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=88a09e6cba6824812c3c56c70808563759b8c909415a0f085ded1d092e621a16",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2692_echinacea_tomato_soup/small/red-orange-echinacea-echinacea-cone-flower-medicinal.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=eb9b9bf12b290a0c998a05c485d38df2ba8ec497eefdc91f4c6334db4adee5d1",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2692_echinacea_tomato_soup/thumbnail/red-orange-echinacea-echinacea-cone-flower-medicinal.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=79a0651cea02f3871d2c543b8c5d259729af65c77b79b98eb64917f48a80a6b3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2693,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'Twilight' BIG SKY TWILIGHT"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Twilight",
+      "variety": null,
+      "species_epithet": "'Twilight'",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Coneflower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 2.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2693&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2693&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2693&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'Twilight' BIG SKY TWILIGHT) is an amazing flower to grow in your garden. It produces an abundance of beautiful daisy-like flowers that are a rich and vibrant tangerine-toned pink color throughout the entire bloom period. This hardy perennial attracts hummingbirds, butterflies, and other beneficial insects to the garden. It has a long bloom period, starting in midsummer and lasting through late fall providing long-lasting beauty even as autumn colors fade. The compact, bushy habit of this variety makes it great for smaller gardens without sacrificing any of the vibrant daisy blooms. E. 'Twilight' is a must-have for any garden, adding vibrant color and inviting pollinators to the garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2693_echinacea_twilight_big_sky_twilight/og/52379997665_d3df7b0e0b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5746ff8bf8b7901abea107e180e8e9226b676b13c884dcd7e5ba05ae1391bb8a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2693_echinacea_twilight_big_sky_twilight/regular/52379997665_d3df7b0e0b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e08a150ee28409482b94a82ce97b5dedc71b0f39b7b7ab8f04b6c50ec923d4da",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2693_echinacea_twilight_big_sky_twilight/medium/52379997665_d3df7b0e0b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=599667ff5155307790f5ba28e91dfe34ed6c1ea7e85dc9eb6a48cdb8534412d7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2693_echinacea_twilight_big_sky_twilight/small/52379997665_d3df7b0e0b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8ede7a67d2332ae81ebcae83ed62d0f558db0229a2294ccc317e2d201e0d5c63",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2693_echinacea_twilight_big_sky_twilight/thumbnail/52379997665_d3df7b0e0b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bbcd52af4d83632b7b6604af30cf0c651b162b503b54d265dd3718c5b60e4497"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2694,
+      "common_name": "coneflower",
+      "scientific_name": [
+        "Echinacea 'White Mist'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "White Mist",
+      "variety": null,
+      "species_epithet": "'White",
+      "genus": "Echinacea",
+      "origin": [
+        "United States"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Birds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2694&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2694&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "brown-orange"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2694&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Coneflower (Echinacea 'White Mist') is an outstanding choice for color and beauty in the garden. It is a perennial boasting creamy white petals with a showy, dark orange-brown center. The long-lasting blooms attract butterflies, bees, and hummingbirds. This species is also easy to grow and care for, drought tolerant, and a great pick for a low-maintenance garden. It requires minimal attention and enjoys full sun to part shade. Coneflower is also a great perennial for cut flowers, perfect for outdoor living to help express your style. If you're looking for a beautiful addition to your garden, coneflower is a must-have.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2694_echinacea_white_mist/og/14395972349_9c02f4a511_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=490a68be7384a2e72e89c16edd40a27d60261de7f0da39f19b50bc66374b9870",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2694_echinacea_white_mist/regular/14395972349_9c02f4a511_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=02c274034c9b363ef3fce9f511beba32875dd0544f736e743bde2b32c85ef812",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2694_echinacea_white_mist/medium/14395972349_9c02f4a511_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a3f63e29a1d389b53df762e9e6fed20b6c3b29ad33f5239070b09350b00f3fd5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2694_echinacea_white_mist/small/14395972349_9c02f4a511_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a330aa666b426f4028a1ecd78ef032a7819cfee8432986ad59a1077de8a084f6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2694_echinacea_white_mist/thumbnail/14395972349_9c02f4a511_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=de5ff9a594d3ac81b0f4104c747bdffc1dd5dcbabf1d823ca70f930f6217bf21"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2695,
+      "common_name": "globe thistle",
+      "scientific_name": [
+        "Echinops bannaticus"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "bannaticus",
+      "genus": "Echinops",
+      "origin": [
+        "Southeastern Europe",
+        "Czechoslavakia"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 4,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2695&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2695&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2695&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Globe Thistle is an amazing ornamental plant due to its unusual sphere-shaped thistle flowers. Growing tall up to 3 feet, it thrives in full sun to partial shade conditions in well-drained soils. The silvery blue-green foliage forms a compact mound, and in late summer the plant is topped with airy, pincushion-like blooms. Each branch is studded with a single, spectacular, deep violet-blue flower head. The flower heads, or globes, are beloved by butterflies and may be dried for beautiful indoor arrangements. Long-lasting cut flowers, Globe Thistle is an excellent choice for the cutting garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2695_echinops_bannaticus/og/7727622362_6327cebd43_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021415Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=53b771e3fad2eef55a814f3ad4978dbc4e3294082ecc6d6cfb806e2bcf3f982a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2695_echinops_bannaticus/regular/7727622362_6327cebd43_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021415Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dea5839faef37bd7c6e98489d9695f37bc70bd9045d92519fd5b27d831504e21",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2695_echinops_bannaticus/medium/7727622362_6327cebd43_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021415Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0b52d4d7aaff56aee0450a2152819bea7be77686dae3f69da517a1a3edecec20",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2695_echinops_bannaticus/small/7727622362_6327cebd43_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021415Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5d8d7000682824ece27cf4f83378e602f90cc2004f66bb9c0ce70880694befce",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2695_echinops_bannaticus/thumbnail/7727622362_6327cebd43_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021415Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7265e2ac89e3362afb39d0334065376179b7dcb351b1985d001ea6beb78cbf62"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2696,
+      "common_name": "globe thistle",
+      "scientific_name": [
+        "Echinops bannaticus 'Blue Globe'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Blue Globe",
+      "variety": null,
+      "species_epithet": "bannaticus",
+      "genus": "Echinops",
+      "origin": [
+        "Serbia",
+        "Bosnia and Herzegovina",
+        "Croatia",
+        "Montenegro",
+        "Macedonia",
+        "Albania",
+        "Bulgaria",
+        "Romania"
+      ],
+      "type": "Thistle",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2696&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2696&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "blue-white"
+          ]
+        },
+        {
+          "part": "spadix",
+          "color": [
+            "white-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2696&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Globe thistle (Echinops bannaticus 'Blue Globe') is an amazing plant species due to its captivating blue flowers and spiny leaves, creating a unique aesthetic. It grows in full sun and is tolerant to dry and poor soils. It is also very easy to care for and rarely needs to be trimmed. It adds a great pop of color to the garden with its stunning purple-blue blooms that attract pollinators like butterflies and hummingbirds. Its versatile growth habit allows it to be used as a border plant, as an accent in containers, or even in a rock garden. Globe thistle is the perfect choice for gardeners who want an interesting and easy to maintain plant for their garden.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2697,
+      "common_name": "blue globe thistle",
+      "scientific_name": [
+        "Echinops bannaticus 'Blue Glow'"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Blue Glow",
+      "variety": null,
+      "species_epithet": "bannaticus",
+      "genus": "Echinops",
+      "origin": [
+        "Serbia",
+        "Bosnia and Herzegovina",
+        "Croatia",
+        "Montenegro",
+        "Albania",
+        "Macedonia",
+        "Bulgaria",
+        "Romania"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2697&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2697&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2697&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Blue globe thistle (Echinops bannaticus 'Blue Glow') is an amazing plant that will bring life to your garden. This beautiful perennial flower sports deep blue spiky globes atop sturdy stems, making it a striking ornamental in any garden. Its blooms offer a unique texture and flower, while its strong stems provide height and interest to your flower bed. With a long flowering season from midsummer to fall, Blue Glow is an excellent addition to any garden landscape. Its nectar-rich blooms not only draw in pollinators like butterflies and bees, but also give off a heavenly scent that will fill your garden with joy. Plant it for a unique and captivating display in your garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2697_echinops_bannaticus_blue_glow/og/pexels-photo-5108622.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cf3eb610dd141368fad8e51bbbf6dc43aa3c247e558533f17bac50103fa44e96",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2697_echinops_bannaticus_blue_glow/regular/pexels-photo-5108622.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f08b45a4da6581584423885d48d02dcc145f01fa27c74f31b5c98630b6223c21",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2697_echinops_bannaticus_blue_glow/medium/pexels-photo-5108622.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e3d6dc8e10766bda265ead11d121880b5007bd64659478aa15e945c7daae2d2d",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2697_echinops_bannaticus_blue_glow/small/pexels-photo-5108622.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=656f3db7185b08502d56cbcd8f989ec722fc8c9e89e6fd7976a428e3a9dd72c4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2697_echinops_bannaticus_blue_glow/thumbnail/pexels-photo-5108622.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3f232ffb3130b74dcde09ef55656e639e88a0a94c12c75af078c76160351b439"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2698,
+      "common_name": "globe thistle",
+      "scientific_name": [
+        "Echinops gmelinii"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "gmelinii",
+      "genus": "Echinops",
+      "origin": [
+        "Central Asia",
+        "Mongolia",
+        "China"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2698&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2698&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "hairs",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "light-green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "creamy-white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2698&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Globe Thistle (Echinops gmelinii) is an amazing plant species with unique characteristics. It is a long-lived perennial with a deep taproot that allows it to thrive in marginal soils. Its spiny foliage adds to its charm in any garden. Its remarkable spherical flower heads also give it its common name \"globe thistle\". These striking flowers are deep, velvety blue with a white center and make an attractive addition to any garden. They attract many beneficial insects to the garden and are great for cutting and arranging in bouquets. Globe Thistle is a wonderful addition to any garden - and its beauty and resilience will make sure it is enjoyed for years to come.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2698_echinops_gmelinii/og/51347065931_76083721a0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1ebae3f4f940292fd17a2c8e5a171ebc8e815164187ff14afd315946b657f634",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2698_echinops_gmelinii/regular/51347065931_76083721a0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=10531d35c4f0d258f9442e254115b238b8fd01d63a71e90b7074663b0cfbdf2a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2698_echinops_gmelinii/medium/51347065931_76083721a0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=32d31c60b1743470f8da1a7fd930188cdb705fce56080670d386382c6f8b4bf2",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2698_echinops_gmelinii/small/51347065931_76083721a0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=915a832de5e72b3b1a8a288979467cf17788b1c1359f890dd9b28cf2d05229ee",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2698_echinops_gmelinii/thumbnail/51347065931_76083721a0_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f4cbd2ddfe01a22e478877aa4bac34094492d4506a19599f52fc7397f57e1afa"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2699,
+      "common_name": "small globe thistle",
+      "scientific_name": [
+        "Echinops ritro"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "ritro",
+      "genus": "Echinops",
+      "origin": [
+        "Central and eastern Europe",
+        "Asia"
+      ],
+      "type": "Thistle",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2699&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2699&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "blue-white"
+          ]
+        },
+        {
+          "part": "spadix",
+          "color": [
+            "gray-blue",
+            "gray-white"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "blue-white"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2699&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": true,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Small globe thistle (Echinops ritro) is an amazing perennial plant to have in any garden. It has a unique look with its spiky silver-white thistle-like heads and round foliage. It is best grown in well-drained soil in a sunny place and can be grown in containers if desired. Flowering typically occurs in summer in shades of blue, white and pink and it’s a great plant for attracting bees and butterflies into the garden. It’s hardy, undemanding and easy to grow, making it an excellent addition to any garden. Plus, its silver-ish spiky heads add an interesting element to any garden and its compact size makes it ideal for borders or pots.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2699_echinops_ritro/og/52315581367_1406967d9d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021417Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=99e69f0f3fb50f9b2f7a8a3edaddcfcc835cab067b8e8d9c9e4bfeec2fe81f50",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2699_echinops_ritro/regular/52315581367_1406967d9d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021417Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a9f9fef5633938ae6f6a2a3fff6e912e6c76a1de78642530a998613910e5fa43",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2699_echinops_ritro/medium/52315581367_1406967d9d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021417Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0dffc6fcc24a14b44cb2bbe1bb72cd2fe00463385beb821a307e104088fd1b93",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2699_echinops_ritro/small/52315581367_1406967d9d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021417Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ff11f3d3c8ea78a5ac0fcea85a8955620884ffd0016bbaa79a6ca2c1ff23cb45",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2699_echinops_ritro/thumbnail/52315581367_1406967d9d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021417Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=30c4b32c9c014e94ae2ec08f7a23a7d4de057623c28417e791d8cfa9ad26dd64"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2700,
+      "common_name": "small globe thistle",
+      "scientific_name": [
+        "Echinops ritro subsp. ruthenicus"
+      ],
+      "other_name": [],
+      "family": "Asteraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "ritro",
+      "genus": "Echinops",
+      "origin": [
+        "Central and eastern Europe",
+        "western and central Asia"
+      ],
+      "type": "Thistle",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Butterflies"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2700&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2700&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2700&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Small Globe Thistle is an amazing and beautiful species of Echinops. It is native to South and Central Europe, and has a globular flowerhead composed of many small, blue flowers. The flowerhead is surrounded by soft, spiny foliage that gives the plant its unique texture and look. It is an attractive plant for wild gardens, and its flowers and foliage are delightful in bouquets. Not only is it practically pest and disease-free, it is also drought and cold tolerant, making it a tough and resilient addition to any garden. Small Globe Thistle is sure to bring beauty and hardiness to your outdoor spaces.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2700_echinops_ritro_subsp_ruthenicus/og/2560px-Echinops_ritro_subsp._ruthenicus_sl10.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021418Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8d71bab4c0e23d76e873fab9436a40cf69dd8b0074af5fbb4a928e6aa434aaec",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2700_echinops_ritro_subsp_ruthenicus/regular/2560px-Echinops_ritro_subsp._ruthenicus_sl10.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021418Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bb5ef26c0d58a88f2e56b38e24d8c202beb8a9a5e9e99ff1d9823e715d905b45",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2700_echinops_ritro_subsp_ruthenicus/medium/2560px-Echinops_ritro_subsp._ruthenicus_sl10.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021418Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ef3b28f5fdbbb1c4372af6f93a2fc32204b483c9e3bad7ddd7d1db323921d8f0",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2700_echinops_ritro_subsp_ruthenicus/small/2560px-Echinops_ritro_subsp._ruthenicus_sl10.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021418Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cef23b4226c213af3293b3576331ee412deb8e5e91f658bc6490cccc874c703a",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2700_echinops_ritro_subsp_ruthenicus/thumbnail/2560px-Echinops_ritro_subsp._ruthenicus_sl10.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260920%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260920T021418Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b9f49d4ae196af06920353848069c53a49173852133298e355be1fd109bb4ac9"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
