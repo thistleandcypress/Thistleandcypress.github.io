@@ -382277,6 +382277,3325 @@
       "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
       "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2731,
+      "common_name": "eastern Cape blue cycad",
+      "scientific_name": [
+        "Encephalartos horridus"
+      ],
+      "other_name": [],
+      "family": "Zamiaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "horridus",
+      "genus": "Encephalartos",
+      "origin": [
+        "South Africa"
+      ],
+      "type": "Palm or Cycad",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2731&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2731&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-gray"
+          ]
+        },
+        {
+          "part": "fruits",
+          "color": [
+            "red-brown"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green-gray"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2731&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "High",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": true,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Eastern Cape Blue Cycad (Encephalartos horridus) is a truly remarkable species of plant. Native to South Africa, it produces a deep blue-green colored cone, making it an eyecatching addition to any garden. It is highly adaptable and tolerant of temperatures from 37⁰F to 122⁰F, and is slow-growing, making it ideal for container gardening. Its leaves are soft and spiny, protecting the plant from predators. The Eastern Cape Blue Cycad can live up to 300 years, and its foliage remains attractive throughout its lifespan. In short, this spectacular plant is a must-have for any gardener!",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2731_encephalartos_horridus/og/24414094554_41ff99f331_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021842Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a8dc53bd68bc121a6d4b3c7d0d9445a6ccffcc2f0a636a277960cd3489734d9",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2731_encephalartos_horridus/regular/24414094554_41ff99f331_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021842Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8ebc13a96ec11262549ad39f5cf7e594bfa2e45167da42ff3e8a59a79b204a68",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2731_encephalartos_horridus/medium/24414094554_41ff99f331_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021842Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1f533f588d696604ba36914f2bc9ea0a1f11ed5a12ca10f2c97e34b8d4ba02c7",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2731_encephalartos_horridus/small/24414094554_41ff99f331_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021842Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3e050dc2f54d6035ef83a50cb26efe03c0ee9a8c7b0ba6aa70062bc4826415e4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2731_encephalartos_horridus/thumbnail/24414094554_41ff99f331_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021842Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=30e1d711024d671b2cbba5212554a39b5043de89ef8f763198bf7c72c6b21e8d"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2732,
+      "common_name": "false rue anemone",
+      "scientific_name": [
+        "Enemion biternatum"
+      ],
+      "other_name": [],
+      "family": "Ranunculaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "biternatum",
+      "genus": "Enemion",
+      "origin": [
+        "Eastern North America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Root Cutting",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "3",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2732&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2732&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2732&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "False Rue Anemone (Enemion biternatum) is an amazing plant species due to its delicate beauty and unique toughness. False rue anemone grows best in part shade and moist, rich soil with good drainage. Its many deeply divided, lobed leaves appear in early spring, just ahead of its small white flowers, which contrast beautifully with its carpets of foliage. Its thick rootstock and drought-resistant stems make it ideal for areas that receive little water, and its low-growing habit keeps it from overtaking other plants in the garden. False rue anemone is a hardy addition to any landscape, which, when planted in the right conditions, will thrive for many years.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2732_enemion_biternatum/og/52350986618_b1e726123d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021857Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d378d59da8e96ce5d832fbed442ce4d7396d991bb709543739d1d911a0e6045e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2732_enemion_biternatum/regular/52350986618_b1e726123d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021857Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c18d4b0cb63f0fe3ac189bfb13f6f699890dd2c4fb11528a3b2a38bbff380e70",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2732_enemion_biternatum/medium/52350986618_b1e726123d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021857Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b784d1b82c86f7da32eb13eb53b2bf14b9d1c575770054a3a54f1f471b40ebc9",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2732_enemion_biternatum/small/52350986618_b1e726123d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021857Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=35ae1e32d0cf1ce30641aae50c24257562aaf79250e717ee09dcef07b5257c58",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2732_enemion_biternatum/thumbnail/52350986618_b1e726123d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021857Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d6c17fc2a8d063a01cefd19101711bffcba61f325e7afbfc68192eac37abded6"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2733,
+      "common_name": "furin-tsutsuji",
+      "scientific_name": [
+        "Enkianthus campanulatus"
+      ],
+      "other_name": [],
+      "family": "Ericaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "campanulatus",
+      "genus": "Enkianthus",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Layering Propagation",
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2733&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2733&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2733&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Acidic",
+        " Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Furin-tsutsuji (Enkianthus campanulatus) is a stunning deciduous shrub admired for its vibrant and abundant display of colour throughout the seasons. During spring, its dark green foliage appears alongside drooping clusters of tiny white and pink bell-shaped flowers that sway gracefully in the breeze. This is followed by a beautiful transition of orange and red autumnal leaves, creating an unforgettable scene of vivacious beauty. With its ability to thrive in partial shade and acidic to slightly alkaline soils, Furin-tsutsuji is an adaptable plant that is easy to maintain. An ideal choice for rockeries and borders, this plant is truly an amazing sight to behold.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2733_enkianthus_campanulatus/og/16765477093_b5690ae69d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021905Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7b663a356d625d6830419b4525559ab03c4f562853e87f169094fcb955f0b57e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2733_enkianthus_campanulatus/regular/16765477093_b5690ae69d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021905Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ecc16a4ae30905b7cd4a18f1d3aeb8f9c82f0023e0fa5466faf3c613e2596d07",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2733_enkianthus_campanulatus/medium/16765477093_b5690ae69d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021905Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8919e2e92827d883a1f2492bb256e57aaf8c5da7cf9c21433e60357542a591e5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2733_enkianthus_campanulatus/small/16765477093_b5690ae69d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021905Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c9cadae9646f333853ff44fd42da405e00263a8a73fabd777b814557ee6e1a12",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2733_enkianthus_campanulatus/thumbnail/16765477093_b5690ae69d_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021905Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ea94bd3f484996612817b38994159173fff6dcdff66314cfb40a2a178dfa7b7c"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2734,
+      "common_name": "furin-tsutsuji",
+      "scientific_name": [
+        "Enkianthus campanulatus 'Showy Lantern'"
+      ],
+      "other_name": [],
+      "family": "Ericaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Showy Lantern",
+      "variety": null,
+      "species_epithet": "campanulatus",
+      "genus": "Enkianthus",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Layering Propagation",
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2734&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2734&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2734&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Acidic",
+        " Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Furin-tsutsuji (Enkianthus campanulatus 'Showy Lantern') is a magnificent flowering shrub from Japan with showy white and pink lantern-like clusters of flowers. It blooms through spring and early summer and has striking emerald green foliage. Its delicate beauty makes it a great addition to any garden, as it can be clipped into different shapes to add an artistic touch. It can be grown as a container plant, in rock gardens and in mass plantings for a stunning display of color. Furin-tsutsuji is hardy and easy to care for with minimal maintenance required, making it a low-hassle plant perfect for any gardener.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2734_enkianthus_campanulatus_showy_lantern/og/Enkianthus_campanulatus.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1200b469dc0f6dbbf5d9d0b461175fb0851497d89b9884952d89a353fb706fbc",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2734_enkianthus_campanulatus_showy_lantern/regular/Enkianthus_campanulatus.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=691cad7abf4421e7e97e4ee8bdaa1f2ae75caaeb29b0a72dd0e23f00e66eb613",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2734_enkianthus_campanulatus_showy_lantern/medium/Enkianthus_campanulatus.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3d332b2753deb13f6bb600bb9bcacb2e96f3a6bdd81fe75a827f67933d270586",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2734_enkianthus_campanulatus_showy_lantern/small/Enkianthus_campanulatus.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5637bfeff9a24b85225ed6b518db8bb398461e3ffac662501e231b6dc52ab161",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2734_enkianthus_campanulatus_showy_lantern/thumbnail/Enkianthus_campanulatus.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=dae226dadd95d91e44c3b126c3fb6bf9b11d7b8b093f54a491e7b580a661d4ad"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2735,
+      "common_name": "redvein enkianthus",
+      "scientific_name": [
+        "Enkianthus campanulatus var. sikokianus"
+      ],
+      "other_name": [],
+      "family": "Ericaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": "var. sikokianus",
+      "species_epithet": "campanulatus",
+      "genus": "Enkianthus",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Deciduous shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 6,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Layering Propagation",
+        "Stem Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2735&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2735&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        " Part sun/part shade"
+      ],
+      "pruning_month": [
+        "April",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2735&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [
+        "Acidic",
+        " Humus rich",
+        " Well-drained"
+      ],
+      "growth_rate": "Moderate",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+      ],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Redvein Enkianthus is an amazing flowering shrub with a unique beauty. It features an eye-catching flower consisting of a pink outer petal rimming off a white inner petal, along with bright red stripes that run along the veins of the petals. During the height of bloom in June, this shrub is a stunning presence among other plants in the garden. Its foliage is a contentment of glossy green and furthers its attraction. During autumn, the foliage turns into strikingly beautiful shades of red, yellow and orange. With a compact size and moderate growth rate, this shrub is a prized addition to any garden and will bring long-lasting enjoyment for years to come.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2735_enkianthus_campanulatus_var_sikokianus/og/2560px-Enkianthus_sikokianus_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=92b2166e24c98d54da0aa44080ade95513031a6e98bc0be00ae0854a9b3d5ea6",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2735_enkianthus_campanulatus_var_sikokianus/regular/2560px-Enkianthus_sikokianus_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=00605245ff70740ba41f45c8703d82d31987729f78a31b92cb8600562b3463c6",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2735_enkianthus_campanulatus_var_sikokianus/medium/2560px-Enkianthus_sikokianus_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bcbcc4445714999d7324113c8df3e0ff198a4551af4f597e07351dda8fbbf59b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2735_enkianthus_campanulatus_var_sikokianus/small/2560px-Enkianthus_sikokianus_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5390cb3133868d15b7daddb9e7a3ba12320fc3866bc305399a9b1999cc9aa1ca",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2735_enkianthus_campanulatus_var_sikokianus/thumbnail/2560px-Enkianthus_sikokianus_1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=28a5c81d1a62fc6f8263d531af02d20a8785fdd865b1db04e49320301ce449a9"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2737,
+      "common_name": "Abyssinian banana",
+      "scientific_name": [
+        "Ensete ventricosum"
+      ],
+      "other_name": [],
+      "family": "Musaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "ventricosum",
+      "genus": "Ensete",
+      "origin": [
+        "Eastern Africa"
+      ],
+      "type": "Fruit",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 12,
+          "max_value": 20,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Division",
+        "Air Layering Propagation",
+        "Tissue Culture",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2737&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2737&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "green-yellow"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "red-yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2737&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": true,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Abyssinian Banana is a remarkable tropical plant that illustrates nature's infinite beauty. It flourishes in sunny, humid environments, and it is drought tolerant. Its bright red and green leaves and beautiful yellow flowers provide a stunning contrast to a garden's verdant vegetation. Not only is this plant eye-catching, it has many practical uses. The stems are edible and can be cooked, while the leaves can be used in weaving and as shade against the sun. Plus, it has remarkable durability. This species of banana will survive moderate frosts and can tolerate poor and dry soils. With its stunning visual appeal and practical uses, the Abyssinian Banana is an amazing addition to any outdoor space.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2737_ensete_ventricosum/og/24805853642_c4ab751d3c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021911Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fa81877459ece245adeaab9a275532810600d043dad7c064108e449c5d71b950",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2737_ensete_ventricosum/regular/24805853642_c4ab751d3c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021911Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4f93a61adeb4bb0eb56a303a32d45df916f8c7a34eecc8886e20e1e81147468b",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2737_ensete_ventricosum/medium/24805853642_c4ab751d3c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021911Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6b3442e5ac303066e42b3b5941dc51f3c211187c1b7bf2c5a1f0a0a4d097fd13",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2737_ensete_ventricosum/small/24805853642_c4ab751d3c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021911Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9c15df3064ed5888792b8123cce1f4e522df36772f62f6941c0592f8d5c36d74",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2737_ensete_ventricosum/thumbnail/24805853642_c4ab751d3c_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021911Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3a476e441e01df27284dbe0ffb3cc80a1be3a4b24be8a2c01e0e390ff1e44f4b"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2738,
+      "common_name": "red banana",
+      "scientific_name": [
+        "Ensete ventricosum 'Maurelii'"
+      ],
+      "other_name": [],
+      "family": "Musaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Maurelii",
+      "variety": null,
+      "species_epithet": "ventricosum",
+      "genus": "Ensete",
+      "origin": [
+        "Ethiopia",
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Somalia",
+        "South Sudan",
+        "Rwanda"
+      ],
+      "type": "Fruit",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 8,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Air Layering Propagation",
+        "Division",
+        "Offsets",
+        "Seed Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2738&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2738&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "purple-green"
+          ]
+        },
+        {
+          "part": "branches",
+          "color": [
+            "red-green"
+          ]
+        },
+        {
+          "part": "trunk",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2738&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Red Banana (Ensete ventricosum 'Maurelii') is an amazing plant species for its striking foliage colour and fast-growing nature. The broad, paddle-shaped leaves offer a deep red hue and have ruffled edges for added eye-catching appeal. This species can grow 10-15 feet tall in a single season and produce large yellow fruit with a mild banana taste. This plant is also known for its hardiness and ability to tolerate many soil types, making it an easy addition to any garden or landscaping project. With proper care and pruning, the Red Banana is a truly remarkable sight and a great choice for any gardening enthusiast.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2738_ensete_ventricosum_maurelii/og/30521107165_6c5cc7a5c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021913Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=895207ac13dbcde7e0dae107fa14dc56fe25c00c991c74504036c809dcb34d92",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2738_ensete_ventricosum_maurelii/regular/30521107165_6c5cc7a5c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021913Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=93c7df16502b37ece1c7a9186354beb6f1ece926847fff868f1a3cb5931a3c20",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2738_ensete_ventricosum_maurelii/medium/30521107165_6c5cc7a5c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021913Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fe54dd5fd2d4c9b4018b983b4d23bf66a4bda0367b90b442cf96478f6c588851",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2738_ensete_ventricosum_maurelii/small/30521107165_6c5cc7a5c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021913Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4b42a782388583f98433c48b44425852b3f523f4e23d06759aa56055687ff88d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2738_ensete_ventricosum_maurelii/thumbnail/30521107165_6c5cc7a5c3_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021913Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4e6ff31e3993bd98cb851c4c8cca9eef438be5060883048f6658d134a12e7238"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2739,
+      "common_name": "snow poppy",
+      "scientific_name": [
+        "Eomecon chionantha"
+      ],
+      "other_name": [],
+      "family": "Papaveraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "chionantha",
+      "genus": "Eomecon",
+      "origin": [
+        "Eastern China"
+      ],
+      "type": "Flower",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "6",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2739&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2739&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "orange"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "red-brown"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow-brown"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2739&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The snow poppy (Eomecon chionantha) is a truly amazing plant species. The stunning white, cup-shaped blooms appear in late winter and early spring, bringing an unexpected splash of color to the landscape during the cold, dismal months. The perennial is quite hardy and easy to grow, preferring cooler temperatures, and can often be spotted in gardens, along roadsides and in woodlands. Not only is it beautiful, but its striking blooms attract pollinators, such as butterflies and bees, making it an ideal addition to any wildlife-friendly garden. Furthermore, with its evergreen foliage all year round, the snow poppy provides year-round interest and can be used to create a unique background to show off the plant's beautiful white flowers.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2739_eomecon_chionantha/og/32623058390_e2ff9327dd_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e77d41e4963fd6d8601b0d1f532aa2e9a09fd95a2401528a9f6966e6e5942b60",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2739_eomecon_chionantha/regular/32623058390_e2ff9327dd_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f91bcab8a6edab64e9183b55df100f3752cd445ae444a3b0f07bfa9ebcba582f",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2739_eomecon_chionantha/medium/32623058390_e2ff9327dd_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a8c85188d9126ef96de4a2c9b4c0c83d39e6856b19696abad9909abf75c1fc9c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2739_eomecon_chionantha/small/32623058390_e2ff9327dd_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=704084536a0529372bae06e4f2ea744aeca4fa97533b7b0147413c2600e06381",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2739_eomecon_chionantha/thumbnail/32623058390_e2ff9327dd_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=19528ea05dfa3c1993b9f4a9fc1663b9003dcae5ceefdb9d92249af1dadcd292"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2740,
+      "common_name": "hummingbird's trumpet",
+      "scientific_name": [
+        "Epilobium californica 'Bowman'"
+      ],
+      "other_name": [],
+      "family": "Onagraceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Bowman",
+      "variety": null,
+      "species_epithet": "californica",
+      "genus": "Epilobium",
+      "origin": [
+        "United States"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1.5,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [
+        "Hummingbirds"
+      ],
+      "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "8",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2740&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2740&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2740&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Hummingbird’s trumpet (Epilobium californica 'Bowman') is sure to catch your attention. This spectacular perennial plant is full of charm and beauty! The vibrant and deep pink flowers have five petals and tube shape, perfect for attracting hummingbirds. It’s best grown in sunny, warm spots with well-draining soil, and will thrive in USDA hardiness zones 7-10. An evergreen in mild climates, it will give you a lovely show of color in the summer, when the flowers bloom. Hummingbird’s trumpet is an adaptable and rewarding plant, that won't demand too much of your time and energy!",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2741,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium (#530)"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(#530)",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2741&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2741&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2741&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's Hat (Epimedium #530) is a magnificent flowering plant that is easy to maintain and produces vibrant blooms throughout the spring and summer months. The deep green foliage is highlighted by the bright pink to purple bell-shaped flowers, giving Bishop's Hat a beautiful presence in any garden. With drought tolerance and hardiness, it provides reliable blooming and growth year after year. The winter season may bring few blooms, but the evergreen foliage will continue to look stunning in the snow. For gardening enthusiasts, the Bishop's Hat is an amazing addition that provides beauty and easy maintenance.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2742,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium acuminatum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "acuminatum",
+      "genus": "Epimedium",
+      "origin": [
+        "Western and central China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2742&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2742&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2742&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's hat (Epimedium acuminatum) is an amazing plant species native to Japan. It has a unique, tropical look, with heart-shaped leaves outlined in pink. In the spring, its delicate white flowers with yellow-tipped petals bloom, creating an eye-catching display. Its low-maintenance nature and long-lived leaves make it perfect for even novice gardeners. Not only is it easy to care for, but its low-growing habit makes it a great ground cover for areas with partial sun. Its undemanding nature and hardy constitution will bring beauty to any garden, making Bishop's hat a must-have for the perfect landscape!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2742_epimedium_acuminatum/og/9190632721_e91b76b3bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5bd7f133c2a3612aba8f66f380cb57e70770d1aa2298c2f9780f23905e62f594",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2742_epimedium_acuminatum/regular/9190632721_e91b76b3bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=68a8ab66b3d4b92524432da872d404418c87cc886f51d12571a3717b938248b5",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2742_epimedium_acuminatum/medium/9190632721_e91b76b3bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=36ff2e7aa000e2f9aa4e3d74a82d2a8b834eeaca1c15c2068d9bff6227bc8f8f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2742_epimedium_acuminatum/small/9190632721_e91b76b3bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=13b3b5941d62f0f42649fd71c7aad845ae7b5cf8cc06d91035f9b97633eabc54",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2742_epimedium_acuminatum/thumbnail/9190632721_e91b76b3bb_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a52d517ca4e6da7db98c9f61dd856a76c0008b57e20393ce92ba4cc156b47166"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2743,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium alpinum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "alpinum",
+      "genus": "Epimedium",
+      "origin": [
+        "Southern Europe"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 0.75,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2743&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2743&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-purple"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "dark-green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2743&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's Hat (Epimedium Alpinum) is an amazing plant species due to its beauty and ornamental qualities. Its bright pink-hued flowers blanket stems that cut through the lush green foliage with delicate heart-shaped leaves. Its unique visual qualities will ignite a glow in any garden, accenting colours exquisitely and providing an overall captivating effect. Not only is it aesthetically pleasing, but it achieves all this without much maintenance. Simply plant, water and thrive - a great all-round choice for shade gardens!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2743_epimedium_alpinum/og/4555081204_a942935a76_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=524721cb086bcd30c7288bf7e2aaec307e57706e505650f27a8440185b934e34",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2743_epimedium_alpinum/regular/4555081204_a942935a76_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=af398a1e38ad3be199faffbaf7b94f58e8fa42e6553450909538ab368c375242",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2743_epimedium_alpinum/medium/4555081204_a942935a76_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e3e62c932935b0e44099339f52df185bdc0379e4f6e55695f4cf25ee3fa91f5e",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2743_epimedium_alpinum/small/4555081204_a942935a76_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5940f7352a00f28cf29b254e0f3d6e512a6a371838572f6f15c8bb7b09062648",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2743_epimedium_alpinum/thumbnail/4555081204_a942935a76_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=af1595df32a4c1bca4a56af68c274162843d46e80865c9f4566ff9da9ae88f33"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2744,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium brachyrrhizum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "brachyrrhizum",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2744&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2744&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2744&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's hat (Epimedium brachyrrhizum) is an amazing plant species native to East Asia. It grows in medium shade and can reach heights of up to 30 cm. The plant's foliage consists of heart-shaped, dark green and serrated leaves. Its delicate flowers, borne in racemes of pale pink or white, are delightfully eye-catching. Bishop's hat has a long blooming period, starting in late winter and running until late spring. As an added bonus, the flowers of this species are known to be extremely long-lived, staying in bloom for a few weeks. Its strong stalks and adaptability to different soils make it an ideal plant for anyone's garden. It is perfect for those who want a low maintenance, yet beautiful and long-lasting addition to their garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2744_epimedium_brachyrrhizum/og/2560px-Flickr_-_brewbooks_-_Epimedium_flowers_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1c75930eb29b509606e4143485e629470a5ee8d85e1a2d6b8d507f11b6bcd666",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2744_epimedium_brachyrrhizum/regular/2560px-Flickr_-_brewbooks_-_Epimedium_flowers_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=70074b6cba16b8566cabdefd55a4814622c86736987e0a0a07bd0b0af8ab14f8",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2744_epimedium_brachyrrhizum/medium/2560px-Flickr_-_brewbooks_-_Epimedium_flowers_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=920f892323fb8b800708e5103501fb5f97ac69b0a65ea170285f576d1d1a332b",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2744_epimedium_brachyrrhizum/small/2560px-Flickr_-_brewbooks_-_Epimedium_flowers_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8645382b4db60a5c47b21854da6edb8ab8565c6e93cec4a2f284a96640b0e2f4",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2744_epimedium_brachyrrhizum/thumbnail/2560px-Flickr_-_brewbooks_-_Epimedium_flowers_28129.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021919Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b4fe632e7497428a852c024a47e4943f06aae66665c80336fa38a1ddeb646024"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2745,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium brevicornu"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "brevicornu",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2745&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2745&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "petioles",
+          "color": [
+            "black"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "black"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2745&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The bishop's hat (Epimedium brevicornu) is an amazing plant species that stands out for its unique form and beautiful array of colors! The small perennial has a low-growing foliage of heart-shaped, dark green leaves. In springtime, its delicate red and white flowers rise up on short stems, resembling the hats of old-fashioned bishops. While its dainty flowers are really special, the colorful foliage of the plant's evergreen leaves make it even more impressive. Plus, it tolerates partial shade and is easy to care for, making it a great choice for gardens of all sizes.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2745_epimedium_brevicornu/og/9227116763_e8c3728d3b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=52ba9d210c75ae333965d2157141ca90439e8b929e3e5f1942661b2cdecf2c6d",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2745_epimedium_brevicornu/regular/9227116763_e8c3728d3b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9e3bd32e2661d4eb36c59d46fbf396809770b19168e4586f4447e0e8b1d4fb24",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2745_epimedium_brevicornu/medium/9227116763_e8c3728d3b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=33e5e8f5fc8bf286e7e532084c5a59400999ed3791433285d5dce862966f355a",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2745_epimedium_brevicornu/small/9227116763_e8c3728d3b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6fe1c3235bb3a424f56605237002e39a3cab8ba09aec171c6075e383bc571979",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2745_epimedium_brevicornu/thumbnail/9227116763_e8c3728d3b_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3355a53b42082c700a8a66e4239f0a76264ede31b6eb23ab79bd128350b95313"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2746,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium cantabrigiense"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "cantabrigiense",
+      "genus": "Epimedium",
+      "origin": [
+        "Garden origin"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2746&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2746&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stigmas",
+          "color": [
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "red-green"
+          ]
+        },
+        {
+          "part": "petioles",
+          "color": [
+            "green-brown"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2746&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's hat (Epimedium cantabrigiense) is an amazing plant species that features heart-shaped foliage and delicate, long-spurred, white and yellow flowers that bloom in early spring. With its beautiful foliage, this deer-resistant perennial adds year-round interest to any outdoor space. It's semi-evergreen, frost-hardy, and perfect for growing in borders, rockeries, and wall-side gardens. Low-maintenance and drought-tolerant, Bishop's hat is an essential addition to any wildlife-friendly garden because it produces nectar that attracts pollinators. It's also shade-loving and can act as a ground cover for shadier spaces.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2746_epimedium_cantabrigiense/og/10720745143_04eb2a8be7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021921Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=728ff5d597c8f62f64063e1280dc043204630c5168cd85ddda6c378b82a160cc",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2746_epimedium_cantabrigiense/regular/10720745143_04eb2a8be7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021921Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=56cd294f4759e0f5821a54f75a31b454ebe2ff4bfda94114c3722a6d04cc6c4d",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2746_epimedium_cantabrigiense/medium/10720745143_04eb2a8be7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021921Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1a6f5a5233fdec4e02649616200b10e4930f5b20480c237898ec94c38800517c",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2746_epimedium_cantabrigiense/small/10720745143_04eb2a8be7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021921Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6df9800e33f05c96a70dd128a09aab69e28ce888a29c0d9aeb4d121b5ac6cfdb",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2746_epimedium_cantabrigiense/thumbnail/10720745143_04eb2a8be7_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021921Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cb6aeed5b458c4f5e2b31326fff71f4e08d010606b8a1ffe907ae73b0d569db5"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2747,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium diphyllum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "diphyllum",
+      "genus": "Epimedium",
+      "origin": [
+        "Japan"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2747&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2747&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2747&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The bishop's hat (Epimedium diphyllum) is an amazing plant species perfect for adding beauty to your garden. It has attractive, variegated foliage, with large evergreen foliage in striking yellow and green tones. It is a highly effective groundcover plant and in spring, stunning white flowers appear in panicles. The Bishop’s hat prefers light shade and moist, humus-rich soil. It is also an excellent choice for xeriscaping, as it is drought tolerant and low maintenance. It will even spread aggressively with its voracious seedlings, so keep an eye on growth to keep it in check. A brilliant addition to any garden!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2747_epimedium_diphyllum/og/2560px-Epimedium_x_youngianum_27Niveum27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=983148ffd88a256abdf57c967872e0aebe01542a88ec78a5127d1bcb201fdd65",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2747_epimedium_diphyllum/regular/2560px-Epimedium_x_youngianum_27Niveum27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3c24ebcefa646af66a351326935c8bb8ecfd3595bec1ebaf0fe68b1e8164ab40",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2747_epimedium_diphyllum/medium/2560px-Epimedium_x_youngianum_27Niveum27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=deefb1251b11d91d6e9cd084aeeedcc334e612b2384df448d7923d067f1eb3cc",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2747_epimedium_diphyllum/small/2560px-Epimedium_x_youngianum_27Niveum27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=115e7da42c7b359ff3b472e45b1d3f4866bc701b4cfc5ff42d7ce1c1bc81475b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2747_epimedium_diphyllum/thumbnail/2560px-Epimedium_x_youngianum_27Niveum27.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=28ee213aa87891c53851d3eace626b807bdfe78abd1230704134391c41ef3c65"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2748,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium fargesii"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "fargesii",
+      "genus": "Epimedium",
+      "origin": [
+        "Western China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2748&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2748&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "February"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2748&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Bishop's Hat (Epimedium fargesii) is an incredible plant known for its magnificent blooms resembling cones of fabric worn by the high clergy. It not only presents a stunning sight, but is also very easy to grow in shady gardens. It is primarily a herbaceous perennial, with clumps of evergreen, heart-shaped leaves, extending a wave of color in early spring. Its showy crimson-red flowers make a bold statement for a few weeks, then switch to a more subtle hue of cream. It is a low-maintenance beauty, requiring only a moderate amount of water and fertilizer, and is an ideal choice for creating an interesting display in a shady area.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2749,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium franchetii"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "franchetii",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2749&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2749&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2749&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Epimedium franchetii, also known as Bishop's Hat, is an amazing, easy-to-care-for perennial. It grows well in shady areas and can be either deciduous or evergreen. Its large, bright yellow flowers appear in late winter to early spring, and are followed by attractive foliage. The leaves are heart-shaped, glossy and purple-tinged in summer. During the late spring and summer, the plant produces delicate fern-like branches. In the fall, the foliage turns a beautiful yellow-orange color. Bishop's Hat is low maintenance and doesn't require fertilizer or much pruning. In addition, it is drought tolerant and rabbit resistant. Overall, Bishop's Hat is an easy-to-care-for, stunningly attractive plant.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2749_epimedium_franchetii/og/2560px-Epimedium_franchetii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e7c7beacb8264438c659f258f88ec01e005d19844c6ab29b513fd6298066743e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2749_epimedium_franchetii/regular/2560px-Epimedium_franchetii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=22775b0ddd29d162e9de2fd6cce5630168aa566901f7abc6c142e129f17a2595",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2749_epimedium_franchetii/medium/2560px-Epimedium_franchetii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e86c4002f46f9c9d42c5c41f6eefcc54ebf8a208ccc02d4f3d2819e54687efa5",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2749_epimedium_franchetii/small/2560px-Epimedium_franchetii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=a36ed21fbe9b427b30f76068db1503fd26bc001915bf6e76ce68e2386729b6c7",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2749_epimedium_franchetii/thumbnail/2560px-Epimedium_franchetii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bacdb7c2e33cb1018add7cc5b837b052041922ea04de640bf68cecefc38d92da"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2750,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium grandiflorum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "grandiflorum",
+      "genus": "Epimedium",
+      "origin": [
+        "Japan",
+        "southern Manchuria",
+        "northern Korea"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2750&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2750&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "purple-white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "light-brown"
+          ]
+        },
+        {
+          "part": "petioles",
+          "color": [
+            "red-brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2750&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Epimedium grandiflorum, commonly known as Bishop’s Hat, is a beautiful plant species. This perennial evergreen grows low and wide with a spreading habit, making it the perfect addition to ornamental rock gardens and border edging. Flowering from mid-spring to early summer, the foliage is brightly colored with showy heart-shaped leaves in red, orange and purple shades. The erect sprays of pinkish-white, bell-shaped flowers are beautiful and cover the foliage in delicate blooms. Bishop’s Hat is an easy to care for plant that attracts butterflies and hummingbirds and is also very straightforward to propagate. This special plant is an amazing addition to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2750_epimedium_grandiflorum/og/26716283162_a5f70cd814_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6faad02a2d7d617f1f8fda38ec4e665b42a1bb190efd919d4dab9a47e668cfd4",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2750_epimedium_grandiflorum/regular/26716283162_a5f70cd814_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=be9a1260c8ec8ed53165f672ae6f91fc37072c4b9e01fd107c541973db7c98e2",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2750_epimedium_grandiflorum/medium/26716283162_a5f70cd814_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=70146a89cd9822966ef455e7fb0d795b0fc44c49d1a5abc4b7d91c9ae3257d92",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2750_epimedium_grandiflorum/small/26716283162_a5f70cd814_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=09834cf125ee18ef0e0279a59590f754f0972f02f06df97d5d580699da3243b0",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2750_epimedium_grandiflorum/thumbnail/26716283162_a5f70cd814_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T021953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7ea50487610a865e84f0cdff21b97094724be3b68b912cd6807489be390f8203"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2752,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium grandiflorum 'Pierre's Purple'"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Pierre",
+      "variety": null,
+      "species_epithet": "grandiflorum",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2752&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2752&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2752&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Bishop's Hat (Epimedium grandiflorum 'Pierre's Purple') is an amazing plant with stunning foliage and unique flowers. This evergreen perennial features deep purple-tinged foliage, and delicate, bell-shaped, lavender-purple flowers that bloom in spring and summer. The foliage turns scarlet-red as colder temperatures set in. This shade loving plant is perfect for any garden, and will bring stunning color to your yard. Furthermore, it is deer and rabbit resistant, so it can thrive without worry of having to be protected from animals. Getting your hands on a Bishop's Hat is a must for any gardener looking for colorful and unique foliage and flowers!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2752_epimedium_grandiflorum_pierres_purple/og/Epimedium_grandiflorum_Lilafee_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022004Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2ebe27a3d80be404f320555e888f368ba7e1aeac0e3921d553ef9e25034d9cfe",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2752_epimedium_grandiflorum_pierres_purple/regular/Epimedium_grandiflorum_Lilafee_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022004Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b16f96cb725f41786052f2c150223b01044c8ffb8bc9bb683849ee4e7374b30f",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2752_epimedium_grandiflorum_pierres_purple/medium/Epimedium_grandiflorum_Lilafee_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022004Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=355e8c7699b2d979e6da71d4e67ae5e3ee00d804ac6ffab9f37ad3f723fc08cf",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2752_epimedium_grandiflorum_pierres_purple/small/Epimedium_grandiflorum_Lilafee_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022004Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8535cff38366adf26a74089e9ab8346cc7c1e6a9a761cfab0865437e35ebc4c6",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2752_epimedium_grandiflorum_pierres_purple/thumbnail/Epimedium_grandiflorum_Lilafee_1zz.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022004Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7911e445d1a86bc1a1b99248b9d43fab17117bc9764697ec1250c4ccc07f0db1"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2753,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium ilicifolium"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "ilicifolium",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2753&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2753&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "light-yellow"
+          ]
+        },
+        {
+          "part": "stamens",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "red-green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "dark-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2753&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's Hat (Epimedium ilicifolium) is an amazing plant with numerous horticultural and medicinal benefits. Its long lasting, ornamental red flowers stand out in the garden, accompanied by its glossy, deep green fern-like foliage. Its low-growing stature makes it excellent for edging landscapes or filling in borders, and deer and rabbits tend to stay away from it. Its medicinal benefits include treatments for inflammatory conditions, liver ailments, and high blood pressure. Its root extracts have even been studied for their potential in reversing Alzheimer's disease! With all this in mind, Bishop's Hat is an awesome addition to any garden!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2753_epimedium_ilicifolium/og/9216131016_94cf83fa4a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022015Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=cdd1bdadbef392a80fafcee4cff87925764eb26ac703ec799df8a8c1b5f4279c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2753_epimedium_ilicifolium/regular/9216131016_94cf83fa4a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022015Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1dd04c8a780279a3509c9905dca0eb86c4905e4e7a13e072304ce5dcd00edc0a",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2753_epimedium_ilicifolium/medium/9216131016_94cf83fa4a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022015Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=50f3c0807babb196e5fae10d22d623f60a41ed48a2e50448ffee0d683b8dece1",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2753_epimedium_ilicifolium/small/9216131016_94cf83fa4a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022015Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e4e149b9fdca67d6a95e9f25eb92533f26e5b9cd79dceaea5d102678f1f1a36d",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2753_epimedium_ilicifolium/thumbnail/9216131016_94cf83fa4a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022015Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=05a6a01125a1a69ad18de7a6236be54a31943a075e608d4a63de288880aa7b52"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2754,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium latisepalum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "latisepalum",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2754&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2754&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2754&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's Hat (Epimedium latisepalum) is an amazing small perennial with delicate foliage. It adds a delightful foliage display to spring and summer gardens. The beautiful fan-shaped leaves emerge a bronze color, mature into a deep green, and then take on a purple hue in autumn. Delicate but wide white flowers with yellow centers appear in mid-spring, and are followed by clumps of bright red berries in autumn. This shade-loving variety does not require any special care and can easily be grown in bark mulch, humus, or soil. Bishop's Hat is a wonderful addition to any garden, adding elegance and texture to even the simplest of settings.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2754_epimedium_latisepalum/og/4670006914_bb014826ff_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=69cf6ac32295f08edf5270255deaa9929e389e3444f9b5343514b04722208648",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2754_epimedium_latisepalum/regular/4670006914_bb014826ff_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=10b5e9532f1e7cb560cc25c69841e9a3a503eef10d79f17b635423fb9751b5dd",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2754_epimedium_latisepalum/medium/4670006914_bb014826ff_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=678831e417cb313974c804a33c24a31066e9a3cf05dbacf6dff4dcc6d625fd9f",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2754_epimedium_latisepalum/small/4670006914_bb014826ff_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f56e415e472ca4b7d895d188ea45ece11b57b5b93bcd8d7c0b7351a5fb7e439b",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2754_epimedium_latisepalum/thumbnail/4670006914_bb014826ff_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=43e3710c5fed11bf556a80876782e81d7461808a58555930308f0ac75a02f608"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2755,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium leptorrhizum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "leptorrhizum",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2755&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2755&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2755&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's hat (Epimedium leptorrhizum) is an attractive perennial flower. Its beautiful short spikes of pink and white flowers are stunning when fully bloomed. Seeming to fit the name, the foliage of the Bishop's hat plant looks like a wide-brimmed hat when in full bloom. This low-maintenance, evergreen shrub is excellent for shaded borders or at the front of a garden where its delicate beauty can shine through. This hardy plant is perfect for gardens with dry or drought-prone areas as it is extremely resistant to drought conditions. With its low maintenance needs and beautiful foliage and flowers, Bishop's hat is a great addition to any garden.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2755_epimedium_leptorrhizum/og/4554452459_607a96d2a5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=763507f1ae4dea9d8a83f1461efd90d5492f449434fa67ca6db6b8190d46c8ab",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2755_epimedium_leptorrhizum/regular/4554452459_607a96d2a5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d1b7c7110bb4b5c52e788576baa9b4ff25f21154a98d51dd22ae118650901aaa",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2755_epimedium_leptorrhizum/medium/4554452459_607a96d2a5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9ed015be1814cfb0fee01bf60ad7fb5a4dfb1df66a333b37b1d2dd643a11d0df",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2755_epimedium_leptorrhizum/small/4554452459_607a96d2a5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=94b1bf90a929174d18ba1f1414f2a327acef9a2ca6349995caa9370a6054164f",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2755_epimedium_leptorrhizum/thumbnail/4554452459_607a96d2a5_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=03d3b947b2d93f308442d9eab9058c45be4e78e41fbf0eaac14795998138bfb2"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2756,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium lishihchenii"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "lishihchenii",
+      "genus": "Epimedium",
+      "origin": [
+        "China"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "4",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2756&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2756&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2756&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Epimedium lishihchenii, commonly known as Bishop's Hat, is an amazing species of plant that displays unique beauty and strange shape. This delicate deciduous perennial produces tall shoots of airy compound leaves which are topped with charming white trumpet-like flowers. The foliage is often a vivid shade of green or purple, highlighted with yellow veins. In spring, the foliage is replaced with glossy heart-shaped leaflets. This species is extremely cold hardy and requires little care, which makes it an easy to maintain evergreen beauty for any garden. Its unusual shape and delightful contrast of colors make it an eye catching accent of any shadier area of the garden.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2756_epimedium_lishihchenii/og/2560px-Epimedium_lishihchenii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022032Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ef3e367676522cd7ad2a8030ee17a9d72771cac5da624909fe6746c62b65568a",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2756_epimedium_lishihchenii/regular/2560px-Epimedium_lishihchenii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022032Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6cb8063226a0d22a244375e23fcef1b358c3a8cd211a2a6550b8504a01fa81a5",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2756_epimedium_lishihchenii/medium/2560px-Epimedium_lishihchenii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022032Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=0c1f19b401bcc4af454cbf9b60d15d5cbb43edc5540445cea58c70312292e295",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2756_epimedium_lishihchenii/small/2560px-Epimedium_lishihchenii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022032Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=bd7d89c1061ed4723fc6430f2d3fa86ae8fbf88906cc713445f69b13d6a456c2",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2756_epimedium_lishihchenii/thumbnail/2560px-Epimedium_lishihchenii_0804a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022032Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=adb185f59935b3e7f8473d1ed941cdee10e3c9168d4b032ac48eea4e0c5326d3"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2757,
+      "common_name": "barrenwort",
+      "scientific_name": [
+        "Epimedium perralchicum 'Frohnleiten'"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Frohnleiten",
+      "variety": null,
+      "species_epithet": "perralchicum",
+      "genus": "Epimedium",
+      "origin": [
+        "Austria"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2757&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2757&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "white-yellow"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "burgundy"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "midribs",
+          "color": [
+            "yellow-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2757&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Barrenwort, also known as Epimedium perralchicum 'Frohnleiten', is a stunning evergreen species that stands out in the garden. It features beautiful delicate foliage with a lacy effect, a spreading habit, and vibrant yellow flowers with prominent \"antler\" spurs. It grows best in shady, moist conditions and will continue to bloom throughout the season. Although it is very easy to grow, it adds a stunning statement with its low-maintenance, deer-resistant beauty. Barrenwort will attract hummingbirds and other pollinators to the garden and work as hard as you do in creating a landscape masterpiece.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2757_epimedium_perralchicum_frohnleiten/og/16751397843_5899f89e7a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8d4c21a53bbb9fa5df9257672798010cc93a38c743b10c1e6f1c7aef2e1e949e",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2757_epimedium_perralchicum_frohnleiten/regular/16751397843_5899f89e7a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c6bcd91e1f5863187611117f2fcdf05b028400fbac0e4405bd3bb383d71fac41",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2757_epimedium_perralchicum_frohnleiten/medium/16751397843_5899f89e7a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c38bfd74122e68bc74733e753a133788669e01ee546411e1eec98e1ea6a80087",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2757_epimedium_perralchicum_frohnleiten/small/16751397843_5899f89e7a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e50ddce67e9e618c8fbd18591b8c91e46cef7e95eb509338a3c01769ba4db515",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2757_epimedium_perralchicum_frohnleiten/thumbnail/16751397843_5899f89e7a_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=e149ae5b9beb9fe694c8b5557d3e35ae58e9645e10eec6aab1390c45a6126cdf"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2758,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium perralderianum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "perralderianum",
+      "genus": "Epimedium",
+      "origin": [
+        "Northern Africa"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "9"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2758&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2758&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "center",
+          "color": [
+            "yellow"
+          ]
+        },
+        {
+          "part": "petioles",
+          "color": [
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "lush-green",
+            "yellow-green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "light-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2758&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": "Spring",
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's Hat (Epimedium perralderianum) is a beautiful, evergreen mountain perennial featuring delicate flowers in various shades of pink, yellow, and red. An amazing feature of the Bishop's Hat is its spectacular foliage; heart-shaped leaves with waves of fine veins making them appear almost feathery. The flowers of Bishop's Hat vary from white to pink to red and create a very eye-catching effect, while its foliage come in shades of pink, green, yellow, orange and bronze, making it a perfect choice for any garden. Not to be forgotten are the interesting berry-shaped fruits that come later in the season. Bishop's Hat is an absolutely perfect addition to any flower garden and will surely bring admiration from all who see it - try it out today!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2758_epimedium_perralderianum/og/52107206371_1f5aa3b975_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=196a11059d6f36e0e8f2b42285472ea5f20994d496e42b17d15446dc6a7add3c",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2758_epimedium_perralderianum/regular/52107206371_1f5aa3b975_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=4ea4e65c3784151be777fd43f30a600d464f8df71d3d58d9bd7763d31a8eb477",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2758_epimedium_perralderianum/medium/52107206371_1f5aa3b975_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1d478b89df1a6f1ff774082ca6c596590c3529b372a908d17e2ab0f03bee1768",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2758_epimedium_perralderianum/small/52107206371_1f5aa3b975_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=27b1e84b927c2e3b3cb69ccdff8339ac70537c50b5e2fa5ab86a14b859ab4f05",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2758_epimedium_perralderianum/thumbnail/52107206371_1f5aa3b975_b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fffbfd8391efc666895a823ea77d10d760ab88ba33ee6aee53cb041cf1bcf1c2"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 2760,
+      "common_name": "bishop's hat",
+      "scientific_name": [
+        "Epimedium pinnatum subsp. colchicum"
+      ],
+      "other_name": [],
+      "family": "Berberidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "pinnatum",
+      "genus": "Epimedium",
+      "origin": [
+        "Armenia",
+        "Azerbaijan",
+        "Iran",
+        "Turkey"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=2760&size=og&key=sk-OhkZ6a25c01dc676818024",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2760&size=og&key=sk-OhkZ6a25c01dc676818024'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "Part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2760&key=sk-OhkZ6a25c01dc676818024",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Bishop's hat (Epimedium pinnatum subsp. colchicum) is an amazing plant for those who love both color and texture in their garden. It sports frothy sprays of yellow-green flowers in the spring, and the foliage is a striking mix of fanning, dark green leaves with maroon highlights. Once established, it's tough and drought-tolerant, thriving in a variety of soils and shade conditions. On top of these excellent characteristics, it's low maintenance, making it a great addition to your garden!",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2760_epimedium_pinnatum_subsp_colchicum/og/1536px-Epimedium_pinnatum_subsp._colchicum_2019-04-06_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022046Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6409c44434fc9f49702c9cd32162167ee0f982be7dc37f2fb9b7cfe0b047ad60",
+        "regular_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2760_epimedium_pinnatum_subsp_colchicum/regular/1536px-Epimedium_pinnatum_subsp._colchicum_2019-04-06_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022046Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=9e30b12364878d073ee048451cceb0f8e0de62166305129897e09bc76136f286",
+        "medium_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2760_epimedium_pinnatum_subsp_colchicum/medium/1536px-Epimedium_pinnatum_subsp._colchicum_2019-04-06_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022046Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=c0ec01b36ad8cae70156667753d7bbdc168040331e89be28a9c6da29aced72c3",
+        "small_url": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2760_epimedium_pinnatum_subsp_colchicum/small/1536px-Epimedium_pinnatum_subsp._colchicum_2019-04-06_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022046Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=8e34d547b6c603d28128affe705962f3293e38d1747bf0e14347ec1b77ae39c0",
+        "thumbnail": "https://s3.us-central-1.wasabisys.com/perenual/species_image/2760_epimedium_pinnatum_subsp_colchicum/thumbnail/1536px-Epimedium_pinnatum_subsp._colchicum_2019-04-06_01.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0MPGHU7CIPXNPMVWMXUW%2F20260922%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T022046Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=87aac293abb8f7ac8d804b2c12b60e607967e3cfc0e1f4d18c04d4be151f587a"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
     }
   ]
 }
