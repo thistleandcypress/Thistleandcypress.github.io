@@ -102,30 +102,34 @@
 
 <body class="craft-page painting-page">
 
-  <nav role="navigation" aria-label="Primary navigation">
+  <!-- Primary Navigation -->
+  <nav role="navigation" aria-label="Primary">
     <a href="/">Home</a>
     <a href="/kitchen/index.html">Kitchen</a>
     <a href="/garden/index.html">Garden</a>
-    <a href="/craft/index.html" class="active">Craft</a>
+    <a href="/craft/index.html" class="active" aria-current="page">Craft</a>
     <a href="/rhythm/index.html">Rhythm</a>
     <a href="/wine-travel/index.html">Wine & Travel</a>
     <a href="/about.html">About</a>
   </nav>
 
- <!-- Craft Subnavigation (Alphabetical) -->
-   <nav class="subnav" role="navigation" aria-label="Craft sections">
-     <a href="/craft/">Craft</a>
-     <a href="/craft/creative-tools/">Creative Tools</a>
-     <a href="/craft/guides/">Guides</a>
-     <a href="/craft/painting/" class="active" aria-current="page">Painting</a>
-     <a href="/craft/space-decor/">Space & Decor</a>
-     <a href="/craft/stories/">Stories</a>
-   </nav>
+  <!-- Craft Subnavigation (Alphabetical) -->
+  <nav class="subnav" role="navigation" aria-label="Craft sections">
+    <a href="/craft/">Craft</a>
+    <a href="/craft/creative-tools/">Creative Tools</a>
+    <a href="/craft/guides/">Guides</a>
+    <a href="/craft/painting/" class="active" aria-current="page">Painting</a>
+    <a href="/craft/space-decor/">Space & Decor</a>
+    <a href="/craft/stories/">Stories</a>
+  </nav>
 
-  <header class="post-hero" role="banner">
+  <header class="hero">
     <div class="hero-inner">
       <h1>Understanding Light Reflective Value (LRV)</h1>
-      <p class="post-meta">Painting · Winter 2026</p>
+      <p class="tagline">Why LRV is the most important number on your paint chip.</p>
+      <div class="hero-image">
+        <!-- Insert hero image tag here if applicable, e.g., <img src="..." alt="..."> -->
+      </div>
       <div class="header-divider"></div>
     </div>
   </header>
@@ -168,7 +172,7 @@
     </p>
 
     <div class="post-back">
-      <a href="index.html">← Back to Painting</a>
+      <a href="index.html" aria-label="Back to Painting">← Back to Painting</a>
     </div>
 
   </main>
