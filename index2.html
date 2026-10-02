@@ -1,5 +1,6 @@
 ---
 ---
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,7 +46,11 @@
     color: var(--ink);
 
     font-family: "Source Sans 3", Arial, sans-serif;
-    font-weight: 300;
+    font-weight: 400;
+
+    font-size: 1.05rem;
+
+    line-height: 1.7;
   }
 
 
@@ -145,9 +150,9 @@
 
     text-decoration: none;
 
-    font-size: .8rem;
+    font-size: .9rem;
 
-    letter-spacing: .16em;
+    letter-spacing: .14em;
 
     text-transform: uppercase;
 
@@ -180,15 +185,15 @@
 
   .eyebrow {
 
-    font-size: .82rem;
+    font-size: .95rem;
 
-    letter-spacing: .28em;
+    letter-spacing: .25em;
 
     text-transform: uppercase;
 
     margin-bottom: 22px;
 
-    opacity: .9;
+    opacity: .95;
   }
 
 
@@ -214,7 +219,7 @@
 
     font-family: "Playfair Display", Georgia, serif;
 
-    font-size: clamp(1.35rem, 2.4vw, 2rem);
+    font-size: clamp(1.4rem, 2.4vw, 2rem);
 
     font-style: italic;
 
@@ -238,11 +243,11 @@
 
   .hero-copy {
 
-    font-size: 1.08rem;
+    font-size: 1.15rem;
 
-    line-height: 1.65;
+    line-height: 1.7;
 
-    max-width: 520px;
+    max-width: 540px;
 
     margin: 0;
   }
@@ -260,7 +265,7 @@
 
     font-family: "Playfair Display", Georgia, serif;
 
-    font-size: clamp(1.05rem, 2vw, 1.35rem);
+    font-size: clamp(1.08rem, 2vw, 1.4rem);
 
     line-height: 1.6;
 
@@ -291,9 +296,9 @@
 
     text-decoration: none;
 
-    font-size: .72rem;
+    font-size: .9rem;
 
-    letter-spacing: .2em;
+    letter-spacing: .18em;
 
     text-transform: uppercase;
   }
@@ -347,9 +352,11 @@
 
     padding: 17px 18px;
 
-    font-size: .77rem;
+    font-size: .9rem;
 
-    letter-spacing: .12em;
+    font-weight: 400;
+
+    letter-spacing: .1em;
 
     text-transform: uppercase;
   }
@@ -385,13 +392,15 @@
 
     font-size: clamp(2.2rem, 4vw, 3.5rem);
 
+    line-height: 1.2;
+
     margin: 0 0 25px;
   }
 
 
   .intro p {
 
-    font-size: 1.12rem;
+    font-size: 1.15rem;
 
     line-height: 1.85;
 
@@ -439,6 +448,8 @@
 
     font-size: clamp(1.9rem, 3.5vw, 2.8rem);
 
+    line-height: 1.25;
+
     margin: 0 0 20px;
   }
 
@@ -449,7 +460,7 @@
 
     margin: 0 auto;
 
-    font-size: 1.08rem;
+    font-size: 1.15rem;
 
     line-height: 1.8;
   }
@@ -492,9 +503,9 @@
 
     margin: 0 auto;
 
-    line-height: 1.7;
+    line-height: 1.75;
 
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 
 
@@ -584,129 +595,79 @@
 
   .pillar span {
 
-    font-size: .75rem;
+    font-size: .9rem;
 
-    letter-spacing: .15em;
+    letter-spacing: .12em;
 
     text-transform: uppercase;
 
-    opacity: .9;
+    opacity: .95;
   }
 
 
   /* =========================================================
-     STAY ROOTED / EMAIL
+     FINAL TWO-COLUMN INVITATION
      ========================================================= */
 
-  .stay-rooted {
+  .final-invitation {
 
-    width: min(760px, 88vw);
+    width: min(1100px, 90vw);
 
     margin: 0 auto;
 
-    padding: 100px 0 85px;
+    padding: 100px 0 105px;
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 0;
+
+    border-top: 1px solid rgba(47,42,38,.14);
+  }
+
+
+  .invitation-column {
+
+    padding: 15px 55px 10px;
 
     text-align: center;
   }
 
 
-  .stay-rooted h2 {
+  .invitation-column + .invitation-column {
+
+    border-left: 1px solid rgba(47,42,38,.18);
+  }
+
+
+  .invitation-column h2 {
 
     font-family: "Playfair Display", Georgia, serif;
 
     font-weight: 400;
 
-    font-size: clamp(2.2rem, 4vw, 3.4rem);
+    font-size: clamp(2rem, 3.5vw, 2.8rem);
 
-    margin: 0 0 20px;
+    line-height: 1.2;
+
+    margin: 0 0 18px;
   }
 
 
-  .stay-rooted p {
+  .invitation-column p {
+
+    max-width: 430px;
+
+    margin: 0 auto 25px;
 
     font-size: 1.08rem;
 
     line-height: 1.75;
-
-    margin: 0 auto 24px;
-
-    max-width: 650px;
   }
 
 
-  .notify-button {
-
-    display: inline-block;
-
-    color: white;
-
-    background: var(--green);
-
-    text-decoration: none;
-
-    padding: 15px 26px;
-
-    letter-spacing: .07em;
-
-    font-size: .78rem;
-
-    text-transform: uppercase;
-
-    margin-top: 8px;
-  }
-
-
-  .notify-button:hover {
-
-    opacity: .9;
-  }
-
-
-  .small-note {
-
-    font-size: .82rem !important;
-
-    color: #777;
-
-    margin-top: 18px !important;
-  }
-
-
-  /* =========================================================
-     CLOSING
-     ========================================================= */
-
-  .closing {
-
-    text-align: center;
-
-    padding: 55px 20px 105px;
-  }
-
-
-  .closing h2 {
-
-    font-family: "Playfair Display", Georgia, serif;
-
-    font-weight: 400;
-
-    font-size: clamp(2rem, 4vw, 3.2rem);
-
-    margin-bottom: 18px;
-  }
-
-
-  .closing p {
-
-    max-width: 580px;
-
-    margin: 0 auto 28px;
-
-    line-height: 1.7;
-  }
-
-
-  .button {
+  .invitation-link {
 
     display: inline-block;
 
@@ -720,9 +681,27 @@
 
     letter-spacing: .08em;
 
-    font-size: .78rem;
+    font-size: .9rem;
 
     text-transform: uppercase;
+  }
+
+
+  .invitation-link:hover {
+
+    opacity: .9;
+  }
+
+
+  .invitation-note {
+
+    font-size: .9rem !important;
+
+    color: #777;
+
+    margin-top: 17px !important;
+
+    margin-bottom: 0 !important;
   }
 
 
@@ -730,72 +709,13 @@
      FOOTER
      ========================================================= */
 
-  footer {
+  /*
+     The actual footer is shared site-wide through:
 
-    text-align: center;
+     {% include footer.html %}
 
-    padding: 38px 20px;
-
-    background: #2f2a26;
-
-    color: rgba(255,255,255,.75);
-
-    font-size: .78rem;
-
-    line-height: 1.8;
-
-    letter-spacing: .03em;
-  }
-
-
-  .footer-inner {
-
-    max-width: 900px;
-
-    margin: 0 auto;
-  }
-
-
-  footer a {
-
-    color: rgba(255,255,255,.82);
-
-    text-decoration: none;
-  }
-
-
-  footer a:hover {
-
-    color: white;
-
-    text-decoration: underline;
-  }
-
-
-  .footer-note {
-
-    max-width: 700px;
-
-    margin: 12px auto;
-
-    font-size: .72rem;
-
-    opacity: .7;
-  }
-
-
-  .footer-tagline {
-
-    margin-top: 20px;
-
-    font-family: "Playfair Display", Georgia, serif;
-
-    font-size: 1rem;
-
-    letter-spacing: .04em;
-
-    color: rgba(255,255,255,.9);
-  }
+     This page intentionally does not duplicate it.
+  */
 
 
   /* =========================================================
@@ -822,6 +742,17 @@
     .pillar:last-child {
       grid-column: 1 / -1;
     }
+
+
+    .final-invitation {
+      width: min(850px, 90vw);
+    }
+
+
+    .invitation-column {
+      padding-left: 35px;
+      padding-right: 35px;
+    }
   }
 
 
@@ -829,7 +760,7 @@
      PHONE
      ========================================================= */
 
-  @media (max-width: 560px) {
+  @media (max-width: 600px) {
 
     .topbar {
 
@@ -865,7 +796,7 @@
 
     .hero-copy {
 
-      font-size: 1rem;
+      font-size: 1.08rem;
     }
 
 
@@ -873,7 +804,7 @@
 
       margin-top: 30px;
 
-      font-size: 1rem;
+      font-size: 1.05rem;
 
       line-height: 1.55;
     }
@@ -895,13 +826,19 @@
 
       padding: 15px 13px;
 
-      font-size: .68rem;
+      font-size: .82rem;
     }
 
 
     .intro {
 
       padding: 75px 0 40px;
+    }
+
+
+    .intro p {
+
+      font-size: 1.1rem;
     }
 
 
@@ -914,6 +851,12 @@
     .roots-image {
 
       width: min(420px, 88vw);
+    }
+
+
+    .roots-copy {
+
+      font-size: 1.1rem;
     }
 
 
@@ -932,23 +875,47 @@
     }
 
 
-    .stay-rooted {
+    .section-head p {
 
-      padding: 75px 0 65px;
+      font-size: 1.05rem;
     }
 
 
-    .notify-button {
+    .final-invitation {
 
-      max-width: 90%;
+      width: 88vw;
 
-      line-height: 1.4;
+      grid-template-columns: 1fr;
+
+      padding: 70px 0 75px;
     }
 
 
-    footer {
+    .invitation-column {
 
-      padding: 32px 18px;
+      padding: 15px 10px 55px;
+    }
+
+
+    .invitation-column:last-child {
+
+      padding-bottom: 10px;
+    }
+
+
+    .invitation-column + .invitation-column {
+
+      border-left: none;
+
+      border-top: 1px solid rgba(47,42,38,.18);
+
+      padding-top: 55px;
+    }
+
+
+    .invitation-column p {
+
+      font-size: 1.05rem;
     }
   }
 
@@ -1289,67 +1256,69 @@
 
 
 <!-- =========================================================
-     EMAIL / STAY ROOTED
+     FINAL TWO-COLUMN INVITATION
      ========================================================= -->
 
-<section class="stay-rooted">
-
-  <h2>
-    Stay Rooted
-  </h2>
+<section class="final-invitation">
 
 
-  <p>
-    Thistle &amp; Cypress is shared slowly and intentionally.
-    If you'd like to be notified when new recipes, garden
-    updates, writings, and projects are published, you're
-    welcome to stay connected.
-  </p>
+  <!-- Stay Rooted -->
+
+  <div class="invitation-column">
+
+    <h2>
+      Stay Rooted
+    </h2>
 
 
-  <p>
+    <p>
+      Thistle &amp; Cypress is shared slowly and intentionally.
+      If you'd like to be notified when new recipes, garden
+      updates, writings, and projects are published, you're
+      welcome to stay connected.
+    </p>
+
 
     <a
       href="mailto:thistleandcypress@gmail.com?subject=Please%20add%20me%20to%20Thistle%20%26%20Cypress%20updates&body=Hello!%20I'd%20like%20to%20receive%20updates%20from%20Thistle%20%26%20Cypress.%0D%0A%0D%0AName:%0D%0AEmail:"
-      class="notify-button"
+      class="invitation-link"
     >
-      Notify Me When New Content Is Shared
+      Stay Connected
     </a>
 
-  </p>
+
+    <p class="invitation-note">
+      No promotions. No noise. Just new work, when it's ready.
+    </p>
+
+  </div>
 
 
-  <p class="small-note">
-    No promotions. No noise. Just new work, when it's ready.
-  </p>
+  <!-- Pull Up a Chair -->
 
-</section>
+  <div class="invitation-column">
 
-
-<!-- =========================================================
-     CLOSING INVITATION
-     ========================================================= -->
-
-<section class="closing">
-
-  <h2>
-    Pull up a chair.
-  </h2>
+    <h2>
+      Pull Up a Chair
+    </h2>
 
 
-  <p>
-    Come back when you’re ready. There’s always something
-    cooking, growing, being made, or waiting just beyond
-    the next road.
-  </p>
+    <p>
+      Come meet Rick &amp; Jon and discover the story behind
+      Thistle &amp; Cypress—from Scottish and Italian roots
+      to the life we're creating on ten wooded acres.
+    </p>
 
 
-  <a
-    class="button"
-    href="about.html"
-  >
-    Explore Thistle &amp; Cypress
-  </a>
+    <a
+      href="about.html"
+      class="invitation-link"
+    >
+      Meet Rick &amp; Jon
+    </a>
+
+  </div>
+
 
 </section>
 
@@ -1358,12 +1327,11 @@
 
 
 <!-- =========================================================
-     FOOTER
+     SHARED SITE FOOTER
      ========================================================= -->
-
 
 {% include footer.html %}
 
+
 </body>
 </html>
-
