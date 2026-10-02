@@ -1,0 +1,704 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thistle & Cypress</title>
+<meta name="description" content="Thistle & Cypress — honoring season, soil and self.">
+<link rel="icon" type="image/jpeg" href="Favicon.jpg">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+3:wght@300;400;500&display=swap');
+
+:root {
+--cream: #faf8f5;
+--ink: #2f2a26;
+--green: #2f5d50;
+--plum: #6b4e71;
+--sage: #9fb7a6;
+}
+
+* { box-sizing: border-box; }
+
+html {
+scroll-behavior: smooth;
+}
+
+body {
+margin: 0;
+background: var(--cream);
+color: var(--ink);
+font-family: "Source Sans 3", Arial, sans-serif;
+font-weight: 300;
+}
+
+/* HERO */
+
+.hero {
+min-height: 92vh;
+position: relative;
+display: flex;
+align-items: center;
+justify-content: center;
+overflow: hidden;
+
+background:
+linear-gradient(
+90deg,
+rgba(22,35,30,.72),
+rgba(22,35,30,.20) 65%,
+rgba(22,35,30,.35)
+),
+url("Pillar Background Thistle and Cypress About.jpg")
+center / cover no-repeat;
+}
+
+.hero::after {
+content: "";
+position: absolute;
+inset: 0;
+background:
+linear-gradient(
+180deg,
+rgba(0,0,0,.16),
+transparent 45%,
+rgba(0,0,0,.40)
+);
+pointer-events: none;
+}
+
+/* TOP BRAND BAR */
+
+.topbar {
+position: absolute;
+z-index: 3;
+top: 0;
+left: 0;
+right: 0;
+
+padding: 24px 5vw;
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+color: white;
+}
+
+.mark {
+font-family: "Playfair Display", Georgia, serif;
+font-size: 1.15rem;
+letter-spacing: .08em;
+}
+
+.topbar a {
+color: white;
+text-decoration: none;
+font-size: .8rem;
+letter-spacing: .16em;
+text-transform: uppercase;
+
+border-bottom: 1px solid rgba(255,255,255,.55);
+padding-bottom: 4px;
+}
+
+/* HERO CONTENT */
+
+.hero-content {
+position: relative;
+z-index: 2;
+
+width: min(1100px, 90vw);
+margin: 0 auto;
+
+color: white;
+padding-top: 8vh;
+}
+
+.eyebrow {
+font-size: .82rem;
+letter-spacing: .28em;
+text-transform: uppercase;
+
+margin-bottom: 22px;
+opacity: .9;
+}
+
+h1 {
+font-family: "Playfair Display", Georgia, serif;
+font-weight: 400;
+
+font-size: clamp(4rem, 9vw, 8.5rem);
+line-height: .9;
+
+max-width: 850px;
+margin: 0;
+
+letter-spacing: -.035em;
+}
+
+.tagline {
+font-family: "Playfair Display", Georgia, serif;
+
+font-size: clamp(1.35rem, 2.4vw, 2rem);
+font-style: italic;
+
+margin: 30px 0 0;
+max-width: 620px;
+}
+
+.hero-rule {
+width: 72px;
+height: 1px;
+
+background: rgba(255,255,255,.75);
+
+margin: 28px 0;
+}
+
+.hero-copy {
+font-size: 1.08rem;
+line-height: 1.65;
+
+max-width: 520px;
+margin: 0;
+}
+
+/* SCROLL INDICATOR */
+
+.scroll {
+position: absolute;
+z-index: 3;
+
+bottom: 28px;
+left: 50%;
+
+transform: translateX(-50%);
+
+color: white;
+text-decoration: none;
+
+font-size: .72rem;
+letter-spacing: .2em;
+text-transform: uppercase;
+}
+
+.scroll::after {
+content: "↓";
+
+display: block;
+text-align: center;
+
+font-size: 1.1rem;
+margin-top: 7px;
+}
+
+/* NAVIGATION */
+
+nav {
+position: sticky;
+top: 0;
+z-index: 10;
+
+background: rgba(250,248,245,.96);
+
+backdrop-filter: blur(10px);
+
+border-bottom: 1px solid rgba(47,42,38,.10);
+
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+nav a {
+color: var(--ink);
+text-decoration: none;
+
+padding: 17px 18px;
+
+font-size: .77rem;
+letter-spacing: .12em;
+text-transform: uppercase;
+}
+
+nav a:hover {
+color: var(--green);
+}
+
+/* INTRO */
+
+.intro {
+width: min(920px, 88vw);
+
+margin: 0 auto;
+
+padding: 105px 0 80px;
+
+text-align: center;
+}
+
+.intro h2,
+.section-head h2 {
+font-family: "Playfair Display", Georgia, serif;
+font-weight: 400;
+
+font-size: clamp(2.2rem, 4vw, 3.5rem);
+
+margin: 0 0 25px;
+}
+
+.intro p {
+font-size: 1.12rem;
+line-height: 1.85;
+
+margin: 0 auto 20px;
+
+max-width: 760px;
+}
+
+.signature {
+font-family: "Playfair Display", Georgia, serif;
+
+color: var(--green);
+
+font-style: italic;
+font-size: 1.15rem;
+
+margin-top: 32px;
+}
+
+/* PILLARS */
+
+.section-head {
+text-align: center;
+
+padding: 40px 0 42px;
+}
+
+.section-head p {
+max-width: 680px;
+
+margin: 0 auto;
+
+line-height: 1.7;
+font-size: 1rem;
+}
+
+.pillars {
+display: grid;
+
+grid-template-columns: repeat(5, 1fr);
+
+gap: 2px;
+
+background: var(--cream);
+}
+
+.pillar {
+min-height: 410px;
+
+position: relative;
+overflow: hidden;
+
+display: flex;
+align-items: flex-end;
+
+text-decoration: none;
+color: white;
+
+background-position: center;
+background-size: cover;
+}
+
+.pillar::before {
+content: "";
+
+position: absolute;
+inset: 0;
+
+background:
+linear-gradient(
+transparent 30%,
+rgba(20,25,22,.72)
+);
+
+transition: background .35s ease;
+}
+
+.pillar:hover::before {
+background:
+linear-gradient(
+rgba(20,25,22,.08),
+rgba(20,25,22,.82)
+);
+}
+
+.pillar-content {
+position: relative;
+z-index: 1;
+
+padding: 28px 24px;
+}
+
+.pillar h3 {
+font-family: "Playfair Display", Georgia, serif;
+
+font-size: 2rem;
+font-weight: 400;
+
+margin: 0 0 5px;
+}
+
+.pillar span {
+font-size: .75rem;
+
+letter-spacing: .15em;
+text-transform: uppercase;
+
+opacity: .9;
+}
+
+/* CLOSING */
+
+.closing {
+text-align: center;
+
+padding: 100px 20px;
+}
+
+.closing h2 {
+font-family: "Playfair Display", Georgia, serif;
+
+font-weight: 400;
+
+font-size: clamp(2rem, 4vw, 3.2rem);
+
+margin-bottom: 18px;
+}
+
+.closing p {
+max-width: 580px;
+
+margin: 0 auto 28px;
+
+line-height: 1.7;
+}
+
+.button {
+display: inline-block;
+
+color: white;
+background: var(--green);
+
+text-decoration: none;
+
+padding: 14px 24px;
+
+letter-spacing: .08em;
+
+font-size: .78rem;
+
+text-transform: uppercase;
+}
+
+/* FOOTER */
+
+footer {
+text-align: center;
+
+padding: 34px 20px;
+
+background: #2f2a26;
+
+color: rgba(255,255,255,.75);
+
+font-size: .78rem;
+
+letter-spacing: .05em;
+}
+
+/* TABLET */
+
+@media (max-width: 850px) {
+
+.hero {
+min-height: 88vh;
+}
+
+.hero-content {
+padding-top: 12vh;
+}
+
+.pillars {
+grid-template-columns: repeat(2, 1fr);
+}
+
+.pillar:last-child {
+grid-column: 1 / -1;
+}
+}
+
+/* PHONE */
+
+@media (max-width: 560px) {
+
+.topbar {
+padding: 18px 20px;
+}
+
+.topbar a {
+display: none;
+}
+
+.hero-content {
+width: 84vw;
+}
+
+h1 {
+font-size: clamp(3.6rem, 17vw, 5.5rem);
+}
+
+.hero-copy {
+font-size: 1rem;
+}
+
+nav {
+justify-content: flex-start;
+overflow-x: auto;
+flex-wrap: nowrap;
+}
+
+nav a {
+white-space: nowrap;
+
+padding: 15px 13px;
+
+font-size: .68rem;
+}
+
+.intro {
+padding: 75px 0 60px;
+}
+
+.pillars {
+grid-template-columns: 1fr;
+}
+
+.pillar,
+.pillar:last-child {
+grid-column: auto;
+
+min-height: 300px;
+}
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+html {
+scroll-behavior: auto;
+}
+}
+</style>
+</head>
+
+<body>
+
+<header class="hero">
+
+<div class="topbar">
+<div class="mark">T &amp; C</div>
+
+<a href="#explore">Explore</a>
+</div>
+
+<div class="hero-content">
+
+<div class="eyebrow">
+Season · Soil · Self
+</div>
+
+<h1>
+Thistle<br>
+&amp; Cypress
+</h1>
+
+<div class="hero-rule"></div>
+
+<p class="tagline">
+Honoring season, soil and self.
+</p>
+
+<p class="hero-copy">
+A home-centered life shaped by food, garden, craft,
+rhythm, wine and travel.
+</p>
+
+</div>
+
+<a class="scroll" href="#explore">
+Enter
+</a>
+
+</header>
+
+
+<nav aria-label="Primary navigation">
+
+<a href="/">Home</a>
+
+<a href="about.html">About</a>
+
+<a href="kitchen/">Kitchen</a>
+
+<a href="garden/">Garden</a>
+
+<a href="craft/">Craft</a>
+
+<a href="rhythm/">Rhythm</a>
+
+<a href="wine-travel/">Wine &amp; Travel</a>
+
+</nav>
+
+
+<main>
+
+<section class="intro" id="explore">
+
+<h2>
+A life with a little more intention.
+</h2>
+
+<p>
+We’re Rick and Jon—cooking, tending ten wooded acres
+in rural northwest Pennsylvania, making things with our
+hands, following the seasons, and finding inspiration in
+the places and cultures beyond home.
+</p>
+
+<p>
+Thistle &amp; Cypress is where those threads come together:
+practical ideas, experiments, stories and discoveries for
+a life rooted in what matters.
+</p>
+
+<div class="signature">
+Scottish resilience. Italian abundance. Ten wooded acres.
+</div>
+
+</section>
+
+
+<section>
+
+<div class="section-head">
+
+<h2>
+Explore the world of Thistle &amp; Cypress
+</h2>
+
+<p>
+Five ways we spend our time, and five invitations
+to find something useful, beautiful or simply worth
+lingering over.
+</p>
+
+</div>
+
+
+<div class="pillars">
+
+<a
+class="pillar"
+href="kitchen/"
+style="background-image:url('button-kitchen.jpg')"
+>
+<div class="pillar-content">
+<h3>Kitchen</h3>
+<span>Gather · Make · Share</span>
+</div>
+</a>
+
+
+<a
+class="pillar"
+href="garden/"
+style="background-image:url('button-garden.jpg')"
+>
+<div class="pillar-content">
+<h3>Garden</h3>
+<span>Grow · Tend · Learn</span>
+</div>
+</a>
+
+
+<a
+class="pillar"
+href="craft/"
+style="background-image:url('button-craft.jpg')"
+>
+<div class="pillar-content">
+<h3>Craft</h3>
+<span>Make · Repair · Create</span>
+</div>
+</a>
+
+
+<a
+class="pillar"
+href="rhythm/"
+style="background-image:url('button-rhythm.jpg')"
+>
+<div class="pillar-content">
+<h3>Rhythm</h3>
+<span>Home · Season · Self</span>
+</div>
+</a>
+
+
+<a
+class="pillar"
+href="wine-travel/"
+style="background-image:url('button-wt.jpg')"
+>
+<div class="pillar-content">
+<h3>Wine &amp; Travel</h3>
+<span>Explore · Taste · Discover</span>
+</div>
+</a>
+
+</div>
+
+</section>
+
+
+<section class="closing">
+
+<h2>
+Pull up a chair.
+</h2>
+
+<p>
+Come back when you’re ready. There’s always something
+cooking, growing, being made, or waiting just beyond
+the next road.
+</p>
+
+<a class="button" href="about.html">
+Begin exploring
+</a>
+
+</section>
+
+</main>
+
+
+<footer>
+Scottish resilience. Italian abundance. Ten wooded acres.
+</footer>
+
+</body>
+</html>
