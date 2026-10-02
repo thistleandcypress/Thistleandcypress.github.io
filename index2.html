@@ -5,700 +5,1365 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <title>Thistle & Cypress</title>
-<meta name="description" content="Thistle & Cypress — honoring season, soil and self.">
+
+<meta
+  name="description"
+  content="Thistle & Cypress — honoring season, soil and self."
+>
+
 <link rel="icon" type="image/jpeg" href="Favicon.jpg">
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+3:wght@300;400;500&display=swap');
-
-:root {
---cream: #faf8f5;
---ink: #2f2a26;
---green: #2f5d50;
---plum: #6b4e71;
---sage: #9fb7a6;
-}
-
-* { box-sizing: border-box; }
-
-html {
-scroll-behavior: smooth;
-}
-
-body {
-margin: 0;
-background: var(--cream);
-color: var(--ink);
-font-family: "Source Sans 3", Arial, sans-serif;
-font-weight: 300;
-}
-
-/* HERO */
-
-.hero {
-min-height: 92vh;
-position: relative;
-display: flex;
-align-items: center;
-justify-content: center;
-overflow: hidden;
-
-background:
-linear-gradient(
-90deg,
-rgba(22,35,30,.72),
-rgba(22,35,30,.20) 65%,
-rgba(22,35,30,.35)
-),
-url("Pillar Background Thistle and Cypress About.jpg")
-center / cover no-repeat;
-}
-
-.hero::after {
-content: "";
-position: absolute;
-inset: 0;
-background:
-linear-gradient(
-180deg,
-rgba(0,0,0,.16),
-transparent 45%,
-rgba(0,0,0,.40)
-);
-pointer-events: none;
-}
-
-/* TOP BRAND BAR */
-
-.topbar {
-position: absolute;
-z-index: 3;
-top: 0;
-left: 0;
-right: 0;
-
-padding: 24px 5vw;
-
-display: flex;
-justify-content: space-between;
-align-items: center;
-
-color: white;
-}
-
-.mark {
-font-family: "Playfair Display", Georgia, serif;
-font-size: 1.15rem;
-letter-spacing: .08em;
-}
-
-.topbar a {
-color: white;
-text-decoration: none;
-font-size: .8rem;
-letter-spacing: .16em;
-text-transform: uppercase;
-
-border-bottom: 1px solid rgba(255,255,255,.55);
-padding-bottom: 4px;
-}
-
-/* HERO CONTENT */
-
-.hero-content {
-position: relative;
-z-index: 2;
-
-width: min(1100px, 90vw);
-margin: 0 auto;
 
-color: white;
-padding-top: 8vh;
-}
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+3:wght@300;400;500&display=swap');
 
-.eyebrow {
-font-size: .82rem;
-letter-spacing: .28em;
-text-transform: uppercase;
 
-margin-bottom: 22px;
-opacity: .9;
-}
+  :root {
+    --cream: #faf8f5;
+    --ink: #2f2a26;
+    --green: #2f5d50;
+    --plum: #6b4e71;
+    --sage: #9fb7a6;
+  }
 
-h1 {
-font-family: "Playfair Display", Georgia, serif;
-font-weight: 400;
 
-font-size: clamp(4rem, 9vw, 8.5rem);
-line-height: .9;
+  * {
+    box-sizing: border-box;
+  }
 
-max-width: 850px;
-margin: 0;
 
-letter-spacing: -.035em;
-}
+  html {
+    scroll-behavior: smooth;
+  }
 
-.tagline {
-font-family: "Playfair Display", Georgia, serif;
 
-font-size: clamp(1.35rem, 2.4vw, 2rem);
-font-style: italic;
+  body {
+    margin: 0;
+    background: var(--cream);
+    color: var(--ink);
 
-margin: 30px 0 0;
-max-width: 620px;
-}
+    font-family: "Source Sans 3", Arial, sans-serif;
+    font-weight: 300;
+  }
 
-.hero-rule {
-width: 72px;
-height: 1px;
 
-background: rgba(255,255,255,.75);
+  /* =========================================================
+     HERO
+     ========================================================= */
 
-margin: 28px 0;
-}
+  .hero {
 
-.hero-copy {
-font-size: 1.08rem;
-line-height: 1.65;
+    min-height: 92vh;
 
-max-width: 520px;
-margin: 0;
-}
+    position: relative;
 
-/* SCROLL INDICATOR */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-.scroll {
-position: absolute;
-z-index: 3;
+    overflow: hidden;
 
-bottom: 28px;
-left: 50%;
+    background:
+      linear-gradient(
+        90deg,
+        rgba(22,35,30,.72),
+        rgba(22,35,30,.20) 65%,
+        rgba(22,35,30,.35)
+      ),
+      url("Pillar Background Thistle and Cypress About.jpg")
+      center / cover no-repeat;
+  }
 
-transform: translateX(-50%);
 
-color: white;
-text-decoration: none;
+  .hero::after {
 
-font-size: .72rem;
-letter-spacing: .2em;
-text-transform: uppercase;
-}
+    content: "";
 
-.scroll::after {
-content: "↓";
+    position: absolute;
+    inset: 0;
 
-display: block;
-text-align: center;
+    background:
+      linear-gradient(
+        180deg,
+        rgba(0,0,0,.16),
+        transparent 45%,
+        rgba(0,0,0,.40)
+      );
 
-font-size: 1.1rem;
-margin-top: 7px;
-}
+    pointer-events: none;
+  }
 
-/* NAVIGATION */
 
-nav {
-position: sticky;
-top: 0;
-z-index: 10;
+  /* =========================================================
+     CREST / TOP MARK
+     ========================================================= */
 
-background: rgba(250,248,245,.96);
+  .topbar {
 
-backdrop-filter: blur(10px);
+    position: absolute;
+    z-index: 3;
 
-border-bottom: 1px solid rgba(47,42,38,.10);
+    top: 0;
+    left: 0;
+    right: 0;
 
-display: flex;
-justify-content: center;
-flex-wrap: wrap;
-}
+    padding: 20px 5vw;
 
-nav a {
-color: var(--ink);
-text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 
-padding: 17px 18px;
+    color: white;
+  }
 
-font-size: .77rem;
-letter-spacing: .12em;
-text-transform: uppercase;
-}
 
-nav a:hover {
-color: var(--green);
-}
+  .crest-mark {
 
-/* INTRO */
+    width: 72px;
+    height: 72px;
 
-.intro {
-width: min(920px, 88vw);
+    object-fit: cover;
 
-margin: 0 auto;
+    border-radius: 50%;
 
-padding: 105px 0 80px;
+    box-shadow:
+      0 2px 12px rgba(0,0,0,.25);
 
-text-align: center;
-}
+    opacity: .94;
 
-.intro h2,
-.section-head h2 {
-font-family: "Playfair Display", Georgia, serif;
-font-weight: 400;
+    background: rgba(255,255,255,.88);
 
-font-size: clamp(2.2rem, 4vw, 3.5rem);
+    padding: 4px;
+  }
 
-margin: 0 0 25px;
-}
 
-.intro p {
-font-size: 1.12rem;
-line-height: 1.85;
+  .topbar a {
 
-margin: 0 auto 20px;
+    color: white;
 
-max-width: 760px;
-}
+    text-decoration: none;
 
-.signature {
-font-family: "Playfair Display", Georgia, serif;
+    font-size: .8rem;
 
-color: var(--green);
+    letter-spacing: .16em;
 
-font-style: italic;
-font-size: 1.15rem;
+    text-transform: uppercase;
 
-margin-top: 32px;
-}
+    border-bottom: 1px solid rgba(255,255,255,.55);
 
-/* PILLARS */
+    padding-bottom: 4px;
 
-.section-head {
-text-align: center;
+    margin-top: 8px;
+  }
 
-padding: 40px 0 42px;
-}
 
-.section-head p {
-max-width: 680px;
+  /* =========================================================
+     HERO CONTENT
+     ========================================================= */
 
-margin: 0 auto;
+  .hero-content {
 
-line-height: 1.7;
-font-size: 1rem;
-}
+    position: relative;
+    z-index: 2;
 
-.pillars {
-display: grid;
+    width: min(1100px, 90vw);
 
-grid-template-columns: repeat(5, 1fr);
+    margin: 0 auto;
 
-gap: 2px;
+    color: white;
 
-background: var(--cream);
-}
+    padding-top: 8vh;
+  }
 
-.pillar {
-min-height: 410px;
 
-position: relative;
-overflow: hidden;
+  .eyebrow {
 
-display: flex;
-align-items: flex-end;
+    font-size: .82rem;
 
-text-decoration: none;
-color: white;
+    letter-spacing: .28em;
 
-background-position: center;
-background-size: cover;
-}
+    text-transform: uppercase;
 
-.pillar::before {
-content: "";
+    margin-bottom: 22px;
 
-position: absolute;
-inset: 0;
+    opacity: .9;
+  }
 
-background:
-linear-gradient(
-transparent 30%,
-rgba(20,25,22,.72)
-);
 
-transition: background .35s ease;
-}
+  h1 {
 
-.pillar:hover::before {
-background:
-linear-gradient(
-rgba(20,25,22,.08),
-rgba(20,25,22,.82)
-);
-}
+    font-family: "Playfair Display", Georgia, serif;
 
-.pillar-content {
-position: relative;
-z-index: 1;
+    font-weight: 400;
 
-padding: 28px 24px;
-}
+    font-size: clamp(4rem, 9vw, 8.5rem);
 
-.pillar h3 {
-font-family: "Playfair Display", Georgia, serif;
+    line-height: .9;
 
-font-size: 2rem;
-font-weight: 400;
+    max-width: 850px;
 
-margin: 0 0 5px;
-}
+    margin: 0;
 
-.pillar span {
-font-size: .75rem;
+    letter-spacing: -.035em;
+  }
 
-letter-spacing: .15em;
-text-transform: uppercase;
 
-opacity: .9;
-}
+  .tagline {
 
-/* CLOSING */
+    font-family: "Playfair Display", Georgia, serif;
 
-.closing {
-text-align: center;
+    font-size: clamp(1.35rem, 2.4vw, 2rem);
 
-padding: 100px 20px;
-}
+    font-style: italic;
 
-.closing h2 {
-font-family: "Playfair Display", Georgia, serif;
+    margin: 30px 0 0;
 
-font-weight: 400;
+    max-width: 620px;
+  }
 
-font-size: clamp(2rem, 4vw, 3.2rem);
 
-margin-bottom: 18px;
-}
+  .hero-rule {
 
-.closing p {
-max-width: 580px;
+    width: 72px;
 
-margin: 0 auto 28px;
+    height: 1px;
 
-line-height: 1.7;
-}
+    background: rgba(255,255,255,.75);
 
-.button {
-display: inline-block;
+    margin: 28px 0;
+  }
 
-color: white;
-background: var(--green);
 
-text-decoration: none;
+  .hero-copy {
 
-padding: 14px 24px;
+    font-size: 1.08rem;
 
-letter-spacing: .08em;
+    line-height: 1.65;
 
-font-size: .78rem;
+    max-width: 520px;
 
-text-transform: uppercase;
-}
+    margin: 0;
+  }
 
-/* FOOTER */
 
-footer {
-text-align: center;
+  /* =========================================================
+     BRAND SIGNATURE
+     ========================================================= */
 
-padding: 34px 20px;
+  .hero-signature {
 
-background: #2f2a26;
+    margin-top: 38px;
 
-color: rgba(255,255,255,.75);
+    max-width: 650px;
 
-font-size: .78rem;
+    font-family: "Playfair Display", Georgia, serif;
 
-letter-spacing: .05em;
-}
+    font-size: clamp(1.05rem, 2vw, 1.35rem);
 
-/* TABLET */
+    line-height: 1.6;
 
-@media (max-width: 850px) {
+    letter-spacing: .015em;
+  }
 
-.hero {
-min-height: 88vh;
-}
 
-.hero-content {
-padding-top: 12vh;
-}
+  .hero-signature span {
+    display: block;
+  }
 
-.pillars {
-grid-template-columns: repeat(2, 1fr);
-}
 
-.pillar:last-child {
-grid-column: 1 / -1;
-}
-}
+  /* =========================================================
+     SCROLL INDICATOR
+     ========================================================= */
 
-/* PHONE */
+  .scroll {
 
-@media (max-width: 560px) {
+    position: absolute;
+    z-index: 3;
 
-.topbar {
-padding: 18px 20px;
-}
+    bottom: 28px;
+    left: 50%;
 
-.topbar a {
-display: none;
-}
+    transform: translateX(-50%);
 
-.hero-content {
-width: 84vw;
-}
+    color: white;
 
-h1 {
-font-size: clamp(3.6rem, 17vw, 5.5rem);
-}
+    text-decoration: none;
 
-.hero-copy {
-font-size: 1rem;
-}
+    font-size: .72rem;
 
-nav {
-justify-content: flex-start;
-overflow-x: auto;
-flex-wrap: nowrap;
-}
+    letter-spacing: .2em;
 
-nav a {
-white-space: nowrap;
+    text-transform: uppercase;
+  }
 
-padding: 15px 13px;
 
-font-size: .68rem;
-}
+  .scroll::after {
 
-.intro {
-padding: 75px 0 60px;
-}
+    content: "↓";
 
-.pillars {
-grid-template-columns: 1fr;
-}
+    display: block;
 
-.pillar,
-.pillar:last-child {
-grid-column: auto;
+    text-align: center;
 
-min-height: 300px;
-}
-}
+    font-size: 1.1rem;
 
-@media (prefers-reduced-motion: reduce) {
+    margin-top: 7px;
+  }
 
-html {
-scroll-behavior: auto;
-}
-}
+
+  /* =========================================================
+     NAVIGATION
+     ========================================================= */
+
+  nav {
+
+    position: sticky;
+
+    top: 0;
+
+    z-index: 10;
+
+    background: rgba(250,248,245,.96);
+
+    backdrop-filter: blur(10px);
+
+    border-bottom: 1px solid rgba(47,42,38,.10);
+
+    display: flex;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
+  }
+
+
+  nav a {
+
+    color: var(--ink);
+
+    text-decoration: none;
+
+    padding: 17px 18px;
+
+    font-size: .77rem;
+
+    letter-spacing: .12em;
+
+    text-transform: uppercase;
+  }
+
+
+  nav a:hover {
+    color: var(--green);
+  }
+
+
+  /* =========================================================
+     INTRO / BRAND STORY
+     ========================================================= */
+
+  .intro {
+
+    width: min(920px, 88vw);
+
+    margin: 0 auto;
+
+    padding: 105px 0 55px;
+
+    text-align: center;
+  }
+
+
+  .intro h2,
+  .section-head h2 {
+
+    font-family: "Playfair Display", Georgia, serif;
+
+    font-weight: 400;
+
+    font-size: clamp(2.2rem, 4vw, 3.5rem);
+
+    margin: 0 0 25px;
+  }
+
+
+  .intro p {
+
+    font-size: 1.12rem;
+
+    line-height: 1.85;
+
+    margin: 0 auto 20px;
+
+    max-width: 760px;
+  }
+
+
+  /* =========================================================
+     COMMON ROOTS
+     ========================================================= */
+
+  .roots-section {
+
+    width: min(1000px, 90vw);
+
+    margin: 0 auto;
+
+    padding: 25px 0 85px;
+
+    text-align: center;
+  }
+
+
+  .roots-image {
+
+    display: block;
+
+    width: min(520px, 80vw);
+
+    max-height: 430px;
+
+    object-fit: contain;
+
+    margin: 0 auto 35px;
+  }
+
+
+  .roots-title {
+
+    font-family: "Playfair Display", Georgia, serif;
+
+    font-weight: 400;
+
+    font-size: clamp(1.9rem, 3.5vw, 2.8rem);
+
+    margin: 0 0 20px;
+  }
+
+
+  .roots-copy {
+
+    max-width: 720px;
+
+    margin: 0 auto;
+
+    font-size: 1.08rem;
+
+    line-height: 1.8;
+  }
+
+
+  .roots-signature {
+
+    margin-top: 32px;
+
+    font-family: "Playfair Display", Georgia, serif;
+
+    font-size: clamp(1.2rem, 2.5vw, 1.55rem);
+
+    line-height: 1.7;
+
+    color: var(--green);
+  }
+
+
+  .roots-signature span {
+    display: block;
+  }
+
+
+  /* =========================================================
+     PILLARS
+     ========================================================= */
+
+  .section-head {
+
+    text-align: center;
+
+    padding: 40px 20px 42px;
+  }
+
+
+  .section-head p {
+
+    max-width: 680px;
+
+    margin: 0 auto;
+
+    line-height: 1.7;
+
+    font-size: 1rem;
+  }
+
+
+  .pillars {
+
+    display: grid;
+
+    grid-template-columns: repeat(5, 1fr);
+
+    gap: 2px;
+
+    background: var(--cream);
+  }
+
+
+  .pillar {
+
+    min-height: 410px;
+
+    position: relative;
+
+    overflow: hidden;
+
+    display: flex;
+
+    align-items: flex-end;
+
+    text-decoration: none;
+
+    color: white;
+
+    background-position: center;
+
+    background-size: cover;
+  }
+
+
+  .pillar::before {
+
+    content: "";
+
+    position: absolute;
+
+    inset: 0;
+
+    background:
+      linear-gradient(
+        transparent 30%,
+        rgba(20,25,22,.72)
+      );
+
+    transition: background .35s ease;
+  }
+
+
+  .pillar:hover::before {
+
+    background:
+      linear-gradient(
+        rgba(20,25,22,.08),
+        rgba(20,25,22,.82)
+      );
+  }
+
+
+  .pillar-content {
+
+    position: relative;
+
+    z-index: 1;
+
+    padding: 28px 24px;
+  }
+
+
+  .pillar h3 {
+
+    font-family: "Playfair Display", Georgia, serif;
+
+    font-size: 2rem;
+
+    font-weight: 400;
+
+    margin: 0 0 5px;
+  }
+
+
+  .pillar span {
+
+    font-size: .75rem;
+
+    letter-spacing: .15em;
+
+    text-transform: uppercase;
+
+    opacity: .9;
+  }
+
+
+  /* =========================================================
+     STAY ROOTED / EMAIL
+     ========================================================= */
+
+  .stay-rooted {
+
+    width: min(760px, 88vw);
+
+    margin: 0 auto;
+
+    padding: 100px 0 85px;
+
+    text-align: center;
+  }
+
+
+  .stay-rooted h2 {
+
+    font-family: "Playfair Display", Georgia, serif;
+
+    font-weight: 400;
+
+    font-size: clamp(2.2rem, 4vw, 3.4rem);
+
+    margin: 0 0 20px;
+  }
+
+
+  .stay-rooted p {
+
+    font-size: 1.08rem;
+
+    line-height: 1.75;
+
+    margin: 0 auto 24px;
+
+    max-width: 650px;
+  }
+
+
+  .notify-button {
+
+    display: inline-block;
+
+    color: white;
+
+    background: var(--green);
+
+    text-decoration: none;
+
+    padding: 15px 26px;
+
+    letter-spacing: .07em;
+
+    font-size: .78rem;
+
+    text-transform: uppercase;
+
+    margin-top: 8px;
+  }
+
+
+  .notify-button:hover {
+
+    opacity: .9;
+  }
+
+
+  .small-note {
+
+    font-size: .82rem !important;
+
+    color: #777;
+
+    margin-top: 18px !important;
+  }
+
+
+  /* =========================================================
+     CLOSING
+     ========================================================= */
+
+  .closing {
+
+    text-align: center;
+
+    padding: 55px 20px 105px;
+  }
+
+
+  .closing h2 {
+
+    font-family: "Playfair Display", Georgia, serif;
+
+    font-weight: 400;
+
+    font-size: clamp(2rem, 4vw, 3.2rem);
+
+    margin-bottom: 18px;
+  }
+
+
+  .closing p {
+
+    max-width: 580px;
+
+    margin: 0 auto 28px;
+
+    line-height: 1.7;
+  }
+
+
+  .button {
+
+    display: inline-block;
+
+    color: white;
+
+    background: var(--green);
+
+    text-decoration: none;
+
+    padding: 14px 24px;
+
+    letter-spacing: .08em;
+
+    font-size: .78rem;
+
+    text-transform: uppercase;
+  }
+
+
+  /* =========================================================
+     FOOTER
+     ========================================================= */
+
+  footer {
+
+    text-align: center;
+
+    padding: 38px 20px;
+
+    background: #2f2a26;
+
+    color: rgba(255,255,255,.75);
+
+    font-size: .78rem;
+
+    line-height: 1.8;
+
+    letter-spacing: .03em;
+  }
+
+
+  .footer-inner {
+
+    max-width: 900px;
+
+    margin: 0 auto;
+  }
+
+
+  footer a {
+
+    color: rgba(255,255,255,.82);
+
+    text-decoration: none;
+  }
+
+
+  footer a:hover {
+
+    color: white;
+
+    text-decoration: underline;
+  }
+
+
+  .footer-note {
+
+    max-width: 700px;
+
+    margin: 12px auto;
+
+    font-size: .72rem;
+
+    opacity: .7;
+  }
+
+
+  .footer-tagline {
+
+    margin-top: 20px;
+
+    font-family: "Playfair Display", Georgia, serif;
+
+    font-size: 1rem;
+
+    letter-spacing: .04em;
+
+    color: rgba(255,255,255,.9);
+  }
+
+
+  /* =========================================================
+     TABLET
+     ========================================================= */
+
+  @media (max-width: 850px) {
+
+    .hero {
+      min-height: 88vh;
+    }
+
+
+    .hero-content {
+      padding-top: 12vh;
+    }
+
+
+    .pillars {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    .pillar:last-child {
+      grid-column: 1 / -1;
+    }
+  }
+
+
+  /* =========================================================
+     PHONE
+     ========================================================= */
+
+  @media (max-width: 560px) {
+
+    .topbar {
+
+      padding: 16px 20px;
+    }
+
+
+    .crest-mark {
+
+      width: 58px;
+      height: 58px;
+    }
+
+
+    .topbar a {
+      display: none;
+    }
+
+
+    .hero-content {
+
+      width: 84vw;
+
+      padding-top: 12vh;
+    }
+
+
+    h1 {
+
+      font-size: clamp(3.6rem, 17vw, 5.5rem);
+    }
+
+
+    .hero-copy {
+
+      font-size: 1rem;
+    }
+
+
+    .hero-signature {
+
+      margin-top: 30px;
+
+      font-size: 1rem;
+
+      line-height: 1.55;
+    }
+
+
+    nav {
+
+      justify-content: flex-start;
+
+      overflow-x: auto;
+
+      flex-wrap: nowrap;
+    }
+
+
+    nav a {
+
+      white-space: nowrap;
+
+      padding: 15px 13px;
+
+      font-size: .68rem;
+    }
+
+
+    .intro {
+
+      padding: 75px 0 40px;
+    }
+
+
+    .roots-section {
+
+      padding-bottom: 65px;
+    }
+
+
+    .roots-image {
+
+      width: min(420px, 88vw);
+    }
+
+
+    .pillars {
+
+      grid-template-columns: 1fr;
+    }
+
+
+    .pillar,
+    .pillar:last-child {
+
+      grid-column: auto;
+
+      min-height: 300px;
+    }
+
+
+    .stay-rooted {
+
+      padding: 75px 0 65px;
+    }
+
+
+    .notify-button {
+
+      max-width: 90%;
+
+      line-height: 1.4;
+    }
+
+
+    footer {
+
+      padding: 32px 18px;
+    }
+  }
+
+
+  /* =========================================================
+     REDUCED MOTION
+     ========================================================= */
+
+  @media (prefers-reduced-motion: reduce) {
+
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
 </style>
 </head>
 
+
 <body>
+
+
+<!-- =========================================================
+     HERO
+     ========================================================= -->
 
 <header class="hero">
 
-<div class="topbar">
-<div class="mark">T &amp; C</div>
+  <div class="topbar">
 
-<a href="#explore">Explore</a>
-</div>
+    <img
+      src="about/images/Crest.jpg"
+      alt="Thistle & Cypress crest"
+      class="crest-mark"
+    >
 
-<div class="hero-content">
+    <a href="#explore">
+      Explore
+    </a>
 
-<div class="eyebrow">
-Season · Soil · Self
-</div>
+  </div>
 
-<h1>
-Thistle<br>
-&amp; Cypress
-</h1>
 
-<div class="hero-rule"></div>
+  <div class="hero-content">
 
-<p class="tagline">
-Honoring season, soil and self.
-</p>
+    <div class="eyebrow">
+      Season · Soil · Self
+    </div>
 
-<p class="hero-copy">
-A home-centered life shaped by food, garden, craft,
-rhythm, wine and travel.
-</p>
 
-</div>
+    <h1>
+      Thistle<br>
+      &amp; Cypress
+    </h1>
 
-<a class="scroll" href="#explore">
-Enter
-</a>
+
+    <div class="hero-rule"></div>
+
+
+    <p class="tagline">
+      Honoring season, soil and self.
+    </p>
+
+
+    <p class="hero-copy">
+      A home-centered life shaped by food, garden, craft,
+      rhythm, wine and travel.
+    </p>
+
+
+    <div class="hero-signature">
+
+      <span>Scottish resilience.</span>
+
+      <span>Italian abundance.</span>
+
+      <span>Ten wooded acres.</span>
+
+    </div>
+
+  </div>
+
+
+  <a class="scroll" href="#explore">
+    Enter
+  </a>
 
 </header>
 
 
+<!-- =========================================================
+     NAVIGATION
+     ========================================================= -->
+
 <nav aria-label="Primary navigation">
 
-<a href="/">Home</a>
+  <a href="/">
+    Home
+  </a>
 
-<a href="about.html">About</a>
+  <a href="about.html">
+    About
+  </a>
 
-<a href="kitchen/">Kitchen</a>
+  <a href="kitchen/">
+    Kitchen
+  </a>
 
-<a href="garden/">Garden</a>
+  <a href="garden/">
+    Garden
+  </a>
 
-<a href="craft/">Craft</a>
+  <a href="craft/">
+    Craft
+  </a>
 
-<a href="rhythm/">Rhythm</a>
+  <a href="rhythm/">
+    Rhythm
+  </a>
 
-<a href="wine-travel/">Wine &amp; Travel</a>
+  <a href="wine-travel/">
+    Wine &amp; Travel
+  </a>
 
 </nav>
 
 
-<main>
+<main id="explore">
 
-<section class="intro" id="explore">
 
-<h2>
-A life with a little more intention.
-</h2>
+<!-- =========================================================
+     INTRO
+     ========================================================= -->
 
-<p>
-We’re Rick and Jon—cooking, tending ten wooded acres
-in rural northwest Pennsylvania, making things with our
-hands, following the seasons, and finding inspiration in
-the places and cultures beyond home.
-</p>
+<section class="intro">
 
-<p>
-Thistle &amp; Cypress is where those threads come together:
-practical ideas, experiments, stories and discoveries for
-a life rooted in what matters.
-</p>
+  <h2>
+    A life with a little more intention.
+  </h2>
 
-<div class="signature">
-Scottish resilience. Italian abundance. Ten wooded acres.
-</div>
+
+  <p>
+    We’re Rick and Jon—cooking, tending ten wooded acres
+    in rural northwest Pennsylvania, making things with our
+    hands, following the seasons, and finding inspiration in
+    the places and cultures beyond home.
+  </p>
+
+
+  <p>
+    Thistle &amp; Cypress is where those threads come together:
+    practical ideas, experiments, stories and discoveries for
+    a life rooted in what matters.
+  </p>
 
 </section>
 
+
+<!-- =========================================================
+     COMMON ROOTS / BRAND STORY
+     ========================================================= -->
+
+<section class="roots-section">
+
+  <img
+    src="Thistle and Cypress Common Roots.PNG"
+    alt="Entwined thistle and cypress with common roots"
+    class="roots-image"
+    loading="lazy"
+  >
+
+
+  <h2 class="roots-title">
+    Common roots. Different branches.
+  </h2>
+
+
+  <p class="roots-copy">
+
+    The thistle represents Scottish resilience—resourceful,
+    enduring and rooted in place.
+
+    The cypress represents Italian abundance—warm, generous,
+    and deeply connected to land, food and family.
+
+    Together they shape the life we are building across
+    ten wooded acres in northwest Pennsylvania.
+
+  </p>
+
+
+  <div class="roots-signature">
+
+    <span>Scottish resilience.</span>
+
+    <span>Italian abundance.</span>
+
+    <span>Ten wooded acres.</span>
+
+  </div>
+
+</section>
+
+
+<!-- =========================================================
+     FIVE WORLDS
+     ========================================================= -->
 
 <section>
 
-<div class="section-head">
+  <div class="section-head">
 
-<h2>
-Explore the world of Thistle &amp; Cypress
-</h2>
-
-<p>
-Five ways we spend our time, and five invitations
-to find something useful, beautiful or simply worth
-lingering over.
-</p>
-
-</div>
+    <h2>
+      Explore the world of Thistle &amp; Cypress
+    </h2>
 
 
-<div class="pillars">
+    <p>
+      Five ways we spend our time, and five invitations
+      to find something useful, beautiful or simply worth
+      lingering over.
+    </p>
 
-<a
-class="pillar"
-href="kitchen/"
-style="background-image:url('button-kitchen.jpg')"
->
-<div class="pillar-content">
-<h3>Kitchen</h3>
-<span>Gather · Make · Share</span>
-</div>
-</a>
+  </div>
 
 
-<a
-class="pillar"
-href="garden/"
-style="background-image:url('button-garden.jpg')"
->
-<div class="pillar-content">
-<h3>Garden</h3>
-<span>Grow · Tend · Learn</span>
-</div>
-</a>
+  <div class="pillars">
 
 
-<a
-class="pillar"
-href="craft/"
-style="background-image:url('button-craft.jpg')"
->
-<div class="pillar-content">
-<h3>Craft</h3>
-<span>Make · Repair · Create</span>
-</div>
-</a>
+    <a
+      class="pillar"
+      href="kitchen/"
+      style="background-image:url('button-kitchen.jpg')"
+    >
+
+      <div class="pillar-content">
+
+        <h3>
+          Kitchen
+        </h3>
+
+        <span>
+          Gather · Make · Share
+        </span>
+
+      </div>
+
+    </a>
 
 
-<a
-class="pillar"
-href="rhythm/"
-style="background-image:url('button-rhythm.jpg')"
->
-<div class="pillar-content">
-<h3>Rhythm</h3>
-<span>Home · Season · Self</span>
-</div>
-</a>
+    <a
+      class="pillar"
+      href="garden/"
+      style="background-image:url('button-garden.jpg')"
+    >
+
+      <div class="pillar-content">
+
+        <h3>
+          Garden
+        </h3>
+
+        <span>
+          Grow · Tend · Learn
+        </span>
+
+      </div>
+
+    </a>
 
 
-<a
-class="pillar"
-href="wine-travel/"
-style="background-image:url('button-wt.jpg')"
->
-<div class="pillar-content">
-<h3>Wine &amp; Travel</h3>
-<span>Explore · Taste · Discover</span>
-</div>
-</a>
+    <a
+      class="pillar"
+      href="craft/"
+      style="background-image:url('button-craft.jpg')"
+    >
 
-</div>
+      <div class="pillar-content">
+
+        <h3>
+          Craft
+        </h3>
+
+        <span>
+          Make · Repair · Create
+        </span>
+
+      </div>
+
+    </a>
+
+
+    <a
+      class="pillar"
+      href="rhythm/"
+      style="background-image:url('button-rhythm.jpg')"
+    >
+
+      <div class="pillar-content">
+
+        <h3>
+          Rhythm
+        </h3>
+
+        <span>
+          Home · Season · Self
+        </span>
+
+      </div>
+
+    </a>
+
+
+    <a
+      class="pillar"
+      href="wine-travel/"
+      style="background-image:url('button-wt.jpg')"
+    >
+
+      <div class="pillar-content">
+
+        <h3>
+          Wine &amp; Travel
+        </h3>
+
+        <span>
+          Explore · Taste · Discover
+        </span>
+
+      </div>
+
+    </a>
+
+
+  </div>
 
 </section>
 
+
+<!-- =========================================================
+     EMAIL / STAY ROOTED
+     ========================================================= -->
+
+<section class="stay-rooted">
+
+  <h2>
+    Stay Rooted
+  </h2>
+
+
+  <p>
+    Thistle &amp; Cypress is shared slowly and intentionally.
+    If you'd like to be notified when new recipes, garden
+    updates, writings, and projects are published, you're
+    welcome to stay connected.
+  </p>
+
+
+  <p>
+
+    <a
+      href="mailto:thistleandcypress@gmail.com?subject=Please%20add%20me%20to%20Thistle%20%26%20Cypress%20updates&body=Hello!%20I'd%20like%20to%20receive%20updates%20from%20Thistle%20%26%20Cypress.%0D%0A%0D%0AName:%0D%0AEmail:"
+      class="notify-button"
+    >
+      Notify Me When New Content Is Shared
+    </a>
+
+  </p>
+
+
+  <p class="small-note">
+    No promotions. No noise. Just new work, when it's ready.
+  </p>
+
+</section>
+
+
+<!-- =========================================================
+     CLOSING INVITATION
+     ========================================================= -->
 
 <section class="closing">
 
-<h2>
-Pull up a chair.
-</h2>
+  <h2>
+    Pull up a chair.
+  </h2>
 
-<p>
-Come back when you’re ready. There’s always something
-cooking, growing, being made, or waiting just beyond
-the next road.
-</p>
 
-<a class="button" href="about.html">
-Begin exploring
-</a>
+  <p>
+    Come back when you’re ready. There’s always something
+    cooking, growing, being made, or waiting just beyond
+    the next road.
+  </p>
+
+
+  <a
+    class="button"
+    href="about.html"
+  >
+    Explore Thistle &amp; Cypress
+  </a>
 
 </section>
+
 
 </main>
 
 
-<footer>
-Scottish resilience. Italian abundance. Ten wooded acres.
-</footer>
+<!-- =========================================================
+     FOOTER
+     ========================================================= -->
+
+
+{% include footer.html %}
 
 </body>
 </html>
+
