@@ -1873,3 +1873,200 @@ body.garden-page .garden-destination + .garden-destination {
     padding-top: 0;
   }
 }
+
+
+/* =========================================================
+   EDITORIAL V7 — FIVE-WORLD SYSTEM / SHARED INTRO FOUNDATION
+   ---------------------------------------------------------
+   This layer is intentionally append-only and reversible.
+
+   Purpose:
+   - establish one shared editorial pattern for all five worlds
+   - make the display heading scale explicit rather than inherited
+   - give Kitchen and Garden the same visual rules now
+   - provide the shared .world-intro hook for Craft, Rhythm,
+     and Wine & Travel during the HTML normalization pass
+
+   The existing page-specific classes remain valid. Nothing above
+   this section is removed or rewritten.
+   ========================================================= */
+
+:root {
+  --tc-world-intro-width: 960px;
+  --tc-world-reading-width: 720px;
+  --tc-world-display-size: 1.55rem;
+  --tc-world-display-line-height: 1.28;
+  --tc-world-display-weight: 500;
+  --tc-world-intro-top: clamp(2.75rem, 5vw, 4rem);
+  --tc-world-intro-bottom: clamp(1.75rem, 3.25vw, 2.75rem);
+}
+
+/* ------------------------------------------
+   SHARED WORLD INTRO
+   Kitchen and Garden use their existing page-specific
+   classes today. .world-intro is the common hook for
+   the five-world HTML normalization that follows.
+------------------------------------------- */
+
+body.kitchen-page .kitchen-intro,
+body.garden-page .garden-intro,
+body.craft-page .craft-intro,
+body.rhythm-page .rhythm-intro,
+body.wine-travel-page .wine-travel-intro,
+.world-intro {
+  max-width: var(--tc-world-intro-width);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* ------------------------------------------
+   WORLD INTRO EYEBROW
+------------------------------------------- */
+
+body.kitchen-page .kitchen-intro .eyebrow,
+body.garden-page .garden-intro .eyebrow,
+body.craft-page .craft-intro .eyebrow,
+body.rhythm-page .rhythm-intro .eyebrow,
+body.wine-travel-page .wine-travel-intro .eyebrow,
+.world-intro .eyebrow {
+  display: block;
+  width: 100%;
+  margin: 0 0 0.75rem;
+  text-align: center;
+}
+
+/* ------------------------------------------
+   WORLD INTRO DISPLAY HEADING
+   Explicitly standardized across all five worlds.
+   This preserves Kitchen's established desktop scale
+   rather than introducing an arbitrary size change.
+------------------------------------------- */
+
+body.kitchen-page .kitchen-intro h2,
+body.garden-page .garden-intro h2,
+body.craft-page .craft-intro h2,
+body.rhythm-page .rhythm-intro h2,
+body.wine-travel-page .wine-travel-intro h2,
+.world-intro h2 {
+  max-width: 900px;
+  margin: 0 auto 1rem;
+  font-size: var(--tc-world-display-size);
+  line-height: var(--tc-world-display-line-height);
+  font-weight: var(--tc-world-display-weight);
+  text-align: center;
+}
+
+/* ------------------------------------------
+   WORLD INTRO READING COLUMN
+------------------------------------------- */
+
+body.kitchen-page .kitchen-intro > p:not(.eyebrow),
+body.garden-page .garden-intro > p:not(.eyebrow),
+body.craft-page .craft-intro > p:not(.eyebrow),
+body.rhythm-page .rhythm-intro > p:not(.eyebrow),
+body.wine-travel-page .wine-travel-intro > p:not(.eyebrow),
+.world-intro > p:not(.eyebrow) {
+  max-width: var(--tc-world-reading-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Keep multiple intro paragraphs visually connected. */
+body.kitchen-page .kitchen-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.garden-page .garden-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.craft-page .craft-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.rhythm-page .rhythm-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.wine-travel-page .wine-travel-intro > p:not(.eyebrow) + p:not(.eyebrow),
+.world-intro > p:not(.eyebrow) + p:not(.eyebrow) {
+  margin-top: 1.15rem;
+}
+
+/* ------------------------------------------
+   WORLD INTRO RHYTHM
+------------------------------------------- */
+
+body.kitchen-page .kitchen-intro,
+body.garden-page .garden-intro,
+body.craft-page .craft-intro,
+body.rhythm-page .rhythm-intro,
+body.wine-travel-page .wine-travel-intro,
+.world-intro {
+  padding-top: var(--tc-world-intro-top);
+  padding-bottom: var(--tc-world-intro-bottom);
+}
+
+/* ------------------------------------------
+   WORLD DESTINATION HEADINGS
+   Destination headings share the same centered editorial
+   treatment without changing their surrounding content.
+------------------------------------------- */
+
+body.kitchen-page .kitchen-section-heading h2,
+body.garden-page .garden-destination h2,
+body.craft-page .craft-destination h2,
+body.rhythm-page .rhythm-destination h2,
+body.wine-travel-page .wine-travel-destination h2 {
+  text-align: center;
+}
+
+/* ------------------------------------------
+   FIVE-WORLD HERO TEXT — SHARED BASE
+   Image selection and page-specific overlay strength remain
+   untouched. This only keeps the text hierarchy consistent.
+------------------------------------------- */
+
+body.kitchen-page .hero h1,
+body.garden-page .hero h1,
+body.craft-page .hero h1,
+body.rhythm-page .hero h1,
+body.wine-travel-page .hero h1 {
+  margin-top: 0;
+}
+
+/* ------------------------------------------
+   MOBILE WORLD INTRO
+   Keep the same hierarchy while respecting narrow screens.
+------------------------------------------- */
+
+@media (max-width: 768px) {
+  body.kitchen-page .kitchen-intro h2,
+  body.garden-page .garden-intro h2,
+  body.craft-page .craft-intro h2,
+  body.rhythm-page .rhythm-intro h2,
+  body.wine-travel-page .wine-travel-intro h2,
+  .world-intro h2 {
+    font-size: 1.45rem;
+    line-height: 1.3;
+  }
+
+  body.kitchen-page .kitchen-intro,
+  body.garden-page .garden-intro,
+  body.craft-page .craft-intro,
+  body.rhythm-page .rhythm-intro,
+  body.wine-travel-page .wine-travel-intro,
+  .world-intro {
+    padding-top: 2.75rem;
+    padding-bottom: 2rem;
+  }
+
+  body.kitchen-page .kitchen-intro > p:not(.eyebrow),
+  body.garden-page .garden-intro > p:not(.eyebrow),
+  body.craft-page .craft-intro > p:not(.eyebrow),
+  body.rhythm-page .rhythm-intro > p:not(.eyebrow),
+  body.wine-travel-page .wine-travel-intro > p:not(.eyebrow),
+  .world-intro > p:not(.eyebrow) {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  body.kitchen-page .kitchen-intro h2,
+  body.garden-page .garden-intro h2,
+  body.craft-page .craft-intro h2,
+  body.rhythm-page .rhythm-intro h2,
+  body.wine-travel-page .wine-travel-intro h2,
+  .world-intro h2 {
+    font-size: 1.3rem;
+  }
+}
