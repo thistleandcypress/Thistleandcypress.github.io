@@ -1449,3 +1449,113 @@ body.kitchen-page .kitchen-worlds a {
     letter-spacing: 0.15em;
   }
 }
+
+/* =========================================================
+   EDITORIAL V3 — TYPE & CONTRAST CORRECTION (TEST)
+   ---------------------------------------------------------
+   This layer refines the five-world hero typography after visual
+   testing. It does not change page structure or image selection.
+   Remove this section to return to Five-Worlds V2 behavior.
+   ========================================================= */
+
+/* ------------------------------------------
+   WORLD HERO TYPOGRAPHY
+------------------------------------------- */
+
+body.kitchen-page .hero .hero-inner,
+body.garden-page .hero .hero-inner,
+body.craft-page .hero .hero-inner,
+body.rhythm-page .hero .hero-inner,
+body.wine-travel-page .hero .hero-inner {
+  color: var(--tc-ink);
+}
+
+body.kitchen-page .hero h1,
+body.garden-page .hero h1,
+body.craft-page .hero h1,
+body.rhythm-page .hero h1,
+body.wine-travel-page .hero h1 {
+  color: #241f1b;
+  font-weight: 600;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.18);
+}
+
+/* The Home page uses a quieter, more conversational hero line. Match that
+   character on the world pages rather than inheriting the older italic style. */
+body.kitchen-page .hero .tagline,
+body.garden-page .hero .tagline,
+body.craft-page .hero .tagline,
+body.rhythm-page .hero .tagline,
+body.wine-travel-page .hero .tagline {
+  max-width: 760px;
+  margin: 0.65rem auto 0;
+  color: #302a25;
+  font-family: "Source Sans 3", Georgia, sans-serif;
+  font-size: clamp(1rem, 1.45vw, 1.12rem);
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.55;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.16);
+}
+
+/* Keep the eyebrow crisp and readable against photography. */
+body.kitchen-page .hero .eyebrow,
+body.garden-page .hero .eyebrow,
+body.craft-page .hero .eyebrow,
+body.rhythm-page .hero .eyebrow,
+body.wine-travel-page .hero .eyebrow {
+  color: #513b57;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.19em;
+  line-height: 1.3;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.22);
+}
+
+/* ------------------------------------------
+   KITCHEN HERO — RETAIN PHOTOGRAPHIC QUALITY
+------------------------------------------- */
+
+body.kitchen-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.48) 0%,
+    rgba(255, 255, 255, 0.31) 55%,
+    rgba(255, 255, 255, 0.23) 100%
+  );
+}
+
+/* ------------------------------------------
+   WORLD HERO MOBILE TYPE
+------------------------------------------- */
+
+@media (max-width: 768px) {
+  body.kitchen-page .hero .tagline,
+  body.garden-page .hero .tagline,
+  body.craft-page .hero .tagline,
+  body.rhythm-page .hero .tagline,
+  body.wine-travel-page .hero .tagline {
+    max-width: 640px;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 480px) {
+  body.kitchen-page .hero .eyebrow,
+  body.garden-page .hero .eyebrow,
+  body.craft-page .hero .eyebrow,
+  body.rhythm-page .hero .eyebrow,
+  body.wine-travel-page .hero .eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+  }
+
+  body.kitchen-page .hero .tagline,
+  body.garden-page .hero .tagline,
+  body.craft-page .hero .tagline,
+  body.rhythm-page .hero .tagline,
+  body.wine-travel-page .hero .tagline {
+    font-size: 0.96rem;
+  }
+}
