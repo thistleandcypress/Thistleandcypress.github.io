@@ -1726,3 +1726,89 @@ body.kitchen-page .hero::before {
     rgba(250, 248, 245, 0.55)
   );
 }
+
+/* =========================================================
+   GARDEN TEST — EDITORIAL ALIGNMENT + HERO OPACITY
+   ---------------------------------------------------------
+   Keeps the existing Garden content intact while bringing
+   the page into the same centered editorial rhythm as Kitchen.
+   Garden's hero gets the added readability overlay; other
+   world heroes remain unchanged.
+   ========================================================= */
+
+body.garden-page .garden-intro,
+body.garden-page .garden-section-heading {
+  text-align: center;
+}
+
+body.garden-page .garden-intro {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: clamp(3.25rem, 6vw, 4.75rem);
+  padding-bottom: clamp(2.25rem, 4vw, 3.25rem);
+}
+
+body.garden-page .garden-intro > p:not(.eyebrow) {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body.garden-page .garden-intro > p + p {
+  margin-top: 1.15rem;
+}
+
+body.garden-page .garden-sections {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: clamp(2.5rem, 4.5vw, 3.75rem);
+  padding-bottom: clamp(2.5rem, 4.5vw, 3.75rem);
+}
+
+body.garden-page .garden-destination {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  padding-bottom: clamp(2rem, 3.5vw, 3rem);
+}
+
+body.garden-page .garden-destination + .garden-destination {
+  padding-top: clamp(1rem, 2vw, 1.5rem);
+}
+
+body.garden-page .garden-destination h2 {
+  text-align: center;
+}
+
+body.garden-page .garden-destination > p {
+  text-align: left;
+}
+
+/* Garden needs the same kind of photographic protection as Kitchen. */
+body.garden-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(250, 248, 245, 0.72),
+    rgba(250, 248, 245, 0.55)
+  );
+}
+
+@media (max-width: 760px) {
+  body.garden-page .garden-intro {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  body.garden-page .garden-sections {
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+  }
+
+  body.garden-page .garden-destination {
+    max-width: 100%;
+    padding-bottom: 2.25rem;
+  }
+}
