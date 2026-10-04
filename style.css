@@ -1200,88 +1200,39 @@ textarea:focus-visible {
 }
 
 /* =========================================================
-   THISTLE & CYPRESS — EDITORIAL DESIGN SYSTEM V2 (TEST)
+   THISTLE & CYPRESS — FIVE-WORLD EDITORIAL SYSTEM V7
    ---------------------------------------------------------
-   This layer refines the existing V1 stylesheet without
-   changing established class names or removing older rules.
+   One authoritative layer for the five World pages.
 
-   Goals:
-   1. Stronger, more consistent pillar-page hero titles.
-   2. More photographic / less opaque Kitchen hero treatment.
-   3. A reusable centered eyebrow + heading + intro pattern.
-   4. More intentional vertical rhythm between major sections.
-   5. A foundation that can be reused by Garden, Craft,
-      Rhythm, and Wine & Travel after Kitchen is approved.
+   Purpose:
+   - Give World intros one consistent hierarchy.
+   - Prevent Kitchen/Garden from inheriting different H2 sizes.
+   - Keep every World eyebrow centered to its own content column.
+   - Preserve the successful Kitchen and Garden hero overlays.
+   - Leave Home, article pages, recipe pages, and project pages alone.
 
-   Remove this entire section to return to V1 behavior.
+   Current HTML is supported through the existing page-specific hooks
+   (.kitchen-intro and .garden-intro). A future shared .world-intro hook
+   is also supported, so the same system can be extended to Craft,
+   Rhythm, and Wine & Travel without another typography rewrite.
    ========================================================= */
 
 :root {
-  --tc-eyebrow-size: 0.76rem;
-  --tc-eyebrow-spacing: 0.18em;
-  --tc-section-gap: clamp(3.25rem, 7vw, 5.5rem);
-  --tc-section-gap-tight: clamp(2.25rem, 4vw, 3.5rem);
-  --tc-section-reading: 720px;
+  --tc-world-eyebrow-size: 0.76rem;
+  --tc-world-eyebrow-spacing: 0.18em;
+  --tc-world-display-size: 1.55rem;
+  --tc-world-display-line-height: 1.18;
+  --tc-world-reading: 720px;
+  --tc-world-intro-width: 960px;
+  --tc-world-intro-top: clamp(2.75rem, 5vw, 4rem);
+  --tc-world-intro-bottom: clamp(1.75rem, 3vw, 2.75rem);
+  --tc-world-section-gap: clamp(2rem, 3.5vw, 3rem);
 }
 
 /* ------------------------------------------
-   REUSABLE EDITORIAL SECTION HEADER
+   FIVE-WORLD HERO TYPOGRAPHY
 ------------------------------------------- */
 
-.section-eyebrow,
-.kitchen-intro .eyebrow,
-.kitchen-section-heading .eyebrow,
-.from-kitchen .eyebrow,
-.from-kitchen-header .eyebrow {
-  margin: 0 0 0.75rem;
-  font-family: "Source Sans 3", Georgia, sans-serif;
-  font-size: var(--tc-eyebrow-size);
-  font-weight: 600;
-  letter-spacing: var(--tc-eyebrow-spacing);
-  line-height: 1.35;
-  text-align: center;
-  text-transform: uppercase;
-  color: var(--tc-plum);
-}
-
-/* The heading and its introductory copy share the same visual column. */
-.section-header,
-.kitchen-section-heading,
-.from-kitchen-header {
-  max-width: var(--tc-section-reading);
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-.section-header h2,
-.kitchen-section-heading h2,
-.from-kitchen-header h2 {
-  margin-top: 0;
-  margin-bottom: 0.7rem;
-}
-
-.section-header > p,
-.kitchen-section-heading > p,
-.from-kitchen-header > p {
-  max-width: 680px;
-  margin: 0 auto;
-}
-
-/* ------------------------------------------
-   FIVE-WORLD DESIGN SYSTEM
-------------------------------------------- */
-
-/* Kitchen, Garden, Craft, Rhythm, and Wine & Travel are equal top-level
-   worlds. Their pages may differ in content and imagery, but they share
-   the same core hierarchy and responsive behavior. */
-
-/* ------------------------------------------
-   FIVE-WORLD HERO TITLES
-------------------------------------------- */
-
-/* All five worlds get a stronger title hierarchy without changing Home's
-   deliberately custom hero composition. */
 body.kitchen-page .hero h1,
 body.garden-page .hero h1,
 body.craft-page .hero h1,
@@ -1290,198 +1241,11 @@ body.wine-travel-page .hero h1 {
   font-size: clamp(3rem, 6vw, 4.75rem);
   line-height: 1;
   margin-bottom: 0.5rem;
-}
-
-/* Reusable class for future world-page templates. */
-.tc-hero-title {
-  font-size: clamp(3rem, 6vw, 4.75rem);
-  line-height: 1;
-}
-
-/* Wine & Travel is a first-class world, not a Kitchen sub-page.
-   Its hero image is supplied by the page itself, so the shared design
-   system governs typography and hierarchy without forcing a background. */
-body.wine-travel-page .hero .eyebrow {
-  margin: 0 0 0.8rem;
-  font-family: "Source Sans 3", Georgia, sans-serif;
-  font-size: var(--tc-eyebrow-size);
-  font-weight: 600;
-  letter-spacing: var(--tc-eyebrow-spacing);
-  text-transform: uppercase;
-  text-align: center;
-  color: var(--tc-plum);
-}
-
-/* ------------------------------------------
-   KITCHEN HERO — MORE PHOTOGRAPHIC
-------------------------------------------- */
-
-/* The previous V1 overlay was intentionally soft, but Kitchen now follows
-   the Home page's more photographic visual language. */
-body.kitchen-page .hero::before {
-  background-image: linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, 0.54) 0%,
-    rgba(255, 255, 255, 0.36) 55%,
-    rgba(255, 255, 255, 0.28) 100%
-  );
-}
-
-/* Keep Kitchen's hero text readable without washing out the photograph. */
-body.kitchen-page .hero .eyebrow {
-  margin: 0 0 0.8rem;
-  font-family: "Source Sans 3", Georgia, sans-serif;
-  font-size: var(--tc-eyebrow-size);
-  font-weight: 600;
-  letter-spacing: var(--tc-eyebrow-spacing);
-  text-transform: uppercase;
-  text-align: center;
-  color: var(--tc-plum);
-}
-
-/* ------------------------------------------
-   KITCHEN EDITORIAL RHYTHM
-------------------------------------------- */
-
-body.kitchen-page .kitchen-intro {
-  padding-top: var(--tc-section-gap);
-  padding-bottom: var(--tc-section-gap-tight);
-}
-
-body.kitchen-page .kitchen-intro h2 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  text-align: center;
-}
-
-body.kitchen-page .kitchen-intro p:not(.eyebrow) {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body.kitchen-page .kitchen-section {
-  padding-top: var(--tc-section-gap-tight);
-  padding-bottom: var(--tc-section-gap-tight);
-}
-
-body.kitchen-page .kitchen-section-heading {
-  margin-bottom: 2rem;
-}
-
-body.kitchen-page .kitchen-section-heading h2 {
-  text-align: center;
-}
-
-body.kitchen-page .kitchen-section-heading > p {
-  text-align: center;
-}
-
-body.kitchen-page .from-kitchen {
-  padding-top: var(--tc-section-gap);
-  padding-bottom: var(--tc-section-gap);
-  margin-top: 0;
-}
-
-body.kitchen-page .from-kitchen-header {
-  margin-bottom: 2.25rem;
-}
-
-body.kitchen-page .from-kitchen-header h2 {
-  text-align: center;
-}
-
-body.kitchen-page .from-kitchen-header > p {
-  text-align: center;
-}
-
-/* ------------------------------------------
-   KITCHEN WORLD GRID — KEEP THE AIR, REDUCE THE DRIFT
-------------------------------------------- */
-
-body.kitchen-page .kitchen-worlds {
-  gap: 0.85rem;
-}
-
-body.kitchen-page .kitchen-worlds a {
-  padding: 1.25rem 1.35rem;
-}
-
-/* ------------------------------------------
-   KITCHEN MOBILE RHYTHM
-------------------------------------------- */
-
-@media (max-width: 768px) {
-  body.kitchen-page .hero h1,
-  body.garden-page .hero h1,
-  body.craft-page .hero h1,
-  body.rhythm-page .hero h1,
-  body.wine-travel-page .hero h1 {
-    font-size: clamp(2.7rem, 11vw, 3.6rem);
-  }
-
-  body.kitchen-page .kitchen-intro {
-    padding-top: 3.5rem;
-    padding-bottom: 2.5rem;
-  }
-
-  body.kitchen-page .kitchen-section,
-  body.kitchen-page .from-kitchen {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-  }
-}
-
-@media (max-width: 480px) {
-  body.kitchen-page .hero h1,
-  body.garden-page .hero h1,
-  body.craft-page .hero h1,
-  body.rhythm-page .hero h1 {
-    font-size: 2.6rem;
-  }
-
-  .section-eyebrow,
-  .kitchen-intro .eyebrow,
-  .kitchen-section-heading .eyebrow,
-  .from-kitchen .eyebrow,
-  .from-kitchen-header .eyebrow {
-    font-size: 0.7rem;
-    letter-spacing: 0.15em;
-  }
-}
-
-/* =========================================================
-   EDITORIAL V3 — TYPE & CONTRAST CORRECTION (TEST)
-   ---------------------------------------------------------
-   This layer refines the five-world hero typography after visual
-   testing. It does not change page structure or image selection.
-   Remove this section to return to Five-Worlds V2 behavior.
-   ========================================================= */
-
-/* ------------------------------------------
-   WORLD HERO TYPOGRAPHY
-------------------------------------------- */
-
-body.kitchen-page .hero .hero-inner,
-body.garden-page .hero .hero-inner,
-body.craft-page .hero .hero-inner,
-body.rhythm-page .hero .hero-inner,
-body.wine-travel-page .hero .hero-inner {
-  color: var(--tc-ink);
-}
-
-body.kitchen-page .hero h1,
-body.garden-page .hero h1,
-body.craft-page .hero h1,
-body.rhythm-page .hero h1,
-body.wine-travel-page .hero h1 {
   color: #241f1b;
   font-weight: 600;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.18);
 }
 
-/* The Home page uses a quieter, more conversational hero line. Match that
-   character on the world pages rather than inheriting the older italic style. */
 body.kitchen-page .hero .tagline,
 body.garden-page .hero .tagline,
 body.craft-page .hero .tagline,
@@ -1495,41 +1259,259 @@ body.wine-travel-page .hero .tagline {
   font-style: normal;
   font-weight: 500;
   line-height: 1.55;
+  text-align: center;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.16);
 }
 
-/* Keep the eyebrow crisp and readable against photography. */
 body.kitchen-page .hero .eyebrow,
 body.garden-page .hero .eyebrow,
 body.craft-page .hero .eyebrow,
 body.rhythm-page .hero .eyebrow,
 body.wine-travel-page .hero .eyebrow {
-  color: #513b57;
-  font-size: 0.78rem;
+  color: var(--tc-plum);
+  font-family: "Source Sans 3", Georgia, sans-serif;
+  font-size: var(--tc-world-eyebrow-size);
   font-weight: 700;
-  letter-spacing: 0.19em;
+  letter-spacing: var(--tc-world-eyebrow-spacing);
   line-height: 1.3;
+  text-align: center;
+  text-transform: uppercase;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.22);
 }
 
 /* ------------------------------------------
-   KITCHEN HERO — RETAIN PHOTOGRAPHIC QUALITY
+   WORLD INTRO — ONE AUTHORITATIVE TYPE SYSTEM
+
+   The important fix is here: the display H2 size is explicitly
+   assigned to the World intro itself. It no longer depends on the
+   global h2 rule, .content-section h2, or mobile h2 inheritance.
 ------------------------------------------- */
 
-body.kitchen-page .hero::before {
+body.kitchen-page .kitchen-intro,
+body.garden-page .garden-intro,
+body.craft-page .world-intro,
+body.rhythm-page .world-intro,
+body.wine-travel-page .world-intro,
+body.kitchen-page .world-intro,
+body.garden-page .world-intro {
+  max-width: var(--tc-world-intro-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: var(--tc-world-intro-top);
+  padding-bottom: var(--tc-world-intro-bottom);
+  text-align: center;
+}
+
+/* Future-proof shared hook: when the other World pages receive
+   class="world-intro", they automatically enter the same system. */
+body.craft-page .world-intro,
+body.rhythm-page .world-intro,
+body.wine-travel-page .world-intro {
+  text-align: center;
+}
+
+body.kitchen-page .kitchen-intro .eyebrow,
+body.garden-page .garden-intro .eyebrow,
+body.kitchen-page .world-intro .eyebrow,
+body.garden-page .world-intro .eyebrow,
+body.craft-page .world-intro .eyebrow,
+body.rhythm-page .world-intro .eyebrow,
+body.wine-travel-page .world-intro .eyebrow {
+  display: block;
+  width: 100%;
+  max-width: var(--tc-world-reading);
+  margin: 0 auto 0.75rem;
+  font-family: "Source Sans 3", Georgia, sans-serif;
+  font-size: var(--tc-world-eyebrow-size);
+  font-weight: 600;
+  letter-spacing: var(--tc-world-eyebrow-spacing);
+  line-height: 1.35;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--tc-plum);
+}
+
+body.kitchen-page .kitchen-intro h2,
+body.garden-page .garden-intro h2,
+body.kitchen-page .world-intro h2,
+body.garden-page .world-intro h2,
+body.craft-page .world-intro h2,
+body.rhythm-page .world-intro h2,
+body.wine-travel-page .world-intro h2 {
+  max-width: var(--tc-world-reading);
+  margin: 0 auto 0.9rem;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: var(--tc-world-display-size);
+  font-weight: 500;
+  line-height: var(--tc-world-display-line-height);
+  letter-spacing: -0.01em;
+  text-align: center;
+  color: #2b2623;
+}
+
+body.kitchen-page .kitchen-intro > p:not(.eyebrow),
+body.garden-page .garden-intro > p:not(.eyebrow),
+body.kitchen-page .world-intro > p:not(.eyebrow),
+body.garden-page .world-intro > p:not(.eyebrow),
+body.craft-page .world-intro > p:not(.eyebrow),
+body.rhythm-page .world-intro > p:not(.eyebrow),
+body.wine-travel-page .world-intro > p:not(.eyebrow) {
+  max-width: var(--tc-world-reading);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+body.kitchen-page .kitchen-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.garden-page .garden-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.kitchen-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.garden-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.craft-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.rhythm-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.wine-travel-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow) {
+  margin-top: 1.15rem;
+}
+
+/* ------------------------------------------
+   WORLD DESTINATION HEADINGS
+
+   These are deliberately separate from the World intro display
+   heading. They keep the established 1.55rem content-heading scale
+   and do not inherit the larger intro treatment.
+------------------------------------------- */
+
+body.garden-page .garden-destination h2,
+body.kitchen-page .kitchen-section-heading h2,
+body.kitchen-page .from-kitchen-header h2 {
+  font-size: 1.55rem;
+  line-height: 1.25;
+  text-align: center;
+}
+
+/* ------------------------------------------
+   KITCHEN — PRESERVE APPROVED RHYTHM
+------------------------------------------- */
+
+body.kitchen-page .kitchen-section {
+  padding-top: var(--tc-world-section-gap);
+  padding-bottom: var(--tc-world-section-gap);
+}
+
+body.kitchen-page .kitchen-section-heading,
+body.kitchen-page .from-kitchen-header {
+  max-width: var(--tc-world-reading);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body.kitchen-page .kitchen-section-heading .eyebrow,
+body.kitchen-page .from-kitchen-header .eyebrow {
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body.kitchen-page .kitchen-section-heading > p,
+body.kitchen-page .from-kitchen-header > p:not(.eyebrow) {
+  max-width: var(--tc-world-reading);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body.kitchen-page .kitchen-section > p {
+  max-width: var(--tc-world-reading);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+body.kitchen-page .kitchen-section > p + p {
+  margin-top: 1.15rem;
+}
+
+body.kitchen-page .from-kitchen {
+  padding-top: var(--tc-world-intro-top);
+  padding-bottom: var(--tc-world-intro-top);
+  margin-top: 0;
+}
+
+body.kitchen-page .from-kitchen-header {
+  margin-bottom: 2.25rem;
+}
+
+body.kitchen-page .kitchen-worlds {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 0.85rem;
+}
+
+body.kitchen-page .kitchen-worlds a {
+  padding: 1.25rem 1.35rem;
+}
+
+/* ------------------------------------------
+   GARDEN — PRESERVE APPROVED RHYTHM
+------------------------------------------- */
+
+body.garden-page .garden-sections {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: var(--tc-world-section-gap);
+  padding-bottom: var(--tc-world-section-gap);
+}
+
+body.garden-page .garden-destination {
+  max-width: var(--tc-world-reading);
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: clamp(1.5rem, 2.5vw, 2.25rem);
+  text-align: left;
+}
+
+body.garden-page .garden-destination + .garden-destination {
+  padding-top: 0.5rem;
+}
+
+body.garden-page .garden-destination > p {
+  text-align: left;
+}
+
+/* ------------------------------------------
+   APPROVED HERO PHOTOGRAPHY
+   These two overlays are the tested values. They are intentionally
+   local to Kitchen and Garden; the other three World images stay as-is.
+------------------------------------------- */
+
+body.kitchen-page .hero::before,
+body.garden-page .hero::before {
   background-image: linear-gradient(
     to bottom,
-    rgba(255, 255, 255, 0.48) 0%,
-    rgba(255, 255, 255, 0.31) 55%,
-    rgba(255, 255, 255, 0.23) 100%
+    rgba(250, 248, 245, 0.72),
+    rgba(250, 248, 245, 0.55)
   );
 }
 
 /* ------------------------------------------
-   WORLD HERO MOBILE TYPE
+   RESPONSIVE WORLD TYPE
+   Explicit World-intro values prevent the old global mobile h2 rules
+   from changing the hierarchy at 768px / 480px.
 ------------------------------------------- */
 
 @media (max-width: 768px) {
+  body.kitchen-page .hero h1,
+  body.garden-page .hero h1,
+  body.craft-page .hero h1,
+  body.rhythm-page .hero h1,
+  body.wine-travel-page .hero h1 {
+    font-size: clamp(2.7rem, 11vw, 3.6rem);
+  }
+
   body.kitchen-page .hero .tagline,
   body.garden-page .hero .tagline,
   body.craft-page .hero .tagline,
@@ -1539,14 +1521,61 @@ body.kitchen-page .hero::before {
     font-size: 1rem;
     line-height: 1.5;
   }
+
+  body.kitchen-page .kitchen-intro,
+  body.garden-page .garden-intro,
+  body.kitchen-page .world-intro,
+  body.garden-page .world-intro,
+  body.craft-page .world-intro,
+  body.rhythm-page .world-intro,
+  body.wine-travel-page .world-intro {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  body.kitchen-page .kitchen-intro h2,
+  body.garden-page .garden-intro h2,
+  body.kitchen-page .world-intro h2,
+  body.garden-page .world-intro h2,
+  body.craft-page .world-intro h2,
+  body.rhythm-page .world-intro h2,
+  body.wine-travel-page .world-intro h2 {
+    font-size: 1.45rem;
+  }
+
+  body.kitchen-page .kitchen-section,
+  body.kitchen-page .from-kitchen,
+  body.garden-page .garden-sections {
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+  }
+
+  body.garden-page .garden-destination {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 480px) {
+  body.kitchen-page .hero h1,
+  body.garden-page .hero h1,
+  body.craft-page .hero h1,
+  body.rhythm-page .hero h1,
+  body.wine-travel-page .hero h1 {
+    font-size: 2.6rem;
+  }
+
   body.kitchen-page .hero .eyebrow,
   body.garden-page .hero .eyebrow,
   body.craft-page .hero .eyebrow,
   body.rhythm-page .hero .eyebrow,
-  body.wine-travel-page .hero .eyebrow {
+  body.wine-travel-page .hero .eyebrow,
+  body.kitchen-page .kitchen-intro .eyebrow,
+  body.garden-page .garden-intro .eyebrow,
+  body.kitchen-page .world-intro .eyebrow,
+  body.garden-page .world-intro .eyebrow,
+  body.craft-page .world-intro .eyebrow,
+  body.rhythm-page .world-intro .eyebrow,
+  body.wine-travel-page .world-intro .eyebrow {
     font-size: 0.7rem;
     letter-spacing: 0.15em;
   }
@@ -1558,311 +1587,26 @@ body.kitchen-page .hero::before {
   body.wine-travel-page .hero .tagline {
     font-size: 0.96rem;
   }
-}
 
-/* =========================================================
-   EDITORIAL V4 — ALIGNMENT & READING RHYTHM (TEST)
-   ---------------------------------------------------------
-   Establishes one visual alignment system for Kitchen:
-   eyebrow -> heading -> short intro -> reading column.
-
-   Long-form copy remains left-aligned for readability, but is
-   contained within the same centered editorial column as the
-   section heading. Destination grids remain centered beneath
-   their section headers.
-   ========================================================= */
-
-/* ------------------------------------------
-   SHARED EDITORIAL HEADER ALIGNMENT
-------------------------------------------- */
-
-body.kitchen-page .kitchen-intro,
-body.kitchen-page .kitchen-section-heading,
-body.kitchen-page .from-kitchen-header {
-  text-align: center;
-}
-
-body.kitchen-page .kitchen-intro {
-  max-width: 960px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body.kitchen-page .kitchen-intro .eyebrow,
-body.kitchen-page .from-kitchen-header .eyebrow {
-  display: block;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-body.kitchen-page .kitchen-intro h2,
-body.kitchen-page .kitchen-intro > p:not(.eyebrow),
-body.kitchen-page .kitchen-section-heading,
-body.kitchen-page .from-kitchen-header {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body.kitchen-page .kitchen-intro h2 {
-  max-width: 900px;
-}
-
-body.kitchen-page .kitchen-intro > p:not(.eyebrow) {
-  max-width: 720px;
-}
-
-body.kitchen-page .kitchen-section-heading,
-body.kitchen-page .from-kitchen-header {
-  max-width: 720px;
-}
-
-body.kitchen-page .kitchen-section-heading h2,
-body.kitchen-page .from-kitchen-header h2 {
-  text-align: center;
-}
-
-body.kitchen-page .kitchen-section-heading > p,
-body.kitchen-page .from-kitchen-header > p:not(.eyebrow) {
-  max-width: 720px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-/* ------------------------------------------
-   READING COLUMN
-   Headings stay centered; longer prose becomes
-   a calm, readable column beneath them.
-------------------------------------------- */
-
-body.kitchen-page .kitchen-section > p {
-  max-width: 720px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left;
-}
-
-body.kitchen-page .kitchen-section > p + p {
-  margin-top: 1.15rem;
-}
-
-/* ------------------------------------------
-   SECTION RHYTHM
-   Less empty space between related sections,
-   while retaining generous editorial breathing room.
-------------------------------------------- */
-
-body.kitchen-page .kitchen-intro {
-  padding-top: clamp(3.25rem, 6vw, 4.75rem);
-  padding-bottom: clamp(2.25rem, 4vw, 3.25rem);
-}
-
-body.kitchen-page .kitchen-section {
-  padding-top: clamp(2.5rem, 4.5vw, 3.75rem);
-  padding-bottom: clamp(2.5rem, 4.5vw, 3.75rem);
-}
-
-body.kitchen-page .kitchen-section + .kitchen-section {
-  padding-top: clamp(2rem, 3.5vw, 3rem);
-}
-
-body.kitchen-page .from-kitchen {
-  padding-top: clamp(3rem, 5vw, 4.5rem);
-}
-
-/* ------------------------------------------
-   EXPLORE THE KITCHEN
-   Keep the header centered while giving the
-   destination group a clear centered footprint.
-------------------------------------------- */
-
-body.kitchen-page .kitchen-worlds {
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* ------------------------------------------
-   MOBILE
-------------------------------------------- */
-
-@media (max-width: 760px) {
-  body.kitchen-page .kitchen-intro {
-    padding-top: 3rem;
-    padding-bottom: 2rem;
-  }
-
-  body.kitchen-page .kitchen-section {
-    padding-top: 2.25rem;
-    padding-bottom: 2.25rem;
-  }
-
-  body.kitchen-page .kitchen-section + .kitchen-section {
-    padding-top: 1.75rem;
-  }
-
-  body.kitchen-page .kitchen-section > p {
-    max-width: 100%;
-  }
-
-  body.kitchen-page .from-kitchen {
-    padding-top: 2.75rem;
-  }
-}
-
-/* ------------------------------------------
-   FIVE-WORLD HERO: KITCHEN OPACITY PASS
-   Kitchen's photography needs a little more
-   breathing room behind the dark hero copy.
-   Other world heroes are intentionally unchanged.
-------------------------------------------- */
-
-body.kitchen-page .hero::before {
-  background-image: linear-gradient(
-    to bottom,
-    rgba(250, 248, 245, 0.72),
-    rgba(250, 248, 245, 0.55)
-  );
-}
-
-/* =========================================================
-   GARDEN TEST — EDITORIAL ALIGNMENT + HERO OPACITY
-   ---------------------------------------------------------
-   Keeps the existing Garden content intact while bringing
-   the page into the same centered editorial rhythm as Kitchen.
-   Garden's hero gets the added readability overlay; other
-   world heroes remain unchanged.
-   ========================================================= */
-
-body.garden-page .garden-intro,
-body.garden-page .garden-section-heading {
-  text-align: center;
-}
-
-body.garden-page .garden-intro {
-  max-width: 960px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: clamp(3.25rem, 6vw, 4.75rem);
-  padding-bottom: clamp(2.25rem, 4vw, 3.25rem);
-}
-
-body.garden-page .garden-intro > p:not(.eyebrow) {
-  max-width: 720px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body.garden-page .garden-intro > p + p {
-  margin-top: 1.15rem;
-}
-
-body.garden-page .garden-sections {
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: clamp(2.5rem, 4.5vw, 3.75rem);
-  padding-bottom: clamp(2.5rem, 4.5vw, 3.75rem);
-}
-
-body.garden-page .garden-destination {
-  max-width: 720px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left;
-  padding-bottom: clamp(2rem, 3.5vw, 3rem);
-}
-
-body.garden-page .garden-destination + .garden-destination {
-  padding-top: clamp(1rem, 2vw, 1.5rem);
-}
-
-body.garden-page .garden-destination h2 {
-  text-align: center;
-}
-
-body.garden-page .garden-destination > p {
-  text-align: left;
-}
-
-/* Garden needs the same kind of photographic protection as Kitchen. */
-body.garden-page .hero::before {
-  background-image: linear-gradient(
-    to bottom,
-    rgba(250, 248, 245, 0.72),
-    rgba(250, 248, 245, 0.55)
-  );
-}
-
-@media (max-width: 760px) {
-  body.garden-page .garden-intro {
-    padding-top: 3rem;
-    padding-bottom: 2rem;
-  }
-
-  body.garden-page .garden-sections {
-    padding-top: 2.25rem;
-    padding-bottom: 2.25rem;
-  }
-
-  body.garden-page .garden-destination {
-    max-width: 100%;
-    padding-bottom: 2.25rem;
-  }
-}
-
-/* =========================================================
-   GARDEN FINAL TEST — EYEBROW ALIGNMENT + RHYTHM
-   ---------------------------------------------------------
-   Keep the shared editorial typography intact. Garden only:
-   - centers both eyebrows with their associated content
-   - tightens the transition between intro and destinations
-   - keeps destination spacing deliberate without large gaps
-   ========================================================= */
-
-body.garden-page .hero-inner,
-body.garden-page .garden-intro {
-  text-align: center;
-}
-
-body.garden-page .hero-inner .eyebrow,
-body.garden-page .garden-intro .eyebrow {
-  display: block;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-body.garden-page .garden-intro {
-  padding-top: clamp(2.75rem, 5vw, 4rem);
-  padding-bottom: clamp(1.5rem, 3vw, 2.5rem);
-}
-
-body.garden-page .garden-sections {
-  padding-top: clamp(1.5rem, 3vw, 2.5rem);
-  padding-bottom: clamp(2rem, 3.5vw, 3rem);
-}
-
-body.garden-page .garden-destination {
-  padding-bottom: clamp(1.5rem, 2.5vw, 2.25rem);
-}
-
-body.garden-page .garden-destination + .garden-destination {
-  padding-top: 0.5rem;
-}
-
-@media (max-width: 760px) {
-  body.garden-page .garden-intro {
+  body.kitchen-page .kitchen-intro,
+  body.garden-page .garden-intro,
+  body.kitchen-page .world-intro,
+  body.garden-page .world-intro,
+  body.craft-page .world-intro,
+  body.rhythm-page .world-intro,
+  body.wine-travel-page .world-intro {
     padding-top: 2.5rem;
     padding-bottom: 1.5rem;
   }
 
-  body.garden-page .garden-sections {
-    padding-top: 1.5rem;
-    padding-bottom: 2rem;
+  body.kitchen-page .kitchen-intro h2,
+  body.garden-page .garden-intro h2,
+  body.kitchen-page .world-intro h2,
+  body.garden-page .world-intro h2,
+  body.craft-page .world-intro h2,
+  body.rhythm-page .world-intro h2,
+  body.wine-travel-page .world-intro h2 {
+    font-size: 1.3rem;
   }
 
   body.garden-page .garden-destination {
@@ -1874,199 +1618,21 @@ body.garden-page .garden-destination + .garden-destination {
   }
 }
 
-
-/* =========================================================
-   EDITORIAL V7 — FIVE-WORLD SYSTEM / SHARED INTRO FOUNDATION
-   ---------------------------------------------------------
-   This layer is intentionally append-only and reversible.
-
-   Purpose:
-   - establish one shared editorial pattern for all five worlds
-   - make the display heading scale explicit rather than inherited
-   - give Kitchen and Garden the same visual rules now
-   - provide the shared .world-intro hook for Craft, Rhythm,
-     and Wine & Travel during the HTML normalization pass
-
-   The existing page-specific classes remain valid. Nothing above
-   this section is removed or rewritten.
-   ========================================================= */
-
-:root {
-  --tc-world-intro-width: 960px;
-  --tc-world-reading-width: 720px;
-  --tc-world-display-size: 1.55rem;
-  --tc-world-display-line-height: 1.28;
-  --tc-world-display-weight: 500;
-  --tc-world-intro-top: clamp(2.75rem, 5vw, 4rem);
-  --tc-world-intro-bottom: clamp(1.75rem, 3.25vw, 2.75rem);
-}
-
 /* ------------------------------------------
-   SHARED WORLD INTRO
-   Kitchen and Garden use their existing page-specific
-   classes today. .world-intro is the common hook for
-   the five-world HTML normalization that follows.
+   ACCESSIBILITY / MOTION
 ------------------------------------------- */
 
-body.kitchen-page .kitchen-intro,
-body.garden-page .garden-intro,
-body.craft-page .craft-intro,
-body.rhythm-page .rhythm-intro,
-body.wine-travel-page .wine-travel-intro,
-.world-intro {
-  max-width: var(--tc-world-intro-width);
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-/* ------------------------------------------
-   WORLD INTRO EYEBROW
-------------------------------------------- */
-
-body.kitchen-page .kitchen-intro .eyebrow,
-body.garden-page .garden-intro .eyebrow,
-body.craft-page .craft-intro .eyebrow,
-body.rhythm-page .rhythm-intro .eyebrow,
-body.wine-travel-page .wine-travel-intro .eyebrow,
-.world-intro .eyebrow {
-  display: block;
-  width: 100%;
-  margin: 0 0 0.75rem;
-  text-align: center;
-}
-
-/* ------------------------------------------
-   WORLD INTRO DISPLAY HEADING
-   Explicitly standardized across all five worlds.
-   This preserves Kitchen's established desktop scale
-   rather than introducing an arbitrary size change.
-------------------------------------------- */
-
-body.kitchen-page .kitchen-intro h2,
-body.garden-page .garden-intro h2,
-body.craft-page .craft-intro h2,
-body.rhythm-page .rhythm-intro h2,
-body.wine-travel-page .wine-travel-intro h2,
-.world-intro h2 {
-  max-width: 900px;
-  margin: 0 auto 1rem;
-  font-size: var(--tc-world-display-size);
-  line-height: var(--tc-world-display-line-height);
-  font-weight: var(--tc-world-display-weight);
-  text-align: center;
-}
-
-/* ------------------------------------------
-   WORLD INTRO READING COLUMN
-------------------------------------------- */
-
-body.kitchen-page .kitchen-intro > p:not(.eyebrow),
-body.garden-page .garden-intro > p:not(.eyebrow),
-body.craft-page .craft-intro > p:not(.eyebrow),
-body.rhythm-page .rhythm-intro > p:not(.eyebrow),
-body.wine-travel-page .wine-travel-intro > p:not(.eyebrow),
-.world-intro > p:not(.eyebrow) {
-  max-width: var(--tc-world-reading-width);
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Keep multiple intro paragraphs visually connected. */
-body.kitchen-page .kitchen-intro > p:not(.eyebrow) + p:not(.eyebrow),
-body.garden-page .garden-intro > p:not(.eyebrow) + p:not(.eyebrow),
-body.craft-page .craft-intro > p:not(.eyebrow) + p:not(.eyebrow),
-body.rhythm-page .rhythm-intro > p:not(.eyebrow) + p:not(.eyebrow),
-body.wine-travel-page .wine-travel-intro > p:not(.eyebrow) + p:not(.eyebrow),
-.world-intro > p:not(.eyebrow) + p:not(.eyebrow) {
-  margin-top: 1.15rem;
-}
-
-/* ------------------------------------------
-   WORLD INTRO RHYTHM
-------------------------------------------- */
-
-body.kitchen-page .kitchen-intro,
-body.garden-page .garden-intro,
-body.craft-page .craft-intro,
-body.rhythm-page .rhythm-intro,
-body.wine-travel-page .wine-travel-intro,
-.world-intro {
-  padding-top: var(--tc-world-intro-top);
-  padding-bottom: var(--tc-world-intro-bottom);
-}
-
-/* ------------------------------------------
-   WORLD DESTINATION HEADINGS
-   Destination headings share the same centered editorial
-   treatment without changing their surrounding content.
-------------------------------------------- */
-
-body.kitchen-page .kitchen-section-heading h2,
-body.garden-page .garden-destination h2,
-body.craft-page .craft-destination h2,
-body.rhythm-page .rhythm-destination h2,
-body.wine-travel-page .wine-travel-destination h2 {
-  text-align: center;
-}
-
-/* ------------------------------------------
-   FIVE-WORLD HERO TEXT — SHARED BASE
-   Image selection and page-specific overlay strength remain
-   untouched. This only keeps the text hierarchy consistent.
-------------------------------------------- */
-
-body.kitchen-page .hero h1,
-body.garden-page .hero h1,
-body.craft-page .hero h1,
-body.rhythm-page .hero h1,
-body.wine-travel-page .hero h1 {
-  margin-top: 0;
-}
-
-/* ------------------------------------------
-   MOBILE WORLD INTRO
-   Keep the same hierarchy while respecting narrow screens.
-------------------------------------------- */
-
-@media (max-width: 768px) {
-  body.kitchen-page .kitchen-intro h2,
-  body.garden-page .garden-intro h2,
-  body.craft-page .craft-intro h2,
-  body.rhythm-page .rhythm-intro h2,
-  body.wine-travel-page .wine-travel-intro h2,
-  .world-intro h2 {
-    font-size: 1.45rem;
-    line-height: 1.3;
+@media (prefers-reduced-motion: reduce) {
+  .subnav a,
+  .post-card,
+  .pillar-button,
+  .print-button,
+  .back-link {
+    transition: none;
   }
 
-  body.kitchen-page .kitchen-intro,
-  body.garden-page .garden-intro,
-  body.craft-page .craft-intro,
-  body.rhythm-page .rhythm-intro,
-  body.wine-travel-page .wine-travel-intro,
-  .world-intro {
-    padding-top: 2.75rem;
-    padding-bottom: 2rem;
-  }
-
-  body.kitchen-page .kitchen-intro > p:not(.eyebrow),
-  body.garden-page .garden-intro > p:not(.eyebrow),
-  body.craft-page .craft-intro > p:not(.eyebrow),
-  body.rhythm-page .rhythm-intro > p:not(.eyebrow),
-  body.wine-travel-page .wine-travel-intro > p:not(.eyebrow),
-  .world-intro > p:not(.eyebrow) {
-    max-width: 100%;
-  }
-}
-
-@media (max-width: 480px) {
-  body.kitchen-page .kitchen-intro h2,
-  body.garden-page .garden-intro h2,
-  body.craft-page .craft-intro h2,
-  body.rhythm-page .rhythm-intro h2,
-  body.wine-travel-page .wine-travel-intro h2,
-  .world-intro h2 {
-    font-size: 1.3rem;
+  .post-card:hover,
+  .pillar-button:hover {
+    transform: none;
   }
 }
