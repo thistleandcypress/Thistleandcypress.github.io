@@ -1462,7 +1462,7 @@ body.garden-page .garden-sections {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
-  padding-top: var(--tc-world-section-gap);
+  padding-top: 1rem;
   padding-bottom: var(--tc-world-section-gap);
 }
 
