@@ -1812,3 +1812,64 @@ body.garden-page .hero::before {
     padding-bottom: 2.25rem;
   }
 }
+
+/* =========================================================
+   GARDEN FINAL TEST — EYEBROW ALIGNMENT + RHYTHM
+   ---------------------------------------------------------
+   Keep the shared editorial typography intact. Garden only:
+   - centers both eyebrows with their associated content
+   - tightens the transition between intro and destinations
+   - keeps destination spacing deliberate without large gaps
+   ========================================================= */
+
+body.garden-page .hero-inner,
+body.garden-page .garden-intro {
+  text-align: center;
+}
+
+body.garden-page .hero-inner .eyebrow,
+body.garden-page .garden-intro .eyebrow {
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body.garden-page .garden-intro {
+  padding-top: clamp(2.75rem, 5vw, 4rem);
+  padding-bottom: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+body.garden-page .garden-sections {
+  padding-top: clamp(1.5rem, 3vw, 2.5rem);
+  padding-bottom: clamp(2rem, 3.5vw, 3rem);
+}
+
+body.garden-page .garden-destination {
+  padding-bottom: clamp(1.5rem, 2.5vw, 2.25rem);
+}
+
+body.garden-page .garden-destination + .garden-destination {
+  padding-top: 0.5rem;
+}
+
+@media (max-width: 760px) {
+  body.garden-page .garden-intro {
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  body.garden-page .garden-sections {
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+  }
+
+  body.garden-page .garden-destination {
+    padding-bottom: 1.75rem;
+  }
+
+  body.garden-page .garden-destination + .garden-destination {
+    padding-top: 0;
+  }
+}
