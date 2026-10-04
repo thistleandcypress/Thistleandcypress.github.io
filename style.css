@@ -1224,9 +1224,9 @@ textarea:focus-visible {
   --tc-world-display-line-height: 1.18;
   --tc-world-reading: 720px;
   --tc-world-intro-width: 960px;
-  --tc-world-intro-top: clamp(2.75rem, 5vw, 4rem);
-  --tc-world-intro-bottom: clamp(1.75rem, 3vw, 2.75rem);
-  --tc-world-section-gap: clamp(2rem, 3.5vw, 3rem);
+  --tc-world-intro-top: clamp(2.25rem, 4vw, 3.25rem);
+  --tc-world-intro-bottom: clamp(1.5rem, 2.5vw, 2.25rem);
+  --tc-world-section-gap: clamp(1.5rem, 2.75vw, 2.5rem);
 }
 
 /* ------------------------------------------
