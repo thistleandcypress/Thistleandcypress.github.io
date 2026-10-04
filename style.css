@@ -1,10 +1,10 @@
 /* ==========================================
    THISTLE & CYPRESS — COMPREHENSIVE STYLESHEET
-   Universal classes supporting Home, About, and all 4 Pillars
+   Universal classes supporting Home, About, and all 5 Pillars
    ========================================== */
 
 /* Google Font Import */
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap");
 
 /* ------------------------------------------
    GLOBAL STYLES
@@ -975,5 +975,226 @@ body.about-page .hero::before {
   .stay-rooted,
   .post-list {
     max-width: 900px;
+  }
+}
+
+
+/* ============================================================
+   THISTLE & CYPRESS — DESIGN SYSTEM 1.0 / SAFE LAYER
+   Added 2026-10-04
+
+   This section intentionally overrides existing styles rather than
+   replacing them. Existing class names and page structure remain valid.
+   Remove this entire section to return to the previous styling.
+============================================================ */
+
+:root {
+  --tc-cream: #faf8f5;
+  --tc-ink: #2f2a26;
+  --tc-green: #2f5d50;
+  --tc-plum: #6b4e71;
+  --tc-sage: #9fb7a6;
+  --tc-warm: #f3efe9;
+  --tc-line: rgba(47, 42, 38, 0.14);
+  --tc-content: 960px;
+  --tc-reading: 720px;
+}
+
+/* Typography: align the interior site with the new homepage language. */
+body {
+  font-family: "Source Sans 3", Georgia, sans-serif;
+  color: var(--tc-ink);
+  background: var(--tc-cream);
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+p, li {
+  max-width: var(--tc-reading);
+}
+
+/* Give ordinary pages a little more breathing room without changing
+   the existing content widths or markup. */
+main {
+  max-width: var(--tc-content);
+}
+
+.content-section,
+.welcome-text,
+.featured-content,
+.stay-rooted {
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
+}
+
+/* Navigation: quieter, more editorial, while preserving existing links. */
+nav {
+  border-bottom: 1px solid var(--tc-line);
+  padding: 0.85rem 0;
+}
+
+nav a {
+  color: var(--tc-ink);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.3em;
+}
+
+nav a:hover,
+nav a:focus-visible {
+  color: var(--tc-green);
+}
+
+/* Subnav remains a useful navigation device, but loses the heavy pill feel. */
+.subnav {
+  background: transparent;
+  border-bottom: 1px solid var(--tc-line);
+  border-radius: 0;
+  padding: 0.5rem 0;
+}
+
+.subnav a {
+  border-radius: 999px;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+
+.subnav a:hover,
+.subnav a:focus-visible {
+  background: var(--tc-warm);
+  color: var(--tc-green);
+}
+
+/* Soft bands become quiet sections rather than rounded containers. */
+.soft-band {
+  background: var(--tc-warm);
+  border-radius: 0;
+  border-top: 1px solid rgba(47, 42, 38, 0.06);
+  border-bottom: 1px solid rgba(47, 42, 38, 0.06);
+}
+
+/* Content cards: retain the component, but make the hierarchy feel less app-like. */
+.post-card {
+  border: 1px solid rgba(47, 42, 38, 0.09);
+  border-radius: 4px;
+  box-shadow: 0 4px 18px rgba(47, 42, 38, 0.055);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.post-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(47, 42, 38, 0.08);
+}
+
+/* Photo-based pillar buttons remain visually important, but feel more like
+   invitations into a world than generic rounded UI cards. */
+.pillar-button {
+  border-radius: 4px;
+  box-shadow: 0 8px 24px rgba(47, 42, 38, 0.10);
+}
+
+.pillar-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(47, 42, 38, 0.14);
+}
+
+.pillar-button span {
+  letter-spacing: 0.025em;
+}
+
+/* Utility actions become simpler and more editorial. */
+.print-button,
+.back-link {
+  transition: color 180ms ease, background-color 180ms ease, border-color 180ms ease;
+}
+
+.print-button {
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+/* Stay Rooted is still a destination, but no longer reads like a floating card. */
+.stay-rooted {
+  border-radius: 4px;
+  border: 1px solid rgba(47, 42, 38, 0.10);
+  box-shadow: none;
+}
+
+/* Tiered heroes: keep the existing short hero as the safe default. Individual
+   pages can opt into a more substantial treatment simply by adding a class. */
+body.pillar-landing-page .hero {
+  min-height: 34vh;
+}
+
+body.pillar-landing-page .hero-inner {
+  max-width: 820px;
+}
+
+body.article-page .hero,
+body.recipe-page .hero,
+body.project-page .hero {
+  min-height: 22vh;
+}
+
+body.article-page .hero-inner,
+body.recipe-page .hero-inner,
+body.project-page .hero-inner {
+  max-width: var(--tc-reading);
+}
+
+/* Images should participate in storytelling rather than feeling pasted in. */
+.about-photo,
+.about-crest-graphic,
+.common-roots-image {
+  border-radius: 3px;
+}
+
+/* Accessible focus treatment for keyboard users. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--tc-green);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .post-card,
+  .pillar-button,
+  .subnav a,
+  .print-button,
+  .back-link {
+    transition: none;
+  }
+
+  .post-card:hover,
+  .pillar-button:hover {
+    transform: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .content-section,
+  .welcome-text,
+  .featured-content,
+  .stay-rooted {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  body.pillar-landing-page .hero {
+    min-height: 26vh;
+  }
+}
+
+@media (max-width: 480px) {
+  body.pillar-landing-page .hero {
+    min-height: 22vh;
   }
 }
