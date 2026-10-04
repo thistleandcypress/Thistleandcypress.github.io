@@ -1784,3 +1784,21 @@ body.wine-travel-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow) {
     font-size: 1.3rem;
   }
 }
+
+/* WORLD DESTINATION LINKS — KEEP VISITED STATE CONSISTENT */
+
+body.garden-page .garden-destination h2 a,
+body.craft-page .craft-destination h2 a {
+  color: #2b2623;
+  text-decoration: none;
+}
+
+body.garden-page .garden-destination h2 a:visited,
+body.craft-page .craft-destination h2 a:visited {
+  color: #2b2623;
+}
+
+body.garden-page .garden-destination h2 a:hover,
+body.craft-page .craft-destination h2 a:hover {
+  color: #6b625c;
+}
