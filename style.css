@@ -1462,20 +1462,20 @@ body.garden-page .garden-sections {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 1rem;
-  padding-bottom: var(--tc-world-section-gap);
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 body.garden-page .garden-destination {
   max-width: var(--tc-world-reading);
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: clamp(1.5rem, 2.5vw, 2.25rem);
+  padding-bottom: 1rem;
   text-align: left;
 }
 
 body.garden-page .garden-destination + .garden-destination {
-  padding-top: 0.5rem;
+  padding-top: 0;
 }
 
 body.garden-page .garden-destination > p {
