@@ -1559,3 +1559,170 @@ body.kitchen-page .hero::before {
     font-size: 0.96rem;
   }
 }
+
+/* =========================================================
+   EDITORIAL V4 — ALIGNMENT & READING RHYTHM (TEST)
+   ---------------------------------------------------------
+   Establishes one visual alignment system for Kitchen:
+   eyebrow -> heading -> short intro -> reading column.
+
+   Long-form copy remains left-aligned for readability, but is
+   contained within the same centered editorial column as the
+   section heading. Destination grids remain centered beneath
+   their section headers.
+   ========================================================= */
+
+/* ------------------------------------------
+   SHARED EDITORIAL HEADER ALIGNMENT
+------------------------------------------- */
+
+body.kitchen-page .kitchen-intro,
+body.kitchen-page .kitchen-section-heading,
+body.kitchen-page .from-kitchen-header {
+  text-align: center;
+}
+
+body.kitchen-page .kitchen-intro {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body.kitchen-page .kitchen-intro .eyebrow,
+body.kitchen-page .from-kitchen-header .eyebrow {
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body.kitchen-page .kitchen-intro h2,
+body.kitchen-page .kitchen-intro > p:not(.eyebrow),
+body.kitchen-page .kitchen-section-heading,
+body.kitchen-page .from-kitchen-header {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body.kitchen-page .kitchen-intro h2 {
+  max-width: 900px;
+}
+
+body.kitchen-page .kitchen-intro > p:not(.eyebrow) {
+  max-width: 720px;
+}
+
+body.kitchen-page .kitchen-section-heading,
+body.kitchen-page .from-kitchen-header {
+  max-width: 720px;
+}
+
+body.kitchen-page .kitchen-section-heading h2,
+body.kitchen-page .from-kitchen-header h2 {
+  text-align: center;
+}
+
+body.kitchen-page .kitchen-section-heading > p,
+body.kitchen-page .from-kitchen-header > p:not(.eyebrow) {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* ------------------------------------------
+   READING COLUMN
+   Headings stay centered; longer prose becomes
+   a calm, readable column beneath them.
+------------------------------------------- */
+
+body.kitchen-page .kitchen-section > p {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+body.kitchen-page .kitchen-section > p + p {
+  margin-top: 1.15rem;
+}
+
+/* ------------------------------------------
+   SECTION RHYTHM
+   Less empty space between related sections,
+   while retaining generous editorial breathing room.
+------------------------------------------- */
+
+body.kitchen-page .kitchen-intro {
+  padding-top: clamp(3.25rem, 6vw, 4.75rem);
+  padding-bottom: clamp(2.25rem, 4vw, 3.25rem);
+}
+
+body.kitchen-page .kitchen-section {
+  padding-top: clamp(2.5rem, 4.5vw, 3.75rem);
+  padding-bottom: clamp(2.5rem, 4.5vw, 3.75rem);
+}
+
+body.kitchen-page .kitchen-section + .kitchen-section {
+  padding-top: clamp(2rem, 3.5vw, 3rem);
+}
+
+body.kitchen-page .from-kitchen {
+  padding-top: clamp(3rem, 5vw, 4.5rem);
+}
+
+/* ------------------------------------------
+   EXPLORE THE KITCHEN
+   Keep the header centered while giving the
+   destination group a clear centered footprint.
+------------------------------------------- */
+
+body.kitchen-page .kitchen-worlds {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ------------------------------------------
+   MOBILE
+------------------------------------------- */
+
+@media (max-width: 760px) {
+  body.kitchen-page .kitchen-intro {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  body.kitchen-page .kitchen-section {
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+  }
+
+  body.kitchen-page .kitchen-section + .kitchen-section {
+    padding-top: 1.75rem;
+  }
+
+  body.kitchen-page .kitchen-section > p {
+    max-width: 100%;
+  }
+
+  body.kitchen-page .from-kitchen {
+    padding-top: 2.75rem;
+  }
+}
+
+/* ------------------------------------------
+   FIVE-WORLD HERO: KITCHEN OPACITY PASS
+   Kitchen's photography needs a little more
+   breathing room behind the dark hero copy.
+   Other world heroes are intentionally unchanged.
+------------------------------------------- */
+
+body.kitchen-page .hero::before {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(250, 248, 245, 0.72),
+    rgba(250, 248, 245, 0.55)
+  );
+}
