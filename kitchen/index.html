@@ -1,144 +1,73 @@
 ---
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kitchen – Thistle & Cypress | Seasonal Cooking, Baking & Culinary Travel</title>
-
   <meta name="description" content="A kitchen shaped by the seasons and inspired by the world — seasonal cooking, artisan baking, wine, and culinary travel rooted in heritage and intention.">
   <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="seasonal cooking, artisan baking, culinary travel, wine pairing, kitchen tools, intentional cooking, seasonal ingredients">
   <meta name="theme-color" content="#faf8f5">
-
-  <!-- Canonical URL -->
   <link rel="canonical" href="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/">
-
-  <!-- OpenGraph Metadata -->
   <meta property="og:title" content="Kitchen – Thistle & Cypress | Seasonal Cooking & Baking">
   <meta property="og:description" content="A kitchen shaped by the seasons and inspired by the world — cooking, baking, wine, and exploring flavors that connect place, memory, and travel.">
   <meta property="og:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.github.io/thistleandcypress.com/kitchen/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Thistle & Cypress">
-
-  <!-- Twitter Metadata -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Kitchen – Thistle & Cypress | Seasonal Cooking & Baking">
   <meta name="twitter:description" content="Seasonal cooking, artisan baking, wine, and culinary travel rooted in heritage and intention.">
   <meta name="twitter:image" content="https://thistleandcypress.github.io/thistleandcypress.com/OG-image-F.jpg">
-
   <link rel="icon" type="image/jpeg" href="../Favicon.jpg">
   <link rel="stylesheet" href="../style.css">
 
-  <!-- JSON-LD: Website -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Thistle & Cypress",
-    "url": "https://thistleandcypress.github.io/thistleandcypress.com/",
-    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
-    }
-  }
-  </script>
-
-  <!-- JSON-LD: Breadcrumbs -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Kitchen",
-        "item": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/"
-      }
-    ]
-  }
-  </script>
-
-  <!-- JSON-LD: CollectionPage -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Kitchen",
-    "description": "A collection of seasonal cooking, artisan baking, and culinary travel that connects place, memory, and the rhythm of home.",
-    "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/",
-    "isPartOf": {
-      "@type": "WebSite",
-      "name": "Thistle & Cypress",
-      "url": "https://thistleandcypress.github.io/thistleandcypress.com/"
-    },
-    "about": [
-      { "@type": "Thing", "name": "Seasonal Cooking" },
-      { "@type": "Thing", "name": "Artisan Baking" },
-      { "@type": "Thing", "name": "Culinary Travel" }
-    ]
-  }
-  </script>
-
-  <!-- JSON-LD: ItemList (Featured Content) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "itemListElement": [
-      {
-        "@type": "Article",
-        "position": 1,
-        "headline": "Christmas Eve Pasta",
-        "description": "Creating the right pasta recipe to use in the pasta machine for our family Christmas Eve dinner.",
-        "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/cooking/CEPasta.html",
-        "author": { "@type": "Organization", "name": "Thistle & Cypress" }
-      },
-      {
-        "@type": "Article",
-        "position": 2,
-        "headline": "Rick's No Nuts Banana Bread",
-        "description": "A cozy, nut‑free banana bread with big flavor, easy technique, and that unmistakable your life is together aroma.",
-        "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/baking/Rick-B-Bread.html",
-        "author": { "@type": "Organization", "name": "Thistle & Cypress" }
-      },
-      {
-        "@type": "Article",
-        "position": 3,
-        "headline": "The Sequoia Grove Series | Part 1",
-        "description": "Exploring the heritage of the Rutherford Bench, our favorite 'Big Reds,' and the elevated culinary program of Chef Spencer Conaty.",
-        "url": "https://thistleandcypress.github.io/thistleandcypress.com/kitchen/wine/Sequoia.html",
-        "author": { "@type": "Organization", "name": "Thistle & Cypress" }
-      }
-    ]
-  }
-  </script>
+  <style>
+    .kitchen-intro { max-width:850px; margin:0 auto; padding:4.5rem 1.5rem 2.5rem; text-align:center; }
+    .kitchen-intro .eyebrow, .from-kitchen .eyebrow { margin:0 0 .75rem; font-family:"Source Sans 3",sans-serif; font-size:.78rem; font-weight:600; letter-spacing:.16em; text-transform:uppercase; color:#6b4e71; }
+    .kitchen-intro h2 { margin:0 0 1.25rem; font-size:clamp(2rem,4vw,3rem); }
+    .kitchen-intro p { max-width:700px; margin:0 auto; font-size:1.08rem; line-height:1.8; }
+    .kitchen-section { max-width:1000px; margin:0 auto; padding:3.5rem 1.5rem; }
+    .kitchen-section-heading { max-width:720px; margin-bottom:2rem; }
+    .kitchen-section-heading h2 { margin-bottom:.6rem; }
+    .kitchen-section-heading p { margin:0; }
+    .kitchen-worlds { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; list-style:none; padding:0; margin:0; }
+    .kitchen-worlds a { display:block; height:100%; padding:1.4rem; border-top:1px solid rgba(47,42,38,.22); color:inherit; text-decoration:none; transition:border-color 180ms ease,transform 180ms ease; }
+    .kitchen-worlds a:hover,.kitchen-worlds a:focus-visible { border-color:#2f5d50; transform:translateY(-2px); }
+    .kitchen-worlds strong { display:block; margin-bottom:.35rem; font-family:"Playfair Display",Georgia,serif; font-size:1.35rem; color:#2f5d50; }
+    .kitchen-worlds span { display:block; font-size:.96rem; line-height:1.6; }
+    .from-kitchen { max-width:1100px; margin:1rem auto 0; padding:4.5rem 1.5rem 5rem; }
+    .from-kitchen-header { max-width:700px; margin:0 auto 2.25rem; text-align:center; }
+    .from-kitchen-header h2 { margin-bottom:.6rem; }
+    .from-kitchen-header p { margin:0; }
+    .kitchen-feature-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1.25rem; }
+    .kitchen-feature { display:flex; flex-direction:column; overflow:hidden; background:#fff; color:inherit; text-decoration:none; border:1px solid rgba(47,42,38,.1); box-shadow:0 8px 28px rgba(47,42,38,.07); transition:transform 180ms ease,box-shadow 180ms ease; }
+    .kitchen-feature:hover,.kitchen-feature:focus-visible { transform:translateY(-4px); box-shadow:0 14px 34px rgba(47,42,38,.12); }
+    .kitchen-feature img { display:block; width:100%; aspect-ratio:4/3; object-fit:cover; }
+    .kitchen-feature-body { padding:1.35rem 1.4rem 1.5rem; }
+    .kitchen-feature-label { margin:0 0 .45rem; font-family:"Source Sans 3",sans-serif; font-size:.74rem; font-weight:600; letter-spacing:.14em; text-transform:uppercase; color:#6b4e71; }
+    .kitchen-feature h3 { margin:0 0 .6rem; font-size:1.35rem; line-height:1.25; }
+    .kitchen-feature p { margin:0; font-size:.96rem; line-height:1.65; }
+    .kitchen-closing { max-width:800px; margin:0 auto; padding:2rem 1.5rem 4.5rem; text-align:center; }
+    .kitchen-closing a { color:#2f5d50; }
+    @media (max-width:760px) { .kitchen-intro{padding-top:3.5rem}.kitchen-worlds,.kitchen-feature-grid{grid-template-columns:1fr}.kitchen-section,.from-kitchen{padding-left:1.1rem;padding-right:1.1rem} }
+    @media (prefers-reduced-motion:reduce) { .kitchen-worlds a,.kitchen-feature{transition:none} }
+  </style>
 </head>
 
 <body class="kitchen-page">
 
-  <!-- HERO -->
   <header class="hero" role="banner">
     <div class="hero-inner">
+      <p class="eyebrow">Gather · Make · Share</p>
       <h1>Kitchen</h1>
-      <p class="tagline">
-        A kitchen shaped by the seasons and inspired by the world — cooking, baking, wine, and exploring flavors that connect place, memory, and travel.
-      </p>
+      <p class="tagline">A kitchen shaped by the seasons and inspired by the world — cooking, baking, wine, and exploring flavors that connect place, memory, and travel.</p>
       <div class="header-divider"></div>
     </div>
   </header>
 
-  <!-- GLOBAL NAVIGATION -->
   <nav role="navigation" aria-label="Primary navigation">
     <a href="/">Home</a>
     <a href="/about.html">About</a>
@@ -149,7 +78,6 @@
     <a href="/wine-travel/">Wine & Travel</a>
   </nav>
 
-  <!-- KITCHEN SUB-NAVIGATION -->
   <nav class="subnav" role="navigation" aria-label="Kitchen sections">
     <a href="index.html" class="active" aria-current="page">Kitchen</a>
     <a href="baking/index.html">Baking</a>
@@ -160,75 +88,82 @@
     <a href="new-finds/index.html">New Finds</a>
   </nav>
 
-  <!-- MAIN CONTENT -->
- <main role="main">
+  <main role="main">
 
-    <!-- WELCOME TEXT -->
-    <section class="welcome-text">
-      <p>Our kitchen is where ingredients are handled with care, techniques are practiced and refined, and discoveries — whether from heritage tools or seasonal finds — deepen the rhythm of daily cooking.</p>
-
-      <p>Here, nourishment is not rushed. It is built through repetition, curiosity, and an openness to both tradition and exploration.</p>
+    <section class="kitchen-intro">
+      <p class="eyebrow">Season · Craft · Curiosity</p>
+      <h2>A kitchen shaped by season and craft.</h2>
+      <p>Our kitchen is where ingredients are handled with care, techniques are practiced and refined, and discoveries — whether from heritage tools or seasonal finds — deepen the rhythm of daily cooking. Here, nourishment is not rushed. It is built through repetition, curiosity, and an openness to both tradition and exploration.</p>
     </section>
 
-    <!-- HOW WE COOK -->
-    <section class="content-section">
-      <h2>How We Cook</h2>
-
-      <p>We cook with two instincts that meet at the same table: one intuitive and improvisational, the other grounded in the meditative work of baking and fresh pasta.
-        Together, they shape a kitchen that values both feel and craft. <br><br>
-        We choose ingredients with intention — Italian 00 and semolina flours milled with care, organic produce where it matters most, and seasonal offerings from the farmers market. Whether at home or away, we look to local markets for a sense of place: what’s growing, what’s in season, and what stories the ingredients carry. <br><br>
-        At home, the weekly market has become ritual. We wander, taste, and let the colors and scents guide the meals ahead — a reminder that cooking is as much about connection and seasonality as it is about technique.
-      </p>
+    <section class="kitchen-section">
+      <div class="kitchen-section-heading">
+        <h2>How We Cook</h2>
+        <p>We cook with two instincts that meet at the same table: one intuitive and improvisational, the other grounded in the meditative work of baking and fresh pasta.</p>
+      </div>
+      <p>Together, they shape a kitchen that values both feel and craft. We choose ingredients with intention — Italian 00 and semolina flours milled with care, organic produce where it matters most, and seasonal offerings from the farmers market. Whether at home or away, we look to local markets for a sense of place: what’s growing, what’s in season, and what stories the ingredients carry.</p>
+      <p>At home, the weekly market has become ritual. We wander, taste, and let the colors and scents guide the meals ahead — a reminder that cooking is as much about connection and seasonality as it is about technique.</p>
     </section>
 
-    <!-- SUB-PILLAR NAVIGATION -->
-    <section class="content-section">
-      
-      <h2>Craft & Provisions</h2>
-      <ul class="pillar-list">
-        <li><a href="baking/index.html"><strong>Baking</strong></a> — Slow breads, rustic loaves, and simple desserts that reward patience.</li>
-        <li><a href="cooking/index.html"><strong>Cooking</strong></a> — Seasonal, ingredient-driven meals rooted in simplicity and harvest.</li>
-        <li><a href="recipe/index.html"><strong>Recipes</strong></a> — A curated collection of complete dishes — organized and ready to make.</li>
+    <section class="kitchen-section">
+      <div class="kitchen-section-heading">
+        <h2>Explore the Kitchen</h2>
+        <p>Six ways into the kitchen — from the things we make to the tools, techniques, and discoveries that help us make them.</p>
+      </div>
+      <ul class="kitchen-worlds">
+        <li><a href="baking/index.html"><strong>Baking</strong><span>Slow breads, rustic loaves, and simple desserts that reward patience.</span></a></li>
+        <li><a href="cooking/index.html"><strong>Cooking</strong><span>Seasonal, ingredient-driven meals rooted in simplicity and harvest.</span></a></li>
+        <li><a href="recipe/index.html"><strong>Recipes</strong><span>A curated collection of complete dishes — organized and ready to make.</span></a></li>
+        <li><a href="essential-tools/index.html"><strong>Essential Tools</strong><span>The foundational equipment and kitchen staples that make thoughtful cooking possible.</span></a></li>
+        <li><a href="tips-tricks/index.html"><strong>Tips & Tricks</strong><span>Practical techniques and efficiencies that elevate everyday meals.</span></a></li>
+        <li><a href="new-finds/index.html"><strong>New Finds</strong><span>Recent discoveries, tools, and inspirations worth sharing.</span></a></li>
       </ul>
-
-      <h2>The Workspace</h2>
-      <ul class="pillar-list">
-        <li><a href="essential-tools/index.html"><strong>Essential Tools</strong></a> — The foundational equipment and kitchen staples that make thoughtful cooking possible.</li>
-        <li><a href="tips-tricks/index.html"><strong>Tips & Tricks</strong></a> — Practical techniques and efficiencies that elevate everyday meals.</li>
-        <li><a href="new-finds/index.html"><strong>New Finds</strong></a> — Recent discoveries, tools, and inspirations worth sharing.</li>
-      </ul>
-
     </section>
 
-    <!-- FEATURED CONTENT -->
-    <section class="highlights-wrapper">
-      <h2>Highlights from the Kitchen</h2>
-      <p class="highlights-intro">Seasonal cooking, foundational skills, and thoughtful discoveries — selected from across the Kitchen pillar.</p>
+    <section class="from-kitchen">
+      <div class="from-kitchen-header">
+        <p class="eyebrow">Make · Bake · Discover</p>
+        <h2>From the Kitchen</h2>
+        <p>Three things worth making, learning, and lingering over — one from each of our core kitchen traditions.</p>
+      </div>
 
-      <div class="highlights-grid">
-
-        <a href="cooking/pizza-home.html" class="highlight-card" itemscope itemtype="https://schema.org/Article">
-          <h3 itemprop="headline">Make pizza at home</h3>
-          <p itemprop="description">Act on that thought about making your own pizza, using store-bought ingredients.</p>
+      <div class="kitchen-feature-grid">
+        <a href="baking/Rick-B-Bread.html" class="kitchen-feature">
+          <img src="images/Banana-Bread_Profile.jpg" alt="Rick's no-nuts banana bread" loading="lazy">
+          <div class="kitchen-feature-body">
+            <p class="kitchen-feature-label">Baking</p>
+            <h3>Rick's dependable banana bread</h3>
+            <p>A cozy, nut-free banana bread with big flavor and the unmistakable aroma of something good in the oven.</p>
+          </div>
         </a>
 
-        <a href="baking/Rick-B-Bread.html" class="highlight-card" itemscope itemtype="https://schema.org/Article">
-          <h3 itemprop="headline">Rick's "No Nuts" Banana Bread</h3>
-          <p itemprop="description">A cozy, nut‑free banana bread with big flavor, easy technique, and that unmistakable "your life is together" aroma.</p>
+        <a href="cooking/pizza-home.html" class="kitchen-feature">
+          <img src="images/hpizza4.jpg" alt="Homemade pizza" loading="lazy">
+          <div class="kitchen-feature-body">
+            <p class="kitchen-feature-label">Cooking</p>
+            <h3>Making your own pizza at home</h3>
+            <p>A practical way to act on that thought about making your own pizza, using store-bought ingredients.</p>
+          </div>
         </a>
 
+        <a href="recipe/Fall-Oatmeal-Raisin.html" class="kitchen-feature">
+          <img src="images/SC2.jpg" alt="Fall oatmeal raisin spice cookies" loading="lazy">
+          <div class="kitchen-feature-body">
+            <p class="kitchen-feature-label">Recipes</p>
+            <h3>Oatmeal raisin meets spice cookie</h3>
+            <p>A mash-up of two familiar favorites, with the warmth and character of a fall baking day.</p>
+          </div>
+        </a>
       </div>
     </section>
 
-    <section>
-    <!-- BACK TO MAIN -->
-      <p class="back-link" style="margin-top: 2rem;"><a href="/">← Back to main page</a></p>
+    <section class="kitchen-closing">
+      <p><a href="/">← Back to main page</a></p>
     </section>
-   
+
   </main>
 
-  <!-- Footer Include --> 
-  {% include footer.html %} 
+  {% include footer.html %}
 
 </body>
 </html>
