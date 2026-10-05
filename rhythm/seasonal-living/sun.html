@@ -32,26 +32,67 @@
   <link rel="stylesheet" href="../../style.css">
 
   <style>
+    /* Seasonal Living article — one centered reading column */
+    body.seasonal-living-page .post-content {
+      width: min(100% - 2rem, var(--tc-reading));
+      margin: 0 auto;
+    }
+
+    body.seasonal-living-page .post-content article {
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    body.seasonal-living-page .post-content article > p {
+      width: 100%;
+      max-width: var(--tc-reading);
+      margin: 1rem auto;
+      text-align: left;
+    }
+
+    body.seasonal-living-page .post-content figure {
+      width: min(100%, 500px);
+      margin: 0 auto 1.75rem;
+    }
+
     .seasonal-divider {
+      width: 100%;
+      margin: 1.5rem auto;
       text-align: center;
-      margin: 2rem 0;
       letter-spacing: 10px;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
+      line-height: 1.2;
       opacity: 0.6;
     }
 
     .seasonal-note {
-      margin: 1.75rem auto 2rem;
-      padding: 1rem 1.25rem;
-      max-width: 760px;
-      border-left: 3px solid currentColor;
-      font-size: 0.95rem;
-      line-height: 1.6;
+      width: 100%;
+      max-width: var(--tc-reading);
+      margin: 1.4rem auto 1.6rem;
+      padding: .65rem 1rem;
+      border-left: 2px solid currentColor;
+      background: rgba(243, 239, 233, .55);
+      font-size: 0.92rem;
+      line-height: 1.5;
     }
 
     .seasonal-note strong {
-      display: block;
-      margin-bottom: 0.25rem;
+      display: inline;
+      margin: 0;
+    }
+
+    @media (max-width: 768px) {
+      body.seasonal-living-page .post-content {
+        width: min(100% - 2rem, var(--tc-reading));
+      }
+
+      .seasonal-divider {
+        margin: 1.25rem auto;
+      }
+
+      .seasonal-note {
+        padding: .6rem .85rem;
+      }
     }
   </style>
 
@@ -228,7 +269,7 @@
       </p>
 
       <div class="seasonal-note">
-        <strong>A small correction worth making.</strong>
+        <strong>A small correction worth making:</strong>
         The analemma's crossing point is not the equinox. The two are easy to associate because both occur near the middle portion of the annual pattern, but they describe different things. The exact appearance and timing of an analemma also depend on where you stand on Earth and what clock time you choose for the observations.
       </div>
 
