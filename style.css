@@ -314,6 +314,76 @@ body.craft-page .hero::before,body.home-page .hero::before {
 body.kitchen-page .hero::before,body.rhythm-page .hero::before {
   background-image:linear-gradient(to bottom,rgba(255,255,255,.80),rgba(255,255,255,.65));
 }
+body.kitchen-page .kitchen-section > p {
+  max-width: var(--tc-world-reading);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+body.kitchen-page .kitchen-section > p + p {
+  margin-top: 1.15rem;
+}
+
+body.kitchen-page .from-kitchen {
+  padding-top: var(--tc-world-intro-top);
+  padding-bottom: var(--tc-world-intro-top);
+  margin-top: 0;
+}
+
+body.kitchen-page .from-kitchen-header {
+  margin-bottom: 2.25rem;
+}
+
+body.kitchen-page .kitchen-worlds {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 0.85rem;
+}
+
+body.kitchen-page .kitchen-worlds a {
+  padding: 1.25rem 1.35rem;
+}
+
+/* ------------------------------------------
+   GARDEN — PRESERVE APPROVED RHYTHM
+------------------------------------------- */
+
+body.garden-page .garden-sections {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+body.garden-page .garden-destination {
+  max-width: var(--tc-world-reading);
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1rem;
+  text-align: left;
+}
+
+body.garden-page .garden-destination + .garden-destination {
+  padding-top: 0;
+}
+
+body.garden-page .garden-destination > p {
+  text-align: left;
+}
+
+/* ------------------------------------------
+   APPROVED HERO PHOTOGRAPHY
+   These two overlays are the tested values. They are intentionally
+   local to Kitchen and Garden; the other three World images stay as-is.
+------------------------------------------- */
+
+body.kitchen-page .hero::before,
+body.garden-page .hero::before {
+  background-image:linear-gradient(to bottom,rgba(255,255,255,.79),rgba(255,255,255,.63));
+}
 body.garden-page .hero::before {
   background-image:linear-gradient(to bottom,rgba(255,255,255,.79),rgba(255,255,255,.63));
 }
@@ -480,4 +550,170 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,te
   }
   .about-photo { max-width:260px; }
   .about-crest-graphic { max-width:200px; max-height:150px; }
+}
+
+
+/* =========================================================
+   THISTLE & CYPRESS — FINAL MASTER CORRECTIONS
+   ---------------------------------------------------------
+   This stylesheet intentionally preserves the complete,
+   tested site CSS above. This final section makes the
+   World-intro spacing authoritative so older global
+   paragraph/section margins cannot stack unexpectedly.
+
+   No HTML classes are changed.
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   WORLD INTRO — ONE AUTHORITATIVE SPACING MODEL
+--------------------------------------------------------- */
+
+body.kitchen-page .kitchen-intro,
+body.garden-page .garden-intro,
+body.kitchen-page .world-intro,
+body.garden-page .world-intro,
+body.craft-page .world-intro,
+body.rhythm-page .world-intro,
+body.wine-travel-page .world-intro {
+  max-width: var(--tc-world-intro-width);
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Keep the approved desktop spacing values. */
+body.kitchen-page .kitchen-intro,
+body.garden-page .garden-intro,
+body.kitchen-page .world-intro,
+body.garden-page .world-intro,
+body.craft-page .world-intro,
+body.rhythm-page .world-intro,
+body.wine-travel-page .world-intro {
+  padding-top: var(--tc-world-intro-top);
+  padding-bottom: var(--tc-world-intro-bottom);
+}
+
+/* The eyebrow is not a normal paragraph for spacing purposes. */
+body.kitchen-page .kitchen-intro .eyebrow,
+body.garden-page .garden-intro .eyebrow,
+body.kitchen-page .world-intro .eyebrow,
+body.garden-page .world-intro .eyebrow,
+body.craft-page .world-intro .eyebrow,
+body.rhythm-page .world-intro .eyebrow,
+body.wine-travel-page .world-intro .eyebrow {
+  display: block;
+  width: 100%;
+  max-width: var(--tc-world-reading);
+  margin: 0 auto 0.75rem;
+  text-align: center;
+}
+
+/* World intro headings own their spacing. */
+body.kitchen-page .kitchen-intro h2,
+body.garden-page .garden-intro h2,
+body.kitchen-page .world-intro h2,
+body.garden-page .world-intro h2,
+body.craft-page .world-intro h2,
+body.rhythm-page .world-intro h2,
+body.wine-travel-page .world-intro h2 {
+  max-width: var(--tc-world-reading);
+  margin: 0 auto 0.9rem;
+  text-align: center;
+}
+
+/* Intro body copy does not inherit the site's generic 1rem/1.2rem
+   paragraph margins. This is the key fix for accumulated whitespace. */
+body.kitchen-page .kitchen-intro > p:not(.eyebrow),
+body.garden-page .garden-intro > p:not(.eyebrow),
+body.kitchen-page .world-intro > p:not(.eyebrow),
+body.garden-page .world-intro > p:not(.eyebrow),
+body.craft-page .world-intro > p:not(.eyebrow),
+body.rhythm-page .world-intro > p:not(.eyebrow),
+body.wine-travel-page .world-intro > p:not(.eyebrow) {
+  max-width: var(--tc-world-reading);
+  margin: 0 auto;
+  text-align: left;
+}
+
+/* If an intro contains multiple paragraphs, keep them connected
+   without allowing the generic paragraph margin to reappear. */
+body.kitchen-page .kitchen-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.garden-page .garden-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.kitchen-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.garden-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.craft-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.rhythm-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow),
+body.wine-travel-page .world-intro > p:not(.eyebrow) + p:not(.eyebrow) {
+  margin-top: 1.15rem;
+}
+
+/* ---------------------------------------------------------
+   WORLD INTRO — MOBILE
+--------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  body.kitchen-page .kitchen-intro,
+  body.garden-page .garden-intro,
+  body.kitchen-page .world-intro,
+  body.garden-page .world-intro,
+  body.craft-page .world-intro,
+  body.rhythm-page .world-intro,
+  body.wine-travel-page .world-intro {
+    margin: 0 auto;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  body.kitchen-page .kitchen-intro h2,
+  body.garden-page .garden-intro h2,
+  body.kitchen-page .world-intro h2,
+  body.garden-page .world-intro h2,
+  body.craft-page .world-intro h2,
+  body.rhythm-page .world-intro h2,
+  body.wine-travel-page .world-intro h2 {
+    margin: 0 auto 0.9rem;
+    font-size: 1.45rem;
+  }
+}
+
+@media (max-width: 480px) {
+  body.kitchen-page .kitchen-intro,
+  body.garden-page .garden-intro,
+  body.kitchen-page .world-intro,
+  body.garden-page .world-intro,
+  body.craft-page .world-intro,
+  body.rhythm-page .world-intro,
+  body.wine-travel-page .world-intro {
+    margin: 0 auto;
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  body.kitchen-page .kitchen-intro h2,
+  body.garden-page .garden-intro h2,
+  body.kitchen-page .world-intro h2,
+  body.garden-page .world-intro h2,
+  body.craft-page .world-intro h2,
+  body.rhythm-page .world-intro h2,
+  body.wine-travel-page .world-intro h2 {
+    margin: 0 auto 0.9rem;
+    font-size: 1.3rem;
+  }
+}
+
+/* WORLD DESTINATION LINKS — KEEP VISITED STATE CONSISTENT */
+
+body.garden-page .garden-destination h2 a,
+body.craft-page .craft-destination h2 a {
+  color: #2b2623;
+  text-decoration: none;
+}
+
+body.garden-page .garden-destination h2 a:visited,
+body.craft-page .craft-destination h2 a:visited {
+  color: #2b2623;
+}
+
+body.garden-page .garden-destination h2 a:hover,
+body.craft-page .craft-destination h2 a:hover {
+  color: #6b625c;
 }
