@@ -1096,3 +1096,158 @@ body.wine-travel-page .hero .eyebrow {
     letter-spacing:.15em;
   }
 }
+
+/* =========================================================
+   RECIPE PRINT — COMPACT HOME-BAKER FORMAT
+   ---------------------------------------------------------
+   The web recipe keeps the generous editorial spacing used
+   elsewhere on the site. Printed recipes need a different
+   rhythm: compact, scannable, and economical with paper.
+   ========================================================= */
+
+@media print {
+  @page { margin: .48in .55in; }
+
+  body.recipe-page {
+    font-size: 9.5pt;
+    line-height: 1.28;
+  }
+
+  body.recipe-page main {
+    padding: 0;
+  }
+
+  body.recipe-page .recipe-print-area .recipe-header {
+    margin: 0 0 .45rem;
+    padding: 0 0 .4rem;
+  }
+
+  body.recipe-page .recipe-print-area .recipe-header h2,
+  body.recipe-page .recipe-print-area .recipe-header h1 {
+    margin: 0 0 .18rem;
+    font-size: 19pt;
+    line-height: 1.05;
+  }
+
+  body.recipe-page .recipe-print-area .recipe-header .recipe-tagline {
+    font-size: 9pt;
+    line-height: 1.3;
+  }
+
+  body.recipe-page .recipe-meta {
+    margin: 0 0 .55rem;
+    padding: .35rem 0 .45rem;
+  }
+
+  body.recipe-page .recipe-stats {
+    gap: .2rem;
+  }
+
+  body.recipe-page .recipe-stat {
+    padding: .05rem .2rem;
+  }
+
+  body.recipe-page .recipe-stat-label {
+    margin-bottom: .05rem;
+    font-size: 7pt;
+    line-height: 1.1;
+  }
+
+  body.recipe-page .recipe-stat-value {
+    font-size: 9.5pt;
+    line-height: 1.1;
+  }
+
+  body.recipe-page .recipe-nutrition {
+    margin-top: .35rem;
+    padding-top: .35rem;
+  }
+
+  body.recipe-page .recipe-nutrition-title {
+    margin: 0 0 .25rem;
+    font-size: 7.5pt;
+  }
+
+  body.recipe-page .recipe-nutrition-grid {
+    gap: .15rem;
+  }
+
+  body.recipe-page .recipe-nutrition-item strong {
+    font-size: 8.5pt;
+    line-height: 1.05;
+  }
+
+  body.recipe-page .recipe-nutrition-item span {
+    font-size: 6.8pt;
+    line-height: 1.05;
+  }
+
+  body.recipe-page .recipe-nutrition-note {
+    margin: .3rem auto 0;
+    font-size: 6.8pt;
+    line-height: 1.25;
+  }
+
+  /* Critical: editorial .pillar-list spacing is too large for print. */
+  body.recipe-page .recipe-print-area .pillar-list {
+    margin: .12rem 0 .38rem;
+    padding-left: 1.15rem;
+  }
+
+  body.recipe-page .recipe-print-area .pillar-list li {
+    margin: .12rem 0;
+    line-height: 1.28;
+  }
+
+  body.recipe-page .recipe-print-area .pillar-list ul {
+    margin-top: .08rem !important;
+    margin-bottom: .08rem !important;
+    padding-left: 1.15rem;
+  }
+
+  body.recipe-page .recipe-section {
+    margin: .65rem 0;
+  }
+
+  body.recipe-page .recipe-section h2 {
+    margin: 0 0 .35rem;
+    padding-bottom: .2rem;
+    font-size: 12.5pt;
+    line-height: 1.1;
+    border-bottom: 1px solid #999;
+  }
+
+  body.recipe-page .recipe-section h3 {
+    margin: .4rem 0 .12rem;
+    font-size: 9.5pt;
+    line-height: 1.15;
+  }
+
+  body.recipe-page .recipe-section p {
+    margin: .25rem 0;
+    line-height: 1.28;
+  }
+
+  body.recipe-page .recipe-divider {
+    margin: .45rem 0;
+  }
+
+  body.recipe-page .recipe-note {
+    margin: .3rem 0;
+    padding: .3rem .55rem;
+    line-height: 1.25;
+  }
+
+  /* Keep headings with the content immediately below them. */
+  body.recipe-page .recipe-section h2,
+  body.recipe-page .recipe-section h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  /* Don't strand a single ingredient or method step at a page break. */
+  body.recipe-page .recipe-print-area .pillar-list li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}
