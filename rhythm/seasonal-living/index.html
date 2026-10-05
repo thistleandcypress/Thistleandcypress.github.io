@@ -5,34 +5,105 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Seasonal Living – Thistle & Cypress | Aligning Home & Habits with the Year</title>
 
-  <meta name="description" content="Aligning home, habits, and energy with the shifting year — exploring the natural transitions of seasons and how they shape our daily lives.">
+  <title>Seasonal Living — Thistle & Cypress | Living With the Turning Year</title>
+  <meta name="description" content="Seasonal Living at Thistle & Cypress: reflections on the natural rhythms of the year, beginning with the sun, seasonal light, and the patterns that shape how we experience home and time.">
   <meta name="author" content="Thistle & Cypress">
-  <meta name="keywords" content="seasonal living, seasons, shifting year, intentional living, slow living, rhythm, home-centered living">
   <meta name="theme-color" content="#faf8f5">
 
-  <!-- Canonical URL -->
   <link rel="canonical" href="https://thistleandcypress.com/rhythm/seasonal-living/">
 
-  <!-- OpenGraph Metadata -->
-  <meta property="og:title" content="Seasonal Living – Thistle & Cypress | Aligning Home & Habits with the Year">
-  <meta property="og:description" content="Exploring the natural transitions of the seasons and how aligning our habits and homes with the shifting year brings grounding and intention.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Seasonal Living — Thistle & Cypress">
+  <meta property="og:description" content="Reflections on the natural rhythms of the year, beginning with the sun, seasonal light, and the patterns that shape how we experience home and time.">
   <meta property="og:image" content="https://thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.com/rhythm/seasonal-living/">
-  <meta property="og:type" content="website">
   <meta property="og:site_name" content="Thistle & Cypress">
 
-  <!-- Twitter Metadata -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Seasonal Living – Thistle & Cypress">
-  <meta name="twitter:description" content="Aligning home, habits, and energy with the shifting year.">
+  <meta name="twitter:title" content="Seasonal Living — Thistle & Cypress">
+  <meta name="twitter:description" content="Reflections on the natural rhythms of the year, beginning with the sun, seasonal light, and the patterns that shape how we experience home and time.">
   <meta name="twitter:image" content="https://thistleandcypress.com/OG-image-F.jpg">
 
   <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
 
-  <!-- JSON-LD: Combined Structured Data Block -->
+  <style>
+    /* Seasonal Living index — light page-specific enhancement */
+    .seasonal-intro {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 3.5rem 1.5rem 2.5rem;
+      text-align: center;
+    }
+
+    .seasonal-intro .eyebrow {
+      margin-bottom: .75rem;
+    }
+
+    .seasonal-intro h2 {
+      margin-bottom: 1rem;
+    }
+
+    .seasonal-intro p {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .seasonal-feature {
+      max-width: 900px;
+      margin: 1rem auto 4rem;
+      padding: 0 1.5rem;
+    }
+
+    .seasonal-feature .post-card {
+      position: relative;
+    }
+
+    .seasonal-feature .post-card h2 {
+      margin-bottom: .65rem;
+    }
+
+    .seasonal-feature .post-card .excerpt {
+      margin-bottom: 1.25rem;
+    }
+
+    .seasonal-feature .post-card-link {
+      display: inline-block;
+      margin-top: .25rem;
+      padding: .7rem 1.15rem;
+      border: 1px solid #c9d2c3;
+      border-radius: 4px;
+      color: #2b2623;
+      background: #f3efe9;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background-color .2s ease, border-color .2s ease;
+    }
+
+    .seasonal-feature .post-card-link:hover {
+      border-color: #2b2623;
+      background: #faf8f5;
+    }
+
+    @media (max-width: 768px) {
+      .seasonal-intro {
+        padding-top: 3rem;
+      }
+
+      .seasonal-feature {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .seasonal-feature .post-card-link {
+        transition: none;
+      }
+    }
+  </style>
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -76,18 +147,43 @@
         "@type": "CollectionPage",
         "@id": "https://thistleandcypress.com/rhythm/seasonal-living/#collection",
         "name": "Seasonal Living",
-        "description": "A collection of reflections, guides, and practices centered around aligning our homes, rhythms, and energy with the turning of the year.",
+        "description": "A growing collection of reflections and practices centered on aligning home, habits, and inner pace with the turning of the year.",
         "url": "https://thistleandcypress.com/rhythm/seasonal-living/",
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://thistleandcypress.com/#website"
         },
         "about": [
-          { "@type": "Thing", "name": "Seasonal Living" },
-          { "@type": "Thing", "name": "Intentional Living" },
-          { "@type": "Thing", "name": "Slow Living" }
+          {
+            "@type": "Thing",
+            "name": "Seasonal Living"
+          },
+          {
+            "@type": "Thing",
+            "name": "Intentional Living"
+          },
+          {
+            "@type": "Thing",
+            "name": "Slow Living"
+          },
+          {
+            "@type": "Thing",
+            "name": "Seasonal Rhythms"
+          }
         ],
-        "hasPart": []
+        "hasPart": [
+          {
+            "@type": "BlogPosting",
+            "@id": "https://thistleandcypress.com/rhythm/seasonal-living/sun.html#article",
+            "headline": "The Sun's Seasonal Rhythm",
+            "url": "https://thistleandcypress.com/rhythm/seasonal-living/sun.html",
+            "articleSection": "Seasonal Living",
+            "description": "Exploring the analemma, seasonal sunlight, and the changing pattern of the sun through the year.",
+            "isPartOf": {
+              "@id": "https://thistleandcypress.com/rhythm/seasonal-living/#collection"
+            }
+          }
+        ]
       }
     ]
   }
@@ -96,27 +192,25 @@
 
 <body class="rhythm-page seasonal-living-page">
 
-  <!-- Hero -->
   <header class="hero" role="banner">
     <div class="hero-inner">
+      <p class="eyebrow">Rhythm · Seasonal Living</p>
       <h1>Seasonal Living</h1>
       <p class="tagline">Aligning home, habits, and energy with the shifting year.</p>
       <div class="header-divider"></div>
     </div>
   </header>
 
-  <!-- Global Navigation -->
   <nav role="navigation" aria-label="Primary navigation">
     <a href="/">Home</a>
     <a href="/about.html">About</a>
     <a href="/kitchen/">Kitchen</a>
     <a href="/garden/">Garden</a>
     <a href="/craft/">Craft</a>
-    <a href="/rhythm/" class="active">Rhythm</a>
+    <a href="/rhythm/" class="active" aria-current="page">Rhythm</a>
     <a href="/wine-travel/">Wine & Travel</a>
   </nav>
 
-  <!-- Submenu Navigation -->
   <nav class="subnav" role="navigation" aria-label="Rhythm sections">
     <a href="../index.html">Rhythm</a>
     <a href="../daily-rituals/index.html">Daily Rituals</a>
@@ -128,27 +222,35 @@
 
   <main role="main">
 
-    <p>
-      The year moves in a steady, beautiful circle—from the quiet dormancy of winter to the bursting 
-      energy of spring, the long warmth of summer, and the rich gathering light of autumn. Seasonal living 
-      is the art of tuning into these larger turns, allowing our homes, our habits, and our inner pace to 
-      shift in harmony with the natural world.
-    </p>
+    <section class="seasonal-intro">
+      <p class="eyebrow">Notice · Adjust · Return</p>
+      <h2>Living with the turning year.</h2>
+      <p>
+        The year moves in a steady, beautiful circle—from the quiet dormancy of winter to the
+        bursting energy of spring, the long warmth of summer, and the rich gathering light of
+        autumn. Seasonal living is the art of tuning into these larger turns, allowing our homes,
+        our habits, and our inner pace to shift in harmony with the natural world.
+      </p>
+    </section>
 
-    <!-- Standardized Grid Layout -->
-    <div class="post-list">
+    <section class="seasonal-feature" aria-labelledby="seasonal-feature-heading">
+      <div class="post-list">
 
-      <!-- Future post cards will go here as seasonal articles are published -->
-      <article class="post-card placeholder-card">
-        <h2>Reflections on the Turning Year</h2>
-        <p class="excerpt">
-          Thoughtful essays and guides on moving with the seasons will appear here soon.
-        </p>
-      </article>
+        <article class="post-card">
+          <h2 id="seasonal-feature-heading">The Sun’s Seasonal Rhythm</h2>
+          <p class="excerpt">
+            The sun has been keeping its rhythm since long before any of us were here to notice it.
+            Explore the analemma, the changing path of sunlight through the year, and the ancient
+            seasonal patterns that still shape the light in our homes today.
+          </p>
+          <a class="post-card-link" href="sun.html" aria-label="Explore the sun’s seasonal rhythm">
+            Explore the sun’s seasonal rhythm →
+          </a>
+        </article>
 
-    </div>
+      </div>
+    </section>
 
-    <!-- Back Link -->
     <div class="post-back">
       <a href="../index.html">← Back to Rhythm</a>
     </div>
