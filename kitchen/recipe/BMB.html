@@ -1,215 +1,80 @@
 ---
 ---
+
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Brutti ma Buoni (Che Fico–Style) — Thistle & Cypress</title>
+
+<meta name="description" content="Che Fico–style Brutti ma Buoni: small, chewy Italian hazelnut cookies with restrained sweetness, crushed fennel seed, and a slow stovetop step.">
+
 <link rel="stylesheet" href="../../style.css">
 
-<style>
-/* Additional styles specific to this recipe page */
-.recipe-intro {
-    max-width: 650px;
-    margin: 2rem auto;
-    font-style: italic;
-    color: #4a423d;
-    line-height: 1.7;
-}
+<!-- Recipe structured data -->
 
-/* Recipe metadata styling */
-.recipe-meta {
-    background-color: #f3efe9;
-    padding: 1.5rem;
-    border-radius: 8px;
-    margin: 2rem 0;
-    border-left: 4px solid #c9d2c3;
-}
-
-.recipe-meta p {
-    margin: 0.5rem 0;
-}
-
-/* Ingredient and method styling */
-.recipe-section {
-    margin: 3rem 0;
-}
-
-.recipe-section h2 {
-    color: #2b2623;
-    padding-bottom: 0.5rem;
-    border-bottom: 2px solid #c9d2c3;
-}
-
-.recipe-section h3 {
-    font-size: 1.15rem;
-    margin-top: 1.5rem;
-    margin-bottom: 0.5rem;
-    color: #365c4a;
-    font-weight: 500;
-}
-
-/* Mobile adjustments */
-@media (max-width: 768px) {
-    .recipe-meta {
-        margin-left: -1rem;
-        margin-right: -1rem;
-        padding: 1.5rem 1rem;
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Brutti ma Buoni (Che Fico–Style)",
+  "description": "Small, chewy Brutti ma Buoni inspired by the cookies served at Che Fico in San Francisco, with toasted hazelnuts, restrained sweetness, and a whisper of crushed fennel seed.",
+  "recipeYield": "30–40 small cookies",
+  "recipeCategory": "Baking",
+  "keywords": [
+    "Brutti ma Buoni",
+    "Brutti ma Buoni cookies",
+    "Italian cookies",
+    "hazelnut cookies",
+    "Che Fico cookies",
+    "Italian baking"
+  ],
+  "recipeIngredient": [
+    "3½ cups hazelnuts, toasted and skinned",
+    "1¾–2 cups granulated sugar",
+    "3–4 egg whites",
+    "Pinch of salt",
+    "½ teaspoon lightly crushed fennel seed",
+    "¼ teaspoon fennel pollen, optional"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Prepare the Hazelnuts",
+      "text": "Toast the hazelnuts until fragrant and golden. Rub off as much of the skins as possible. Pulse in a food processor until finely chopped; irregular pieces are ideal."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Make the Base",
+      "text": "Whisk the egg whites with a pinch of salt until soft peaks form. Gradually add the sugar until thickened but not fully glossy. Stir in the lightly crushed fennel seed."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook the Mixture",
+      "text": "Transfer the mixture to a wide saucepan. Cook over low heat, stirring constantly, until it thickens, loses its shine, and holds its shape when dropped from a spoon."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Shape and Bake",
+      "text": "Preheat the oven to 300°F (150°C). Line a baking sheet with parchment. Drop teaspoon-sized mounds onto the sheet. Bake for 20–30 minutes, until lightly golden and dry on the surface."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cool and Store",
+      "text": "Let the cookies cool completely on the sheet. Store airtight for several days. The cookies can also be frozen, baked or unbaked."
     }
+  ]
 }
-</style>
+</script>
+
 </head>
 
-<body class="kitchen-page">
+<body class="recipe-page kitchen-page">
 
 <!-- Global Navigation -->
+
 <nav>
 <a href="/">Home</a>
-<a href="/about.html">About</a>
-<a href="/kitchen/index.html" class="active">Kitchen</a>
-<a href="/garden/">Garden</a>
-<a href="/craft/">Craft</a>
-<a href="/rhythm/">Rhythm</a>
-<a href="/wine-travel/">Wine & Travel</a>
-</nav>
-
-<!-- Submenu Navigation -->
-<nav class="subnav">
-<a href="../index.html">Kitchen</a>
-<a href="../baking/index.html">Baking</a>
-<a href="../cooking/index.html">Cooking</a>
-<a href="../essential-tools/index.html">Essential Tools</a>
-<a href="../new-finds/index.html">New Finds</a>
-<a href="index.html" class="active">Recipes</a>
-<a href="../tips-tricks/index.html">Tips & Tricks</a>
-</nav>
-
-<!-- Hero -->
-<header class="hero">
-<div class="hero-inner">
-<h1>Brutti ma Buoni (Che Fico–Style)</h1>
-<p class="tagline">A nut‑forward, chewy, deeply aromatic version of the classic Italian cookie — inspired by the tiny Brutti ma Buoni served with the check at Che Fico in San Francisco.</p>
-<div class="header-divider"></div>
-</div>
-</header>
-
-<main>
-
-<p class="recipe-intro">
-Toasted hazelnuts, restrained sweetness, and a whisper of fennel give these cookies their old‑world warmth. 
-These cookies are rustic by design — irregular, craggy, and deeply nutty.
-</p>
-
-<div class="recipe-meta">
-<p><strong>Prep:</strong> 20 minutes · <strong>Cook:</strong> 20–30 minutes · <strong>Makes:</strong> 30–40 small cookies</p>
-<button class="print-button" onclick="window.print()">Print Recipe</button>
-<p style="font-size: 0.9rem; color: #6b625c; margin-top: 0.75rem; font-style: italic;">
-Kitchen · Recipes · Winter 2026
-</p>
-</div>
-
-<!-- Overview Section -->
-<section class="recipe-section">
-<h2>Overview</h2>
-<p style="font-size: 0.9rem; color: #6b625c; font-style: italic; margin-bottom: 1rem;">
-Every kitchen behaves differently—use your own judgment with ingredients, allergens, and doneness cues.
-</p>     
-<p>
-These cookies are rustic by design — irregular, craggy, and deeply nutty. The stovetop step keeps them dense and chewy, while a touch of crushed fennel seed adds the subtle aromatic lift that defines the Che Fico version.
-</p>
-</section>
-
-<!-- Ingredients Section -->
-<section class="recipe-section">
-<h2>Ingredients</h2>
-<ul class="pillar-list">
-<li><strong>3½ cups hazelnuts</strong>, toasted and skinned</li>
-<li><strong>1¾–2 cups granulated sugar</strong>
-<ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
-<li>1¾ cups → more nut‑forward</li>
-<li>2 cups → slightly sweeter, more caramelized</li>
-</ul>
-</li>
-<li><strong>3–4 egg whites</strong>
-<ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
-<li>3 whites → densest, chewiest</li>
-<li>4 whites → slightly lighter</li>
-</ul>
-</li>
-<li>Pinch of salt</li>
-<li><strong>½ teaspoon lightly crushed fennel seed</strong>
-<ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
-<li>Enough to add warmth</li>
-<li>Not enough to taste like pizzelles</li>
-</ul>
-</li>
-<li>(Optional) ¼ teaspoon fennel pollen for a refined aromatic note</li>
-</ul>
-</section>
-
-<!-- Method Section -->
-<section class="recipe-section">
-<h2>Method</h2>
-
-<h3>1. Prepare the hazelnuts</h3>
-<ul class="pillar-list">
-<li>Toast hazelnuts until fragrant and golden.</li>
-<li>Rub off as much of the skins as possible.</li>
-<li>Pulse in a food processor until finely chopped — irregular pieces are ideal.</li>
-</ul>
-
-<h3>2. Make the base</h3>
-<ul class="pillar-list">
-<li>Whisk egg whites with a pinch of salt until soft peaks form.</li>
-<li>Gradually add sugar until thickened (not fully glossy).</li>
-<li>Stir in the crushed fennel seed.</li>
-</ul>
-
-<h3>3. Cook the mixture</h3>
-<ul class="pillar-list">
-<li>Transfer mixture to a wide saucepan.</li>
-<li>Cook over low heat, stirring constantly, until it thickens, loses shine, and holds its shape when dropped from a spoon.</li>
-<li>This step prevents puffing and keeps the cookies small and chewy.</li>
-</ul>
-
-<h3>4. Shape and bake</h3>
-<ul class="pillar-list">
-<li>Preheat oven to 300°F (150°C).</li>
-<li>Line a baking sheet with parchment.</li>
-<li>Drop teaspoon‑sized mounds onto the sheet.</li>
-<li>Bake 20–30 minutes, until lightly golden and dry on the surface.</li>
-</ul>
-
-<h3>5. Cool and store</h3>
-<ul class="pillar-list">
-<li>Let cookies cool completely on the sheet.</li>
-<li>Store airtight for several days.</li>
-<li>These freeze beautifully — baked or unbaked.</li>
-</ul>
-</section>
-
-<!-- Notes Section -->
-<section class="recipe-section">
-<h2>Notes</h2>
-<ul class="pillar-list">
-<li>Fennel restraint is key — ½ teaspoon is enough to add depth without drifting into pizzelle territory.</li>
-<li>Toast the nuts well; a deeper roast balances the fennel beautifully.</li>
-<li>If using fennel pollen, reduce to ¼ teaspoon — it's potent and elegant.</li>
-<li>For the Che Fico size, keep the cookies small — about a teaspoon each.</li>
-</ul>
-</section>
-
-<div class="post-back">
-<a href="index.html">← Back to Recipes</a> <br>
-<a href="../baking/BMB.html">← Learn more (back to story)</a>
-</div>
-
-</main>
-
-<!-- Footer Include -->
-{% include footer.html %}
-
-</body>
-</html>
-
