@@ -2399,3 +2399,208 @@ body.about-page .about-back {
     box-shadow: none;
   }
 }
+
+
+/* ============================================================
+   THISTLE & CYPRESS — FOUNDERS' NOTE
+   ------------------------------------------------------------
+   Intimate companion to the About page.
+   Scoped to .founders-page so the existing site remains untouched.
+============================================================ */
+
+body.founders-page .founders-main {
+  max-width: var(--tc-reading);
+  padding-top: clamp(2rem, 4vw, 3.25rem);
+}
+
+body.founders-page .founders-intro {
+  text-align: center;
+  margin: 0 auto clamp(2.75rem, 6vw, 4.25rem);
+}
+
+body.founders-page .founders-crest-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  max-width: 560px;
+  margin: 0 auto 1.5rem;
+}
+
+body.founders-page .founders-rule {
+  flex: 1 1 110px;
+  max-width: 150px;
+  height: 1px;
+  background: var(--tc-line);
+}
+
+body.founders-page .founders-crest {
+  width: min(150px, 32vw);
+  height: auto;
+  border-radius: 3px;
+  opacity: .94;
+}
+
+body.founders-page .founders-kicker {
+  margin: 0 0 .55rem;
+  color: var(--tc-plum);
+  font-family: "Source Sans 3", Georgia, sans-serif;
+  font-size: .76rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+body.founders-page .founders-intro h2 {
+  margin: 0 auto .75rem;
+  font-size: clamp(1.85rem, 4vw, 2.45rem);
+  line-height: 1.15;
+}
+
+body.founders-page .founders-lede {
+  max-width: 610px;
+  margin: 0 auto;
+  color: #6b625c;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: clamp(1.05rem, 2vw, 1.18rem);
+  font-style: italic;
+  line-height: 1.65;
+}
+
+body.founders-page .founders-letter {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+body.founders-page .founders-letter > p {
+  margin: 0 0 1.45rem;
+  font-size: 1.08rem;
+  line-height: 1.85;
+}
+
+body.founders-page .founders-letter > p:first-child::first-letter {
+  float: left;
+  margin: .08rem .45rem 0 0;
+  color: var(--tc-green);
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 3.7rem;
+  line-height: .78;
+}
+
+body.founders-page .founders-signature {
+  margin: clamp(2.75rem, 6vw, 4rem) auto 0;
+  text-align: center;
+}
+
+body.founders-page .signature-rule {
+  display: block;
+  width: 52px;
+  height: 1px;
+  margin: 0 auto 1rem;
+  background: var(--tc-line);
+}
+
+body.founders-page .founders-signature p {
+  margin: 0 0 .15rem;
+  color: #7a7069;
+  font-family: "Playfair Display", Georgia, serif;
+  font-style: italic;
+}
+
+body.founders-page .founders-signature strong {
+  color: var(--tc-ink);
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: 500;
+}
+
+body.founders-page .founders-closing {
+  margin: clamp(3.5rem, 8vw, 5.5rem) auto 1rem;
+  padding: 2rem 1rem 0;
+  border-top: 1px solid var(--tc-line);
+  text-align: center;
+}
+
+body.founders-page .founders-closing-mark {
+  margin: 0 0 .65rem;
+  color: var(--tc-sage);
+  font-size: 1rem;
+}
+
+body.founders-page .founders-closing > p:not(.founders-closing-mark) {
+  margin: 0 0 1rem;
+  color: #6b625c;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.05rem;
+  font-style: italic;
+}
+
+body.founders-page .founders-closing a {
+  display: inline-flex;
+  align-items: center;
+  gap: .7rem;
+  color: var(--tc-ink);
+  font-family: "Source Sans 3", Georgia, sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(47, 42, 38, .22);
+  padding-bottom: .2rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+
+body.founders-page .founders-closing a:hover {
+  color: var(--tc-green);
+  border-color: var(--tc-green);
+}
+
+@media (max-width: 768px) {
+  body.founders-page .founders-main {
+    width: min(100% - 2rem, var(--tc-reading));
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  body.founders-page .founders-crest-frame {
+    gap: .7rem;
+  }
+
+  body.founders-page .founders-rule {
+    max-width: 90px;
+  }
+
+  body.founders-page .founders-letter > p {
+    font-size: 1.03rem;
+    line-height: 1.8;
+  }
+}
+
+@media (max-width: 480px) {
+  body.founders-page .founders-main {
+    width: min(100% - 1.5rem, var(--tc-reading));
+  }
+
+  body.founders-page .founders-crest-frame {
+    gap: .5rem;
+  }
+
+  body.founders-page .founders-rule {
+    max-width: 55px;
+  }
+
+  body.founders-page .founders-letter > p:first-child::first-letter {
+    font-size: 3.1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.founders-page .founders-closing a {
+    transition: none;
+  }
+}
+
+@media print {
+  body.founders-page .founders-closing {
+    margin-top: 2rem;
+  }
+}
