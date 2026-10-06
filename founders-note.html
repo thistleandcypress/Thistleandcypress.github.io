@@ -6,8 +6,9 @@
   <!-- Basic Metadata -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Founders’ Note – Thistle & Cypress</title>
-  <meta name="description" content="A note from Jon and Rick on why we built Thistle & Cypress and what we hope this digital clearing becomes for you.">
+  <title>Founders’ Note — Thistle & Cypress | Why We Built This Space</title>
+  <meta name="description" content="A personal note from Jon and Rick on why we built Thistle & Cypress—a quiet digital clearing for making, learning, living intentionally, and sharing the rhythms of home.">
+  <link rel="canonical" href="https://thistleandcypress.com/founders-note.html">
   <meta name="author" content="Thistle & Cypress">
   <meta name="theme-color" content="#faf8f5">
 
@@ -16,7 +17,8 @@
   <meta property="og:description" content="A note from Jon and Rick on why we built Thistle & Cypress and what we hope this digital clearing becomes for you.">
   <meta property="og:image" content="https://thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.com/founders-note.html">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Thistle & Cypress">
 
   <!-- Twitter Metadata -->
   <meta name="twitter:card" content="summary_large_image">
@@ -28,23 +30,42 @@
   <link rel="icon" type="image/jpeg" href="/Favicon.jpg">
   <link rel="stylesheet" href="/style.css">
 
-  <!-- JSON-LD: Website -->
+  <!-- JSON-LD -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Thistle & Cypress",
-    "url": "https://thistleandcypress.com/",
-    "description": "A seasonal, home-centered project rooted in land, food, craft, and rhythm.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
-    }
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://thistleandcypress.com/#website",
+        "name": "Thistle & Cypress",
+        "url": "https://thistleandcypress.com/",
+        "publisher": { "@type": "Organization", "name": "Thistle & Cypress" }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://thistleandcypress.com/founders-note.html#webpage",
+        "url": "https://thistleandcypress.com/founders-note.html",
+        "name": "Founders’ Note — Thistle & Cypress",
+        "description": "A personal note from Jon and Rick on why they built Thistle & Cypress and what they hope this digital clearing becomes.",
+        "isPartOf": { "@id": "https://thistleandcypress.com/#website" },
+        "about": { "@type": "Organization", "name": "Thistle & Cypress" }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://thistleandcypress.com/founders-note.html#breadcrumb",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thistleandcypress.com/" },
+          { "@type": "ListItem", "position": 2, "name": "About", "item": "https://thistleandcypress.com/about.html" },
+          { "@type": "ListItem", "position": 3, "name": "Founders’ Note", "item": "https://thistleandcypress.com/founders-note.html" }
+        ]
+      }
+    ]
   }
   </script>
 </head>
 
-<body class="about-page">
+<body class="founders-page">
 
   <a id="top"></a>
   
@@ -72,44 +93,50 @@
   </nav>
 
   <!-- Main Content -->
-  <main role="main">
+  <main role="main" class="founders-main">
 
-    <!-- Crest: Positioned highly with zeroed out top margin -->
-    <section class="about-crest" style="margin-top: 0; margin-bottom: 5px;">
-      <img
-        src="/about/images/Crest.jpg"
-        alt="Thistle & Cypress Brand Crest"
-        class="about-crest-graphic"
-        loading="lazy"
-      >
-      <p class="crest-caption" style="text-align: center; font-style: italic; max-width: 600px; margin: 15px auto 0; color: #666; font-size: 0.95rem;">
-        The heart behind Thistle & Cypress begins with our roots. Our crest brings together the Scottish thistle and the Italian cypress. It is a visual representation of our intertwined roots—combining a resilient, resourceful spirit with a warm, generous devotion to place and hospitality.
-      </p>
+    <section class="founders-intro" aria-labelledby="founders-intro-heading">
+      <div class="founders-crest-frame">
+        <span class="founders-rule" aria-hidden="true"></span>
+        <img
+          src="/about/images/Crest.jpg"
+          alt="Thistle & Cypress Brand Crest"
+          class="founders-crest"
+          loading="lazy"
+        >
+        <span class="founders-rule" aria-hidden="true"></span>
+      </div>
+      <p class="founders-kicker">A note from the two of us</p>
+      <h2 id="founders-intro-heading">Why We Built This Space</h2>
+      <p class="founders-lede">A quiet digital clearing in a noisy world—for the slow, intentional work of building a life with our hands.</p>
     </section>
 
-    <section class="about-narrative">
-      <h2>Why We Built This Space</h2>
-      
-      <p>We didn’t start Thistle & Cypress because we have all the answers. We started it because we wanted to create a quiet, digital clearing in a noisy world—a place to document the slow, intentional work of building a life with our hands.</p>
-      
+    <article class="founders-letter">
+      <p>We didn’t start Thistle &amp; Cypress because we have all the answers. We started it because we wanted to create a quiet, digital clearing in a noisy world—a place to document the slow, intentional work of building a life with our hands.</p>
+
       <p>For years, we’ve found immense grounding in the simple acts of making: kneading pasta dough, waiting for bread to rise, planting roots in our Pennsylvania soil, and letting the seasons dictate our pace. But in a fast-forward culture that values optimization over process, we realized how easy it is to lose touch with those grounding rhythms.</p>
-      
+
       <p>We wanted a dedicated space to slow down, catalog our experiments, and build something beautiful out of pure curiosity.</p>
-      
-      <p>Thistle & Cypress is our public notebook. It’s where we celebrate the trials, the successes, and the unavoidable garden mistakes. We cover everything that touches our version of an intentional life—from the traditional heritage of baking to modern workflows like using AI as a creative partner. If it requires curiosity and care, it has a home here.</p>
-      
+
+      <p>Thistle &amp; Cypress is our public notebook. It’s where we celebrate the trials, the successes, and the unavoidable garden mistakes. We cover everything that touches our version of an intentional life—from the traditional heritage of baking to modern workflows like using AI as a creative partner. If it requires curiosity and care, it has a home here.</p>
+
       <p>Our hope for this space is simple: that it serves as a quiet companion for your own journey. You don’t need to move to the woods, buy a farm, or change your life overnight to live with intention. You just have to begin where you stand, one conscious choice at a time.</p>
-      
+
       <p>We’re here sharing our rhythms, and we’re incredibly glad to be cheering on yours.</p>
-      
-      <p class="signature">— <strong>Jon & Rick</strong></p>
+
+      <div class="founders-signature">
+        <span class="signature-rule" aria-hidden="true"></span>
+        <p>With warmth,</p>
+        <strong>Jon &amp; Rick</strong>
+      </div>
+    </article>
+
+    <section class="founders-closing" aria-label="A final thought">
+      <p class="founders-closing-mark" aria-hidden="true">✦</p>
+      <p>We’re glad you found your way here.</p>
+      <a href="/about.html">Return to Who We Are <span aria-hidden="true">→</span></a>
     </section>
 
-    <!-- Back Link -->
-    <div class="post-back" style="margin-top: 40px;">
-      <a href="/about.html">Back to About</a>
-    </div>
-       
   </main>
 
   <!-- Footer Include --> 
