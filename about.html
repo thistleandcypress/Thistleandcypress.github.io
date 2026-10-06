@@ -3,64 +3,75 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Basic Metadata -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Who We Are – Thistle & Cypress</title>
-  <meta name="description" content="The story behind Thistle & Cypress — who we are, our five pillars, and the life we're creating.">
-  <meta name="author" content="Thistle & Cypress">
-  <meta name="theme-color" content="#faf8f5">
 
-  <!-- OpenGraph Metadata -->
-  <meta property="og:title" content="Who We Are – Thistle & Cypress">
-  <meta property="og:description" content="The story behind Thistle & Cypress — who we are, our five pillars, and the life we're creating.">
+  <title>Who We Are — Thistle &amp; Cypress | Our Life, Our Home, Our Five Pillars</title>
+  <meta name="description" content="Meet Rick and Jon and discover the ideas, roots, and five interconnected pillars behind Thistle &amp; Cypress: Kitchen, Garden, Craft, Rhythm, and Wine &amp; Travel.">
+  <meta name="author" content="Thistle &amp; Cypress">
+  <meta name="theme-color" content="#faf8f5">
+  <link rel="canonical" href="https://thistleandcypress.com/about.html">
+
+  <meta property="og:title" content="Who We Are — Thistle &amp; Cypress">
+  <meta property="og:description" content="Meet Rick and Jon and discover the roots and five interconnected pillars behind Thistle &amp; Cypress.">
   <meta property="og:image" content="https://thistleandcypress.com/OG-image-F.jpg">
   <meta property="og:url" content="https://thistleandcypress.com/about.html">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Thistle &amp; Cypress">
 
-  <!-- Twitter Metadata -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Who We Are – Thistle & Cypress">
-  <meta name="twitter:description" content="The story behind Thistle & Cypress — who we are, our five pillars, and the life we're creating.">
+  <meta name="twitter:title" content="Who We Are — Thistle &amp; Cypress">
+  <meta name="twitter:description" content="Meet Rick and Jon and discover the roots and five interconnected pillars behind Thistle &amp; Cypress.">
   <meta name="twitter:image" content="https://thistleandcypress.com/OG-image-F.jpg">
 
-  <!-- Absolute root-relative asset paths -->
   <link rel="icon" type="image/jpeg" href="/Favicon.jpg">
   <link rel="stylesheet" href="/style.css">
 
-  <!-- JSON-LD: Website -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Thistle & Cypress",
-    "url": "https://thistleandcypress.com/",
-    "description": "A seasonal, home-centered project rooted in land, food, craft, rhythm, wine, and travel.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Thistle & Cypress"
-    }
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://thistleandcypress.com/#website",
+        "name": "Thistle & Cypress",
+        "url": "https://thistleandcypress.com/",
+        "publisher": { "@id": "https://thistleandcypress.com/#organization" }
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://thistleandcypress.com/#organization",
+        "name": "Thistle & Cypress",
+        "url": "https://thistleandcypress.com/",
+        "logo": "https://thistleandcypress.com/OG-image-F.jpg"
+      },
+      {
+        "@type": "AboutPage",
+        "@id": "https://thistleandcypress.com/about.html#about",
+        "url": "https://thistleandcypress.com/about.html",
+        "name": "Who We Are — Thistle & Cypress",
+        "description": "Meet Rick and Jon and discover the roots and five interconnected pillars behind Thistle & Cypress.",
+        "isPartOf": { "@id": "https://thistleandcypress.com/#website" },
+        "about": { "@id": "https://thistleandcypress.com/#organization" }
+      }
+    ]
   }
   </script>
 </head>
 
 <body class="about-page">
-
   <a id="top"></a>
 
-  <!-- Hero -->
-  <header class="hero" role="banner">
+  <header class="hero about-hero" role="banner">
     <div class="hero-bg" aria-hidden="true"></div>
     <div class="hero-inner">
+      <p class="eyebrow">About · Thistle &amp; Cypress</p>
       <h1>Who We Are</h1>
-      <p class="tagline">
-        The story behind Thistle & Cypress — our life, our passions, and our home.
-      </p>
+      <p class="tagline">The life we're building, and the things we've learned along the way.</p>
       <div class="header-divider"></div>
     </div>
   </header>
 
-  <!-- Global Navigation (Updated with Wine & Travel last) -->
   <nav role="navigation" aria-label="Primary navigation">
     <a href="/">Home</a>
     <a href="/about.html" class="active" aria-current="page">About</a>
@@ -68,59 +79,149 @@
     <a href="/garden/">Garden</a>
     <a href="/craft/">Craft</a>
     <a href="/rhythm/">Rhythm</a>
-    <a href="/wine-travel/">Wine & Travel</a>
+    <a href="/wine-travel/">Wine &amp; Travel</a>
   </nav>
 
-  <!-- Main Content -->
-  <main role="main">
+  <main role="main" class="about-main">
 
-    <!-- About Photo Wrapper -->
-    <section class="about-photo-wrapper">
-      <img 
-        src="/about/images/about-photo.jpg"
-        alt="Rick and Jon standing together"
-        class="about-photo"
-        loading="lazy"
-        style="max-width: 37%; height: auto; margin: 0 auto; display: block; border-radius: 8px;"
-      >
-    </section>
-
-    <!-- Section Heading -->
-    <section style="text-align: center; margin-top: 30px;">
-      <h2>Rick & Jon — Welcome to Thistle & Cypress</h2>
-    </section>
-
-    <!-- Main About Narrative (Updated with 5 Pillars in correct order) -->
-    <section class="about-narrative" style="max-width: 800px; margin: 20px auto; line-height: 1.8; font-size: 1.1rem; color: #444;">
-      <p>This brand honors our roots. The thistle represents Jon’s Scottish heritage (resilient, resourceful, enduring). The cypress represents Rick’s Italian lineage (warm, generous, deeply tied to place). Together, they shape a life that’s rugged yet refined, practical yet beautiful.</p>
-
-      <p>We’re practitioners, not experts. What we share — always — is a love of good food, the joy of seeing the land thrive, and a belief that travel is essential inspiration for how we live at home. We plant, build, preserve, make garden mistakes, and learn from them.</p>
-
-      <p>At the heart of our days are five interconnected pillars. They don't exist in isolation; they flow constantly into one another — where a harvest from the soil guides an evening meal, and a handmade object establishes the quiet rhythm for a season. Together, they form the ecosystem of our home:</p>
-
-      <ul class="pillar-list" style="margin-bottom: 25px; padding-left: 20px; list-style-type: disc;">
-        <li><strong>Kitchen</strong> — where seasonal ingredients, intuitive cooking, and thoughtful wine invite us to slow down and share.</li>
-        <li><strong>Garden</strong> — the patient tending of soil and growth that connects us directly to the timeline of the earth.</li>
-        <li><strong>Craft</strong> — the deliberate work of our hands, creating meaningful objects and physical spaces that hold a story.</li>
-        <li><strong>Rhythm</strong> — the quiet rituals, seasonal shifts, and mindful pauses that bind these practices together into a purposeful life.</li>
-        <li><strong>Wine & Travel</strong> — the exploration of terroir, culture, and craft that broadens our palate and inspires our daily life.</li>
-      </ul>
-         
-      <p>If you’re quietly shaping a slower, values-driven life—experimenting, savoring, learning—we’re on a parallel path. Not as authorities, but as companions sharing what we’ve found so far.</p>
-
-      <p style="text-align: center; margin-top: 40px; font-weight: bold; font-style: italic;">We’re glad you’re here. Pull up a chair.</p>
-    </section>
-
-    <!-- Founders' Note Link -->
-    <section class="coming-soon" style="margin-top: 60px; text-align: center;">
+    <section class="about-intro" aria-labelledby="about-intro-heading">
+      <p class="eyebrow">A life with a little more intention</p>
+      <h2 id="about-intro-heading">Welcome to Thistle &amp; Cypress.</h2>
       <p>
-        <small><a href="/founders-note.html" style="color: #888; text-decoration: underline;">Read our Founders’ Note to understand the genesis of this website and the brand →</a></small>
+        We’re Rick and Jon—cooking, tending our land, making things with our hands,
+        following the seasons, and finding inspiration in the places and cultures beyond home.
+      </p>
+      <p>
+        Thistle &amp; Cypress is where those threads come together: practical ideas,
+        experiments, stories, and discoveries for a life rooted in what matters.
       </p>
     </section>
 
-    <!-- Back Link -->
-    <div class="post-back" style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
-      <a href="/" style="text-decoration: none; color: #555; font-weight: bold;">← Back to Home</a>
+    <section class="about-people" aria-labelledby="rick-jon-heading">
+      <div class="about-photo-frame">
+        <img
+          src="/about/images/about-photo.jpg"
+          alt="Rick and Jon standing together"
+          class="about-photo"
+          loading="lazy"
+        >
+      </div>
+
+      <div class="about-people-copy">
+        <p class="eyebrow">Rick &amp; Jon</p>
+        <h2 id="rick-jon-heading">Two people, one home, a lot of curiosity.</h2>
+
+        <p>
+          This brand honors our roots. The thistle represents Jon’s Scottish heritage—
+          resilient, resourceful, enduring. The cypress represents Rick’s Italian lineage—
+          warm, generous, deeply tied to place. Together, they shape a life that’s rugged
+          yet refined, practical yet beautiful.
+        </p>
+
+        <p>
+          We’re practitioners, not experts. What we share—always—is a love of good food,
+          the joy of seeing the land thrive, and a belief that travel is essential inspiration
+          for how we live at home. We plant, build, preserve, make garden mistakes, and learn from them.
+        </p>
+      </div>
+    </section>
+
+    <section class="ecosystem" aria-labelledby="ecosystem-heading">
+      <div class="section-heading ecosystem-heading">
+        <p class="eyebrow">Five interconnected pillars</p>
+        <h2 id="ecosystem-heading">Everything is connected.</h2>
+        <p>
+          Our days move between these five worlds rather than staying neatly in their lanes.
+          A harvest from the soil guides an evening meal. A handmade object establishes the
+          quiet rhythm for a season. Travel changes what we cook at home. One idea leads naturally to another.
+        </p>
+      </div>
+
+      <div class="pillar-ecosystem">
+        <div class="pillar-orbit-line orbit-line-1" aria-hidden="true"></div>
+        <div class="pillar-orbit-line orbit-line-2" aria-hidden="true"></div>
+        <div class="pillar-orbit-line orbit-line-3" aria-hidden="true"></div>
+        <div class="pillar-orbit-line orbit-line-4" aria-hidden="true"></div>
+        <div class="pillar-orbit-line orbit-line-5" aria-hidden="true"></div>
+
+        <div class="ecosystem-center" aria-hidden="true">
+          <span class="ecosystem-mark">T &amp; C</span>
+          <span class="ecosystem-center-label">Thistle &amp; Cypress</span>
+        </div>
+
+        <a class="ecosystem-pillar ecosystem-kitchen" href="/kitchen/">
+          <span class="pillar-number">01</span>
+          <strong>Kitchen</strong>
+          <span>Gather · Make · Share</span>
+        </a>
+
+        <a class="ecosystem-pillar ecosystem-garden" href="/garden/">
+          <span class="pillar-number">02</span>
+          <strong>Garden</strong>
+          <span>Grow · Tend · Learn</span>
+        </a>
+
+        <a class="ecosystem-pillar ecosystem-craft" href="/craft/">
+          <span class="pillar-number">03</span>
+          <strong>Craft</strong>
+          <span>Make · Repair · Create</span>
+        </a>
+
+        <a class="ecosystem-pillar ecosystem-rhythm" href="/rhythm/">
+          <span class="pillar-number">04</span>
+          <strong>Rhythm</strong>
+          <span>Home · Season · Self</span>
+        </a>
+
+        <a class="ecosystem-pillar ecosystem-wine" href="/wine-travel/">
+          <span class="pillar-number">05</span>
+          <strong>Wine &amp; Travel</strong>
+          <span>Explore · Taste · Discover</span>
+        </a>
+      </div>
+
+      <p class="ecosystem-note">
+        Explore any of the five. You’ll find your way into the others soon enough.
+      </p>
+    </section>
+
+    <section class="practitioners" aria-labelledby="practitioners-heading">
+      <div class="practitioners-rule" aria-hidden="true"></div>
+      <p class="eyebrow">Our approach</p>
+      <h2 id="practitioners-heading">We’re practitioners, not experts.</h2>
+      <blockquote>
+        We share what we’ve found so far—not from a position of authority,
+        but as companions on a parallel path.
+      </blockquote>
+      <p>
+        If you’re quietly shaping a slower, values-driven life—experimenting, savoring,
+        learning—we’re on a parallel path. We hope something here gives you an idea,
+        a useful starting point, or simply a reason to linger a little longer.
+      </p>
+    </section>
+
+    <section class="founders-doorway" aria-labelledby="founders-heading">
+      <div class="founders-doorway-copy">
+        <p class="eyebrow">A little further in</p>
+        <h2 id="founders-heading">A Note From the Founders</h2>
+        <p>
+          Why we built this space, what we hope it becomes, and why a quiet digital clearing
+          felt worth making in the first place.
+        </p>
+      </div>
+      <a class="founders-doorway-link" href="/founders-note.html">
+        <span>Read the Founders’ Note</span>
+        <span aria-hidden="true">→</span>
+      </a>
+    </section>
+
+    <section class="about-closing" aria-label="Closing invitation">
+      <p>We’re glad you’re here.</p>
+      <strong>Pull up a chair.</strong>
+    </section>
+
+    <div class="post-back about-back">
+      <a href="/">Back to Home</a>
     </div>
 
   </main>
