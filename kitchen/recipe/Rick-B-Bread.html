@@ -85,6 +85,282 @@
 }
 </script>
 
+
+<style>
+/* =========================================================
+   BANANA BREAD — RECIPE CARD PRINT TEST
+   Prototype only. Intended to move to the master stylesheet
+   after print-preview approval.
+   ========================================================= */
+
+.recipe-card-watermark {
+  display: none;
+}
+
+@media print {
+
+  @page {
+    size: Letter;
+    margin: 0.38in 0.42in;
+  }
+
+  html,
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #fff !important;
+  }
+
+  body.recipe-page {
+    color: #2b2623;
+    font-size: 9.4pt;
+    line-height: 1.28;
+  }
+
+  /* The printed piece is the recipe card — not the website. */
+  body.recipe-page > nav,
+  body.recipe-page > header.hero,
+  body.recipe-page > footer,
+  body.recipe-page .screen-only {
+    display: none !important;
+  }
+
+  body.recipe-page main {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body.recipe-page .recipe-print-area {
+    position: relative;
+    width: auto;
+    max-width: none;
+    margin: 0 !important;
+    padding: 0.34in 0.38in 0.28in;
+    overflow: hidden;
+    background: rgba(251, 249, 244, 0.97);
+    border: 1px solid rgba(76, 84, 61, 0.45);
+    box-shadow: none;
+    isolation: isolate;
+  }
+
+  /* A real image rather than a CSS background makes the watermark
+     more dependable in browser print engines. */
+  body.recipe-page .recipe-card-watermark {
+    display: block;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    opacity: 0.085;
+    filter: saturate(0.65) contrast(0.92);
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  body.recipe-page .recipe-header {
+    position: relative;
+    margin: 0 0 0.42rem;
+    padding: 0 0 0.34rem;
+    text-align: center;
+    border-bottom: 1px solid rgba(76, 84, 61, 0.5);
+  }
+
+  body.recipe-page .recipe-header::before {
+    content: "THISTLE & CYPRESS";
+    display: block;
+    margin: 0 0 0.18rem;
+    color: #59634b;
+    font-family: "Source Sans 3", Arial, sans-serif;
+    font-size: 7.2pt;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+  }
+
+  body.recipe-page .recipe-header h2,
+  body.recipe-page .recipe-header h1 {
+    margin: 0 0 0.12rem;
+    color: #2b2623;
+    font-size: 19pt;
+    line-height: 1.05;
+  }
+
+  body.recipe-page .recipe-header .recipe-tagline {
+    max-width: 6.4in;
+    margin: 0 auto;
+    color: #5b554f;
+    font-size: 8.6pt;
+    line-height: 1.28;
+  }
+
+  body.recipe-page .recipe-meta {
+    margin: 0 0 0.48rem;
+    padding: 0.26rem 0 0.34rem;
+    border-bottom: 1px solid rgba(76, 84, 61, 0.28);
+  }
+
+  body.recipe-page .recipe-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.08rem;
+  }
+
+  body.recipe-page .recipe-stat {
+    padding: 0.03rem 0.12rem;
+    text-align: center;
+  }
+
+  body.recipe-page .recipe-stat + .recipe-stat {
+    border-left: 1px solid rgba(76, 84, 61, 0.25);
+  }
+
+  body.recipe-page .recipe-stat-label {
+    display: block;
+    margin: 0 0 0.03rem;
+    color: #68705c;
+    font-size: 6.8pt;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  body.recipe-page .recipe-stat-value {
+    display: block;
+    color: #2b2623;
+    font-size: 8.8pt;
+    font-weight: 600;
+    line-height: 1.1;
+  }
+
+  /* Keep the approximate nutrition, but make it genuinely compact. */
+  body.recipe-page .recipe-nutrition {
+    margin-top: 0.25rem;
+    padding-top: 0.25rem;
+  }
+
+  body.recipe-page .recipe-nutrition-title {
+    margin: 0 0 0.18rem;
+    font-size: 6.8pt;
+    letter-spacing: 0.08em;
+  }
+
+  body.recipe-page .recipe-nutrition-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 0.08rem;
+  }
+
+  body.recipe-page .recipe-nutrition-item {
+    text-align: center;
+  }
+
+  body.recipe-page .recipe-nutrition-item strong {
+    display: block;
+    font-size: 7.8pt;
+    line-height: 1.05;
+  }
+
+  body.recipe-page .recipe-nutrition-item span {
+    display: block;
+    font-size: 6pt;
+    line-height: 1.05;
+  }
+
+  body.recipe-page .recipe-nutrition-note {
+    max-width: 6.5in;
+    margin: 0.22rem auto 0;
+    font-size: 6pt;
+    line-height: 1.2;
+  }
+
+  /* The overview is lovely online, but the printed card needs the
+     practical recipe to earn the space. */
+  body.recipe-page .recipe-print-area > .recipe-section:first-of-type {
+    display: none !important;
+  }
+
+  body.recipe-page .recipe-divider {
+    display: none;
+  }
+
+  /* Ingredients and method become the actual recipe-card body. */
+  body.recipe-page .recipe-section {
+    margin: 0.42rem 0;
+  }
+
+  body.recipe-page .recipe-section h2 {
+    margin: 0 0 0.24rem;
+    padding-bottom: 0.13rem;
+    color: #59634b;
+    font-size: 10.8pt;
+    line-height: 1.1;
+    border-bottom: 1px solid rgba(76, 84, 61, 0.32);
+  }
+
+  body.recipe-page .recipe-section h3 {
+    margin: 0.26rem 0 0.08rem;
+    color: #3f4438;
+    font-size: 8pt;
+    line-height: 1.1;
+  }
+
+  body.recipe-page .recipe-section p {
+    margin: 0.18rem 0;
+    line-height: 1.25;
+  }
+
+  body.recipe-page .recipe-print-area .pillar-list {
+    margin: 0.08rem 0 0.24rem;
+    padding-left: 1.05rem;
+  }
+
+  body.recipe-page .recipe-print-area .pillar-list li {
+    margin: 0.07rem 0;
+    line-height: 1.22;
+  }
+
+  body.recipe-page .recipe-print-area .pillar-list ul {
+    margin-top: 0.04rem !important;
+    margin-bottom: 0.04rem !important;
+    padding-left: 1rem;
+  }
+
+  body.recipe-page .recipe-method h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  body.recipe-page .recipe-method li,
+  body.recipe-page .recipe-ingredients li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  body.recipe-page .recipe-note {
+    margin: 0.28rem 0;
+    padding: 0.22rem 0.45rem;
+    font-size: 7.7pt;
+    line-height: 1.25;
+    border-left: 2px solid rgba(89, 99, 75, 0.6);
+  }
+
+  /* Quiet branded footer for the card itself. */
+  body.recipe-page .recipe-print-area::after {
+    content: "thistleandcypress.com";
+    display: block;
+    margin: 0.38rem 0 0;
+    padding-top: 0.2rem;
+    color: #73766b;
+    font-family: "Source Sans 3", Arial, sans-serif;
+    font-size: 6.6pt;
+    letter-spacing: 0.12em;
+    text-align: center;
+    border-top: 1px solid rgba(76, 84, 61, 0.22);
+  }
+}
+</style>
+
 </head>
 
 <body class="recipe-page kitchen-page">
@@ -135,6 +411,13 @@ unmistakable "your life is together" aroma.
 ===================================================== -->
 
 <div class="recipe-print-area">
+
+<img
+  class="recipe-card-watermark"
+  src="../../Pillar Background Thistle and Cypress About.jpg"
+  alt=""
+  aria-hidden="true"
+>
 
 <header class="recipe-header">
 
