@@ -1,196 +1,235 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Fall Spice Brown-Butter Gingerbread Oatmeal Cookies ("OG Cookies") — Thistle & Cypress</title>
+<title>Fall Spice Brown-Butter Gingerbread Oatmeal Cookies Recipe ("OG Cookies") — Thistle & Cypress</title>
 
 <meta name="description" content="The official Thistle & Cypress master recipe for our thick, chewy, brown-butter gingerbread oatmeal monster cookies, forged through our AI Hell's Kitchen experiment.">
 
 <link rel="stylesheet" href="../../style.css">
 
-<style>
-/* Recipe page specific styling and print controls */
-.recipe-container {
-    max-width: 750px;
-    margin: 2rem auto;
-    padding: 2.5rem;
-    background-color: #fdfbf7;
-    border-radius: 8px;
-    border: 1px solid #e6dfd5;
-}
-
-.recipe-header {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.recipe-header h1 {
-    font-size: 2.2rem;
-    color: #2b2623;
-    margin-bottom: 0.5rem;
-}
-
-.recipe-meta {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    font-size: 0.95rem;
-    color: #6b625c;
-    margin-top: 1rem;
-    border-top: 1px solid #e6dfd5;
-    border-bottom: 1px solid #e6dfd5;
-    padding: 0.75rem 0;
-}
-
-.recipe-stats {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1rem;
-    text-align: center;
-    margin: 1.5rem 0;
-    background-color: #f3efe9;
-    padding: 1rem;
-    border-radius: 6px;
-}
-
-.recipe-stats div span {
-    display: block;
-    font-size: 0.85rem;
-    color: #6b625c;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-}
-
-.recipe-stats div strong {
-    font-size: 1.1rem;
-    color: #2b2623;
-}
-
-.recipe-section {
-    margin: 2rem 0;
-}
-
-.recipe-section h2 {
-    font-size: 1.3rem;
-    color: #2b2623;
-    border-bottom: 2px solid #c9d2c3;
-    padding-bottom: 0.4rem;
-    margin-bottom: 1rem;
-}
-
-.recipe-section ul, .recipe-section ol {
-    padding-left: 1.5rem;
-    color: #4a423d;
-    line-height: 1.7;
-}
-
-.recipe-section li {
-    margin-bottom: 0.5rem;
-}
-
-.recipe-note {
-    background-color: #f3efe9;
-    padding: 1.25rem;
-    border-radius: 6px;
-    margin: 1.5rem 0;
-    border-left: 4px solid #c9d2c3;
-    color: #4a423d;
-    font-style: italic;
-    font-size: 0.95rem;
-    line-height: 1.6;
-}
-
-.print-button-container {
-    text-align: center;
-    margin: 2rem 0;
-}
-
-.print-button {
-    background-color: #2b2623;
-    color: #fff;
-    border: none;
-    padding: 0.75rem 1.5rem;
-    font-size: 1rem;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.2s ease;
-}
-
-.print-button:hover {
-    background-color: #4a423d;
-}
-
-@media print {
-    body {
-        background: none;
-        color: #000;
+<!-- Recipe structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Fall Spice Brown-Butter Gingerbread Oatmeal Cookies",
+  "author": {
+    "@type": "Organization",
+    "name": "Thistle & Cypress"
+  },
+  "datePublished": "2026-09-20",
+  "description": "Thick, chewy, brown-butter gingerbread oatmeal cookies featuring a 50/50 Caputo flour blend, dark molasses, and a robust spice profile.",
+  "prepTime": "PT25M",
+  "chillTime": "PT1H",
+  "cookTime": "PT20M",
+  "totalTime": "PT1H45M",
+  "recipeYield": "18–24 large cookies",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "keywords": [
+    "gingerbread oatmeal cookies",
+    "brown butter cookies",
+    "Caputo flour cookies",
+    "fall spice cookies"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups raisins",
+    "Water or orange juice, enough to cover for plumping",
+    "1 cup Caputo Traditional flour (Red bag)",
+    "1 cup Caputo Baking flour",
+    "1 tsp baking soda",
+    "1 tsp fine sea salt",
+    "1 tsp cornstarch",
+    "2 Tbsp ground cinnamon",
+    "1 Tbsp ground ginger",
+    "1 tsp ground nutmeg",
+    "1/2 tsp ground clove",
+    "3 cups Bob's Red Mill old-fashioned oats",
+    "1 cup unsalted Kerrygold butter, browned and cooled to a soft paste",
+    "1 cup packed dark brown sugar",
+    "1/4 cup granulated sugar",
+    "1/3 cup dark molasses",
+    "2 large eggs, at room temperature",
+    "2 tsp pure vanilla extract"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Plump the raisins",
+      "text": "Place the raisins in a large measuring cup and cover with water or orange juice. Microwave for 1 minute, then drain thoroughly and pat completely dry."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Brown the butter",
+      "text": "Melt Kerrygold butter in a saucepan over medium heat, swirling constantly until it foams, turns quiet, and forms amber-brown specks with a rich toffee aroma. Pour into a bowl and let cool to a soft room-temperature paste."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Mix the dry ingredients",
+      "text": "Whisk together the 50/50 Caputo flour blend, baking soda, salt, cornstarch, cinnamon, ginger, nutmeg, and clove. Stir in the old-fashioned oats."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Build the wet base",
+      "text": "Using a stand mixer fitted with the paddle attachment, beat the cooled browned butter, dark brown sugar, and granulated sugar until smooth and creamy. Beat in the dark molasses, then add eggs one at a time, followed by the vanilla extract."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Combine and chill",
+      "text": "Slowly add the dry oat-and-flour mixture on low speed just until combined. Gently fold in the plumped, dried raisins. Cover and refrigerate the dough for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Shape the cookies",
+      "text": "Heat oven to 350°F and line baking sheets with parchment paper. Scoop massive, rugged, uneven mounds of dough using a large cookie scoop, leaving tops craggy for texture."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Bake",
+      "text": "Bake for 16 to 20 minutes. Halfway through, gently rap the baking sheet once against the oven rack to create artisan ripples. Pull when edges are set and matte while the center still yields slightly."
     }
-    nav, .subnav, .print-button-container, .post-back {
-        display: none !important;
-    }
-    .recipe-container {
-        border: none;
-        padding: 0;
-        margin: 0;
-        max-width: 100%;
-    }
+  ]
 }
-</style>
+</script>
+
 </head>
 
-<body class="kitchen-page">
+<body class="recipe-page kitchen-page">
 
 <!-- Global Navigation -->
-<nav class="screen-only">
+<nav>
 <a href="/">Home</a>
 <a href="/about.html">About</a>
-<a href="/kitchen/index.html" class="active">Kitchen</a>
-<a href="/garden/index.html">Garden</a>
-<a href="/craft/index.html">Craft</a>
-<a href="/rhythm/index.html">Rhythm</a>
-<a href="/wine-travel/index.html">Wine & Travel</a>
+<a href="/kitchen" class="active">Kitchen</a>
+<a href="/garden/">Garden</a>
+<a href="/craft/">Craft</a>
+<a href="/rhythm/">Rhythm</a>
+<a href="/wine-travel/">Wine & Travel</a>
 </nav>
 
-<!-- Kitchen Sub-Navigation -->
-<nav class="subnav screen-only">
+<!-- Submenu Navigation -->
+<nav class="subnav">
 <a href="../index.html">Kitchen</a>
 <a href="../baking/index.html">Baking</a>
 <a href="../cooking/index.html">Cooking</a>
 <a href="../essential-tools/index.html">Essential Tools</a>
 <a href="../new-finds/index.html">New Finds</a>
 <a href="index.html" class="active">Recipes</a>
-<a href="../tips-tricks/index.html">Tips & Tricks</a>
 </nav>
 
-<main>
-<div class="recipe-container">
+<!-- Hero -->
+<header class="hero">
+<div class="hero-inner">
 
-<div class="recipe-print-area">
-<header class="recipe-header">
-<h1>Fall Spice Brown-Butter Gingerbread Oatmeal Cookies ("OG Cookies")</h1>
-<p style="font-style: italic; color: #6b625c;">Our autumn mash-up forged in the AI Hell's Kitchen crucible: massive, thick, chewy monster cookies packed with browned butter, dark molasses, and old-fashioned oats.</p>
+<p class="eyebrow">Kitchen · Recipes</p>
+
+<h1>Fall Spice Brown-Butter Gingerbread Oatmeal Cookies</h1>
+
+<p class="tagline">
+Our autumn mash-up forged in the AI Hell's Kitchen crucible: massive, thick, chewy monster cookies packed with browned butter, dark molasses, and old-fashioned oats.
+</p>
+
+<div class="header-divider"></div>
+
+</div>
 </header>
 
+<main>
+
+<!-- =====================================================
+     PRINTABLE RECIPE
+===================================================== -->
+
+<div class="recipe-print-area">
+
+<header class="recipe-header">
+
+<h2>Fall Spice Brown-Butter Gingerbread Oatmeal Cookies</h2>
+
+<p class="recipe-tagline">
+Thick, chewy, brown-butter gingerbread oatmeal monster cookies featuring a 50/50 Caputo flour blend, dark molasses, and a robust spice profile.
+</p>
+
+</header>
+
+<!-- Recipe Summary -->
+
+<section class="recipe-meta" aria-label="Recipe summary">
+
 <div class="recipe-stats">
-<div><span>Prep Time</span><strong>25 min</strong></div>
-<div><span>Chill Time</span><strong>1 hour</strong></div>
-<div><span>Bake Time</span><strong>16–20 min</strong></div>
-<div><span>Yield</span><strong>18–24 large</strong></div>
+
+<div class="recipe-stat">
+<span class="recipe-stat-label">Prep</span>
+<span class="recipe-stat-value">25 min</span>
 </div>
 
-<div class="recipe-section">
+<div class="recipe-stat">
+<span class="recipe-stat-label">Chill</span>
+<span class="recipe-stat-value">1 hour</span>
+</div>
+
+<div class="recipe-stat">
+<span class="recipe-stat-label">Bake</span>
+<span class="recipe-stat-value">16–20 min</span>
+</div>
+
+<div class="recipe-stat">
+<span class="recipe-stat-label">Oven</span>
+<span class="recipe-stat-value">350°F</span>
+</div>
+
+<div class="recipe-stat">
+<span class="recipe-stat-label">Makes</span>
+<span class="recipe-stat-value">18–24 large</span>
+</div>
+
+</div>
+
+<button class="print-button screen-only" type="button" onclick="window.print()">
+Print Recipe
+</button>
+
+</section>
+
+<!-- Overview -->
+
+<section class="recipe-section">
+
+<h2>Overview</h2>
+
+<p>
+Forged through a rigorous AI quality control audit, these thick half-inch cookies balance deep molasses warmth and nutty brown butter with a tender crumb thanks to our custom 50/50 Caputo flour blend. Plumped raisins, old-fashioned oats, and a complex spice profile round out our ultimate autumn monster cookie.
+</p>
+
+<div class="recipe-note screen-only">
+<strong>A note from our kitchen:</strong> Every kitchen behaves differently—use your own judgment with ingredients, spice levels, and baking times.
+</div>
+
+</section>
+
+<hr class="recipe-divider">
+
+<!-- Ingredients -->
+
+<section class="recipe-section recipe-ingredients">
+
 <h2>Ingredients</h2>
 
-<p><strong>Raisin Prep</strong></p>
-<ul>
+<h3>Raisins</h3>
+
+<ul class="pillar-list">
 <li>1 ½ cups raisins</li>
-<li>Water or orange juice (enough to cover for plumping)</li>
+<li>Water or orange juice, enough to cover for plumping</li>
 </ul>
 
-<p><strong>The 50/50 Caputo Flour & Dry Blend</strong></p>
-<ul>
+<h3>The 50/50 Caputo Flour &amp; Dry Blend</h3>
+
+<ul class="pillar-list">
 <li>1 cup Caputo Traditional flour (Red bag)</li>
 <li>1 cup Caputo Baking flour</li>
 <li>1 tsp baking soda</li>
@@ -200,47 +239,127 @@
 <li>1 Tbsp ground ginger</li>
 <li>1 tsp ground nutmeg</li>
 <li>½ tsp ground clove</li>
-<li>3 cups Bob’s Red Mill old-fashioned oats</li>
+<li>3 cups Bob's Red Mill old-fashioned oats</li>
 </ul>
 
-<p><strong>The Browned Butter & Sugars</strong></p>
-<ul>
+<h3>The Browned Butter &amp; Sugars</h3>
+
+<ul class="pillar-list">
 <li>1 cup (2 sticks) unsalted Kerrygold butter, browned until nutty and amber, then cooled back down to a soft paste</li>
 <li>1 cup packed dark brown sugar</li>
 <li>¼ cup granulated sugar</li>
 <li>⅓ cup dark molasses</li>
-<li>2 large eggs, room temperature</li>
+<li>2 large eggs, at room temperature</li>
 <li>2 tsp pure vanilla extract</li>
 </ul>
-</div>
 
-<div class="recipe-section">
+</section>
+
+<hr class="recipe-divider">
+
+<!-- Method -->
+
+<section class="recipe-section recipe-method">
+
 <h2>Method</h2>
-<ol>
-<li><strong>Plump the Raisins:</strong> Place raisins in a large measuring cup, cover with water (or a splash of orange juice), and microwave for 1 minute. Drain thoroughly and pat completely dry with paper towels.</li>
-<li><strong>Brown the Butter:</strong> Melt Kerrygold butter in a saucepan over medium heat, swirling constantly until it foams, turns quiet, and forms amber-brown specks with a rich toffee aroma. Pour into a bowl and let cool to a soft room-temperature paste.</li>
-<li><strong>Mix the Dry Ingredients:</strong> Whisk together the 50/50 Caputo flour blend, baking soda, salt, cornstarch, cinnamon, ginger, nutmeg, and clove. Stir in the old-fashioned oats and set aside.</li>
-<li><strong>Build the Wet Base:</strong> Using a stand mixer with the paddle attachment, beat the cooled browned butter, dark brown sugar, and granulated sugar until smooth and creamy. Beat in the dark molasses, then add eggs one at a time, followed by vanilla extract.</li>
-<li><strong>Combine and Chill:</strong> Slowly add the dry oat-and-flour mixture on low speed just until combined. Gently fold in the plumped, dried raisins. Cover and refrigerate for 1 hour.</li>
-<li><strong>Shape the Monster Cookies:</strong> Preheat oven to 350°F and line baking sheets with parchment paper. Scoop massive, rugged, uneven mounds of dough using a large cookie scoop, leaving tops craggy for texture.</li>
-<li><strong>Bake:</strong> Bake for 16 to 20 minutes. Halfway through, gently rap the baking sheet once against the oven rack to create artisan ripples. Pull when edges are set and matte while the center still yields slightly.</li>
-<li><strong>Cool and Serve:</strong> Let rest on the hot baking sheet for 5–7 minutes before transferring to a wire rack. Best enjoyed with a hot cup of coffee or tea.</li>
+
+<h3>1. Plump the Raisins</h3>
+
+<ol class="pillar-list">
+<li>Place the raisins in a large measuring cup and cover them with water (or a splash of orange juice).</li>
+<li>Microwave for 1 minute to accelerate the plumping process.</li>
+<li>Drain thoroughly and pat the raisins completely dry with paper towels.</li>
 </ol>
+
+<h3>2. Brown the Butter</h3>
+
+<ol class="pillar-list">
+<li>Melt your Kerrygold butter in a saucepan over medium heat, swirling constantly until it foams, turns quiet, and forms amber-brown specks with a rich toffee aroma.</li>
+<li>Pour into a bowl and let cool until it reaches a soft, room-temperature paste.</li>
+</ol>
+
+<h3>3. Mix the Dry Ingredients</h3>
+
+<ol class="pillar-list">
+<li>In a medium bowl, whisk together the 50/50 Caputo flour blend, baking soda, salt, cornstarch, cinnamon, ginger, nutmeg, and clove.</li>
+<li>Stir in the old-fashioned oats and set aside.</li>
+</ol>
+
+<h3>4. Build the Wet Base</h3>
+
+<ol class="pillar-list">
+<li>Using a stand mixer fitted with the paddle attachment, beat the cooled browned butter, dark brown sugar, and granulated sugar until smooth and creamy.</li>
+<li>Beat in the dark molasses, then add the eggs one at a time, followed by the vanilla extract, scraping down the bowl as needed.</li>
+</ol>
+
+<h3>5. Combine and Chill</h3>
+
+<ol class="pillar-list">
+<li>Slowly add the dry oat-and-flour mixture to the wet ingredients on low speed, mixing just until combined.</li>
+<li>Gently fold in your plumped, dried raisins.</li>
+<li>Cover the bowl tightly and refrigerate the dough for 1 hour.</li>
+</ol>
+
+<h3>6. Shape the Cookies</h3>
+
+<ol class="pillar-list">
+<li>Preheat your oven to <strong>350°F</strong> and line heavy-duty baking sheets with parchment paper.</li>
+<li>Scoop massive, rugged, uneven mounds of dough using a large cookie scoop. Leave the tops craggy for texture.</li>
+</ol>
+
+<h3>7. Bake</h3>
+
+<ol class="pillar-list">
+<li>Bake for <strong>16 to 20 minutes</strong>. About halfway through, gently rap the baking sheet once against the oven rack to create artisan ripples.</li>
+<li>Watch the edges; when set and matte while the center still yields slightly, pull them out.</li>
+<li>Let the cookies rest on the hot baking sheet for 5–7 minutes before transferring to a wire rack to cool completely.</li>
+</ol>
+
+<figure style="text-align: center; margin: 2rem auto;">
+<img src="../images/Gingerbread-Cookie-Baked.jpg" alt="Freshly baked thick gingerbread oatmeal cookies cooling on a wire rack" class="recipe-image" loading="lazy">
+<figcaption style="font-size: 0.8rem; font-style: italic; color: #666; margin-top: 0.5rem;">Fresh out of the oven — thick, rugged, and deeply spiced.</figcaption>
+</figure>
+
+</section>
+
+<!-- Notes -->
+
+<section class="recipe-section">
+
+<h2>Notes</h2>
+
+<p><strong>The Brown Butter Factor:</strong> Browning the butter toasts the milk solids into a toffee-like backbone that elevates the gingerbread depth.</p>
+
+<p><strong>The 50/50 Flour Balance:</strong> Combining Caputo Traditional and Baking flours provides both structural backbone and tender interior chew.</p>
+
+<p><strong>The Pan-Bang Technique:</strong> Rapping the sheet halfway through baking creates those gorgeous surface wrinkles characteristic of artisan bakery cookies.</p>
+
+</section>
+
+<!-- Story Link -->
+
+<div class="recipe-link-box screen-only">
+
+<h3>Want the story behind the AI experiment?</h3>
+
+<p>
+Read how we put our recipe through an AI Hell's Kitchen quality control audit.
+</p>
+
+<a href="../baking/OGcookies.html">
+Read the story of the Gingerbread Oatmeal Monster →
+</a>
+
 </div>
 
-<div class="recipe-note">
-<strong>A note from our kitchen:</strong> Forged through a rigorous AI quality control audit, these thick half-inch cookies balance deep molasses warmth with a tender crumb thanks to our 50/50 Caputo flour blend and browned butter. Use your own judgment and enjoy every bite!
-</div>
-</div>
+<!-- Recipe Navigation -->
 
-<div class="print-button-container screen-only">
-<button class="print-button" onclick="window.print()">Print Recipe</button>
-</div>
+<div class="post-back screen-only">
+
+<a href="index.html">← Back to Recipes</a>
 
 </div>
 
-<div class="post-back screen-only" style="text-align: center; margin: 2rem 0;">
-<a href="../baking/OGcookies.html">← Back to The Story</a>
 </div>
 
 </main>
