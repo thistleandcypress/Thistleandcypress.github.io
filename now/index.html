@@ -23,45 +23,67 @@
       align-items: center;
       min-height: 100vh;
       font-family: "Source Sans 3", Arial, sans-serif;
+      overflow-x: hidden;
     }
 
-    .link-container {
+    /* Immersive Homepage-Style Header Hero */
+    .link-hero {
       width: 100%;
-      max-width: 520px;
-      padding: 48px 20px 40px;
-      box-sizing: border-box;
-      text-align: center;
+      position: relative;
+      padding: 50px 20px 45px;
       display: flex;
       flex-direction: column;
       align-items: center;
+      text-align: center;
+      color: white;
+      background:
+        linear-gradient(
+          180deg,
+          rgba(22,35,30,.85),
+          rgba(22,35,30,.65)
+        ),
+        url("/Pillar Background Thistle and Cypress About.jpg")
+        center / cover no-repeat;
+      margin-bottom: 30px;
     }
 
     .link-crest {
-      width: 84px;
-      height: 84px;
+      width: 80px;
+      height: 80px;
       object-fit: cover;
       border-radius: 50%;
-      box-shadow: 0 4px 16px rgba(43,38,35,0.12);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.3);
       background: rgba(255,255,255,0.9);
-      padding: 5px;
-      margin-bottom: 18px;
+      padding: 4px;
+      margin-bottom: 16px;
     }
 
-    .link-header h1 {
+    .link-hero h1 {
       font-family: "Playfair Display", Georgia, serif;
-      font-size: 2.1rem;
+      font-size: 2.2rem;
       font-weight: 400;
       letter-spacing: -0.02em;
       margin: 0 0 8px 0;
-      color: #2b2623;
     }
 
-    .link-header p {
+    .link-hero p {
       font-family: "Playfair Display", Georgia, serif;
       font-style: italic;
       font-size: 1.05rem;
-      margin: 0 0 36px 0;
-      color: #5b524c;
+      margin: 0;
+      opacity: 0.95;
+    }
+
+    /* Strict Centered Content Container */
+    .link-container {
+      width: 100%;
+      max-width: 480px;
+      padding: 0 20px 40px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0 auto;
     }
 
     .button-stack {
@@ -69,11 +91,12 @@
       display: flex;
       flex-direction: column;
       gap: 16px;
-      margin-bottom: 40px;
+      margin-bottom: 35px;
     }
 
     .bio-link {
       display: block;
+      width: 100%;
       background-color: #ffffff;
       color: #2b2623;
       text-decoration: none;
@@ -83,25 +106,21 @@
       font-weight: 400;
       font-size: 1.02rem;
       line-height: 1.5;
-      transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+      box-sizing: border-box;
+      text-align: left;
+      transition: transform 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
     }
 
     .bio-link:hover, .bio-link:active {
       transform: translateY(-2px);
-      background-color: #fcfbfa;
-      border-color: #6b4e71;
-    }
-
-    /* Featured top link styling */
-    .bio-link.featured {
-      background-color: #f3efe9;
-      border-color: #c0ccc0;
-      font-weight: 500;
-    }
-
-    .bio-link.featured:hover {
       border-color: #2f5d50;
-      background-color: #f0ebe4;
+      background-color: #ffffff;
+    }
+
+    /* Clean white look for featured link too */
+    .bio-link.featured {
+      background-color: #ffffff;
+      border-left: 4px solid #2f5d50;
     }
 
     .link-meta-tag {
@@ -110,31 +129,33 @@
       font-weight: 700;
       letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: #6b4e71;
+      color: #2f5d50;
       margin-bottom: 6px;
     }
 
-    /* Force footer to match the 520px container width cleanly */
-    .link-container footer,
-    .link-container .site-footer {
+    /* Unshaded Clean Footer wrapper */
+    .link-footer-area {
       width: 100%;
-      max-width: 520px;
-      margin: 0 auto;
-      box-sizing: border-box;
+      max-width: 480px;
+      text-align: center;
+      padding-top: 10px;
+      border-top: 1px solid rgba(47,42,38,0.1);
+      margin-top: auto;
     }
   </style>
 </head>
 
 <body class="link-page">
 
+  <!-- Immersive Editorial Hero Header -->
+  <header class="link-hero">
+    <img src="/about/images/Crest.jpg" alt="Thistle & Cypress Crest" class="link-crest">
+    <h1>Thistle &amp; Cypress</h1>
+    <p>Honoring season, soil and self.</p>
+  </header>
+
   <div class="link-container">
     
-    <header class="link-header">
-      <img src="/Thistle and Cypress Common Roots.PNG" alt="Thistle & Cypress Crest" class="link-crest">
-      <h1>Thistle &amp; Cypress</h1>
-      <p>Honoring season, soil and self.</p>
-    </header>
-
     <main class="button-stack" role="main">
       
       <a href="/kitchen/cooking/CTRecipe.html" class="bio-link featured">
@@ -159,7 +180,9 @@
       
     </main>
 
-    {% include footer.html %}
+    <div class="link-footer-area">
+      {% include footer.html %}
+    </div>
 
   </div>
 
