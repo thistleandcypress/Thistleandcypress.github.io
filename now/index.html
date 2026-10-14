@@ -45,25 +45,14 @@
       margin: 0 auto;
     }
 
-    /* Crest & Header */
-    .link-crest {
-      width: 80px;
-      height: 80px;
-      object-fit: cover;
-      border-radius: 50%;
-      box-shadow: 0 4px 16px rgba(43,38,35,0.12);
-      background: rgba(255,255,255,0.95);
-      padding: 4px;
-      margin-bottom: 18px;
-    }
-
+    /* Header & Central Common Roots Graphic */
     .link-header .eyebrow {
       font-size: 0.78rem;
       letter-spacing: 0.22em;
       text-transform: uppercase;
       color: #6b4e71;
       font-weight: 700;
-      margin-bottom: 8px;
+      margin-bottom: 12px;
     }
 
     .link-header h1 {
@@ -71,8 +60,19 @@
       font-size: clamp(2.3rem, 6vw, 2.8rem);
       font-weight: 400;
       letter-spacing: -0.02em;
-      margin: 0 0 8px 0;
+      margin: 0 0 16px 0;
       color: #2b2623;
+    }
+
+    /* Common Roots graphic replacing the crest: 75% larger (~140px width) */
+    .link-common-roots {
+      width: 140px;
+      height: auto;
+      max-width: 80%;
+      object-fit: contain;
+      display: block;
+      margin: 0 auto 16px auto;
+      filter: drop-shadow(0 2px 8px rgba(43,38,35,0.06));
     }
 
     .link-header .tagline {
@@ -186,9 +186,12 @@
   <div class="link-container">
     
     <header class="link-header">
-      <img src="/about/images/Crest.jpg" alt="Thistle & Cypress Crest" class="link-crest">
       <div class="eyebrow">Season · Soil · Self</div>
       <h1>Thistle &amp; Cypress</h1>
+      
+      <!-- Intertwined Common Roots Graphic placed centrally -->
+      <img src="/Thistle and Cypress Common Roots.PNG" alt="Thistle and Cypress Intertwined Roots" class="link-common-roots">
+      
       <p class="tagline">Honoring season, soil and self.</p>
     </header>
 
