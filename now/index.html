@@ -9,61 +9,119 @@
    
   <meta name="robots" content="noindex, follow">
   
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+3:wght@300;400;500&display=swap">
   <link rel="stylesheet" href="/style.css">
   
   <style>
     body.link-page {
       background-color: #faf8f5;
-      color: #333333;
+      color: #2f2a26;
       margin: 0;
       padding: 0;
       display: flex;
       flex-direction: column;
       align-items: center;
       min-height: 100vh;
+      font-family: "Source Sans 3", Arial, sans-serif;
     }
+
     .link-container {
       width: 100%;
-      max-width: 480px;
-      padding: 40px 20px;
+      max-width: 520px;
+      padding: 48px 20px 40px;
       box-sizing: border-box;
       text-align: center;
-    }
-    .link-header h1 {
-      font-size: 1.8rem;
-      margin-bottom: 5px;
-    }
-    .link-header p {
-      font-style: italic;
-      font-size: 0.95rem;
-      margin-bottom: 30px;
-      opacity: 0.8;
-    }
-    .button-stack {
       display: flex;
       flex-direction: column;
-      gap: 16px; /* Perfect breathing room between tap targets */
+      align-items: center;
+    }
+
+    .link-crest {
+      width: 84px;
+      height: 84px;
+      object-fit: cover;
+      border-radius: 50%;
+      box-shadow: 0 4px 16px rgba(43,38,35,0.12);
+      background: rgba(255,255,255,0.9);
+      padding: 5px;
+      margin-bottom: 18px;
+    }
+
+    .link-header h1 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 2.1rem;
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      margin: 0 0 8px 0;
+      color: #2b2623;
+    }
+
+    .link-header p {
+      font-family: "Playfair Display", Georgia, serif;
+      font-style: italic;
+      font-size: 1.05rem;
+      margin: 0 0 36px 0;
+      color: #5b524c;
+    }
+
+    .button-stack {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
       margin-bottom: 40px;
     }
+
     .bio-link {
       display: block;
-      background-color: #ffffff; /* Clean white buttons against the cream background */
-      color: #333333;
+      background-color: #ffffff;
+      color: #2b2623;
       text-decoration: none;
-      padding: 18px 20px; /* Generous padding for easy thumb-tapping */
-      border: 1px solid #e6e1da;
-      border-radius: 4px;
-      font-weight: 500;
-      transition: all 0.2s ease;
+      padding: 20px 22px;
+      border: 1px solid rgba(47,42,38,0.12);
+      border-radius: 6px;
+      font-weight: 400;
+      font-size: 1.02rem;
+      line-height: 1.5;
+      box-shadow: 0 2px 8px rgba(43,38,35,0.03);
+      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
     }
+
     .bio-link:hover, .bio-link:active {
-      background-color: #f4f0ea;
-      border-color: #cbc4b9;
+      transform: translateY(-2px);
+      background-color: #ffffff;
+      border-color: #6b4e71;
+      box-shadow: 0 6px 20px rgba(43,38,35,0.08);
     }
-    .link-footer {
-      font-size: 0.8rem;
-      opacity: 0.6;
+
+    /* Featured top link styling for new stories/recipes */
+    .bio-link.featured {
+      background-color: #f3efe9;
+      border-color: #c9d2c3;
+      font-weight: 500;
+    }
+
+    .bio-link.featured:hover {
+      border-color: #2f5d50;
+    }
+
+    .link-meta-tag {
+      display: block;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #6b4e71;
+      margin-bottom: 6px;
+    }
+
+    .link-footer-brand {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 0.95rem;
+      font-style: italic;
+      color: #7a716a;
       margin-top: auto;
+      margin-bottom: 20px;
     }
   </style>
 </head>
@@ -72,31 +130,39 @@
 
   <div class="link-container">
     
-    <header class="link-header" style="text-align: center; padding-top: 20px;">
-      <img src="/Thistle and Cypress Common Roots.PNG" alt="Thistle & Cypress Logo" width="140" style="display: block; margin: 0 auto 10px auto;">
-      <h1 style="font-size: 1.6rem; margin: 0 0 5px 0;">Thistle & Cypress</h1>
-      <p style="font-style: italic; font-size: 0.9rem; margin: 0 0 25px 0; opacity: 0.8;">Rhythms for a seasonal, home-centered life.</p>
+    <header class="link-header">
+      <img src="/Thistle and Cypress Common Roots.PNG" alt="Thistle & Cypress Crest" class="link-crest">
+      <h1>Thistle &amp; Cypress</h1>
+      <p>Honoring season, soil and self[cite: 3].</p>
     </header>
 
     <main class="button-stack" role="main">
       
-      <a href="/craft/creative-tools/GR.html" class="bio-link">
-        See how we used AI to amp up our Fall Spice Oatmeal Raisin cookies
+      <a href="/kitchen/cooking/CTRecipe.html" class="bio-link featured">
+        <span class="link-meta-tag">Latest Recipe &amp; Story</span>
+        Explore the Rustic Harvest Chicken Braise &amp; Our Fall Kitchen Rhythms
       </a>
-      
+
       <a href="/kitchen/baking/sorc.html" class="bio-link">
-       Read about our new mash up and explore the recipe: Fall Spice Oatmeal Raisin Cookies
+        <span class="link-meta-tag">In the Kitchen</span>
+        Fall Spice Oatmeal Raisin Cookies: The Backstory &amp; Recipe[cite: 4]
       </a>
       
-      <a href="mailto:thistleandcypress@gmail.com?subject=Please sign me up!" class="bio-link">
-        Join our mailing list to receive updates
+      <a href="mailto:thistleandcypress@gmail.com?subject=Please%20add%20me%20to%20Thistle%20%26%20Cypress%20updates&amp;body=Hello!%20I'd%20like%20to%20receive%20updates%20from%20Thistle%20%26%20Cypress." class="bio-link">
+        <span class="link-meta-tag">Stay Rooted</span>
+        Join our quiet mailing list for new work
       </a>
       
       <a href="/" class="bio-link">
-        Visit the Homepage
+        <span class="link-meta-tag">Home</span>
+        Visit the Full Thistle &amp; Cypress Website
       </a>
       
     </main>
+
+    <div class="link-footer-brand">
+      Scottish resilience. Italian abundance. Ten wooded acres.[cite: 3]
+    </div>
 
     {% include footer.html %}
 
