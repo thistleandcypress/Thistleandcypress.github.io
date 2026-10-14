@@ -35,15 +35,17 @@
       overflow-x: hidden;
     }
 
+    /* Strict Centered Column for All Stack Elements */
     .link-container {
       width: 100%;
-      max-width: 500px;
+      max-width: 480px;
       padding: 50px 20px 40px;
       box-sizing: border-box;
       display: flex;
       flex-direction: column;
       align-items: center;
       text-align: center;
+      margin: 0 auto;
     }
 
     /* Crest & Header */
@@ -97,7 +99,7 @@
     .bio-link {
       display: block;
       width: 100%;
-      background-color: rgba(255, 255, 255, 0.92);
+      background-color: rgba(255, 255, 255, 0.94);
       backdrop-filter: blur(8px);
       color: #2f2a26;
       text-decoration: none;
@@ -129,39 +131,56 @@
       margin-bottom: 4px;
     }
 
-    /* Editorial Brand Signature above Footer */
+    /* Editorial Brand Signature */
     .link-brand-signature {
       font-family: "Playfair Display", Georgia, serif;
       font-style: italic;
-      font-size: 0.95rem;
-      color: rgba(255, 255, 255, 0.9);
-      margin-bottom: 30px;
+      font-size: 0.98rem;
+      color: rgba(255, 255, 255, 0.95);
+      margin-bottom: 25px;
       letter-spacing: 0.02em;
+      text-shadow: 0 1px 4px rgba(0,0,0,0.3);
     }
 
-    /* Footer Container matching Button Cards with White Text Overrides */
+    /* Seamless Borderless White Footer Styling */
     .link-footer-area {
       width: 100%;
-      background-color: rgba(255, 255, 255, 0.12);
-      backdrop-filter: blur(10px);
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      border-radius: 8px;
-      padding: 20px 15px;
-      box-sizing: border-box;
-      color: #ffffff !important;
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+      padding: 10px 0 0 0;
+      margin: 0 auto;
     }
 
     .link-footer-area footer,
+    .link-footer-area .footer-inner,
+    .link-footer-area div {
+      background: transparent !important;
+      background-color: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      width: 100% !important;
+    }
+
+    .link-footer-area,
     .link-footer-area p,
     .link-footer-area span,
-    .link-footer-area a {
+    .link-footer-area div {
       color: #ffffff !important;
-      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+      font-size: 0.85rem !important;
+      line-height: 1.6 !important;
+      text-shadow: 0 1px 4px rgba(0,0,0,0.5) !important;
+      opacity: 0.92;
     }
 
     .link-footer-area a {
-      text-decoration: underline;
-      text-underline-offset: 3px;
+      color: #ffffff !important;
+      font-weight: 500 !important;
+      text-decoration: underline !important;
+      text-underline-offset: 3px !important;
+      text-shadow: 0 1px 4px rgba(0,0,0,0.5) !important;
     }
 
     .link-footer-area a:hover {
@@ -193,27 +212,4 @@
         Fall Spice Oatmeal Raisin Cookies: The Backstory &amp; Recipe
       </a>
       
-      <a href="mailto:thistleandcypress@gmail.com?subject=Please%20add%20me%20to%20Thistle%20%26%20Cypress%20updates&amp;body=Hello!%20I'd%20like%20to%20receive%20updates%20from%20Thistle%20%26%20Cypress." class="bio-link">
-        <span class="link-meta-tag">Stay Rooted</span>
-        Join our quiet mailing list for new work
-      </a>
-      
-      <a href="/" class="bio-link">
-        <span class="link-meta-tag">Home</span>
-        Visit the Full Thistle &amp; Cypress Website
-      </a>
-      
-    </main>
-
-    <div class="link-brand-signature">
-      Scottish resilience. Italian abundance. Ten wooded acres.
-    </div>
-
-    <div class="link-footer-area">
-      {% include footer.html %}
-    </div>
-
-  </div>
-
-</body>
-</html>
+      <a href="mailto:thistleand
