@@ -3116,7 +3116,9 @@ body.recipe-page .hero .tagline { max-width:700px; }
   }
 }
 
-/* Ensure recipe and story section paragraphs expand to the full section width */
+/* Ensure full width across all article, story, kitchen, garden, craft, and recipe text paragraphs */
+main.post-content p,
+.post-content article p,
 .content-section p,
 .recipe-section p {
   max-width: 100%;
