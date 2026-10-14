@@ -13,21 +13,19 @@
   <link rel="stylesheet" href="/style.css">
   
   <style>
-    /* Clean, Vibrant Background matching the Homepage Hero */
+    /* Clean Botanical Background with Framed Ends */
     body.link-page {
       margin: 0;
       padding: 0;
       min-height: 100vh;
       font-family: "Source Sans 3", Arial, sans-serif;
       color: #2b2623;
-      background:
-        linear-gradient(
-          to bottom,
-          rgba(255, 255, 255, 0.45),
-          rgba(255, 255, 255, 0.30)
-        ),
-        url("/Pillar Background Thistle and Cypress About.jpg")
-        center / cover no-repeat fixed;
+      background-color: #faf8f5;
+      background-image: url("/Pillar Background Thistle and Cypress at ends.jpg");
+      background-position: center top;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -38,7 +36,7 @@
     .link-container {
       width: 100%;
       max-width: 480px;
-      padding: 50px 20px 40px;
+      padding: 45px 20px 40px;
       box-sizing: border-box;
       display: flex;
       flex-direction: column;
@@ -53,14 +51,14 @@
       height: 80px;
       object-fit: cover;
       border-radius: 50%;
-      box-shadow: 0 4px 16px rgba(43,38,35,0.15);
+      box-shadow: 0 4px 16px rgba(43,38,35,0.12);
       background: rgba(255,255,255,0.95);
       padding: 4px;
-      margin-bottom: 20px;
+      margin-bottom: 18px;
     }
 
     .link-header .eyebrow {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       letter-spacing: 0.22em;
       text-transform: uppercase;
       color: #6b4e71;
@@ -70,18 +68,18 @@
 
     .link-header h1 {
       font-family: "Playfair Display", Georgia, serif;
-      font-size: clamp(2.4rem, 6vw, 3rem);
+      font-size: clamp(2.3rem, 6vw, 2.8rem);
       font-weight: 400;
       letter-spacing: -0.02em;
-      margin: 0 0 10px 0;
+      margin: 0 0 8px 0;
       color: #2b2623;
     }
 
     .link-header .tagline {
       font-family: "Playfair Display", Georgia, serif;
       font-style: italic;
-      font-size: 1.1rem;
-      margin: 0 0 32px 0;
+      font-size: 1.08rem;
+      margin: 0 0 30px 0;
       color: #4a423d;
     }
 
@@ -91,33 +89,32 @@
       display: flex;
       flex-direction: column;
       gap: 16px;
-      margin-bottom: 35px;
+      margin-bottom: 30px;
     }
 
     .bio-link {
       display: block;
       width: 100%;
-      background-color: rgba(255, 255, 255, 0.92);
-      backdrop-filter: blur(8px);
+      background-color: rgba(255, 255, 255, 0.94);
       color: #2b2623;
       text-decoration: none;
       padding: 18px 22px;
-      border: 1px solid rgba(47, 42, 38, 0.12);
+      border: 1px solid rgba(47, 42, 38, 0.15);
       border-radius: 8px;
       font-weight: 400;
       font-size: 1.02rem;
       line-height: 1.5;
       box-sizing: border-box;
       text-align: left;
-      box-shadow: 0 4px 16px rgba(43,38,35,0.06);
-      transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+      box-shadow: 0 3px 12px rgba(43,38,35,0.05);
+      transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
     }
 
     .bio-link:hover, .bio-link:active {
       transform: translateY(-2px);
       background-color: #ffffff;
       border-color: #2f5d50;
-      box-shadow: 0 8px 20px rgba(43,38,35,0.12);
+      box-shadow: 0 8px 20px rgba(43,38,35,0.1);
     }
 
     .link-meta-tag {
@@ -135,8 +132,8 @@
       font-family: "Playfair Display", Georgia, serif;
       font-style: italic;
       font-size: 0.98rem;
-      color: #4a423d;
-      margin-bottom: 25px;
+      color: #5b524c;
+      margin-bottom: 22px;
       letter-spacing: 0.02em;
     }
 
@@ -146,7 +143,7 @@
       background: transparent !important;
       border: none !important;
       box-shadow: none !important;
-      padding: 10px 0 0 0;
+      padding: 0;
       margin: 0 auto;
     }
 
@@ -166,7 +163,7 @@
     .link-footer-area p,
     .link-footer-area span,
     .link-footer-area div {
-      color: #4a423d !important;
+      color: #5b524c !important;
       font-size: 0.85rem !important;
       line-height: 1.6 !important;
     }
