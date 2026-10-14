@@ -78,31 +78,30 @@
       color: #2b2623;
       text-decoration: none;
       padding: 20px 22px;
-      border: 1px solid rgba(47,42,38,0.12);
+      border: 1px solid rgba(47,42,38,0.15);
       border-radius: 6px;
       font-weight: 400;
       font-size: 1.02rem;
       line-height: 1.5;
-      box-shadow: 0 2px 8px rgba(43,38,35,0.03);
-      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+      transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
     }
 
     .bio-link:hover, .bio-link:active {
       transform: translateY(-2px);
-      background-color: #ffffff;
+      background-color: #fcfbfa;
       border-color: #6b4e71;
-      box-shadow: 0 6px 20px rgba(43,38,35,0.08);
     }
 
-    /* Featured top link styling for new stories/recipes */
+    /* Featured top link styling */
     .bio-link.featured {
       background-color: #f3efe9;
-      border-color: #c9d2c3;
+      border-color: #c0ccc0;
       font-weight: 500;
     }
 
     .bio-link.featured:hover {
       border-color: #2f5d50;
+      background-color: #f0ebe4;
     }
 
     .link-meta-tag {
@@ -115,13 +114,13 @@
       margin-bottom: 6px;
     }
 
-    .link-footer-brand {
-      font-family: "Playfair Display", Georgia, serif;
-      font-size: 0.95rem;
-      font-style: italic;
-      color: #7a716a;
-      margin-top: auto;
-      margin-bottom: 20px;
+    /* Force footer to match the 520px container width cleanly */
+    .link-container footer,
+    .link-container .site-footer {
+      width: 100%;
+      max-width: 520px;
+      margin: 0 auto;
+      box-sizing: border-box;
     }
   </style>
 </head>
@@ -133,7 +132,7 @@
     <header class="link-header">
       <img src="/Thistle and Cypress Common Roots.PNG" alt="Thistle & Cypress Crest" class="link-crest">
       <h1>Thistle &amp; Cypress</h1>
-      <p>Honoring season, soil and self[cite: 3].</p>
+      <p>Honoring season, soil and self.</p>
     </header>
 
     <main class="button-stack" role="main">
@@ -145,7 +144,7 @@
 
       <a href="/kitchen/baking/sorc.html" class="bio-link">
         <span class="link-meta-tag">In the Kitchen</span>
-        Fall Spice Oatmeal Raisin Cookies: The Backstory &amp; Recipe[cite: 4]
+        Fall Spice Oatmeal Raisin Cookies: The Backstory &amp; Recipe
       </a>
       
       <a href="mailto:thistleandcypress@gmail.com?subject=Please%20add%20me%20to%20Thistle%20%26%20Cypress%20updates&amp;body=Hello!%20I'd%20like%20to%20receive%20updates%20from%20Thistle%20%26%20Cypress." class="bio-link">
@@ -159,10 +158,6 @@
       </a>
       
     </main>
-
-    <div class="link-footer-brand">
-      Scottish resilience. Italian abundance. Ten wooded acres.[cite: 3]
-    </div>
 
     {% include footer.html %}
 
