@@ -3115,3 +3115,9 @@ body.recipe-page .hero .tagline { max-width:700px; }
     display: none !important;
   }
 }
+
+/* Ensure recipe and story section paragraphs expand to the full section width */
+.content-section p,
+.recipe-section p {
+  max-width: 100%;
+}
