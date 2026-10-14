@@ -16,7 +16,7 @@
 
   <meta property="og:title" content="Rustic Harvest Chicken Braise: An Evolution in One-Pot Cooking – Thistle & Cypress">
   <meta property="og:description" content="How a classic dinner party favorite evolved into our favorite cozy one-pot braise in the Le Creuset braiser.">
-  <meta property="og:image" content="https://thistleandcypress.com/kitchen/images/chicken-braise-story.jpg">
+  <meta property="og:image" content="https://thistleandcypress.com/kitchen/images/braise1.jpg">
   <meta property="og:url" content="https://thistleandcypress.com/kitchen/cooking/CTStory.html">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Thistle & Cypress">
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Rustic Harvest Chicken Braise: An Evolution in One-Pot Cooking – Thistle & Cypress">
   <meta name="twitter:description" content="How a classic dinner party favorite evolved into our favorite cozy one-pot braise in the Le Creuset braiser.">
-  <meta name="twitter:image" content="https://thistleandcypress.com/kitchen/images/chicken-braise-story.jpg">
+  <meta name="twitter:image" content="https://thistleandcypress.com/kitchen/images/braise1.jpg">
 
   <link rel="icon" type="image/jpeg" href="../../Favicon.jpg">
   <link rel="stylesheet" href="../../style.css">
@@ -35,7 +35,7 @@
     "@type": "BlogPosting",
     "headline": "Rustic Harvest Chicken Braise: An Evolution in One-Pot Cooking",
     "description": "The story behind our rustic chicken braise: turning a classic 80s dinner party favorite into a cozy, root-vegetable-loaded weeknight standard.",
-    "image": "https://thistleandcypress.com/kitchen/images/chicken-braise-story.jpg",
+    "image": "https://thistleandcypress.com/kitchen/images/braise1.jpg",
     "url": "https://thistleandcypress.com/kitchen/cooking/CTStory.html",
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -98,15 +98,7 @@
 
 <body class="kitchen-page">
 
-  <header class="hero" role="banner">
-    <div class="hero-inner">
-      <p class="eyebrow">Kitchen · Cooking</p>
-      <h1>Rustic Harvest Chicken Braise</h1>
-      <p class="tagline">An evolution in one-pot cooking—turning a classic dinner party favorite into a cozy evening standard.</p>
-      <div class="header-divider"></div>
-    </div>
-  </header>
-
+  <!-- Primary Navigation First -->
   <nav role="navigation" aria-label="Primary navigation">
     <a href="/">Home</a>
     <a href="/about.html">About</a>
@@ -123,9 +115,18 @@
     <a href="./" class="active" aria-current="page">Cooking</a>
     <a href="../essential-tools/">Essential Tools</a>
     <a href="../new-finds/">New Finds</a>
-    <a href="../recipe/">Recipes</a>
     <a href="../tips-tricks/">Tips &amp; Tricks</a>
   </nav>
+
+  <!-- Hero Header Under Navigation -->
+  <header class="hero" role="banner">
+    <div class="hero-inner">
+      <p class="eyebrow">Kitchen · Cooking</p>
+      <h1>Rustic Harvest Chicken Braise</h1>
+      <p class="tagline">An evolution in one-pot cooking—turning a classic dinner party favorite into a cozy evening standard.</p>
+      <div class="header-divider"></div>
+    </div>
+  </header>
 
   <main role="main">
 
@@ -143,13 +144,17 @@
         That is the beauty of home cooking: formulas adapt to what is in the pantry, what the season demands, and what feels right when the sun goes down.
       </p>
 
-      <figure class="story-figure">
+      <!-- Figure resized to 50% max-width and centered -->
+      <figure class="story-figure" style="max-width: 50%; margin: 2rem auto; text-align: center;">
         <img
           src="../images/braise1.jpg"
           alt="Golden braised chicken thighs with root vegetables in our Le Creuset round braiser"
+          style="width: 100%; height: auto; display: block; border-radius: 4px;"
           loading="eager"
           decoding="async">
-        <figcaption>The Rustic Harvest Braise: bubbling away in the wide enameled cast-iron braiser.</figcaption>
+        <figcaption style="font-size: 0.85rem; font-style: italic; color: #666; margin-top: 0.5rem; text-align: center;">
+          The Rustic Harvest Braise: bubbling away in the wide enameled cast-iron braiser.
+        </figcaption>
       </figure>
 
       <h2>The Geometry of a Great Braise</h2>
@@ -198,6 +203,7 @@
         It is comforting to know that recipes do not have to arrive fully formed from a cookbook. Sometimes they evolve right on your own stovetop, one substitution and one happy accident at a time.
       </p>
 
+      <!-- Recipe Link Box controlled by CSS stylesheet -->
       <div class="recipe-link-box">
         <p>
           <strong>Ready to bring this to your table?</strong><br>
@@ -210,10 +216,3 @@
     <nav class="post-back" aria-label="Page navigation">
       <a href="./">← Back to Cooking</a>
     </nav>
-
-  </main>
-
-  {% include footer.html %}
-
-</body>
-</html>
