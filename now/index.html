@@ -9,83 +9,83 @@
    
   <meta name="robots" content="noindex, follow">
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+3:wght@300;400;500&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+3:wght@300;400;500;600&display=swap">
   <link rel="stylesheet" href="/style.css">
   
   <style>
+    /* Full Page Immersive Background matching the Homepage Hero */
     body.link-page {
-      background-color: #faf8f5;
-      color: #2f2a26;
       margin: 0;
       padding: 0;
+      min-height: 100vh;
+      font-family: "Source Sans 3", Arial, sans-serif;
+      color: #ffffff;
+      background:
+        linear-gradient(
+          180deg,
+          rgba(22,35,30,.82),
+          rgba(22,35,30,.70) 50%,
+          rgba(22,35,30,.88)
+        ),
+        url("/Pillar Background Thistle and Cypress About.jpg")
+        center / cover no-repeat fixed;
       display: flex;
       flex-direction: column;
       align-items: center;
-      min-height: 100vh;
-      font-family: "Source Sans 3", Arial, sans-serif;
       overflow-x: hidden;
     }
 
-    /* Immersive Homepage-Style Header Hero */
-    .link-hero {
+    .link-container {
       width: 100%;
-      position: relative;
-      padding: 50px 20px 45px;
+      max-width: 500px;
+      padding: 50px 20px 40px;
+      box-sizing: border-box;
       display: flex;
       flex-direction: column;
       align-items: center;
       text-align: center;
-      color: white;
-      background:
-        linear-gradient(
-          180deg,
-          rgba(22,35,30,.85),
-          rgba(22,35,30,.65)
-        ),
-        url("/Pillar Background Thistle and Cypress About.jpg")
-        center / cover no-repeat;
-      margin-bottom: 30px;
     }
 
+    /* Crest & Header */
     .link-crest {
       width: 80px;
       height: 80px;
       object-fit: cover;
       border-radius: 50%;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.3);
-      background: rgba(255,255,255,0.9);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+      background: rgba(255,255,255,0.95);
       padding: 4px;
-      margin-bottom: 16px;
+      margin-bottom: 20px;
     }
 
-    .link-hero h1 {
+    .link-header .eyebrow {
+      font-size: 0.8rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 8px;
+    }
+
+    .link-header h1 {
       font-family: "Playfair Display", Georgia, serif;
-      font-size: 2.2rem;
+      font-size: clamp(2.4rem, 6vw, 3rem);
       font-weight: 400;
       letter-spacing: -0.02em;
-      margin: 0 0 8px 0;
+      margin: 0 0 10px 0;
+      color: #ffffff;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
     }
 
-    .link-hero p {
+    .link-header .tagline {
       font-family: "Playfair Display", Georgia, serif;
       font-style: italic;
-      font-size: 1.05rem;
-      margin: 0;
-      opacity: 0.95;
+      font-size: 1.1rem;
+      margin: 0 0 32px 0;
+      color: rgba(255,255,255,0.95);
+      text-shadow: 0 1px 4px rgba(0,0,0,0.2);
     }
 
-    /* Strict Centered Content Container */
-    .link-container {
-      width: 100%;
-      max-width: 480px;
-      padding: 0 20px 40px;
-      box-sizing: border-box;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin: 0 auto;
-    }
-
+    /* Unified Button Stack */
     .button-stack {
       width: 100%;
       display: flex;
@@ -97,30 +97,26 @@
     .bio-link {
       display: block;
       width: 100%;
-      background-color: #ffffff;
-      color: #2b2623;
+      background-color: rgba(255, 255, 255, 0.92);
+      backdrop-filter: blur(8px);
+      color: #2f2a26;
       text-decoration: none;
-      padding: 20px 22px;
-      border: 1px solid rgba(47,42,38,0.15);
-      border-radius: 6px;
+      padding: 18px 22px;
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      border-radius: 8px;
       font-weight: 400;
       font-size: 1.02rem;
       line-height: 1.5;
       box-sizing: border-box;
       text-align: left;
-      transition: transform 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
     }
 
     .bio-link:hover, .bio-link:active {
       transform: translateY(-2px);
-      border-color: #2f5d50;
       background-color: #ffffff;
-    }
-
-    /* Clean white look for featured link too */
-    .bio-link.featured {
-      background-color: #ffffff;
-      border-left: 4px solid #2f5d50;
+      box-shadow: 0 8px 25px rgba(0,0,0,0.25);
     }
 
     .link-meta-tag {
@@ -130,35 +126,64 @@
       letter-spacing: 0.15em;
       text-transform: uppercase;
       color: #2f5d50;
-      margin-bottom: 6px;
+      margin-bottom: 4px;
     }
 
-    /* Unshaded Clean Footer wrapper */
+    /* Editorial Brand Signature above Footer */
+    .link-brand-signature {
+      font-family: "Playfair Display", Georgia, serif;
+      font-style: italic;
+      font-size: 0.95rem;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 30px;
+      letter-spacing: 0.02em;
+    }
+
+    /* Footer Container matching Button Cards with White Text Overrides */
     .link-footer-area {
       width: 100%;
-      max-width: 480px;
-      text-align: center;
-      padding-top: 10px;
-      border-top: 1px solid rgba(47,42,38,0.1);
-      margin-top: auto;
+      background-color: rgba(255, 255, 255, 0.12);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 8px;
+      padding: 20px 15px;
+      box-sizing: border-box;
+      color: #ffffff !important;
+    }
+
+    .link-footer-area footer,
+    .link-footer-area p,
+    .link-footer-area span,
+    .link-footer-area a {
+      color: #ffffff !important;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .link-footer-area a {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    .link-footer-area a:hover {
+      color: #9fb7a6 !important;
     }
   </style>
 </head>
 
 <body class="link-page">
 
-  <!-- Immersive Editorial Hero Header -->
-  <header class="link-hero">
-    <img src="/about/images/Crest.jpg" alt="Thistle & Cypress Crest" class="link-crest">
-    <h1>Thistle &amp; Cypress</h1>
-    <p>Honoring season, soil and self.</p>
-  </header>
-
   <div class="link-container">
     
+    <header class="link-header">
+      <img src="/about/images/Crest.jpg" alt="Thistle & Cypress Crest" class="link-crest">
+      <div class="eyebrow">Season · Soil · Self</div>
+      <h1>Thistle &amp; Cypress</h1>
+      <p class="tagline">Honoring season, soil and self.</p>
+    </header>
+
     <main class="button-stack" role="main">
       
-      <a href="/kitchen/cooking/CTRecipe.html" class="bio-link featured">
+      <a href="/kitchen/cooking/CTRecipe.html" class="bio-link">
         <span class="link-meta-tag">Latest Recipe &amp; Story</span>
         Explore the Rustic Harvest Chicken Braise &amp; Our Fall Kitchen Rhythms
       </a>
@@ -179,6 +204,10 @@
       </a>
       
     </main>
+
+    <div class="link-brand-signature">
+      Scottish resilience. Italian abundance. Ten wooded acres.
+    </div>
 
     <div class="link-footer-area">
       {% include footer.html %}
